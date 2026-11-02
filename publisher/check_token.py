@@ -34,3 +34,26 @@ else:
     # 게시 한도 조회가 성공했다면 instagram_content_publish 권한이 있는 것
     print("게시 권한: 확인됨 (content_publishing_limit 조회 성공)")
 print("✅ 토큰 점검 통과")
+
+# ---- 스레드 토큰 (60일 만료 → 매주 연장) ----
+th = os.environ.get("THREADS_ACCESS_TOKEN")
+if th:
+    def tget(path, **q):
+        q["access_token"] = th
+        try:
+            with urllib.request.urlopen(f"https://graph.threads.net/{path}?" + urllib.parse.urlencode(q), timeout=60) as r:
+                return json.loads(r.read())
+        except urllib.error.HTTPError as e:
+            raise SystemExit(f"스레드 오류 {e.code}: {e.read().decode(errors='replace')}")
+    me = tget("v1.0/me", fields="id,username")
+    print("스레드 계정:", me.get("username"), "| id:", me.get("id"))
+    r = tget("refresh_access_token", grant_type="th_refresh_token")
+    print(f"스레드 토큰 연장: 약 {int(r.get('expires_in', 0)) // 86400}일 유효")
+    new = r.get("access_token")
+    if new and new != th:
+        if os.environ.get("GH_TOKEN"):
+            subprocess.run(["gh", "secret", "set", "THREADS_ACCESS_TOKEN", "--body", new], check=True)
+            print("새 스레드 토큰을 GitHub Secret에 저장했습니다.")
+        else:
+            print("ℹ️ 새 스레드 토큰 문자열이 발급됐지만 GH_PAT가 없어 교체하지 않았습니다(기존 토큰도 연장됨).")
+    print("✅ 스레드 토큰 점검 통과")

@@ -35,6 +35,16 @@ def caption(d):
             f"※ {d['universe']}\n\n"
             f"{HASHTAGS[d['market']]} {names}")
 
+def threads_text(d):
+    """스레드는 본문 500자 제한 → 짧은 버전"""
+    head = d["cover"]["title"].replace("\n", " ")
+    up = "\n".join(f"▲ {s['name']} {s['chg']}" for s in d["up"])
+    dn = "\n".join(f"▼ {s['name']} {s['chg']}" for s in d["down"])
+    t = (f"{head}\n\n{d['date']} · {d['cover']['sub']}\n\n{up}\n{dn}\n\n"
+         f"💡 {d['takeaway']}\n\n오른 이유·내린 이유는 카드에서 👉\n"
+         f"※ 정보 제공 목적, 투자 권유 아님")
+    return t[:500]
+
 def main(data_path):
     d = json.loads(pathlib.Path(data_path).read_text())
     pid = pathlib.Path(data_path).stem                      # 예: us_2026-10-30
@@ -54,6 +64,7 @@ def main(data_path):
     cap = caption(d)
     if "caption" in d: cap = d["caption"]                  # 원고에 직접 쓴 캡션이 있으면 우선
     (out / "caption.txt").write_text(cap)
+    (out / "threads.txt").write_text(threads_text(d))
     (out / "post.json").write_text(json.dumps({
         "id": pid, "cards": cards, "reel": "reel.mp4",
         "reel_share_to_feed": False,                       # 피드엔 카드뉴스만, 릴스는 릴스 탭에만

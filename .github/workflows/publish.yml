@@ -57,6 +57,17 @@ jobs:
             fi
           done
 
+      - name: 스레드 게시
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        continue-on-error: true
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: |
+          for f in ${{ steps.find.outputs.folders }}; do
+            python publisher/threads.py "$f"
+          done
+
       - name: 게시 기록 저장 (중복 게시 방지)
         run: |
           git config user.name "stockwhy-bot"
