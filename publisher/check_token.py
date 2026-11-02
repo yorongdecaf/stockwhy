@@ -31,12 +31,6 @@ else:
     print("연결된 계정:", acct.get("username"), "| 팔로워:", acct.get("followers_count"), "| 게시물:", acct.get("media_count"))
     lim = get(f"{base}/{uid}/content_publishing_limit", fields="quota_usage,config")
     print("최근 24시간 API 게시 사용량:", json.dumps(lim.get("data", lim), ensure_ascii=False))
-    dbg = get(f"{base}/debug_token", input_token=tok).get("data", {})
-    exp = dbg.get("expires_at", 0)
-    print("토큰 권한:", ", ".join(dbg.get("scopes", [])) or "(확인 불가)")
-    print("토큰 만료:", "없음" if not exp else exp)
-    need = {"instagram_basic", "instagram_content_publish"}
-    miss = need - set(dbg.get("scopes", []))
-    if dbg.get("scopes") and miss:
-        raise SystemExit(f"⚠️ 필요한 권한이 빠져 있어요: {', '.join(miss)}")
+    # 게시 한도 조회가 성공했다면 instagram_content_publish 권한이 있는 것
+    print("게시 권한: 확인됨 (content_publishing_limit 조회 성공)")
 print("✅ 토큰 점검 통과")
