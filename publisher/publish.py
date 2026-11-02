@@ -6,7 +6,12 @@
 """
 import json, os, sys, time, pathlib, urllib.parse, urllib.request
 
-API = "https://graph.instagram.com/" + os.environ.get("IG_API_VERSION", "v23.0")
+# 토큰 종류에 따라 접속 주소 자동 선택
+#  - EAA... : 페이스북(통합 로그인/시스템 사용자) 토큰 → graph.facebook.com
+#  - IG...  : 인스타그램 로그인 토큰 → graph.instagram.com
+_TOK = os.environ.get("IG_ACCESS_TOKEN", "")
+HOST = "graph.instagram.com" if _TOK.startswith("IG") else "graph.facebook.com"
+API = f"https://{HOST}/" + os.environ.get("IG_API_VERSION", "v23.0")
 
 def call(method, path, **params):
     params["access_token"] = os.environ["IG_ACCESS_TOKEN"]

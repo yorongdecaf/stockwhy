@@ -17,5 +17,6 @@ jobs:
       - name: 토큰 확인 및 갱신
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: python publisher/check_token.py

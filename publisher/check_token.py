@@ -1,27 +1,42 @@
-"""토큰 확인 + 갱신 (60일 만료 토큰을 연장)
-- 계정 정보를 조회해 토큰이 살아있는지 확인하고
-- refresh_access_token으로 만료일을 다시 60일로 늘린다.
-  (새 토큰 문자열이 다르면 GH_PAT가 있을 때 GitHub Secret을 자동 교체)
+"""토큰 점검 (게시 없이 연결만 확인)
+- 시스템 사용자 토큰(EAA...): 만료 없음 → 계정 조회 + 게시 한도 확인
+- 인스타그램 로그인 토큰(IG...): 계정 조회 + 60일 연장(refresh)
 """
 import json, os, subprocess, urllib.parse, urllib.request
 
 tok = os.environ["IG_ACCESS_TOKEN"]
+uid = os.environ.get("IG_USER_ID", "")
 
-def get(url):
-    with urllib.request.urlopen(url, timeout=60) as r: return json.loads(r.read())
+def get(url, **q):
+    q["access_token"] = tok
+    try:
+        with urllib.request.urlopen(url + "?" + urllib.parse.urlencode(q), timeout=60) as r:
+            return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        raise SystemExit(f"오류 {e.code}: {e.read().decode(errors='replace')}")
 
-me = get("https://graph.instagram.com/me?" + urllib.parse.urlencode(
-    {"fields": "user_id,username,account_type", "access_token": tok}))
-print("연결된 계정:", me.get("username"), "| 유형:", me.get("account_type"), "| user_id:", me.get("user_id"))
-
-r = get("https://graph.instagram.com/refresh_access_token?" + urllib.parse.urlencode(
-    {"grant_type": "ig_refresh_token", "access_token": tok}))
-days = int(r.get("expires_in", 0)) // 86400
-print(f"토큰 갱신 완료: 앞으로 약 {days}일 유효")
-new = r.get("access_token")
-if new and new != tok:
-    if os.environ.get("GH_TOKEN"):
+if tok.startswith("IG"):
+    base = "https://graph.instagram.com"
+    me = get(f"{base}/me", fields="user_id,username,account_type")
+    print("연결된 계정:", me.get("username"), "| 유형:", me.get("account_type"), "| user_id:", me.get("user_id"))
+    r = get(f"{base}/refresh_access_token", grant_type="ig_refresh_token")
+    print(f"토큰 연장 완료: 약 {int(r.get('expires_in', 0)) // 86400}일 유효")
+    new = r.get("access_token")
+    if new and new != tok and os.environ.get("GH_TOKEN"):
         subprocess.run(["gh", "secret", "set", "IG_ACCESS_TOKEN", "--body", new], check=True)
         print("새 토큰을 GitHub Secret에 저장했습니다.")
-    else:
-        print("⚠️ 새 토큰이 발급됐지만 GH_PAT가 없어 Secret을 교체하지 못했습니다.")
+else:
+    base = "https://graph.facebook.com/v23.0"
+    acct = get(f"{base}/{uid}", fields="username,name,followers_count,media_count")
+    print("연결된 계정:", acct.get("username"), "| 팔로워:", acct.get("followers_count"), "| 게시물:", acct.get("media_count"))
+    lim = get(f"{base}/{uid}/content_publishing_limit", fields="quota_usage,config")
+    print("최근 24시간 API 게시 사용량:", json.dumps(lim.get("data", lim), ensure_ascii=False))
+    dbg = get(f"{base}/debug_token", input_token=tok).get("data", {})
+    exp = dbg.get("expires_at", 0)
+    print("토큰 권한:", ", ".join(dbg.get("scopes", [])) or "(확인 불가)")
+    print("토큰 만료:", "없음" if not exp else exp)
+    need = {"instagram_basic", "instagram_content_publish"}
+    miss = need - set(dbg.get("scopes", []))
+    if dbg.get("scopes") and miss:
+        raise SystemExit(f"⚠️ 필요한 권한이 빠져 있어요: {', '.join(miss)}")
+print("✅ 토큰 점검 통과")
