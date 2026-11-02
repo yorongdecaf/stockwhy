@@ -45,7 +45,7 @@ def main(folder):
     tp = folder / "threads.txt"
     text = tp.read_text() if tp.exists() else (folder / "caption.txt").read_text()
     text = text[:500]
-    uid = os.environ["THREADS_USER_ID"]
+    uid = os.environ.get("THREADS_USER_ID") or "me"   # ID 없으면 토큰 주인(me)으로 게시
     kids = []
     for c in post["cards"]:
         r = call("POST", f"{uid}/threads", media_type="IMAGE", image_url=public_url(folder, c), is_carousel_item="true")
