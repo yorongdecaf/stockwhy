@@ -1,0 +1,21 @@
+name: Check & refresh Instagram token
+
+# 매주 월요일 오전 9시(KST) 토큰 확인·연장. 수동 실행으로 연결 테스트도 가능
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  token:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 토큰 확인 및 갱신
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: python publisher/check_token.py
