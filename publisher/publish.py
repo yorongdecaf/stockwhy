@@ -74,7 +74,8 @@ def main(folder, dry=False):
     wait_ready(car["id"], "캐러셀", tries=12, gap=5)
     pub = call("POST", f"{uid}/media_publish", creation_id=car["id"])
     result["carousel_media_id"] = pub["id"]
-    print("캐러셀 게시 완료:", pub["id"])
+    result["carousel_url"] = call("GET", pub["id"], fields="permalink").get("permalink")
+    print("캐러셀 게시 완료:", result["carousel_url"])
 
     # 2) 릴스 (무음 영상)
     if reel_url:
@@ -83,7 +84,8 @@ def main(folder, dry=False):
         wait_ready(rc["id"], "릴스 영상")
         rp = call("POST", f"{uid}/media_publish", creation_id=rc["id"])
         result["reel_media_id"] = rp["id"]
-        print("릴스 게시 완료:", rp["id"])
+        result["reel_url"] = call("GET", rp["id"], fields="permalink").get("permalink")
+        print("릴스 게시 완료:", result["reel_url"])
 
     result["published_at"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
     done.write_text(json.dumps(result, indent=2))

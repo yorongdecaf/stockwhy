@@ -1,0 +1,27 @@
+name: Fetch post links
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 게시물 링크 가져오기
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python publisher/permalinks.py
+      - name: 기록 저장
+        run: |
+          git config user.name "stockwhy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add posts/*/published.json
+          git diff --cached --quiet || (git commit -m "게시물 링크 기록 [skip ci]" && git push)
