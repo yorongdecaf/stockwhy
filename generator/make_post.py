@@ -18,7 +18,7 @@ HASHTAGS = {
 }
 
 def short_why(s):
-    return s["why"][0].split(",")[0]
+    return s["why"][0].split(", ")[0]   # "1,150억" 같은 숫자 쉼표는 자르지 않음
 
 def caption(d):
     head = d["cover"]["title"].replace("\n", " ")

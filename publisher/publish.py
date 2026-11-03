@@ -46,6 +46,19 @@ def warm(url):
     try: urllib.request.urlopen(urllib.request.Request(url, method="HEAD"), timeout=60)
     except Exception as e: print("warm 실패(무시):", url, e)
 
+def publish_carousel(uid, urls, caption, result):
+    children = []
+    for u in urls:
+        c = call("POST", f"{uid}/media", image_url=u, is_carousel_item="true")
+        children.append(c["id"])
+    for c in children: wait_ready(c, "카드 이미지", tries=12, gap=5)
+    car = call("POST", f"{uid}/media", media_type="CAROUSEL", children=",".join(children), caption=caption)
+    wait_ready(car["id"], "캐러셀", tries=12, gap=5)
+    pub = call("POST", f"{uid}/media_publish", creation_id=car["id"])
+    result["carousel_media_id"] = pub["id"]
+    result["carousel_url"] = call("GET", pub["id"], fields="permalink").get("permalink")
+    print("캐러셀 게시 완료:", result["carousel_url"])
+
 def main(folder, dry=False):
     folder = pathlib.Path(folder)
     post = json.loads((folder / "post.json").read_text())
@@ -64,18 +77,11 @@ def main(folder, dry=False):
     for u in urls + ([reel_url] if reel_url else []): warm(u)
 
     result = {}
-    # 1) 카드뉴스 캐러셀
-    children = []
-    for u in urls:
-        c = call("POST", f"{uid}/media", image_url=u, is_carousel_item="true")
-        children.append(c["id"])
-    for c in children: wait_ready(c, "카드 이미지", tries=12, gap=5)
-    car = call("POST", f"{uid}/media", media_type="CAROUSEL", children=",".join(children), caption=caption)
-    wait_ready(car["id"], "캐러셀", tries=12, gap=5)
-    pub = call("POST", f"{uid}/media_publish", creation_id=car["id"])
-    result["carousel_media_id"] = pub["id"]
-    result["carousel_url"] = call("GET", pub["id"], fields="permalink").get("permalink")
-    print("캐러셀 게시 완료:", result["carousel_url"])
+    # 1) 카드뉴스 캐러셀 (post.json에 skip_carousel=true면 건너뜀: 캐러셀만 먼저 올라간 경우 릴스만 보충 게시)
+    if not post.get("skip_carousel"):
+        publish_carousel(uid, urls, caption, result)
+    else:
+        print("skip_carousel=true → 캐러셀 건너뜀")
 
     # 2) 릴스 (무음 영상)
     if reel_url:

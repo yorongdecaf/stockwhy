@@ -12,5 +12,6 @@
   ],
   "reel": "reel.mp4",
   "reel_share_to_feed": false,
-  "publish": true
+  "publish": true,
+  "skip_carousel": true
 }
