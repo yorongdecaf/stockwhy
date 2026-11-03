@@ -18,6 +18,9 @@ on:
 permissions:
   contents: write
 
+env:
+  PYTHONUNBUFFERED: "1"   # 로그가 바로바로 보이게
+
 concurrency:
   group: instagram-publish
   cancel-in-progress: false
@@ -69,6 +72,7 @@ jobs:
           done
 
       - name: 게시 기록 저장 (중복 게시 방지)
+        if: always()            # 중간에 실패·중단돼도 올라간 것까지는 기록
         run: |
           git config user.name "stockwhy-bot"
           git config user.email "actions@users.noreply.github.com"

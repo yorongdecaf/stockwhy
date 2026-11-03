@@ -57,44 +57,45 @@ def publish_carousel(uid, urls, caption, result):
     pub = call("POST", f"{uid}/media_publish", creation_id=car["id"])
     result["carousel_media_id"] = pub["id"]
     result["carousel_url"] = call("GET", pub["id"], fields="permalink").get("permalink")
-    print("캐러셀 게시 완료:", result["carousel_url"])
+    print("캐러셀 게시 완료:", result["carousel_url"], flush=True)
 
 def main(folder, dry=False):
     folder = pathlib.Path(folder)
     post = json.loads((folder / "post.json").read_text())
     done = folder / "published.json"
-    if done.exists():
-        print("이미 게시됨, 건너뜀:", folder); return
+    rec = json.loads(done.read_text()) if done.exists() else {}
+    def save():                                   # 단계마다 바로 기록 → 중간에 끊겨도 이어서 진행
+        done.write_text(json.dumps(rec, indent=2))
     if not post.get("publish", True):
         print("publish=false, 건너뜀"); return
+    need_car = not rec.get("carousel_media_id") and not post.get("skip_carousel")
+    need_reel = bool(post.get("reel")) and not rec.get("reel_media_id")
+    if not need_car and not need_reel:
+        print("인스타 이미 게시됨, 건너뜀:", folder); return
     caption = (folder / "caption.txt").read_text()
     uid = os.environ["IG_USER_ID"]
     urls = [public_url(folder, c) for c in post["cards"]]
     reel_url = public_url(folder, post["reel"]) if post.get("reel") else None
-    print("이미지 URL 예:", urls[0])
+    print("이미지 URL 예:", urls[0], flush=True)
     if dry:
         print("dry-run: 실제 게시 안 함"); return
     for u in urls + ([reel_url] if reel_url else []): warm(u)
 
-    result = {}
-    # 1) 카드뉴스 캐러셀 (post.json에 skip_carousel=true면 건너뜀: 캐러셀만 먼저 올라간 경우 릴스만 보충 게시)
-    if not post.get("skip_carousel"):
-        publish_carousel(uid, urls, caption, result)
+    if need_car:
+        publish_carousel(uid, urls, caption, rec)
+        rec["published_at"] = time.strftime("%Y-%m-%dT%H:%M:%S%z"); save()
     else:
-        print("skip_carousel=true → 캐러셀 건너뜀")
+        print("캐러셀 이미 게시됨 → 건너뜀")
 
-    # 2) 릴스 (무음 영상)
-    if reel_url:
+    if need_reel:
         rc = call("POST", f"{uid}/media", media_type="REELS", video_url=reel_url, caption=caption,
                   share_to_feed="true" if post.get("reel_share_to_feed") else "false")
         wait_ready(rc["id"], "릴스 영상")
         rp = call("POST", f"{uid}/media_publish", creation_id=rc["id"])
-        result["reel_media_id"] = rp["id"]
-        result["reel_url"] = call("GET", rp["id"], fields="permalink").get("permalink")
-        print("릴스 게시 완료:", result["reel_url"])
-
-    result["published_at"] = time.strftime("%Y-%m-%dT%H:%M:%S%z")
-    done.write_text(json.dumps(result, indent=2))
+        rec["reel_media_id"] = rp["id"]
+        rec["reel_url"] = call("GET", rp["id"], fields="permalink").get("permalink")
+        print("릴스 게시 완료:", rec["reel_url"], flush=True)
+        save()
 
 if __name__ == "__main__":
     main(sys.argv[1], dry="--dry-run" in sys.argv)

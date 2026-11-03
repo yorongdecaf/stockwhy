@@ -53,11 +53,19 @@ def main(folder):
     for k in kids: wait_ready(k, "스레드 이미지")
     car = call("POST", f"{uid}/threads", media_type="CAROUSEL", children=",".join(kids), text=text)
     wait_ready(car["id"], "스레드 캐러셀")
-    pub = call("POST", f"{uid}/threads_publish", creation_id=car["id"])
+    time.sleep(30)                                 # Meta 권장: 게시 전 약 30초 대기
+    pub = None
+    for attempt in range(4):                       # "Media Not Found"(아직 반영 전)면 잠시 후 재시도
+        try:
+            pub = call("POST", f"{uid}/threads_publish", creation_id=car["id"]); break
+        except SystemExit as e:
+            if "4279009" in str(e) and attempt < 3:
+                print("컨테이너 반영 대기 후 재시도...", flush=True); time.sleep(30); continue
+            raise
     rec["threads_media_id"] = pub["id"]
     rec["threads_url"] = call("GET", pub["id"], fields="permalink").get("permalink")
     rec_path.write_text(json.dumps(rec, indent=2))
-    print("스레드 게시 완료:", rec["threads_url"])
+    print("스레드 게시 완료:", rec["threads_url"], flush=True)
 
 if __name__ == "__main__":
     main(sys.argv[1])
