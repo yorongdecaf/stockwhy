@@ -5,12 +5,40 @@
   "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
   "heading": "📚 주식 공부 추천템",
   "items": [
-    {"title": "돈의 속성 (김승호)", "market": "all", "url": ""},
-    {"title": "전설로 떠나는 월가의 영웅 (피터 린치)", "market": "all", "url": ""},
-    {"title": "현명한 투자자 (벤저민 그레이엄)", "market": "all", "url": ""},
-    {"title": "주식투자 무작정 따라하기", "market": "kr", "url": ""},
-    {"title": "모든 주식을 소유하라 (존 보글)", "market": "us", "url": ""},
-    {"title": "랜덤워크 투자수업 (버턴 말킬)", "market": "us", "url": ""},
-    {"title": "차트 보기 좋은 듀얼 모니터암", "market": "all", "url": ""}
+    {
+      "title": "돈의 속성 (김승호)",
+      "market": "all",
+      "url": "https://link.coupang.com/a/iqwjJOESdM"
+    },
+    {
+      "title": "전설로 떠나는 월가의 영웅 (피터 린치)",
+      "market": "all",
+      "url": "https://link.coupang.com/a/iqwra6OqYe"
+    },
+    {
+      "title": "현명한 투자자 (벤저민 그레이엄)",
+      "market": "all",
+      "url": "https://link.coupang.com/a/iqwtHkalcy"
+    },
+    {
+      "title": "주식투자 무작정 따라하기",
+      "market": "kr",
+      "url": "https://link.coupang.com/a/iqwvEkF3Tw"
+    },
+    {
+      "title": "모든 주식을 소유하라 (존 보글)",
+      "market": "us",
+      "url": "https://link.coupang.com/a/iqwxxtjIOa"
+    },
+    {
+      "title": "랜덤워크 투자수업 (버턴 말킬)",
+      "market": "us",
+      "url": "https://link.coupang.com/a/iqwzzNoSUm"
+    },
+    {
+      "title": "차트 보기 좋은 듀얼 모니터암",
+      "market": "all",
+      "url": "https://link.coupang.com/a/iqwBAIkbcW"
+    }
   ]
 }
