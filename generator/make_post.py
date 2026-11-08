@@ -27,7 +27,7 @@ def caption(d):
     names = " ".join("#" + s["name"].replace(" ", "") for s in d["up"] + d["down"])
     return (f"{head} 📈📉\n\n"
             f"{d['date']} · {d['cover']['sub']}\n\n"
-            f"▲ 상승 TOP3\n{up}\n\n▼ 하락 TOP3\n{dn}\n\n"
+            f"{'▲' if d.get('up_label','상승')=='상승' else '●'} {d.get('up_label','상승')} TOP3\n{up}\n\n▼ 하락 TOP3\n{dn}\n\n"
             f"💡 한 줄 정리\n{d['takeaway']}\n\n"
             f"📌 장 마감 후 오른 이유·내린 이유, 매일 정리합니다\n"
             f"저장해두고 팔로우하세요 👉 {HANDLE}\n\n"
@@ -38,7 +38,7 @@ def caption(d):
 def threads_text(d):
     """스레드는 본문 500자 제한 → 짧은 버전"""
     head = d["cover"]["title"].replace("\n", " ")
-    up = "\n".join(f"▲ {s['name']} {s['chg']}" for s in d["up"])
+    up = "\n".join(f"{'▼' if s['chg'].startswith('-') else '▲'} {s['name']} {s['chg']}" for s in d["up"])
     dn = "\n".join(f"▼ {s['name']} {s['chg']}" for s in d["down"])
     t = (f"{head}\n\n{d['date']} · {d['cover']['sub']}\n\n{up}\n{dn}\n\n"
          f"💡 {d['takeaway']}\n\n오른 이유·내린 이유는 카드에서 👉\n"

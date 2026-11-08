@@ -37,33 +37,39 @@ body{{font-family:{FONT};background:{PAPER};color:{INK};padding:84px 92px 0;disp
 .take em{{font-style:normal;color:{YELLOW}}}
 """
 
+def up_label(d): return d.get("up_label", "상승")   # 폭락장 등에서는 "선방"
+def up_mark(d): return "▲" if up_label(d) == "상승" else "●"
+def sign_color(chg): return DOWN if chg.strip().startswith("-") else UP
+
 def foot(left, right):
     return f'<div class="foot"><span>{left}</span><span>{right}</span></div>'
 
 def cover(d):
     return f"""<div class="top">{logo(40)}<span class="date">{e(d['date'])}</span></div>
     <div class="ctitle">{e(d['cover']['title'])}</div>
-    <div class="cbox"><span style="color:{UP}">▲ 상승 TOP3</span><span style="color:{DOWN}">▼ 하락 TOP3</span></div>
+    <div class="cbox"><span style="color:{UP}">{up_mark(d)} {up_label(d)} TOP3</span><span style="color:{DOWN}">▼ 하락 TOP3</span></div>
     <div class="csub">{e(d['cover']['sub'])}</div>
     {foot(HANDLE, '넘겨보기 →')}"""
 
 def stock(d, s, rank, up, page):
     c = UP if up else DOWN
-    verb = "올랐을까?" if up else "떨어졌을까?"
+    neg = s["chg"].strip().startswith("-")
+    pc = DOWN if neg else UP                      # 등락률 색·화살표는 실제 부호대로
+    verb = ("올랐을까?" if up_label(d) == "상승" else "선방했을까?") if up else "떨어졌을까?"
     whys = "".join(f'<div class="why"><b>{i+1}</b><span>{e(w)}</span></div>' for i, w in enumerate(s["why"]))
-    return f"""<div class="top"><span class="chip" style="background:{c}">{d['label']} {'상승' if up else '하락'} {rank}위</span>
+    return f"""<div class="top"><span class="chip" style="background:{c}">{d['label']} {up_label(d) if up else '하락'} {rank}위</span>
       <span class="date">{e(d['date'])}</span></div>
     <div class="name">{e(s['name'])}</div><div class="code">{e(s['code'])}</div>
-    <div class="pct" style="color:{c}"><span style="font-size:.55em;vertical-align:.32em;margin-right:14px">{'▲' if up else '▼'}</span>{e(s['chg'].lstrip('+-'))}</div>
+    <div class="pct" style="color:{pc}"><span style="font-size:.55em;vertical-align:.32em;margin-right:14px">{'▼' if neg else '▲'}</span>{e(s['chg'].lstrip('+-'))}</div>
     <div class="lbl">어떤 회사?</div><div class="what">{e(s['what'])}</div>
     <div class="lbl">왜 <span class="hl" style="color:{INK}">{verb}</span></div>{whys}
     {foot(logo(24) + f'&nbsp;&nbsp;<span style="font-size:22px">{HANDLE}</span>', f'{page}/8')}"""
 
 def summary(d):
-    rows = lambda arr, c: "".join(f'<div class="r"><span>{e(s["name"])}</span><span style="color:{c}">{e(s["chg"])}</span></div>' for s in arr)
+    rows = lambda arr, c: "".join(f'<div class="r"><span>{e(s["name"])}</span><span style="color:{sign_color(s["chg"])}">{e(s["chg"])}</span></div>' for s in arr)
     return f"""<div class="top"><span class="chip" style="background:{INK}">한눈에 정리</span><span class="date">{e(d['date'])}</span></div>
     <div class="stitle">오늘의 {d['label']} <span class="hl">TOP 3</span></div>
-    <div class="grp" style="color:{UP}">▲ 상승</div>{rows(d['up'], UP)}
+    <div class="grp" style="color:{UP}">{up_mark(d)} {up_label(d)}</div>{rows(d['up'], UP)}
     <div class="grp" style="color:{DOWN}">▼ 하락</div>{rows(d['down'], DOWN)}
     <div class="take">💡 <em>한 줄 정리</em><br>{e(d['takeaway'])}</div>
     {foot('정보 제공 목적이며 투자 권유가 아닙니다 · ' + e(d['universe']), '8/8')}"""
