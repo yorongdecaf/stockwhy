@@ -4,7 +4,7 @@
 환경변수: IG_ACCESS_TOKEN, IG_USER_ID, GITHUB_REPOSITORY, GITHUB_SHA
 사용법: python publisher/publish.py posts/us_2026-10-30 [--dry-run]
 """
-import json, os, sys, time, pathlib, urllib.parse, urllib.request
+import calendar, json, os, sys, time, pathlib, urllib.parse, urllib.request
 
 # 토큰 종류에 따라 접속 주소 자동 선택
 #  - EAA... : 페이스북(통합 로그인/시스템 사용자) 토큰 → graph.facebook.com
@@ -37,6 +37,31 @@ def wait_ready(cid, label, tries=30, gap=10):
         time.sleep(gap)
     raise SystemExit(f"{label} 처리 시간 초과")
 
+def publish_media(uid, creation_id, caption, media_type):
+    """media_publish 호출. 인스타가 게시를 마친 뒤에도 403(code 4 / 2207051) 같은 오류를 돌려주는 경우가 있어
+    (2026-11-06 미장, 11-08 국장 실제 사례) 실패로 끝내기 전에 최근 게시물에서 같은 캡션을 찾아 확인한다."""
+    try:
+        return call("POST", f"{uid}/media_publish", creation_id=creation_id)
+    except SystemExit as err:
+        print("⚠️ media_publish 오류 → 실제 게시 여부 확인:", err, flush=True)
+        head = caption.split("\n")[0][:40]
+        for _ in range(3):
+            time.sleep(10)
+            try:
+                recent = call("GET", f"{uid}/media", fields="id,media_type,caption,timestamp", limit="10").get("data", [])
+            except SystemExit as e2:
+                print("최근 게시물 조회 실패:", e2, flush=True); continue
+            cutoff = time.time() - 20 * 60            # 최근 20분 안에 올라온 것만 인정
+            for m in recent:
+                ts = m.get("timestamp", "")
+                try: t = calendar.timegm(time.strptime(ts[:19], "%Y-%m-%dT%H:%M:%S"))
+                except ValueError: continue
+                if (m.get("media_type") == media_type and t >= cutoff
+                        and (m.get("caption") or "").startswith(head)):
+                    print(f"✅ 오류 응답과 달리 실제로 게시됨 ({media_type}, id={m['id']}) → 계속 진행", flush=True)
+                    return {"id": m["id"]}
+        raise err
+
 def public_url(folder, name):
     repo, sha = os.environ["GITHUB_REPOSITORY"], os.environ["GITHUB_SHA"]
     return f"https://cdn.jsdelivr.net/gh/{repo}@{sha}/{folder.as_posix()}/{name}"
@@ -54,7 +79,7 @@ def publish_carousel(uid, urls, caption, result):
     for c in children: wait_ready(c, "카드 이미지", tries=12, gap=5)
     car = call("POST", f"{uid}/media", media_type="CAROUSEL", children=",".join(children), caption=caption)
     wait_ready(car["id"], "캐러셀", tries=12, gap=5)
-    pub = call("POST", f"{uid}/media_publish", creation_id=car["id"])
+    pub = publish_media(uid, car["id"], caption, "CAROUSEL_ALBUM")
     result["carousel_media_id"] = pub["id"]
     result["carousel_url"] = call("GET", pub["id"], fields="permalink").get("permalink")
     print("캐러셀 게시 완료:", result["carousel_url"], flush=True)
@@ -91,7 +116,7 @@ def main(folder, dry=False):
         rc = call("POST", f"{uid}/media", media_type="REELS", video_url=reel_url, caption=caption,
                   share_to_feed="true" if post.get("reel_share_to_feed") else "false")
         wait_ready(rc["id"], "릴스 영상")
-        rp = call("POST", f"{uid}/media_publish", creation_id=rc["id"])
+        rp = publish_media(uid, rc["id"], caption, "VIDEO")
         rec["reel_media_id"] = rp["id"]
         rec["reel_url"] = call("GET", rp["id"], fields="permalink").get("permalink")
         print("릴스 게시 완료:", rec["reel_url"], flush=True)
