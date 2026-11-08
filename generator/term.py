@@ -41,6 +41,12 @@ p{{font-size:42px;line-height:1.6;color:#2A2A2A;margin-top:36px}}
 .pz figcaption{{font-size:36px;font-weight:900;margin-top:18px}}
 .pz figcaption span{{display:block;font-size:30px;font-weight:700;color:#666;margin-top:4px}}
 .arrow{{font-size:80px;font-weight:900;color:{GRAY}}}
+.tl{{margin-top:34px;border-left:6px solid {INK};padding-left:40px}}
+.tl div{{position:relative;padding:14px 0}}
+.tl div:before{{content:"";position:absolute;left:-55px;top:24px;width:24px;height:24px;border-radius:50%;background:{YELLOW};border:5px solid {INK}}}
+.tl small{{display:block;font-size:28px;font-weight:900;color:{GRAY}}}
+.tl strong{{display:block;font-size:44px;font-weight:900;letter-spacing:-1px;margin-top:4px}}
+.tl span{{display:block;font-size:32px;font-weight:500;color:#555;margin-top:4px;line-height:1.4}}
 .stat{{display:flex;gap:24px;margin-top:44px}}
 .stat div{{flex:1;background:#fff;border:3px solid {INK};border-radius:22px;padding:26px 12px;text-align:center}}
 .stat strong{{display:block;font-size:52px;font-weight:900;letter-spacing:-2px;white-space:nowrap}}
@@ -80,9 +86,16 @@ def pages(d):
     P.append(f"""{head(d)}<div class="lbl">한 줄로 말하면</div>
       <div class="big">{d['define_html']}</div>
       <p>{e(d['define_sub'])}</p>{foot(2, T)}""")
-    # 3 비유 (피자)
-    a, b = d["analogy"]["before"], d["analogy"]["after"]
-    P.append(f"""{head(d)}<div class="lbl">피자로 이해하기 🍕</div>
+    # 3 유래(타임라인) 또는 비유(피자)
+    if "history" in d:
+        h = d["history"]
+        items = "".join(f'<div><small>{e(x["date"])}</small><strong>{e(x["t"])}</strong><span>{e(x["s"])}</span></div>' for x in h["items"])
+        P.append(f"""{head(d)}<div class="lbl">{e(h.get('label', '어디서 왔을까?'))}</div>
+      <h2>{e(h['title'])}</h2><div class="tl">{items}</div>
+      <div class="box">{h['point_html']}</div>{foot(3, T)}""")
+    else:
+      a, b = d["analogy"]["before"], d["analogy"]["after"]
+      P.append(f"""{head(d)}<div class="lbl">피자로 이해하기 🍕</div>
       <h2>{e(d['analogy']['title'])}</h2>
       <div class="pz"><figure>{pizza(a['slices'], a['mine'])}<figcaption>{e(a['label'])}<span>{e(a['note'])}</span></figcaption></figure>
         <div class="arrow">→</div>
@@ -90,7 +103,7 @@ def pages(d):
       <div class="box">{d['analogy']['point_html']}</div>{foot(3, T)}""")
     # 4 언제 생기나
     rows = "".join(f'<div class="row"><b>{i+1}</b><div>{e(x["t"])}<small>{e(x["s"])}</small></div></div>' for i, x in enumerate(d["when"]))
-    P.append(f"""{head(d)}<div class="lbl">이럴 때 생겨요</div><h2>{e(d['when_title'])}</h2>
+    P.append(f"""{head(d)}<div class="lbl">{e(d.get('when_label', '이럴 때 생겨요'))}</div><h2>{e(d['when_title'])}</h2>
       <div style="margin-top:30px">{rows}</div>{foot(4, T)}""")
     # 5 실제 사례
     c = d["case"]
@@ -99,7 +112,7 @@ def pages(d):
       <p style="margin-top:28px">{e(c['body'])}</p><div class="stat">{stats}</div>
       <div class="box">{c['point_html']}</div>{foot(5, T)}""")
     # 6 무조건 나쁜가?
-    P.append(f"""{head(d)}<div class="lbl">그럼 무조건 나쁜 걸까?</div><h2>{e(d['nuance']['title'])}</h2>
+    P.append(f"""{head(d)}<div class="lbl">{e(d.get('nuance_label', '그럼 무조건 나쁜 걸까?'))}</div><h2>{e(d['nuance']['title'])}</h2>
       <p>{e(d['nuance']['body'])}</p><div class="box">💡 <em>체크 질문</em><br>{e(d['nuance']['question'])}</div>{foot(6, T)}""")
     # 7 요약
     rows = "".join(f'<div class="row"><b>{i+1}</b><div>{e(x)}</div></div>' for i, x in enumerate(d["summary"]))
