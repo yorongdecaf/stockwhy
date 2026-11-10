@@ -4,7 +4,7 @@
 대체:  야후 파이낸스 차트 API (키 없을 때·Alpaca 실패 시)
 지수:  네이버 해외지수 API(.INX, .IXIC) → 실패 시 야후(^GSPC, ^IXIC)
 
-사용: python fetcher/us_alpaca.py [--date YYYY-MM-DD(미국 현지 거래일)] [--source alpaca|yahoo]
+사용: python fetcher/us.py [--date YYYY-MM-DD(미국 현지 거래일)] [--source alpaca|yahoo]
 """
 import argparse
 import datetime as dt
