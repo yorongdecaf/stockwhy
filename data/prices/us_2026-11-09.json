@@ -1,0 +1,8 @@
+{
+ "market": "us",
+ "date": "2026-11-09",
+ "status": "closed",
+ "source": "yahoo chart API (일봉 종가)",
+ "fetched_at": "2026-11-10T10:54:12+09:00",
+ "note": "해당 날짜 일봉 없음 → 휴장(또는 아직 미마감)"
+}
