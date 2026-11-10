@@ -1,0 +1,73 @@
+name: Fetch prices
+
+# 장 마감 후 시세를 받아 data/prices/<market>_<날짜>.json 으로 커밋
+# 국장: 네이버 증권 API / 미장: Alpaca(SIP) → 실패 시 야후
+# 예약 작업(Claude)이 실행 전에 이 파일이 없으면 REST로 직접 실행시킴
+on:
+  schedule:
+    - cron: "50 6 * * 1-5"    # 국장 15:50 KST
+    - cron: "40 21 * * 1-5"   # 미장 06:40 KST (미국 동부 16:40 EST / 17:40 EDT)
+  workflow_dispatch:
+    inputs:
+      market:
+        description: "kr 또는 us"
+        required: true
+        default: "kr"
+      date:
+        description: "거래일 YYYY-MM-DD (비우면 자동: 국장=오늘, 미장=직전 마감일)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+concurrency:
+  group: fetch-prices
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 시장 정하기
+        id: m
+        run: |
+          M="${{ github.event.inputs.market }}"
+          if [ -z "$M" ]; then
+            if [ "${{ github.event.schedule }}" = "50 6 * * 1-5" ]; then M=kr; else M=us; fi
+          fi
+          echo "market=$M" >> "$GITHUB_OUTPUT"
+          echo "시장: $M"
+
+      - name: 시세 받기
+        env:
+          ALPACA_KEY_ID: ${{ secrets.ALPACA_KEY_ID }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+        run: |
+          D="${{ github.event.inputs.date }}"
+          ARGS=""; [ -n "$D" ] && ARGS="--date $D"
+          if [ "${{ steps.m.outputs.market }}" = "kr" ]; then
+            python fetcher/kr_naver.py $ARGS
+          else
+            python fetcher/us_alpaca.py $ARGS
+          fi
+
+      - name: 커밋
+        run: |
+          git config user.name "stockwhy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/prices/*.json data/sp500.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
+          git commit -m "시세 수집: ${{ steps.m.outputs.market }} [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 5; done
+          exit 1
