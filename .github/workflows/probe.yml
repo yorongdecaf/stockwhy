@@ -1,0 +1,48 @@
+name: Probe price sources
+
+# 시세 출처가 Actions 서버에서 받아지는지 점검 (응답 원본을 data/prices/_probe/ 에 저장)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/probe.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 응답 받아보기
+        run: |
+          mkdir -p data/prices/_probe
+          cd data/prices/_probe
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+          get() { # name url
+            code=$(curl -sS -m 20 -A "$UA" -o "$1" -w "%{http_code}" "$2" || echo ERR)
+            echo "$code $(wc -c < "$1" 2>/dev/null) $1 $2" | tee -a _status.txt
+          }
+          : > _status.txt
+          get nv_mv_kospi.json  "https://m.stock.naver.com/api/stocks/marketValue/KOSPI?page=1&pageSize=40"
+          get nv_005930_basic.json "https://m.stock.naver.com/api/stock/005930/basic"
+          get nv_005930_integ.json "https://m.stock.naver.com/api/stock/005930/integration"
+          get nv_005930_price.json "https://m.stock.naver.com/api/stock/005930/price?pageSize=3&page=1"
+          get nv_poll_005930.json "https://polling.finance.naver.com/api/realtime/domestic/stock/005930"
+          get nv_idx_kospi.json "https://m.stock.naver.com/api/index/KOSPI/basic"
+          get nv_idx_kosdaq.json "https://m.stock.naver.com/api/index/KOSDAQ/basic"
+          get nv_idx_kospi_price.json "https://m.stock.naver.com/api/index/KOSPI/price?pageSize=3&page=1"
+          get nv_world_spx.json "https://api.stock.naver.com/index/.INX/basic"
+          get nv_world_ixic.json "https://api.stock.naver.com/index/.IXIC/basic"
+          get yh_gspc.json "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=5d&interval=1d"
+          get wiki_sp500.html "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
+          get alpaca_noauth.json "https://data.alpaca.markets/v2/stocks/bars?symbols=AAPL&timeframe=1Day&limit=2"
+          gzip -9 wiki_sp500.html
+          date -u >> _status.txt
+      - name: 저장
+        run: |
+          git config user.name "stockwhy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/prices/_probe
+          git commit -m "시세 출처 점검 결과 [skip ci]" && git push
