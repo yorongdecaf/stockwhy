@@ -3,7 +3,7 @@
  "date": "2026-11-10",
  "status": "ok",
  "source": "종목: 야후 .KS 일봉(KRX 정규장 종가) / 범위·지수: 네이버 증권",
- "fetched_at": "2026-11-10T16:42:01+09:00",
+ "fetched_at": "2026-11-10T17:02:08+09:00",
  "universe": "코스피 시가총액 상위 30 보통주 (ETF·우선주 제외, 수집 시점 시총 순)",
  "index": {
   "KOSPI": {
@@ -29,8 +29,8 @@
    "prev_close": 415000.0,
    "chg": 9.8795,
    "chg_str": "+9.88%",
-   "naver_chg": "+9.16%",
-   "mcap_eok": 365052.0
+   "naver_chg": "+9.28%",
+   "mcap_eok": 365455.0
   },
   {
    "rank": 19,
@@ -40,8 +40,8 @@
    "prev_close": 43350.0,
    "chg": 8.3045,
    "chg_str": "+8.30%",
-   "naver_chg": "+8.65%",
-   "mcap_eok": 301704.0
+   "naver_chg": "+8.77%",
+   "mcap_eok": 302025.0
   },
   {
    "rank": 15,
@@ -51,8 +51,8 @@
    "prev_close": 448000.0,
    "chg": 7.1429,
    "chg_str": "+7.14%",
-   "naver_chg": "+7.03%",
-   "mcap_eok": 347650.0
+   "naver_chg": "+6.70%",
+   "mcap_eok": 346563.0
   }
  ],
  "down_top3": [
@@ -64,8 +64,8 @@
    "prev_close": 210000.0,
    "chg": -3.3333,
    "chg_str": "-3.33%",
-   "naver_chg": "-3.57%",
-   "mcap_eok": 469948.0
+   "naver_chg": "-3.10%",
+   "mcap_eok": 472268.0
   },
   {
    "rank": 5,
@@ -75,8 +75,8 @@
    "prev_close": 1510000.0,
    "chg": -2.7815,
    "chg_str": "-2.78%",
-   "naver_chg": "-2.78%",
-   "mcap_eok": 679551.0
+   "naver_chg": "-2.91%",
+   "mcap_eok": 678625.0
   },
   {
    "rank": 29,
@@ -100,8 +100,8 @@
    "prev_close": 415000.0,
    "chg": 9.8795,
    "chg_str": "+9.88%",
-   "naver_chg": "+9.16%",
-   "mcap_eok": 365052.0
+   "naver_chg": "+9.28%",
+   "mcap_eok": 365455.0
   },
   {
    "rank": 19,
@@ -111,8 +111,8 @@
    "prev_close": 43350.0,
    "chg": 8.3045,
    "chg_str": "+8.30%",
-   "naver_chg": "+8.65%",
-   "mcap_eok": 301704.0
+   "naver_chg": "+8.77%",
+   "mcap_eok": 302025.0
   },
   {
    "rank": 15,
@@ -122,8 +122,8 @@
    "prev_close": 448000.0,
    "chg": 7.1429,
    "chg_str": "+7.14%",
-   "naver_chg": "+7.03%",
-   "mcap_eok": 347650.0
+   "naver_chg": "+6.70%",
+   "mcap_eok": 346563.0
   },
   {
    "rank": 2,
@@ -133,8 +133,8 @@
    "prev_close": 1136000.0,
    "chg": 6.6901,
    "chg_str": "+6.69%",
-   "naver_chg": "+6.60%",
-   "mcap_eok": 8846263.0
+   "naver_chg": "+6.69%",
+   "mcap_eok": 8853567.0
   },
   {
    "rank": 18,
@@ -144,8 +144,8 @@
    "prev_close": 332000.0,
    "chg": 5.8735,
    "chg_str": "+5.87%",
-   "naver_chg": "+5.42%",
-   "mcap_eok": 314372.0
+   "naver_chg": "+5.57%",
+   "mcap_eok": 314821.0
   },
   {
    "rank": 3,
@@ -155,8 +155,8 @@
    "prev_close": 722000.0,
    "chg": 5.2632,
    "chg_str": "+5.26%",
-   "naver_chg": "+4.85%",
-   "mcap_eok": 998665.0
+   "naver_chg": "+4.99%",
+   "mcap_eok": 999984.0
   },
   {
    "rank": 1,
@@ -166,8 +166,8 @@
    "prev_close": 189900.0,
    "chg": 4.7393,
    "chg_str": "+4.74%",
-   "naver_chg": "+4.69%",
-   "mcap_eok": 11622402.0
+   "naver_chg": "+4.63%",
+   "mcap_eok": 11616556.0
   },
   {
    "rank": 26,
@@ -199,8 +199,8 @@
    "prev_close": 134700.0,
    "chg": 3.9347,
    "chg_str": "+3.93%",
-   "naver_chg": "+3.49%",
-   "mcap_eok": 227061.0
+   "naver_chg": "+3.64%",
+   "mcap_eok": 227387.0
   },
   {
    "rank": 4,
@@ -210,8 +210,8 @@
    "prev_close": 318000.0,
    "chg": 3.9308,
    "chg_str": "+3.93%",
-   "naver_chg": "+4.09%",
-   "mcap_eok": 774540.0
+   "naver_chg": "+3.93%",
+   "mcap_eok": 773370.0
   },
   {
    "rank": 21,
@@ -221,8 +221,8 @@
    "prev_close": 257500.0,
    "chg": 3.8835,
    "chg_str": "+3.88%",
-   "naver_chg": "+3.50%",
-   "mcap_eok": 279722.0
+   "naver_chg": "+3.69%",
+   "mcap_eok": 280246.0
   },
   {
    "rank": 11,
@@ -232,8 +232,8 @@
    "prev_close": 269500.0,
    "chg": 3.525,
    "chg_str": "+3.53%",
-   "naver_chg": "+3.15%",
-   "mcap_eok": 450826.0
+   "naver_chg": "+2.97%",
+   "mcap_eok": 450015.0
   },
   {
    "rank": 27,
@@ -243,8 +243,8 @@
    "prev_close": 935000.0,
    "chg": 3.4225,
    "chg_str": "+3.42%",
-   "naver_chg": "+3.21%",
-   "mcap_eok": 201424.0
+   "naver_chg": "+3.10%",
+   "mcap_eok": 201215.0
   },
   {
    "rank": 9,
@@ -265,8 +265,8 @@
    "prev_close": 187100.0,
    "chg": 3.1534,
    "chg_str": "+3.15%",
-   "naver_chg": "+2.99%",
-   "mcap_eok": 293114.0
+   "naver_chg": "+2.94%",
+   "mcap_eok": 292962.0
   },
   {
    "rank": 16,
@@ -276,8 +276,8 @@
    "prev_close": 639000.0,
    "chg": 3.1299,
    "chg_str": "+3.13%",
-   "naver_chg": "+3.44%",
-   "mcap_eok": 340834.0
+   "naver_chg": "+3.13%",
+   "mcap_eok": 339803.0
   },
   {
    "rank": 30,
@@ -287,8 +287,8 @@
    "prev_close": 106700.0,
    "chg": 2.8116,
    "chg_str": "+2.81%",
-   "naver_chg": "+2.91%",
-   "mcap_eok": 185620.0
+   "naver_chg": "+2.62%",
+   "mcap_eok": 185113.0
   },
   {
    "rank": 28,
@@ -331,8 +331,8 @@
    "prev_close": 150900.0,
    "chg": 1.1928,
    "chg_str": "+1.19%",
-   "naver_chg": "+1.52%",
-   "mcap_eok": 543382.0
+   "naver_chg": "+1.39%",
+   "mcap_eok": 542672.0
   },
   {
    "rank": 23,
@@ -342,8 +342,8 @@
    "prev_close": 30900.0,
    "chg": 0.4854,
    "chg_str": "+0.49%",
-   "naver_chg": "+0.81%",
-   "mcap_eok": 229509.0
+   "naver_chg": "+0.97%",
+   "mcap_eok": 229877.0
   },
   {
    "rank": 25,
@@ -353,8 +353,8 @@
    "prev_close": 128500.0,
    "chg": 0.0,
    "chg_str": "+0.00%",
-   "naver_chg": "-0.08%",
-   "mcap_eok": 214874.0
+   "naver_chg": "+0.08%",
+   "mcap_eok": 215209.0
   },
   {
    "rank": 12,
@@ -364,8 +364,8 @@
    "prev_close": 85800.0,
    "chg": -0.3497,
    "chg_str": "-0.35%",
-   "naver_chg": "+0.23%",
-   "mcap_eok": 403727.0
+   "naver_chg": "+0.00%",
+   "mcap_eok": 402788.0
   },
   {
    "rank": 13,
@@ -375,8 +375,8 @@
    "prev_close": 97000.0,
    "chg": -0.9278,
    "chg_str": "-0.93%",
-   "naver_chg": "-0.82%",
-   "mcap_eok": 375577.0
+   "naver_chg": "-0.72%",
+   "mcap_eok": 375968.0
   },
   {
    "rank": 22,
@@ -408,8 +408,8 @@
    "prev_close": 1510000.0,
    "chg": -2.7815,
    "chg_str": "-2.78%",
-   "naver_chg": "-2.78%",
-   "mcap_eok": 679551.0
+   "naver_chg": "-2.91%",
+   "mcap_eok": 678625.0
   },
   {
    "rank": 10,
@@ -419,8 +419,8 @@
    "prev_close": 210000.0,
    "chg": -3.3333,
    "chg_str": "-3.33%",
-   "naver_chg": "-3.57%",
-   "mcap_eok": 469948.0
+   "naver_chg": "-3.10%",
+   "mcap_eok": 472268.0
   }
  ]
 }
