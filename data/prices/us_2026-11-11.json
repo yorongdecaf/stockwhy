@@ -3,7 +3,7 @@
  "date": "2026-11-11",
  "status": "ok",
  "source": "yahoo chart API (일봉 종가)",
- "fetched_at": "2026-11-12T07:11:33+09:00",
+ "fetched_at": "2026-11-12T07:29:40+09:00",
  "universe": "S&P 500 구성 종목 503개 (wikipedia)",
  "index": {
   "SPX": {
