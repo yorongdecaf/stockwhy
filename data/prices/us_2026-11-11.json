@@ -1,0 +1,4614 @@
+{
+ "market": "us",
+ "date": "2026-11-11",
+ "status": "ok",
+ "source": "yahoo chart API (일봉 종가)",
+ "fetched_at": "2026-11-12T07:11:33+09:00",
+ "universe": "S&P 500 구성 종목 503개 (wikipedia)",
+ "index": {
+  "SPX": {
+   "close": 7619.38,
+   "chg": 1.31,
+   "chg_str": "+1.31%",
+   "src": "naver"
+  },
+  "IXIC": {
+   "close": 25466.19,
+   "chg": 1.6,
+   "chg_str": "+1.60%",
+   "src": "naver"
+  }
+ },
+ "cover_sub": "S&P 500 +1.31% · 나스닥 +1.60%",
+ "rising_count": 332,
+ "up_label": "상승",
+ "up_top3": [
+  {
+   "name": "Sandisk",
+   "code": "SNDK",
+   "sector": "Information Technology",
+   "close": 977.69,
+   "prev_close": 859.99,
+   "chg": 13.6862,
+   "chg_str": "+13.69%"
+  },
+  {
+   "name": "Bloom Energy",
+   "code": "BE",
+   "sector": "Industrials",
+   "close": 209.47,
+   "prev_close": 185.42,
+   "chg": 12.9706,
+   "chg_str": "+12.97%"
+  },
+  {
+   "name": "Micron Technology",
+   "code": "MU",
+   "sector": "Information Technology",
+   "close": 811.3,
+   "prev_close": 725.11,
+   "chg": 11.8865,
+   "chg_str": "+11.89%"
+  }
+ ],
+ "down_top3": [
+  {
+   "name": "Airbnb",
+   "code": "ABNB",
+   "sector": "Consumer Discretionary",
+   "close": 181.13,
+   "prev_close": 186.9,
+   "chg": -3.0872,
+   "chg_str": "-3.09%"
+  },
+  {
+   "name": "Lululemon Athletica",
+   "code": "LULU",
+   "sector": "Consumer Discretionary",
+   "close": 107.45,
+   "prev_close": 110.37,
+   "chg": -2.6457,
+   "chg_str": "-2.65%"
+  },
+  {
+   "name": "McDonald's",
+   "code": "MCD",
+   "sector": "Consumer Discretionary",
+   "close": 274.8,
+   "prev_close": 282.17,
+   "chg": -2.6119,
+   "chg_str": "-2.61%"
+  }
+ ],
+ "cross_check": {},
+ "missing": [],
+ "all": [
+  {
+   "name": "Sandisk",
+   "code": "SNDK",
+   "sector": "Information Technology",
+   "close": 977.69,
+   "prev_close": 859.99,
+   "chg": 13.6862,
+   "chg_str": "+13.69%"
+  },
+  {
+   "name": "Bloom Energy",
+   "code": "BE",
+   "sector": "Industrials",
+   "close": 209.47,
+   "prev_close": 185.42,
+   "chg": 12.9706,
+   "chg_str": "+12.97%"
+  },
+  {
+   "name": "Micron Technology",
+   "code": "MU",
+   "sector": "Information Technology",
+   "close": 811.3,
+   "prev_close": 725.11,
+   "chg": 11.8865,
+   "chg_str": "+11.89%"
+  },
+  {
+   "name": "Dell Technologies",
+   "code": "DELL",
+   "sector": "Information Technology",
+   "close": 373.68,
+   "prev_close": 334.38,
+   "chg": 11.7531,
+   "chg_str": "+11.75%"
+  },
+  {
+   "name": "Lumentum",
+   "code": "LITE",
+   "sector": "Information Technology",
+   "close": 648.06,
+   "prev_close": 585.57,
+   "chg": 10.6717,
+   "chg_str": "+10.67%"
+  },
+  {
+   "name": "Seagate Technology",
+   "code": "STX",
+   "sector": "Information Technology",
+   "close": 551.72,
+   "prev_close": 501.62,
+   "chg": 9.9876,
+   "chg_str": "+9.99%"
+  },
+  {
+   "name": "Supermicro",
+   "code": "SMCI",
+   "sector": "Information Technology",
+   "close": 30.43,
+   "prev_close": 27.79,
+   "chg": 9.4998,
+   "chg_str": "+9.50%"
+  },
+  {
+   "name": "Marvell Technology",
+   "code": "MRVL",
+   "sector": "Information Technology",
+   "close": 168.8,
+   "prev_close": 154.39,
+   "chg": 9.3335,
+   "chg_str": "+9.33%"
+  },
+  {
+   "name": "Coherent Corp.",
+   "code": "COHR",
+   "sector": "Information Technology",
+   "close": 234.51,
+   "prev_close": 214.66,
+   "chg": 9.2472,
+   "chg_str": "+9.25%"
+  },
+  {
+   "name": "Monolithic Power Systems",
+   "code": "MPWR",
+   "sector": "Information Technology",
+   "close": 1478.6899,
+   "prev_close": 1357.6,
+   "chg": 8.9194,
+   "chg_str": "+8.92%"
+  },
+  {
+   "name": "Oracle Corporation",
+   "code": "ORCL",
+   "sector": "Information Technology",
+   "close": 128.38,
+   "prev_close": 117.98,
+   "chg": 8.8151,
+   "chg_str": "+8.82%"
+  },
+  {
+   "name": "Ciena",
+   "code": "CIEN",
+   "sector": "Information Technology",
+   "close": 296.04,
+   "prev_close": 272.1,
+   "chg": 8.7982,
+   "chg_str": "+8.80%"
+  },
+  {
+   "name": "Western Digital",
+   "code": "WDC",
+   "sector": "Information Technology",
+   "close": 313.31,
+   "prev_close": 289.2,
+   "chg": 8.3368,
+   "chg_str": "+8.34%"
+  },
+  {
+   "name": "Teradyne",
+   "code": "TER",
+   "sector": "Information Technology",
+   "close": 265.78,
+   "prev_close": 245.4,
+   "chg": 8.3048,
+   "chg_str": "+8.30%"
+  },
+  {
+   "name": "Intel",
+   "code": "INTC",
+   "sector": "Information Technology",
+   "close": 62.5,
+   "prev_close": 58.13,
+   "chg": 7.5176,
+   "chg_str": "+7.52%"
+  },
+  {
+   "name": "Corning Inc.",
+   "code": "GLW",
+   "sector": "Information Technology",
+   "close": 120.46,
+   "prev_close": 112.13,
+   "chg": 7.4289,
+   "chg_str": "+7.43%"
+  },
+  {
+   "name": "Advanced Micro Devices",
+   "code": "AMD",
+   "sector": "Information Technology",
+   "close": 552.9,
+   "prev_close": 515.21,
+   "chg": 7.3155,
+   "chg_str": "+7.32%"
+  },
+  {
+   "name": "Reddit",
+   "code": "RDDT",
+   "sector": "Communication Services",
+   "close": 105.66,
+   "prev_close": 98.67,
+   "chg": 7.0842,
+   "chg_str": "+7.08%"
+  },
+  {
+   "name": "Generac",
+   "code": "GNRC",
+   "sector": "Industrials",
+   "close": 194.0,
+   "prev_close": 181.78,
+   "chg": 6.7224,
+   "chg_str": "+6.72%"
+  },
+  {
+   "name": "Fidelity National Information Services",
+   "code": "FIS",
+   "sector": "Financials",
+   "close": 30.21,
+   "prev_close": 28.31,
+   "chg": 6.7114,
+   "chg_str": "+6.71%"
+  },
+  {
+   "name": "Vertiv",
+   "code": "VRT",
+   "sector": "Industrials",
+   "close": 206.51,
+   "prev_close": 194.22,
+   "chg": 6.3279,
+   "chg_str": "+6.33%"
+  },
+  {
+   "name": "Interactive Brokers",
+   "code": "IBKR",
+   "sector": "Financials",
+   "close": 82.49,
+   "prev_close": 77.59,
+   "chg": 6.3152,
+   "chg_str": "+6.32%"
+  },
+  {
+   "name": "Arista Networks",
+   "code": "ANET",
+   "sector": "Information Technology",
+   "close": 196.68,
+   "prev_close": 185.02,
+   "chg": 6.302,
+   "chg_str": "+6.30%"
+  },
+  {
+   "name": "Lam Research",
+   "code": "LRCX",
+   "sector": "Information Technology",
+   "close": 235.88,
+   "prev_close": 222.39,
+   "chg": 6.0659,
+   "chg_str": "+6.07%"
+  },
+  {
+   "name": "Applied Materials",
+   "code": "AMAT",
+   "sector": "Information Technology",
+   "close": 395.08,
+   "prev_close": 372.53,
+   "chg": 6.0532,
+   "chg_str": "+6.05%"
+  },
+  {
+   "name": "Skyworks Solutions",
+   "code": "SWKS",
+   "sector": "Information Technology",
+   "close": 87.64,
+   "prev_close": 82.71,
+   "chg": 5.9606,
+   "chg_str": "+5.96%"
+  },
+  {
+   "name": "ON Semiconductor",
+   "code": "ON",
+   "sector": "Information Technology",
+   "close": 73.62,
+   "prev_close": 69.61,
+   "chg": 5.7607,
+   "chg_str": "+5.76%"
+  },
+  {
+   "name": "KLA Corporation",
+   "code": "KLAC",
+   "sector": "Information Technology",
+   "close": 161.01,
+   "prev_close": 152.99,
+   "chg": 5.2422,
+   "chg_str": "+5.24%"
+  },
+  {
+   "name": "Comfort Systems USA",
+   "code": "FIX",
+   "sector": "Industrials",
+   "close": 1161.63,
+   "prev_close": 1105.9301,
+   "chg": 5.0365,
+   "chg_str": "+5.04%"
+  },
+  {
+   "name": "Keysight Technologies",
+   "code": "KEYS",
+   "sector": "Information Technology",
+   "close": 305.64,
+   "prev_close": 291.46,
+   "chg": 4.8652,
+   "chg_str": "+4.87%"
+  },
+  {
+   "name": "Hewlett Packard Enterprise",
+   "code": "HPE",
+   "sector": "Information Technology",
+   "close": 50.25,
+   "prev_close": 47.93,
+   "chg": 4.8404,
+   "chg_str": "+4.84%"
+  },
+  {
+   "name": "Regeneron Pharmaceuticals",
+   "code": "REGN",
+   "sector": "Health Care",
+   "close": 959.41,
+   "prev_close": 916.06,
+   "chg": 4.7322,
+   "chg_str": "+4.73%"
+  },
+  {
+   "name": "Everpure",
+   "code": "P",
+   "sector": "Information Technology",
+   "close": 106.5,
+   "prev_close": 101.98,
+   "chg": 4.4322,
+   "chg_str": "+4.43%"
+  },
+  {
+   "name": "Axon Enterprise",
+   "code": "AXON",
+   "sector": "Industrials",
+   "close": 315.42,
+   "prev_close": 302.54,
+   "chg": 4.2573,
+   "chg_str": "+4.26%"
+  },
+  {
+   "name": "Quanta Services",
+   "code": "PWR",
+   "sector": "Industrials",
+   "close": 607.94,
+   "prev_close": 583.14,
+   "chg": 4.2528,
+   "chg_str": "+4.25%"
+  },
+  {
+   "name": "United Rentals",
+   "code": "URI",
+   "sector": "Industrials",
+   "close": 1150.8,
+   "prev_close": 1104.9399,
+   "chg": 4.1505,
+   "chg_str": "+4.15%"
+  },
+  {
+   "name": "NetApp",
+   "code": "NTAP",
+   "sector": "Information Technology",
+   "close": 183.12,
+   "prev_close": 175.99,
+   "chg": 4.0514,
+   "chg_str": "+4.05%"
+  },
+  {
+   "name": "Analog Devices",
+   "code": "ADI",
+   "sector": "Information Technology",
+   "close": 409.08,
+   "prev_close": 393.3,
+   "chg": 4.0122,
+   "chg_str": "+4.01%"
+  },
+  {
+   "name": "Robinhood Markets",
+   "code": "HOOD",
+   "sector": "Financials",
+   "close": 84.58,
+   "prev_close": 81.33,
+   "chg": 3.9961,
+   "chg_str": "+4.00%"
+  },
+  {
+   "name": "Broadcom",
+   "code": "AVGO",
+   "sector": "Information Technology",
+   "close": 345.22,
+   "prev_close": 331.98,
+   "chg": 3.9882,
+   "chg_str": "+3.99%"
+  },
+  {
+   "name": "Flex Ltd.",
+   "code": "FLEX",
+   "sector": "Information Technology",
+   "close": 78.97,
+   "prev_close": 76.09,
+   "chg": 3.785,
+   "chg_str": "+3.78%"
+  },
+  {
+   "name": "Targa Resources",
+   "code": "TRGP",
+   "sector": "Energy",
+   "close": 291.78,
+   "prev_close": 281.32,
+   "chg": 3.7182,
+   "chg_str": "+3.72%"
+  },
+  {
+   "name": "Valero Energy",
+   "code": "VLO",
+   "sector": "Energy",
+   "close": 363.71,
+   "prev_close": 350.71,
+   "chg": 3.7068,
+   "chg_str": "+3.71%"
+  },
+  {
+   "name": "C.H. Robinson",
+   "code": "CHRW",
+   "sector": "Industrials",
+   "close": 133.76,
+   "prev_close": 128.99,
+   "chg": 3.698,
+   "chg_str": "+3.70%"
+  },
+  {
+   "name": "Fortinet",
+   "code": "FTNT",
+   "sector": "Information Technology",
+   "close": 128.1,
+   "prev_close": 123.57,
+   "chg": 3.6659,
+   "chg_str": "+3.67%"
+  },
+  {
+   "name": "Jabil",
+   "code": "JBL",
+   "sector": "Information Technology",
+   "close": 258.89,
+   "prev_close": 249.82,
+   "chg": 3.6306,
+   "chg_str": "+3.63%"
+  },
+  {
+   "name": "APA Corporation",
+   "code": "APA",
+   "sector": "Energy",
+   "close": 46.74,
+   "prev_close": 45.12,
+   "chg": 3.5904,
+   "chg_str": "+3.59%"
+  },
+  {
+   "name": "Akamai Technologies",
+   "code": "AKAM",
+   "sector": "Information Technology",
+   "close": 86.68,
+   "prev_close": 83.71,
+   "chg": 3.548,
+   "chg_str": "+3.55%"
+  },
+  {
+   "name": "Devon Energy",
+   "code": "DVN",
+   "sector": "Energy",
+   "close": 44.95,
+   "prev_close": 43.41,
+   "chg": 3.5476,
+   "chg_str": "+3.55%"
+  },
+  {
+   "name": "Baker Hughes",
+   "code": "BKR",
+   "sector": "Energy",
+   "close": 49.41,
+   "prev_close": 47.77,
+   "chg": 3.4331,
+   "chg_str": "+3.43%"
+  },
+  {
+   "name": "Marathon Petroleum",
+   "code": "MPC",
+   "sector": "Energy",
+   "close": 402.84,
+   "prev_close": 389.55,
+   "chg": 3.4116,
+   "chg_str": "+3.41%"
+  },
+  {
+   "name": "Dow Inc.",
+   "code": "DOW",
+   "sector": "Materials",
+   "close": 32.54,
+   "prev_close": 31.48,
+   "chg": 3.3672,
+   "chg_str": "+3.37%"
+  },
+  {
+   "name": "Halliburton",
+   "code": "HAL",
+   "sector": "Energy",
+   "close": 32.93,
+   "prev_close": 31.86,
+   "chg": 3.3584,
+   "chg_str": "+3.36%"
+  },
+  {
+   "name": "Datadog",
+   "code": "DDOG",
+   "sector": "Information Technology",
+   "close": 184.38,
+   "prev_close": 178.4,
+   "chg": 3.352,
+   "chg_str": "+3.35%"
+  },
+  {
+   "name": "Emcor",
+   "code": "EME",
+   "sector": "Industrials",
+   "close": 666.74,
+   "prev_close": 645.39,
+   "chg": 3.3081,
+   "chg_str": "+3.31%"
+  },
+  {
+   "name": "LyondellBasell",
+   "code": "LYB",
+   "sector": "Materials",
+   "close": 62.58,
+   "prev_close": 60.6,
+   "chg": 3.2673,
+   "chg_str": "+3.27%"
+  },
+  {
+   "name": "Phillips 66",
+   "code": "PSX",
+   "sector": "Energy",
+   "close": 258.68,
+   "prev_close": 250.7,
+   "chg": 3.1831,
+   "chg_str": "+3.18%"
+  },
+  {
+   "name": "ServiceNow",
+   "code": "NOW",
+   "sector": "Information Technology",
+   "close": 102.76,
+   "prev_close": 99.61,
+   "chg": 3.1623,
+   "chg_str": "+3.16%"
+  },
+  {
+   "name": "Trimble Inc.",
+   "code": "TRMB",
+   "sector": "Information Technology",
+   "close": 56.48,
+   "prev_close": 54.75,
+   "chg": 3.1598,
+   "chg_str": "+3.16%"
+  },
+  {
+   "name": "Coinbase",
+   "code": "COIN",
+   "sector": "Financials",
+   "close": 136.27,
+   "prev_close": 132.13,
+   "chg": 3.1333,
+   "chg_str": "+3.13%"
+  },
+  {
+   "name": "Texas Instruments",
+   "code": "TXN",
+   "sector": "Information Technology",
+   "close": 309.81,
+   "prev_close": 300.52,
+   "chg": 3.0913,
+   "chg_str": "+3.09%"
+  },
+  {
+   "name": "NXP Semiconductors",
+   "code": "NXPI",
+   "sector": "Information Technology",
+   "close": 269.51,
+   "prev_close": 261.56,
+   "chg": 3.0395,
+   "chg_str": "+3.04%"
+  },
+  {
+   "name": "Freeport-McMoRan",
+   "code": "FCX",
+   "sector": "Materials",
+   "close": 62.12,
+   "prev_close": 60.31,
+   "chg": 3.0012,
+   "chg_str": "+3.00%"
+  },
+  {
+   "name": "Microchip Technology",
+   "code": "MCHP",
+   "sector": "Information Technology",
+   "close": 62.13,
+   "prev_close": 60.33,
+   "chg": 2.9836,
+   "chg_str": "+2.98%"
+  },
+  {
+   "name": "Take-Two Interactive",
+   "code": "TTWO",
+   "sector": "Communication Services",
+   "close": 231.31,
+   "prev_close": 224.64,
+   "chg": 2.9692,
+   "chg_str": "+2.97%"
+  },
+  {
+   "name": "Carrier Global",
+   "code": "CARR",
+   "sector": "Industrials",
+   "close": 54.58,
+   "prev_close": 53.01,
+   "chg": 2.9617,
+   "chg_str": "+2.96%"
+  },
+  {
+   "name": "Caterpillar Inc.",
+   "code": "CAT",
+   "sector": "Industrials",
+   "close": 601.61,
+   "prev_close": 584.57,
+   "chg": 2.915,
+   "chg_str": "+2.91%"
+  },
+  {
+   "name": "Tesla, Inc.",
+   "code": "TSLA",
+   "sector": "Consumer Discretionary",
+   "close": 390.84,
+   "prev_close": 379.78,
+   "chg": 2.9122,
+   "chg_str": "+2.91%"
+  },
+  {
+   "name": "Nvidia",
+   "code": "NVDA",
+   "sector": "Information Technology",
+   "close": 173.73,
+   "prev_close": 168.89,
+   "chg": 2.8658,
+   "chg_str": "+2.87%"
+  },
+  {
+   "name": "Expeditors International",
+   "code": "EXPD",
+   "sector": "Industrials",
+   "close": 194.59,
+   "prev_close": 189.19,
+   "chg": 2.8543,
+   "chg_str": "+2.85%"
+  },
+  {
+   "name": "FactSet",
+   "code": "FDS",
+   "sector": "Financials",
+   "close": 334.88,
+   "prev_close": 325.98,
+   "chg": 2.7302,
+   "chg_str": "+2.73%"
+  },
+  {
+   "name": "Cisco",
+   "code": "CSCO",
+   "sector": "Information Technology",
+   "close": 100.76,
+   "prev_close": 98.15,
+   "chg": 2.6592,
+   "chg_str": "+2.66%"
+  },
+  {
+   "name": "Constellation Energy",
+   "code": "CEG",
+   "sector": "Utilities",
+   "close": 274.73,
+   "prev_close": 267.76,
+   "chg": 2.6031,
+   "chg_str": "+2.60%"
+  },
+  {
+   "name": "Palo Alto Networks",
+   "code": "PANW",
+   "sector": "Information Technology",
+   "close": 334.47,
+   "prev_close": 326.36,
+   "chg": 2.485,
+   "chg_str": "+2.48%"
+  },
+  {
+   "name": "Johnson Controls",
+   "code": "JCI",
+   "sector": "Industrials",
+   "close": 144.61,
+   "prev_close": 141.12,
+   "chg": 2.4731,
+   "chg_str": "+2.47%"
+  },
+  {
+   "name": "Texas Pacific Land Corporation",
+   "code": "TPL",
+   "sector": "Energy",
+   "close": 281.42,
+   "prev_close": 274.63,
+   "chg": 2.4724,
+   "chg_str": "+2.47%"
+  },
+  {
+   "name": "Twilio",
+   "code": "TWLO",
+   "sector": "Information Technology",
+   "close": 219.48,
+   "prev_close": 214.21,
+   "chg": 2.4602,
+   "chg_str": "+2.46%"
+  },
+  {
+   "name": "Paccar",
+   "code": "PCAR",
+   "sector": "Industrials",
+   "close": 108.13,
+   "prev_close": 105.57,
+   "chg": 2.4249,
+   "chg_str": "+2.42%"
+  },
+  {
+   "name": "Intercontinental Exchange",
+   "code": "ICE",
+   "sector": "Financials",
+   "close": 180.59,
+   "prev_close": 176.36,
+   "chg": 2.3985,
+   "chg_str": "+2.40%"
+  },
+  {
+   "name": "Expedia Group",
+   "code": "EXPE",
+   "sector": "Consumer Discretionary",
+   "close": 259.79,
+   "prev_close": 253.77,
+   "chg": 2.3722,
+   "chg_str": "+2.37%"
+  },
+  {
+   "name": "Qnity Electronics",
+   "code": "Q",
+   "sector": "Information Technology",
+   "close": 126.57,
+   "prev_close": 123.64,
+   "chg": 2.3698,
+   "chg_str": "+2.37%"
+  },
+  {
+   "name": "DaVita",
+   "code": "DVA",
+   "sector": "Health Care",
+   "close": 183.5,
+   "prev_close": 179.28,
+   "chg": 2.3539,
+   "chg_str": "+2.35%"
+  },
+  {
+   "name": "AppLovin",
+   "code": "APP",
+   "sector": "Communication Services",
+   "close": 404.77,
+   "prev_close": 395.51,
+   "chg": 2.3413,
+   "chg_str": "+2.34%"
+  },
+  {
+   "name": "Archer Daniels Midland",
+   "code": "ADM",
+   "sector": "Consumer Staples",
+   "close": 70.92,
+   "prev_close": 69.3,
+   "chg": 2.3377,
+   "chg_str": "+2.34%"
+  },
+  {
+   "name": "Rockwell Automation",
+   "code": "ROK",
+   "sector": "Industrials",
+   "close": 406.19,
+   "prev_close": 397.16,
+   "chg": 2.2736,
+   "chg_str": "+2.27%"
+  },
+  {
+   "name": "Howmet Aerospace",
+   "code": "HWM",
+   "sector": "Industrials",
+   "close": 224.0,
+   "prev_close": 219.05,
+   "chg": 2.2598,
+   "chg_str": "+2.26%"
+  },
+  {
+   "name": "Casey's",
+   "code": "CASY",
+   "sector": "Consumer Staples",
+   "close": 714.11,
+   "prev_close": 698.48,
+   "chg": 2.2377,
+   "chg_str": "+2.24%"
+  },
+  {
+   "name": "CDW Corporation",
+   "code": "CDW",
+   "sector": "Information Technology",
+   "close": 173.08,
+   "prev_close": 169.36,
+   "chg": 2.1965,
+   "chg_str": "+2.20%"
+  },
+  {
+   "name": "CME Group",
+   "code": "CME",
+   "sector": "Financials",
+   "close": 315.865,
+   "prev_close": 309.09,
+   "chg": 2.1919,
+   "chg_str": "+2.19%"
+  },
+  {
+   "name": "Okta, Inc.",
+   "code": "OKTA",
+   "sector": "Information Technology",
+   "close": 182.25,
+   "prev_close": 178.36,
+   "chg": 2.181,
+   "chg_str": "+2.18%"
+  },
+  {
+   "name": "FedEx Freight",
+   "code": "FDXF",
+   "sector": "Industrials",
+   "close": 132.64,
+   "prev_close": 129.83,
+   "chg": 2.1644,
+   "chg_str": "+2.16%"
+  },
+  {
+   "name": "Williams Companies",
+   "code": "WMB",
+   "sector": "Energy",
+   "close": 68.92,
+   "prev_close": 67.46,
+   "chg": 2.1642,
+   "chg_str": "+2.16%"
+  },
+  {
+   "name": "Gartner",
+   "code": "IT",
+   "sector": "Information Technology",
+   "close": 193.0,
+   "prev_close": 188.92,
+   "chg": 2.1596,
+   "chg_str": "+2.16%"
+  },
+  {
+   "name": "Schlumberger",
+   "code": "SLB",
+   "sector": "Energy",
+   "close": 50.96,
+   "prev_close": 49.9,
+   "chg": 2.1242,
+   "chg_str": "+2.12%"
+  },
+  {
+   "name": "Salesforce",
+   "code": "CRM",
+   "sector": "Information Technology",
+   "close": 218.01,
+   "prev_close": 213.48,
+   "chg": 2.122,
+   "chg_str": "+2.12%"
+  },
+  {
+   "name": "Palantir Technologies",
+   "code": "PLTR",
+   "sector": "Information Technology",
+   "close": 172.4,
+   "prev_close": 168.82,
+   "chg": 2.1206,
+   "chg_str": "+2.12%"
+  },
+  {
+   "name": "Alphabet Inc. (Class A)",
+   "code": "GOOGL",
+   "sector": "Communication Services",
+   "close": 293.45,
+   "prev_close": 287.38,
+   "chg": 2.1122,
+   "chg_str": "+2.11%"
+  },
+  {
+   "name": "Gen Digital",
+   "code": "GEN",
+   "sector": "Information Technology",
+   "close": 30.635,
+   "prev_close": 30.01,
+   "chg": 2.0826,
+   "chg_str": "+2.08%"
+  },
+  {
+   "name": "Apple Inc.",
+   "code": "AAPL",
+   "sector": "Information Technology",
+   "close": 355.63,
+   "prev_close": 348.51,
+   "chg": 2.043,
+   "chg_str": "+2.04%"
+  },
+  {
+   "name": "Netflix",
+   "code": "NFLX",
+   "sector": "Communication Services",
+   "close": 64.54,
+   "prev_close": 63.26,
+   "chg": 2.0234,
+   "chg_str": "+2.02%"
+  },
+  {
+   "name": "Costco",
+   "code": "COST",
+   "sector": "Consumer Staples",
+   "close": 1087.61,
+   "prev_close": 1066.14,
+   "chg": 2.0138,
+   "chg_str": "+2.01%"
+  },
+  {
+   "name": "Chipotle Mexican Grill",
+   "code": "CMG",
+   "sector": "Consumer Discretionary",
+   "close": 36.64,
+   "prev_close": 35.92,
+   "chg": 2.0045,
+   "chg_str": "+2.00%"
+  },
+  {
+   "name": "Alphabet Inc. (Class C)",
+   "code": "GOOG",
+   "sector": "Communication Services",
+   "close": 290.63,
+   "prev_close": 284.92,
+   "chg": 2.0041,
+   "chg_str": "+2.00%"
+  },
+  {
+   "name": "Cummins",
+   "code": "CMI",
+   "sector": "Industrials",
+   "close": 463.26,
+   "prev_close": 454.18,
+   "chg": 1.9992,
+   "chg_str": "+2.00%"
+  },
+  {
+   "name": "Ferguson Enterprises",
+   "code": "FERG",
+   "sector": "Industrials",
+   "close": 264.5,
+   "prev_close": 259.44,
+   "chg": 1.9504,
+   "chg_str": "+1.95%"
+  },
+  {
+   "name": "Nucor",
+   "code": "NUE",
+   "sector": "Materials",
+   "close": 261.39,
+   "prev_close": 256.47,
+   "chg": 1.9184,
+   "chg_str": "+1.92%"
+  },
+  {
+   "name": "HP Inc.",
+   "code": "HPQ",
+   "sector": "Information Technology",
+   "close": 28.96,
+   "prev_close": 28.42,
+   "chg": 1.9001,
+   "chg_str": "+1.90%"
+  },
+  {
+   "name": "ResMed",
+   "code": "RMD",
+   "sector": "Health Care",
+   "close": 238.53,
+   "prev_close": 234.11,
+   "chg": 1.888,
+   "chg_str": "+1.89%"
+  },
+  {
+   "name": "Zebra Technologies",
+   "code": "ZBRA",
+   "sector": "Information Technology",
+   "close": 327.44,
+   "prev_close": 321.38,
+   "chg": 1.8856,
+   "chg_str": "+1.89%"
+  },
+  {
+   "name": "Humana",
+   "code": "HUM",
+   "sector": "Health Care",
+   "close": 446.31,
+   "prev_close": 438.06,
+   "chg": 1.8833,
+   "chg_str": "+1.88%"
+  },
+  {
+   "name": "Pinnacle West Capital",
+   "code": "PNW",
+   "sector": "Utilities",
+   "close": 107.91,
+   "prev_close": 105.96,
+   "chg": 1.8403,
+   "chg_str": "+1.84%"
+  },
+  {
+   "name": "Honeywell Aerospace",
+   "code": "HONA",
+   "sector": "Industrials",
+   "close": 169.53,
+   "prev_close": 166.47,
+   "chg": 1.8382,
+   "chg_str": "+1.84%"
+  },
+  {
+   "name": "Goldman Sachs",
+   "code": "GS",
+   "sector": "Financials",
+   "close": 926.81,
+   "prev_close": 910.19,
+   "chg": 1.826,
+   "chg_str": "+1.83%"
+  },
+  {
+   "name": "Garmin",
+   "code": "GRMN",
+   "sector": "Consumer Discretionary",
+   "close": 293.93,
+   "prev_close": 288.66,
+   "chg": 1.8257,
+   "chg_str": "+1.83%"
+  },
+  {
+   "name": "T-Mobile US",
+   "code": "TMUS",
+   "sector": "Communication Services",
+   "close": 172.16,
+   "prev_close": 169.08,
+   "chg": 1.8216,
+   "chg_str": "+1.82%"
+  },
+  {
+   "name": "Eaton Corporation",
+   "code": "ETN",
+   "sector": "Industrials",
+   "close": 360.62,
+   "prev_close": 354.22,
+   "chg": 1.8068,
+   "chg_str": "+1.81%"
+  },
+  {
+   "name": "Hasbro",
+   "code": "HAS",
+   "sector": "Consumer Discretionary",
+   "close": 124.02,
+   "prev_close": 121.82,
+   "chg": 1.8059,
+   "chg_str": "+1.81%"
+  },
+  {
+   "name": "Keurig Dr Pepper",
+   "code": "KDP",
+   "sector": "Consumer Staples",
+   "close": 38.25,
+   "prev_close": 37.59,
+   "chg": 1.7558,
+   "chg_str": "+1.76%"
+  },
+  {
+   "name": "Qualcomm",
+   "code": "QCOM",
+   "sector": "Information Technology",
+   "close": 176.57,
+   "prev_close": 173.53,
+   "chg": 1.7519,
+   "chg_str": "+1.75%"
+  },
+  {
+   "name": "Edwards Lifesciences",
+   "code": "EW",
+   "sector": "Health Care",
+   "close": 105.81,
+   "prev_close": 104.01,
+   "chg": 1.7306,
+   "chg_str": "+1.73%"
+  },
+  {
+   "name": "Vistra Corp.",
+   "code": "VST",
+   "sector": "Utilities",
+   "close": 133.45,
+   "prev_close": 131.18,
+   "chg": 1.7305,
+   "chg_str": "+1.73%"
+  },
+  {
+   "name": "Equinix",
+   "code": "EQIX",
+   "sector": "Real Estate",
+   "close": 1068.0601,
+   "prev_close": 1050.0,
+   "chg": 1.72,
+   "chg_str": "+1.72%"
+  },
+  {
+   "name": "Charter Communications",
+   "code": "CHTR",
+   "sector": "Communication Services",
+   "close": 136.31,
+   "prev_close": 134.06,
+   "chg": 1.6784,
+   "chg_str": "+1.68%"
+  },
+  {
+   "name": "Norwegian Cruise Line Holdings",
+   "code": "NCLH",
+   "sector": "Consumer Discretionary",
+   "close": 18.82,
+   "prev_close": 18.51,
+   "chg": 1.6748,
+   "chg_str": "+1.67%"
+  },
+  {
+   "name": "ConocoPhillips",
+   "code": "COP",
+   "sector": "Energy",
+   "close": 137.86,
+   "prev_close": 135.59,
+   "chg": 1.6742,
+   "chg_str": "+1.67%"
+  },
+  {
+   "name": "Incyte",
+   "code": "INCY",
+   "sector": "Health Care",
+   "close": 122.27,
+   "prev_close": 120.3,
+   "chg": 1.6376,
+   "chg_str": "+1.64%"
+  },
+  {
+   "name": "Diamondback Energy",
+   "code": "FANG",
+   "sector": "Energy",
+   "close": 180.98,
+   "prev_close": 178.08,
+   "chg": 1.6285,
+   "chg_str": "+1.63%"
+  },
+  {
+   "name": "Morgan Stanley",
+   "code": "MS",
+   "sector": "Financials",
+   "close": 190.61,
+   "prev_close": 187.56,
+   "chg": 1.6261,
+   "chg_str": "+1.63%"
+  },
+  {
+   "name": "CSX Corporation",
+   "code": "CSX",
+   "sector": "Industrials",
+   "close": 51.9,
+   "prev_close": 51.08,
+   "chg": 1.6053,
+   "chg_str": "+1.61%"
+  },
+  {
+   "name": "TransDigm Group",
+   "code": "TDG",
+   "sector": "Industrials",
+   "close": 1245.0,
+   "prev_close": 1225.54,
+   "chg": 1.5879,
+   "chg_str": "+1.59%"
+  },
+  {
+   "name": "Citigroup",
+   "code": "C",
+   "sector": "Financials",
+   "close": 124.21,
+   "prev_close": 122.27,
+   "chg": 1.5867,
+   "chg_str": "+1.59%"
+  },
+  {
+   "name": "IBM",
+   "code": "IBM",
+   "sector": "Information Technology",
+   "close": 248.22,
+   "prev_close": 244.53,
+   "chg": 1.509,
+   "chg_str": "+1.51%"
+  },
+  {
+   "name": "EOG Resources",
+   "code": "EOG",
+   "sector": "Energy",
+   "close": 153.77,
+   "prev_close": 151.51,
+   "chg": 1.4917,
+   "chg_str": "+1.49%"
+  },
+  {
+   "name": "Iron Mountain",
+   "code": "IRM",
+   "sector": "Real Estate",
+   "close": 112.43,
+   "prev_close": 110.78,
+   "chg": 1.4894,
+   "chg_str": "+1.49%"
+  },
+  {
+   "name": "Motorola Solutions",
+   "code": "MSI",
+   "sector": "Information Technology",
+   "close": 535.22,
+   "prev_close": 527.38,
+   "chg": 1.4866,
+   "chg_str": "+1.49%"
+  },
+  {
+   "name": "State Street Corporation",
+   "code": "STT",
+   "sector": "Financials",
+   "close": 174.17,
+   "prev_close": 171.62,
+   "chg": 1.4858,
+   "chg_str": "+1.49%"
+  },
+  {
+   "name": "Old Dominion",
+   "code": "ODFL",
+   "sector": "Industrials",
+   "close": 170.5,
+   "prev_close": 168.02,
+   "chg": 1.476,
+   "chg_str": "+1.48%"
+  },
+  {
+   "name": "Dollar Tree",
+   "code": "DLTR",
+   "sector": "Consumer Staples",
+   "close": 142.9,
+   "prev_close": 140.83,
+   "chg": 1.4699,
+   "chg_str": "+1.47%"
+  },
+  {
+   "name": "CrowdStrike",
+   "code": "CRWD",
+   "sector": "Information Technology",
+   "close": 229.06,
+   "prev_close": 225.76,
+   "chg": 1.4617,
+   "chg_str": "+1.46%"
+  },
+  {
+   "name": "AT&T",
+   "code": "T",
+   "sector": "Communication Services",
+   "close": 22.26,
+   "prev_close": 21.94,
+   "chg": 1.4585,
+   "chg_str": "+1.46%"
+  },
+  {
+   "name": "GE Aerospace",
+   "code": "GE",
+   "sector": "Industrials",
+   "close": 342.75,
+   "prev_close": 337.91,
+   "chg": 1.4323,
+   "chg_str": "+1.43%"
+  },
+  {
+   "name": "Hershey Company (The)",
+   "code": "HSY",
+   "sector": "Consumer Staples",
+   "close": 176.43,
+   "prev_close": 173.95,
+   "chg": 1.4257,
+   "chg_str": "+1.43%"
+  },
+  {
+   "name": "GE Vernova",
+   "code": "GEV",
+   "sector": "Industrials",
+   "close": 808.24,
+   "prev_close": 797.04,
+   "chg": 1.4052,
+   "chg_str": "+1.41%"
+  },
+  {
+   "name": "Altria",
+   "code": "MO",
+   "sector": "Consumer Staples",
+   "close": 77.39,
+   "prev_close": 76.34,
+   "chg": 1.3754,
+   "chg_str": "+1.38%"
+  },
+  {
+   "name": "ExxonMobil",
+   "code": "XOM",
+   "sector": "Energy",
+   "close": 166.71,
+   "prev_close": 164.47,
+   "chg": 1.362,
+   "chg_str": "+1.36%"
+  },
+  {
+   "name": "Insulet Corporation",
+   "code": "PODD",
+   "sector": "Health Care",
+   "close": 150.03,
+   "prev_close": 148.06,
+   "chg": 1.3305,
+   "chg_str": "+1.33%"
+  },
+  {
+   "name": "EQT Corporation",
+   "code": "EQT",
+   "sector": "Energy",
+   "close": 52.69,
+   "prev_close": 52.0,
+   "chg": 1.3269,
+   "chg_str": "+1.33%"
+  },
+  {
+   "name": "Eversource Energy",
+   "code": "ES",
+   "sector": "Utilities",
+   "close": 70.54,
+   "prev_close": 69.62,
+   "chg": 1.3215,
+   "chg_str": "+1.32%"
+  },
+  {
+   "name": "Hubbell Incorporated",
+   "code": "HUBB",
+   "sector": "Industrials",
+   "close": 443.48,
+   "prev_close": 437.79,
+   "chg": 1.2997,
+   "chg_str": "+1.30%"
+  },
+  {
+   "name": "Kroger",
+   "code": "KR",
+   "sector": "Consumer Staples",
+   "close": 69.49,
+   "prev_close": 68.6,
+   "chg": 1.2974,
+   "chg_str": "+1.30%"
+  },
+  {
+   "name": "IDEX Corporation",
+   "code": "IEX",
+   "sector": "Industrials",
+   "close": 239.96,
+   "prev_close": 236.9,
+   "chg": 1.2917,
+   "chg_str": "+1.29%"
+  },
+  {
+   "name": "O'Reilly Automotive",
+   "code": "ORLY",
+   "sector": "Consumer Discretionary",
+   "close": 90.54,
+   "prev_close": 89.39,
+   "chg": 1.2865,
+   "chg_str": "+1.29%"
+  },
+  {
+   "name": "Kinder Morgan",
+   "code": "KMI",
+   "sector": "Energy",
+   "close": 31.59,
+   "prev_close": 31.19,
+   "chg": 1.2825,
+   "chg_str": "+1.28%"
+  },
+  {
+   "name": "Nordson Corporation",
+   "code": "NDSN",
+   "sector": "Industrials",
+   "close": 329.23,
+   "prev_close": 325.1,
+   "chg": 1.2704,
+   "chg_str": "+1.27%"
+  },
+  {
+   "name": "United Parcel Service",
+   "code": "UPS",
+   "sector": "Industrials",
+   "close": 112.45,
+   "prev_close": 111.05,
+   "chg": 1.2607,
+   "chg_str": "+1.26%"
+  },
+  {
+   "name": "MGM Resorts",
+   "code": "MGM",
+   "sector": "Consumer Discretionary",
+   "close": 33.47,
+   "prev_close": 33.06,
+   "chg": 1.2402,
+   "chg_str": "+1.24%"
+  },
+  {
+   "name": "Waste Management",
+   "code": "WM",
+   "sector": "Industrials",
+   "close": 240.29,
+   "prev_close": 237.38,
+   "chg": 1.2259,
+   "chg_str": "+1.23%"
+  },
+  {
+   "name": "Xcel Energy",
+   "code": "XEL",
+   "sector": "Utilities",
+   "close": 81.1,
+   "prev_close": 80.12,
+   "chg": 1.2232,
+   "chg_str": "+1.22%"
+  },
+  {
+   "name": "Steel Dynamics",
+   "code": "STLD",
+   "sector": "Materials",
+   "close": 238.99,
+   "prev_close": 236.12,
+   "chg": 1.2155,
+   "chg_str": "+1.22%"
+  },
+  {
+   "name": "Workday, Inc.",
+   "code": "WDAY",
+   "sector": "Information Technology",
+   "close": 191.16,
+   "prev_close": 188.89,
+   "chg": 1.2018,
+   "chg_str": "+1.20%"
+  },
+  {
+   "name": "Cboe Global Markets",
+   "code": "CBOE",
+   "sector": "Financials",
+   "close": 369.19,
+   "prev_close": 364.81,
+   "chg": 1.2006,
+   "chg_str": "+1.20%"
+  },
+  {
+   "name": "PayPal",
+   "code": "PYPL",
+   "sector": "Financials",
+   "close": 59.48,
+   "prev_close": 58.78,
+   "chg": 1.1909,
+   "chg_str": "+1.19%"
+  },
+  {
+   "name": "Fastenal",
+   "code": "FAST",
+   "sector": "Industrials",
+   "close": 55.49,
+   "prev_close": 54.84,
+   "chg": 1.1853,
+   "chg_str": "+1.19%"
+  },
+  {
+   "name": "Carvana",
+   "code": "CVNA",
+   "sector": "Consumer Discretionary",
+   "close": 73.87,
+   "prev_close": 73.02,
+   "chg": 1.1641,
+   "chg_str": "+1.16%"
+  },
+  {
+   "name": "Lockheed Martin",
+   "code": "LMT",
+   "sector": "Industrials",
+   "close": 610.05,
+   "prev_close": 603.12,
+   "chg": 1.149,
+   "chg_str": "+1.15%"
+  },
+  {
+   "name": "Albemarle Corporation",
+   "code": "ALB",
+   "sector": "Materials",
+   "close": 95.97,
+   "prev_close": 94.93,
+   "chg": 1.0955,
+   "chg_str": "+1.10%"
+  },
+  {
+   "name": "Comcast",
+   "code": "CMCSA",
+   "sector": "Communication Services",
+   "close": 25.02,
+   "prev_close": 24.75,
+   "chg": 1.0909,
+   "chg_str": "+1.09%"
+  },
+  {
+   "name": "Philip Morris International",
+   "code": "PM",
+   "sector": "Consumer Staples",
+   "close": 196.35,
+   "prev_close": 194.25,
+   "chg": 1.0811,
+   "chg_str": "+1.08%"
+  },
+  {
+   "name": "American Electric Power",
+   "code": "AEP",
+   "sector": "Utilities",
+   "close": 129.21,
+   "prev_close": 127.84,
+   "chg": 1.0717,
+   "chg_str": "+1.07%"
+  },
+  {
+   "name": "Live Nation Entertainment",
+   "code": "LYV",
+   "sector": "Communication Services",
+   "close": 180.16,
+   "prev_close": 178.25,
+   "chg": 1.0715,
+   "chg_str": "+1.07%"
+  },
+  {
+   "name": "BNY Mellon",
+   "code": "BNY",
+   "sector": "Financials",
+   "close": 152.69,
+   "prev_close": 151.14,
+   "chg": 1.0255,
+   "chg_str": "+1.03%"
+  },
+  {
+   "name": "Best Buy",
+   "code": "BBY",
+   "sector": "Consumer Discretionary",
+   "close": 105.16,
+   "prev_close": 104.1,
+   "chg": 1.0183,
+   "chg_str": "+1.02%"
+  },
+  {
+   "name": "Viatris",
+   "code": "VTRS",
+   "sector": "Health Care",
+   "close": 21.06,
+   "prev_close": 20.85,
+   "chg": 1.0072,
+   "chg_str": "+1.01%"
+  },
+  {
+   "name": "FedEx",
+   "code": "FDX",
+   "sector": "Industrials",
+   "close": 322.63,
+   "prev_close": 319.48,
+   "chg": 0.986,
+   "chg_str": "+0.99%"
+  },
+  {
+   "name": "Chevron Corporation",
+   "code": "CVX",
+   "sector": "Energy",
+   "close": 213.28,
+   "prev_close": 211.22,
+   "chg": 0.9753,
+   "chg_str": "+0.98%"
+  },
+  {
+   "name": "Ross Stores",
+   "code": "ROST",
+   "sector": "Consumer Discretionary",
+   "close": 241.27,
+   "prev_close": 238.95,
+   "chg": 0.9709,
+   "chg_str": "+0.97%"
+  },
+  {
+   "name": "Boston Scientific",
+   "code": "BSX",
+   "sector": "Health Care",
+   "close": 45.13,
+   "prev_close": 44.7,
+   "chg": 0.962,
+   "chg_str": "+0.96%"
+  },
+  {
+   "name": "Verisk Analytics",
+   "code": "VRSK",
+   "sector": "Industrials",
+   "close": 205.98,
+   "prev_close": 204.02,
+   "chg": 0.9607,
+   "chg_str": "+0.96%"
+  },
+  {
+   "name": "Trane Technologies",
+   "code": "TT",
+   "sector": "Industrials",
+   "close": 424.84,
+   "prev_close": 420.82,
+   "chg": 0.9553,
+   "chg_str": "+0.96%"
+  },
+  {
+   "name": "Verisign",
+   "code": "VRSN",
+   "sector": "Information Technology",
+   "close": 314.09,
+   "prev_close": 311.12,
+   "chg": 0.9546,
+   "chg_str": "+0.95%"
+  },
+  {
+   "name": "Air Products",
+   "code": "APD",
+   "sector": "Materials",
+   "close": 315.18,
+   "prev_close": 312.25,
+   "chg": 0.9383,
+   "chg_str": "+0.94%"
+  },
+  {
+   "name": "W. W. Grainger",
+   "code": "GWW",
+   "sector": "Industrials",
+   "close": 1486.53,
+   "prev_close": 1472.91,
+   "chg": 0.9247,
+   "chg_str": "+0.92%"
+  },
+  {
+   "name": "Fiserv",
+   "code": "FISV",
+   "sector": "Financials",
+   "close": 63.9,
+   "prev_close": 63.32,
+   "chg": 0.916,
+   "chg_str": "+0.92%"
+  },
+  {
+   "name": "Oneok",
+   "code": "OKE",
+   "sector": "Energy",
+   "close": 88.17,
+   "prev_close": 87.37,
+   "chg": 0.9156,
+   "chg_str": "+0.92%"
+  },
+  {
+   "name": "Tyler Technologies",
+   "code": "TYL",
+   "sector": "Information Technology",
+   "close": 425.52,
+   "prev_close": 421.66,
+   "chg": 0.9154,
+   "chg_str": "+0.92%"
+  },
+  {
+   "name": "Linde plc",
+   "code": "LIN",
+   "sector": "Materials",
+   "close": 526.55,
+   "prev_close": 521.78,
+   "chg": 0.9142,
+   "chg_str": "+0.91%"
+  },
+  {
+   "name": "Fox Corporation (Class A)",
+   "code": "FOXA",
+   "sector": "Communication Services",
+   "close": 67.98,
+   "prev_close": 67.37,
+   "chg": 0.9054,
+   "chg_str": "+0.91%"
+  },
+  {
+   "name": "Uber",
+   "code": "UBER",
+   "sector": "Industrials",
+   "close": 70.68,
+   "prev_close": 70.05,
+   "chg": 0.8994,
+   "chg_str": "+0.90%"
+  },
+  {
+   "name": "Becton Dickinson",
+   "code": "BDX",
+   "sector": "Health Care",
+   "close": 214.52,
+   "prev_close": 212.61,
+   "chg": 0.8984,
+   "chg_str": "+0.90%"
+  },
+  {
+   "name": "Cintas",
+   "code": "CTAS",
+   "sector": "Industrials",
+   "close": 227.26,
+   "prev_close": 225.28,
+   "chg": 0.8789,
+   "chg_str": "+0.88%"
+  },
+  {
+   "name": "Bunge Global",
+   "code": "BG",
+   "sector": "Consumer Staples",
+   "close": 100.28,
+   "prev_close": 99.42,
+   "chg": 0.865,
+   "chg_str": "+0.87%"
+  },
+  {
+   "name": "Citizens Financial Group",
+   "code": "CFG",
+   "sector": "Financials",
+   "close": 65.38,
+   "prev_close": 64.82,
+   "chg": 0.8639,
+   "chg_str": "+0.86%"
+  },
+  {
+   "name": "Idexx Laboratories",
+   "code": "IDXX",
+   "sector": "Health Care",
+   "close": 702.59,
+   "prev_close": 696.64,
+   "chg": 0.8541,
+   "chg_str": "+0.85%"
+  },
+  {
+   "name": "F5, Inc.",
+   "code": "FFIV",
+   "sector": "Information Technology",
+   "close": 320.01,
+   "prev_close": 317.31,
+   "chg": 0.8509,
+   "chg_str": "+0.85%"
+  },
+  {
+   "name": "Alexandria Real Estate Equities",
+   "code": "ARE",
+   "sector": "Real Estate",
+   "close": 45.08,
+   "prev_close": 44.7,
+   "chg": 0.8501,
+   "chg_str": "+0.85%"
+  },
+  {
+   "name": "Allegion",
+   "code": "ALLE",
+   "sector": "Industrials",
+   "close": 191.09,
+   "prev_close": 189.49,
+   "chg": 0.8444,
+   "chg_str": "+0.84%"
+  },
+  {
+   "name": "Berkshire Hathaway",
+   "code": "BRK.B",
+   "sector": "Financials",
+   "close": 588.24,
+   "prev_close": 583.34,
+   "chg": 0.84,
+   "chg_str": "+0.84%"
+  },
+  {
+   "name": "News Corp (Class A)",
+   "code": "NWSA",
+   "sector": "Communication Services",
+   "close": 26.83,
+   "prev_close": 26.61,
+   "chg": 0.8268,
+   "chg_str": "+0.83%"
+  },
+  {
+   "name": "Moody's Corporation",
+   "code": "MCO",
+   "sector": "Financials",
+   "close": 514.93,
+   "prev_close": 510.71,
+   "chg": 0.8263,
+   "chg_str": "+0.83%"
+  },
+  {
+   "name": "Norfolk Southern",
+   "code": "NSC",
+   "sector": "Industrials",
+   "close": 330.59,
+   "prev_close": 327.93,
+   "chg": 0.8111,
+   "chg_str": "+0.81%"
+  },
+  {
+   "name": "Lennox International",
+   "code": "LII",
+   "sector": "Industrials",
+   "close": 350.73,
+   "prev_close": 347.93,
+   "chg": 0.8048,
+   "chg_str": "+0.80%"
+  },
+  {
+   "name": "Parker Hannifin",
+   "code": "PH",
+   "sector": "Industrials",
+   "close": 972.9,
+   "prev_close": 965.17,
+   "chg": 0.8009,
+   "chg_str": "+0.80%"
+  },
+  {
+   "name": "Expand Energy",
+   "code": "EXE",
+   "sector": "Energy",
+   "close": 88.63,
+   "prev_close": 87.94,
+   "chg": 0.7846,
+   "chg_str": "+0.78%"
+  },
+  {
+   "name": "Teledyne Technologies",
+   "code": "TDY",
+   "sector": "Information Technology",
+   "close": 651.12,
+   "prev_close": 646.13,
+   "chg": 0.7723,
+   "chg_str": "+0.77%"
+  },
+  {
+   "name": "Progressive Corporation",
+   "code": "PGR",
+   "sector": "Financials",
+   "close": 233.53,
+   "prev_close": 231.75,
+   "chg": 0.7681,
+   "chg_str": "+0.77%"
+  },
+  {
+   "name": "TE Connectivity",
+   "code": "TEL",
+   "sector": "Information Technology",
+   "close": 219.41,
+   "prev_close": 217.76,
+   "chg": 0.7577,
+   "chg_str": "+0.76%"
+  },
+  {
+   "name": "CF Industries",
+   "code": "CF",
+   "sector": "Materials",
+   "close": 123.24,
+   "prev_close": 122.36,
+   "chg": 0.7192,
+   "chg_str": "+0.72%"
+  },
+  {
+   "name": "MSCI",
+   "code": "MSCI",
+   "sector": "Financials",
+   "close": 661.53,
+   "prev_close": 656.86,
+   "chg": 0.711,
+   "chg_str": "+0.71%"
+  },
+  {
+   "name": "Universal Health Services",
+   "code": "UHS",
+   "sector": "Health Care",
+   "close": 196.77,
+   "prev_close": 195.41,
+   "chg": 0.696,
+   "chg_str": "+0.70%"
+  },
+  {
+   "name": "Republic Services",
+   "code": "RSG",
+   "sector": "Industrials",
+   "close": 249.34,
+   "prev_close": 247.62,
+   "chg": 0.6946,
+   "chg_str": "+0.69%"
+  },
+  {
+   "name": "Coca-Cola Company (The)",
+   "code": "KO",
+   "sector": "Consumer Staples",
+   "close": 97.57,
+   "prev_close": 96.91,
+   "chg": 0.681,
+   "chg_str": "+0.68%"
+  },
+  {
+   "name": "Roper Technologies",
+   "code": "ROP",
+   "sector": "Information Technology",
+   "close": 477.7,
+   "prev_close": 474.47,
+   "chg": 0.6808,
+   "chg_str": "+0.68%"
+  },
+  {
+   "name": "Boeing",
+   "code": "BA",
+   "sector": "Industrials",
+   "close": 174.54,
+   "prev_close": 173.38,
+   "chg": 0.669,
+   "chg_str": "+0.67%"
+  },
+  {
+   "name": "Capital One",
+   "code": "COF",
+   "sector": "Financials",
+   "close": 197.11,
+   "prev_close": 195.84,
+   "chg": 0.6485,
+   "chg_str": "+0.65%"
+  },
+  {
+   "name": "Intuit",
+   "code": "INTU",
+   "sector": "Information Technology",
+   "close": 342.64,
+   "prev_close": 340.44,
+   "chg": 0.6462,
+   "chg_str": "+0.65%"
+  },
+  {
+   "name": "American International Group",
+   "code": "AIG",
+   "sector": "Financials",
+   "close": 82.85,
+   "prev_close": 82.32,
+   "chg": 0.6438,
+   "chg_str": "+0.64%"
+  },
+  {
+   "name": "Fox Corporation (Class B)",
+   "code": "FOX",
+   "sector": "Communication Services",
+   "close": 60.63,
+   "prev_close": 60.25,
+   "chg": 0.6307,
+   "chg_str": "+0.63%"
+  },
+  {
+   "name": "AutoZone",
+   "code": "AZO",
+   "sector": "Consumer Discretionary",
+   "close": 3237.73,
+   "prev_close": 3217.4399,
+   "chg": 0.6306,
+   "chg_str": "+0.63%"
+  },
+  {
+   "name": "Verizon",
+   "code": "VZ",
+   "sector": "Communication Services",
+   "close": 46.6,
+   "prev_close": 46.31,
+   "chg": 0.6262,
+   "chg_str": "+0.63%"
+  },
+  {
+   "name": "Amgen",
+   "code": "AMGN",
+   "sector": "Health Care",
+   "close": 468.11,
+   "prev_close": 465.23,
+   "chg": 0.619,
+   "chg_str": "+0.62%"
+  },
+  {
+   "name": "J.B. Hunt",
+   "code": "JBHT",
+   "sector": "Industrials",
+   "close": 227.66,
+   "prev_close": 226.27,
+   "chg": 0.6143,
+   "chg_str": "+0.61%"
+  },
+  {
+   "name": "Visa Inc.",
+   "code": "V",
+   "sector": "Financials",
+   "close": 425.55,
+   "prev_close": 423.0,
+   "chg": 0.6028,
+   "chg_str": "+0.60%"
+  },
+  {
+   "name": "Ecolab",
+   "code": "ECL",
+   "sector": "Materials",
+   "close": 307.86,
+   "prev_close": 306.03,
+   "chg": 0.598,
+   "chg_str": "+0.60%"
+  },
+  {
+   "name": "Deere & Company",
+   "code": "DE",
+   "sector": "Industrials",
+   "close": 691.75,
+   "prev_close": 687.64,
+   "chg": 0.5977,
+   "chg_str": "+0.60%"
+  },
+  {
+   "name": "Occidental Petroleum",
+   "code": "OXY",
+   "sector": "Energy",
+   "close": 57.24,
+   "prev_close": 56.9,
+   "chg": 0.5975,
+   "chg_str": "+0.60%"
+  },
+  {
+   "name": "Booking Holdings",
+   "code": "BKNG",
+   "sector": "Consumer Discretionary",
+   "close": 160.21,
+   "prev_close": 159.26,
+   "chg": 0.5965,
+   "chg_str": "+0.60%"
+  },
+  {
+   "name": "Ametek",
+   "code": "AME",
+   "sector": "Industrials",
+   "close": 239.69,
+   "prev_close": 238.31,
+   "chg": 0.5791,
+   "chg_str": "+0.58%"
+  },
+  {
+   "name": "NiSource",
+   "code": "NI",
+   "sector": "Utilities",
+   "close": 45.55,
+   "prev_close": 45.29,
+   "chg": 0.5741,
+   "chg_str": "+0.57%"
+  },
+  {
+   "name": "CVS Health",
+   "code": "CVS",
+   "sector": "Health Care",
+   "close": 89.52,
+   "prev_close": 89.01,
+   "chg": 0.573,
+   "chg_str": "+0.57%"
+  },
+  {
+   "name": "Target Corporation",
+   "code": "TGT",
+   "sector": "Consumer Staples",
+   "close": 162.7,
+   "prev_close": 161.78,
+   "chg": 0.5687,
+   "chg_str": "+0.57%"
+  },
+  {
+   "name": "Dexcom",
+   "code": "DXCM",
+   "sector": "Health Care",
+   "close": 80.345,
+   "prev_close": 79.92,
+   "chg": 0.5318,
+   "chg_str": "+0.53%"
+  },
+  {
+   "name": "Loews Corporation",
+   "code": "L",
+   "sector": "Financials",
+   "close": 111.51,
+   "prev_close": 110.93,
+   "chg": 0.5229,
+   "chg_str": "+0.52%"
+  },
+  {
+   "name": "Alliant Energy",
+   "code": "LNT",
+   "sector": "Utilities",
+   "close": 73.62,
+   "prev_close": 73.24,
+   "chg": 0.5188,
+   "chg_str": "+0.52%"
+  },
+  {
+   "name": "RTX Corporation",
+   "code": "RTX",
+   "sector": "Industrials",
+   "close": 201.29,
+   "prev_close": 200.27,
+   "chg": 0.5093,
+   "chg_str": "+0.51%"
+  },
+  {
+   "name": "DTE Energy",
+   "code": "DTE",
+   "sector": "Utilities",
+   "close": 139.69,
+   "prev_close": 138.99,
+   "chg": 0.5036,
+   "chg_str": "+0.50%"
+  },
+  {
+   "name": "Corpay",
+   "code": "CPAY",
+   "sector": "Financials",
+   "close": 461.95,
+   "prev_close": 459.64,
+   "chg": 0.5026,
+   "chg_str": "+0.50%"
+  },
+  {
+   "name": "Union Pacific Corporation",
+   "code": "UNP",
+   "sector": "Industrials",
+   "close": 302.11,
+   "prev_close": 300.62,
+   "chg": 0.4956,
+   "chg_str": "+0.50%"
+  },
+  {
+   "name": "MetLife",
+   "code": "MET",
+   "sector": "Financials",
+   "close": 102.94,
+   "prev_close": 102.44,
+   "chg": 0.4881,
+   "chg_str": "+0.49%"
+  },
+  {
+   "name": "Veralto",
+   "code": "VLTO",
+   "sector": "Industrials",
+   "close": 118.77,
+   "prev_close": 118.21,
+   "chg": 0.4737,
+   "chg_str": "+0.47%"
+  },
+  {
+   "name": "Synopsys",
+   "code": "SNPS",
+   "sector": "Information Technology",
+   "close": 462.12,
+   "prev_close": 459.95,
+   "chg": 0.4718,
+   "chg_str": "+0.47%"
+  },
+  {
+   "name": "McCormick & Company",
+   "code": "MKC",
+   "sector": "Consumer Staples",
+   "close": 46.94,
+   "prev_close": 46.72,
+   "chg": 0.4709,
+   "chg_str": "+0.47%"
+  },
+  {
+   "name": "KeyCorp",
+   "code": "KEY",
+   "sector": "Financials",
+   "close": 21.44,
+   "prev_close": 21.34,
+   "chg": 0.4686,
+   "chg_str": "+0.47%"
+  },
+  {
+   "name": "Northern Trust",
+   "code": "NTRS",
+   "sector": "Financials",
+   "close": 178.71,
+   "prev_close": 177.89,
+   "chg": 0.461,
+   "chg_str": "+0.46%"
+  },
+  {
+   "name": "Synchrony Financial",
+   "code": "SYF",
+   "sector": "Financials",
+   "close": 72.02,
+   "prev_close": 71.7,
+   "chg": 0.4463,
+   "chg_str": "+0.45%"
+  },
+  {
+   "name": "PPG Industries",
+   "code": "PPG",
+   "sector": "Materials",
+   "close": 124.97,
+   "prev_close": 124.42,
+   "chg": 0.4421,
+   "chg_str": "+0.44%"
+  },
+  {
+   "name": "Northrop Grumman",
+   "code": "NOC",
+   "sector": "Industrials",
+   "close": 550.96,
+   "prev_close": 548.61,
+   "chg": 0.4284,
+   "chg_str": "+0.43%"
+  },
+  {
+   "name": "Centene Corporation",
+   "code": "CNC",
+   "sector": "Health Care",
+   "close": 70.48,
+   "prev_close": 70.19,
+   "chg": 0.4132,
+   "chg_str": "+0.41%"
+  },
+  {
+   "name": "Allstate",
+   "code": "ALL",
+   "sector": "Financials",
+   "close": 262.18,
+   "prev_close": 261.12,
+   "chg": 0.4059,
+   "chg_str": "+0.41%"
+  },
+  {
+   "name": "Jack Henry & Associates",
+   "code": "JKHY",
+   "sector": "Financials",
+   "close": 175.9,
+   "prev_close": 175.19,
+   "chg": 0.4053,
+   "chg_str": "+0.41%"
+  },
+  {
+   "name": "News Corp (Class B)",
+   "code": "NWS",
+   "sector": "Communication Services",
+   "close": 29.93,
+   "prev_close": 29.81,
+   "chg": 0.4026,
+   "chg_str": "+0.40%"
+  },
+  {
+   "name": "NRG Energy",
+   "code": "NRG",
+   "sector": "Utilities",
+   "close": 97.5,
+   "prev_close": 97.11,
+   "chg": 0.4016,
+   "chg_str": "+0.40%"
+  },
+  {
+   "name": "Snap-on",
+   "code": "SNA",
+   "sector": "Industrials",
+   "close": 374.75,
+   "prev_close": 373.28,
+   "chg": 0.3938,
+   "chg_str": "+0.39%"
+  },
+  {
+   "name": "Willis Towers Watson",
+   "code": "WTW",
+   "sector": "Financials",
+   "close": 334.18,
+   "prev_close": 332.87,
+   "chg": 0.3935,
+   "chg_str": "+0.39%"
+  },
+  {
+   "name": "WEC Energy Group",
+   "code": "WEC",
+   "sector": "Utilities",
+   "close": 117.47,
+   "prev_close": 117.01,
+   "chg": 0.3931,
+   "chg_str": "+0.39%"
+  },
+  {
+   "name": "A. O. Smith",
+   "code": "AOS",
+   "sector": "Industrials",
+   "close": 64.61,
+   "prev_close": 64.36,
+   "chg": 0.3884,
+   "chg_str": "+0.39%"
+  },
+  {
+   "name": "Fifth Third Bancorp",
+   "code": "FITB",
+   "sector": "Financials",
+   "close": 54.4,
+   "prev_close": 54.19,
+   "chg": 0.3875,
+   "chg_str": "+0.39%"
+  },
+  {
+   "name": "JPMorgan Chase",
+   "code": "JPM",
+   "sector": "Financials",
+   "close": 343.39,
+   "prev_close": 342.07,
+   "chg": 0.3859,
+   "chg_str": "+0.39%"
+  },
+  {
+   "name": "Adobe Inc.",
+   "code": "ADBE",
+   "sector": "Information Technology",
+   "close": 237.6,
+   "prev_close": 236.7,
+   "chg": 0.3802,
+   "chg_str": "+0.38%"
+  },
+  {
+   "name": "Assurant",
+   "code": "AIZ",
+   "sector": "Financials",
+   "close": 323.38,
+   "prev_close": 322.16,
+   "chg": 0.3787,
+   "chg_str": "+0.38%"
+  },
+  {
+   "name": "Aflac",
+   "code": "AFL",
+   "sector": "Financials",
+   "close": 127.11,
+   "prev_close": 126.64,
+   "chg": 0.3711,
+   "chg_str": "+0.37%"
+  },
+  {
+   "name": "AbbVie",
+   "code": "ABBV",
+   "sector": "Health Care",
+   "close": 294.98,
+   "prev_close": 293.89,
+   "chg": 0.3709,
+   "chg_str": "+0.37%"
+  },
+  {
+   "name": "Walt Disney Company (The)",
+   "code": "DIS",
+   "sector": "Communication Services",
+   "close": 119.65,
+   "prev_close": 119.21,
+   "chg": 0.3691,
+   "chg_str": "+0.37%"
+  },
+  {
+   "name": "S&P Global",
+   "code": "SPGI",
+   "sector": "Financials",
+   "close": 475.11,
+   "prev_close": 473.38,
+   "chg": 0.3655,
+   "chg_str": "+0.37%"
+  },
+  {
+   "name": "Labcorp",
+   "code": "LH",
+   "sector": "Health Care",
+   "close": 372.23,
+   "prev_close": 370.88,
+   "chg": 0.364,
+   "chg_str": "+0.36%"
+  },
+  {
+   "name": "GoDaddy",
+   "code": "GDDY",
+   "sector": "Information Technology",
+   "close": 113.54,
+   "prev_close": 113.13,
+   "chg": 0.3624,
+   "chg_str": "+0.36%"
+  },
+  {
+   "name": "Lilly (Eli)",
+   "code": "LLY",
+   "sector": "Health Care",
+   "close": 1437.29,
+   "prev_close": 1432.29,
+   "chg": 0.3491,
+   "chg_str": "+0.35%"
+  },
+  {
+   "name": "Southwest Airlines",
+   "code": "LUV",
+   "sector": "Industrials",
+   "close": 46.48,
+   "prev_close": 46.32,
+   "chg": 0.3454,
+   "chg_str": "+0.35%"
+  },
+  {
+   "name": "BlackRock",
+   "code": "BLK",
+   "sector": "Financials",
+   "close": 1226.3101,
+   "prev_close": 1222.15,
+   "chg": 0.3404,
+   "chg_str": "+0.34%"
+  },
+  {
+   "name": "Everest Group",
+   "code": "EG",
+   "sector": "Financials",
+   "close": 423.74,
+   "prev_close": 422.32,
+   "chg": 0.3362,
+   "chg_str": "+0.34%"
+  },
+  {
+   "name": "Cencora",
+   "code": "COR",
+   "sector": "Health Care",
+   "close": 349.88,
+   "prev_close": 348.71,
+   "chg": 0.3355,
+   "chg_str": "+0.34%"
+  },
+  {
+   "name": "Chubb Limited",
+   "code": "CB",
+   "sector": "Financials",
+   "close": 370.33,
+   "prev_close": 369.11,
+   "chg": 0.3305,
+   "chg_str": "+0.33%"
+  },
+  {
+   "name": "HCA Healthcare",
+   "code": "HCA",
+   "sector": "Health Care",
+   "close": 506.04,
+   "prev_close": 504.42,
+   "chg": 0.3212,
+   "chg_str": "+0.32%"
+  },
+  {
+   "name": "Pfizer",
+   "code": "PFE",
+   "sector": "Health Care",
+   "close": 29.45,
+   "prev_close": 29.36,
+   "chg": 0.3065,
+   "chg_str": "+0.31%"
+  },
+  {
+   "name": "PNC Financial Services",
+   "code": "PNC",
+   "sector": "Financials",
+   "close": 232.0,
+   "prev_close": 231.3,
+   "chg": 0.3026,
+   "chg_str": "+0.30%"
+  },
+  {
+   "name": "Automatic Data Processing",
+   "code": "ADP",
+   "sector": "Industrials",
+   "close": 306.36,
+   "prev_close": 305.44,
+   "chg": 0.3012,
+   "chg_str": "+0.30%"
+  },
+  {
+   "name": "Mastercard",
+   "code": "MA",
+   "sector": "Financials",
+   "close": 660.73,
+   "prev_close": 658.84,
+   "chg": 0.2869,
+   "chg_str": "+0.29%"
+  },
+  {
+   "name": "Marsh McLennan",
+   "code": "MRSH",
+   "sector": "Financials",
+   "close": 207.52,
+   "prev_close": 206.94,
+   "chg": 0.2803,
+   "chg_str": "+0.28%"
+  },
+  {
+   "name": "Huntington Bancshares",
+   "code": "HBAN",
+   "sector": "Financials",
+   "close": 15.88,
+   "prev_close": 15.84,
+   "chg": 0.2525,
+   "chg_str": "+0.25%"
+  },
+  {
+   "name": "Entergy",
+   "code": "ETR",
+   "sector": "Utilities",
+   "close": 111.99,
+   "prev_close": 111.71,
+   "chg": 0.2506,
+   "chg_str": "+0.25%"
+  },
+  {
+   "name": "Clorox",
+   "code": "CLX",
+   "sector": "Consumer Staples",
+   "close": 106.86,
+   "prev_close": 106.6,
+   "chg": 0.2439,
+   "chg_str": "+0.24%"
+  },
+  {
+   "name": "Mondelez International",
+   "code": "MDLZ",
+   "sector": "Consumer Staples",
+   "close": 66.7,
+   "prev_close": 66.54,
+   "chg": 0.2405,
+   "chg_str": "+0.24%"
+  },
+  {
+   "name": "Cardinal Health",
+   "code": "CAH",
+   "sector": "Health Care",
+   "close": 277.45,
+   "prev_close": 276.79,
+   "chg": 0.2384,
+   "chg_str": "+0.24%"
+  },
+  {
+   "name": "General Motors",
+   "code": "GM",
+   "sector": "Consumer Discretionary",
+   "close": 88.9,
+   "prev_close": 88.69,
+   "chg": 0.2368,
+   "chg_str": "+0.24%"
+  },
+  {
+   "name": "Fortive",
+   "code": "FTV",
+   "sector": "Industrials",
+   "close": 67.89,
+   "prev_close": 67.73,
+   "chg": 0.2362,
+   "chg_str": "+0.24%"
+  },
+  {
+   "name": "Church & Dwight",
+   "code": "CHD",
+   "sector": "Consumer Staples",
+   "close": 112.02,
+   "prev_close": 111.76,
+   "chg": 0.2326,
+   "chg_str": "+0.23%"
+  },
+  {
+   "name": "Illinois Tool Works",
+   "code": "ITW",
+   "sector": "Industrials",
+   "close": 288.72,
+   "prev_close": 288.05,
+   "chg": 0.2326,
+   "chg_str": "+0.23%"
+  },
+  {
+   "name": "PepsiCo",
+   "code": "PEP",
+   "sector": "Consumer Staples",
+   "close": 143.94,
+   "prev_close": 143.61,
+   "chg": 0.2298,
+   "chg_str": "+0.23%"
+  },
+  {
+   "name": "Jacobs Solutions",
+   "code": "J",
+   "sector": "Industrials",
+   "close": 157.47,
+   "prev_close": 157.11,
+   "chg": 0.2291,
+   "chg_str": "+0.23%"
+  },
+  {
+   "name": "L3Harris",
+   "code": "LHX",
+   "sector": "Industrials",
+   "close": 276.59,
+   "prev_close": 275.96,
+   "chg": 0.2283,
+   "chg_str": "+0.23%"
+  },
+  {
+   "name": "Wabtec",
+   "code": "WAB",
+   "sector": "Industrials",
+   "close": 304.18,
+   "prev_close": 303.49,
+   "chg": 0.2274,
+   "chg_str": "+0.23%"
+  },
+  {
+   "name": "Marriott International",
+   "code": "MAR",
+   "sector": "Consumer Discretionary",
+   "close": 429.18,
+   "prev_close": 428.26,
+   "chg": 0.2148,
+   "chg_str": "+0.21%"
+  },
+  {
+   "name": "Williams-Sonoma, Inc.",
+   "code": "WSM",
+   "sector": "Consumer Discretionary",
+   "close": 262.09,
+   "prev_close": 261.55,
+   "chg": 0.2065,
+   "chg_str": "+0.21%"
+  },
+  {
+   "name": "Southern Company",
+   "code": "SO",
+   "sector": "Utilities",
+   "close": 93.84,
+   "prev_close": 93.65,
+   "chg": 0.2029,
+   "chg_str": "+0.20%"
+  },
+  {
+   "name": "Dover Corporation",
+   "code": "DOV",
+   "sector": "Industrials",
+   "close": 212.43,
+   "prev_close": 212.0,
+   "chg": 0.2028,
+   "chg_str": "+0.20%"
+  },
+  {
+   "name": "Exelon",
+   "code": "EXC",
+   "sector": "Utilities",
+   "close": 45.61,
+   "prev_close": 45.53,
+   "chg": 0.1757,
+   "chg_str": "+0.18%"
+  },
+  {
+   "name": "Bristol Myers Squibb",
+   "code": "BMY",
+   "sector": "Health Care",
+   "close": 62.91,
+   "prev_close": 62.8,
+   "chg": 0.1752,
+   "chg_str": "+0.18%"
+  },
+  {
+   "name": "Apollo Global Management",
+   "code": "APO",
+   "sector": "Financials",
+   "close": 122.95,
+   "prev_close": 122.74,
+   "chg": 0.1711,
+   "chg_str": "+0.17%"
+  },
+  {
+   "name": "Block, Inc.",
+   "code": "XYZ",
+   "sector": "Financials",
+   "close": 85.72,
+   "prev_close": 85.58,
+   "chg": 0.1636,
+   "chg_str": "+0.16%"
+  },
+  {
+   "name": "Extra Space Storage",
+   "code": "EXR",
+   "sector": "Real Estate",
+   "close": 159.21,
+   "prev_close": 158.95,
+   "chg": 0.1636,
+   "chg_str": "+0.16%"
+  },
+  {
+   "name": "Atmos Energy",
+   "code": "ATO",
+   "sector": "Utilities",
+   "close": 175.65,
+   "prev_close": 175.37,
+   "chg": 0.1597,
+   "chg_str": "+0.16%"
+  },
+  {
+   "name": "TKO Group Holdings",
+   "code": "TKO",
+   "sector": "Communication Services",
+   "close": 199.5,
+   "prev_close": 199.22,
+   "chg": 0.1405,
+   "chg_str": "+0.14%"
+  },
+  {
+   "name": "Zimmer Biomet",
+   "code": "ZBH",
+   "sector": "Health Care",
+   "close": 107.47,
+   "prev_close": 107.32,
+   "chg": 0.1398,
+   "chg_str": "+0.14%"
+  },
+  {
+   "name": "Digital Realty",
+   "code": "DLR",
+   "sector": "Real Estate",
+   "close": 181.13,
+   "prev_close": 180.88,
+   "chg": 0.1382,
+   "chg_str": "+0.14%"
+  },
+  {
+   "name": "Zoetis",
+   "code": "ZTS",
+   "sector": "Health Care",
+   "close": 82.57,
+   "prev_close": 82.46,
+   "chg": 0.1334,
+   "chg_str": "+0.13%"
+  },
+  {
+   "name": "Monster Beverage",
+   "code": "MNST",
+   "sector": "Consumer Staples",
+   "close": 45.4,
+   "prev_close": 45.34,
+   "chg": 0.1323,
+   "chg_str": "+0.13%"
+  },
+  {
+   "name": "Rollins, Inc.",
+   "code": "ROL",
+   "sector": "Industrials",
+   "close": 38.47,
+   "prev_close": 38.42,
+   "chg": 0.1301,
+   "chg_str": "+0.13%"
+  },
+  {
+   "name": "Masco",
+   "code": "MAS",
+   "sector": "Industrials",
+   "close": 84.91,
+   "prev_close": 84.8,
+   "chg": 0.1297,
+   "chg_str": "+0.13%"
+  },
+  {
+   "name": "Huntington Ingalls Industries",
+   "code": "HII",
+   "sector": "Industrials",
+   "close": 313.96,
+   "prev_close": 313.57,
+   "chg": 0.1244,
+   "chg_str": "+0.12%"
+  },
+  {
+   "name": "Kraft Heinz",
+   "code": "KHC",
+   "sector": "Consumer Staples",
+   "close": 24.27,
+   "prev_close": 24.24,
+   "chg": 0.1238,
+   "chg_str": "+0.12%"
+  },
+  {
+   "name": "Darden Restaurants",
+   "code": "DRI",
+   "sector": "Consumer Discretionary",
+   "close": 228.94,
+   "prev_close": 228.66,
+   "chg": 0.1225,
+   "chg_str": "+0.12%"
+  },
+  {
+   "name": "Sherwin-Williams",
+   "code": "SHW",
+   "sector": "Materials",
+   "close": 355.76,
+   "prev_close": 355.34,
+   "chg": 0.1182,
+   "chg_str": "+0.12%"
+  },
+  {
+   "name": "Simon Property Group",
+   "code": "SPG",
+   "sector": "Real Estate",
+   "close": 234.75,
+   "prev_close": 234.48,
+   "chg": 0.1152,
+   "chg_str": "+0.12%"
+  },
+  {
+   "name": "FirstEnergy",
+   "code": "FE",
+   "sector": "Utilities",
+   "close": 46.53,
+   "prev_close": 46.48,
+   "chg": 0.1076,
+   "chg_str": "+0.11%"
+  },
+  {
+   "name": "Weyerhaeuser",
+   "code": "WY",
+   "sector": "Real Estate",
+   "close": 20.65,
+   "prev_close": 20.63,
+   "chg": 0.0969,
+   "chg_str": "+0.10%"
+  },
+  {
+   "name": "Quest Diagnostics",
+   "code": "DGX",
+   "sector": "Health Care",
+   "close": 258.69,
+   "prev_close": 258.44,
+   "chg": 0.0967,
+   "chg_str": "+0.10%"
+  },
+  {
+   "name": "Equifax",
+   "code": "EFX",
+   "sector": "Industrials",
+   "close": 188.41,
+   "prev_close": 188.23,
+   "chg": 0.0956,
+   "chg_str": "+0.10%"
+  },
+  {
+   "name": "Walmart",
+   "code": "WMT",
+   "sector": "Consumer Staples",
+   "close": 125.67,
+   "prev_close": 125.55,
+   "chg": 0.0956,
+   "chg_str": "+0.10%"
+  },
+  {
+   "name": "Dollar General",
+   "code": "DG",
+   "sector": "Consumer Staples",
+   "close": 137.44,
+   "prev_close": 137.31,
+   "chg": 0.0947,
+   "chg_str": "+0.09%"
+  },
+  {
+   "name": "Ventas",
+   "code": "VTR",
+   "sector": "Real Estate",
+   "close": 90.42,
+   "prev_close": 90.34,
+   "chg": 0.0886,
+   "chg_str": "+0.09%"
+  },
+  {
+   "name": "Home Depot (The)",
+   "code": "HD",
+   "sector": "Consumer Discretionary",
+   "close": 351.31,
+   "prev_close": 351.0,
+   "chg": 0.0883,
+   "chg_str": "+0.09%"
+  },
+  {
+   "name": "West Pharmaceutical Services",
+   "code": "WST",
+   "sector": "Health Care",
+   "close": 412.86,
+   "prev_close": 412.55,
+   "chg": 0.0751,
+   "chg_str": "+0.08%"
+  },
+  {
+   "name": "Aon plc",
+   "code": "AON",
+   "sector": "Financials",
+   "close": 336.55,
+   "prev_close": 336.34,
+   "chg": 0.0624,
+   "chg_str": "+0.06%"
+  },
+  {
+   "name": "Biogen",
+   "code": "BIIB",
+   "sector": "Health Care",
+   "close": 253.4,
+   "prev_close": 253.25,
+   "chg": 0.0592,
+   "chg_str": "+0.06%"
+  },
+  {
+   "name": "Realty Income",
+   "code": "O",
+   "sector": "Real Estate",
+   "close": 59.57,
+   "prev_close": 59.54,
+   "chg": 0.0504,
+   "chg_str": "+0.05%"
+  },
+  {
+   "name": "Wells Fargo",
+   "code": "WFC",
+   "sector": "Financials",
+   "close": 85.8,
+   "prev_close": 85.76,
+   "chg": 0.0466,
+   "chg_str": "+0.05%"
+  },
+  {
+   "name": "Omnicom Group",
+   "code": "OMC",
+   "sector": "Communication Services",
+   "close": 88.88,
+   "prev_close": 88.84,
+   "chg": 0.045,
+   "chg_str": "+0.05%"
+  },
+  {
+   "name": "Erie Indemnity",
+   "code": "ERIE",
+   "sector": "Financials",
+   "close": 272.18,
+   "prev_close": 272.09,
+   "chg": 0.0331,
+   "chg_str": "+0.03%"
+  },
+  {
+   "name": "Franklin Resources",
+   "code": "BEN",
+   "sector": "Financials",
+   "close": 36.3,
+   "prev_close": 36.29,
+   "chg": 0.0276,
+   "chg_str": "+0.03%"
+  },
+  {
+   "name": "Arch Capital Group",
+   "code": "ACGL",
+   "sector": "Financials",
+   "close": 109.17,
+   "prev_close": 109.14,
+   "chg": 0.0275,
+   "chg_str": "+0.03%"
+  },
+  {
+   "name": "Medtronic",
+   "code": "MDT",
+   "sector": "Health Care",
+   "close": 101.61,
+   "prev_close": 101.59,
+   "chg": 0.0197,
+   "chg_str": "+0.02%"
+  },
+  {
+   "name": "Ameriprise Financial",
+   "code": "AMP",
+   "sector": "Financials",
+   "close": 520.06,
+   "prev_close": 519.96,
+   "chg": 0.0192,
+   "chg_str": "+0.02%"
+  },
+  {
+   "name": "DoorDash",
+   "code": "DASH",
+   "sector": "Consumer Discretionary",
+   "close": 178.26,
+   "prev_close": 178.25,
+   "chg": 0.0056,
+   "chg_str": "+0.01%"
+  },
+  {
+   "name": "AES Corporation",
+   "code": "AES",
+   "sector": "Utilities",
+   "close": 14.92,
+   "prev_close": 14.92,
+   "chg": 0.0,
+   "chg_str": "+0.00%"
+  },
+  {
+   "name": "Truist Financial",
+   "code": "TFC",
+   "sector": "Financials",
+   "close": 50.26,
+   "prev_close": 50.26,
+   "chg": 0.0,
+   "chg_str": "+0.00%"
+  },
+  {
+   "name": "Yum! Brands",
+   "code": "YUM",
+   "sector": "Consumer Discretionary",
+   "close": 160.21,
+   "prev_close": 160.21,
+   "chg": 0.0,
+   "chg_str": "+0.00%"
+  },
+  {
+   "name": "Bank of America",
+   "code": "BAC",
+   "sector": "Financials",
+   "close": 50.67,
+   "prev_close": 50.68,
+   "chg": -0.0197,
+   "chg_str": "-0.02%"
+  },
+  {
+   "name": "Bio-Techne",
+   "code": "TECH",
+   "sector": "Health Care",
+   "close": 72.8,
+   "prev_close": 72.82,
+   "chg": -0.0275,
+   "chg_str": "-0.03%"
+  },
+  {
+   "name": "Autodesk",
+   "code": "ADSK",
+   "sector": "Information Technology",
+   "close": 260.01,
+   "prev_close": 260.11,
+   "chg": -0.0384,
+   "chg_str": "-0.04%"
+  },
+  {
+   "name": "Elevance Health",
+   "code": "ELV",
+   "sector": "Health Care",
+   "close": 429.48,
+   "prev_close": 429.65,
+   "chg": -0.0396,
+   "chg_str": "-0.04%"
+  },
+  {
+   "name": "Prologis",
+   "code": "PLD",
+   "sector": "Real Estate",
+   "close": 130.03,
+   "prev_close": 130.1,
+   "chg": -0.0538,
+   "chg_str": "-0.05%"
+  },
+  {
+   "name": "Starbucks",
+   "code": "SBUX",
+   "sector": "Consumer Discretionary",
+   "close": 109.89,
+   "prev_close": 109.95,
+   "chg": -0.0546,
+   "chg_str": "-0.05%"
+  },
+  {
+   "name": "Broadridge Financial Solutions",
+   "code": "BR",
+   "sector": "Industrials",
+   "close": 192.85,
+   "prev_close": 192.96,
+   "chg": -0.057,
+   "chg_str": "-0.06%"
+  },
+  {
+   "name": "Cincinnati Financial",
+   "code": "CINF",
+   "sector": "Financials",
+   "close": 189.78,
+   "prev_close": 189.89,
+   "chg": -0.0579,
+   "chg_str": "-0.06%"
+  },
+  {
+   "name": "Public Storage",
+   "code": "PSA",
+   "sector": "Real Estate",
+   "close": 335.73,
+   "prev_close": 335.93,
+   "chg": -0.0595,
+   "chg_str": "-0.06%"
+  },
+  {
+   "name": "General Dynamics",
+   "code": "GD",
+   "sector": "Industrials",
+   "close": 367.22,
+   "prev_close": 367.44,
+   "chg": -0.0599,
+   "chg_str": "-0.06%"
+  },
+  {
+   "name": "Thermo Fisher Scientific",
+   "code": "TMO",
+   "sector": "Health Care",
+   "close": 717.71,
+   "prev_close": 718.2,
+   "chg": -0.0682,
+   "chg_str": "-0.07%"
+  },
+  {
+   "name": "American Tower",
+   "code": "AMT",
+   "sector": "Real Estate",
+   "close": 190.24,
+   "prev_close": 190.37,
+   "chg": -0.0683,
+   "chg_str": "-0.07%"
+  },
+  {
+   "name": "Consolidated Edison",
+   "code": "ED",
+   "sector": "Utilities",
+   "close": 119.19,
+   "prev_close": 119.28,
+   "chg": -0.0754,
+   "chg_str": "-0.08%"
+  },
+  {
+   "name": "U.S. Bancorp",
+   "code": "USB",
+   "sector": "Financials",
+   "close": 60.7,
+   "prev_close": 60.75,
+   "chg": -0.0823,
+   "chg_str": "-0.08%"
+  },
+  {
+   "name": "Colgate-Palmolive",
+   "code": "CL",
+   "sector": "Consumer Staples",
+   "close": 98.0,
+   "prev_close": 98.09,
+   "chg": -0.0917,
+   "chg_str": "-0.09%"
+  },
+  {
+   "name": "American Express",
+   "code": "AXP",
+   "sector": "Financials",
+   "close": 323.11,
+   "prev_close": 323.46,
+   "chg": -0.1082,
+   "chg_str": "-0.11%"
+  },
+  {
+   "name": "Evergy",
+   "code": "EVRG",
+   "sector": "Utilities",
+   "close": 88.34,
+   "prev_close": 88.44,
+   "chg": -0.1131,
+   "chg_str": "-0.11%"
+  },
+  {
+   "name": "Intuitive Surgical",
+   "code": "ISRG",
+   "sector": "Health Care",
+   "close": 449.53,
+   "prev_close": 450.04,
+   "chg": -0.1133,
+   "chg_str": "-0.11%"
+  },
+  {
+   "name": "Lowe's",
+   "code": "LOW",
+   "sector": "Consumer Discretionary",
+   "close": 231.6,
+   "prev_close": 231.87,
+   "chg": -0.1164,
+   "chg_str": "-0.12%"
+  },
+  {
+   "name": "Welltower",
+   "code": "WELL",
+   "sector": "Real Estate",
+   "close": 247.35,
+   "prev_close": 247.66,
+   "chg": -0.1252,
+   "chg_str": "-0.13%"
+  },
+  {
+   "name": "Duke Energy",
+   "code": "DUK",
+   "sector": "Utilities",
+   "close": 128.77,
+   "prev_close": 128.94,
+   "chg": -0.1318,
+   "chg_str": "-0.13%"
+  },
+  {
+   "name": "Johnson & Johnson",
+   "code": "JNJ",
+   "sector": "Health Care",
+   "close": 280.41,
+   "prev_close": 280.78,
+   "chg": -0.1318,
+   "chg_str": "-0.13%"
+  },
+  {
+   "name": "Mettler Toledo",
+   "code": "MTD",
+   "sector": "Health Care",
+   "close": 1749.01,
+   "prev_close": 1751.38,
+   "chg": -0.1353,
+   "chg_str": "-0.14%"
+  },
+  {
+   "name": "Healthpeak Properties",
+   "code": "DOC",
+   "sector": "Real Estate",
+   "close": 20.38,
+   "prev_close": 20.41,
+   "chg": -0.147,
+   "chg_str": "-0.15%"
+  },
+  {
+   "name": "CBRE Group",
+   "code": "CBRE",
+   "sector": "Real Estate",
+   "close": 134.58,
+   "prev_close": 134.79,
+   "chg": -0.1558,
+   "chg_str": "-0.16%"
+  },
+  {
+   "name": "Vertex Pharmaceuticals",
+   "code": "VRTX",
+   "sector": "Health Care",
+   "close": 547.03,
+   "prev_close": 547.89,
+   "chg": -0.157,
+   "chg_str": "-0.16%"
+  },
+  {
+   "name": "BXP, Inc.",
+   "code": "BXP",
+   "sector": "Real Estate",
+   "close": 63.44,
+   "prev_close": 63.54,
+   "chg": -0.1574,
+   "chg_str": "-0.16%"
+  },
+  {
+   "name": "T. Rowe Price",
+   "code": "TROW",
+   "sector": "Financials",
+   "close": 110.69,
+   "prev_close": 110.9,
+   "chg": -0.1894,
+   "chg_str": "-0.19%"
+  },
+  {
+   "name": "M&T Bank",
+   "code": "MTB",
+   "sector": "Financials",
+   "close": 220.19,
+   "prev_close": 220.61,
+   "chg": -0.1904,
+   "chg_str": "-0.19%"
+  },
+  {
+   "name": "Carnival Corporation",
+   "code": "CCL",
+   "sector": "Consumer Discretionary",
+   "close": 30.68,
+   "prev_close": 30.74,
+   "chg": -0.1952,
+   "chg_str": "-0.20%"
+  },
+  {
+   "name": "Vici Properties",
+   "code": "VICI",
+   "sector": "Real Estate",
+   "close": 24.94,
+   "prev_close": 24.99,
+   "chg": -0.2001,
+   "chg_str": "-0.20%"
+  },
+  {
+   "name": "Sempra",
+   "code": "SRE",
+   "sector": "Utilities",
+   "close": 78.22,
+   "prev_close": 78.38,
+   "chg": -0.2041,
+   "chg_str": "-0.20%"
+  },
+  {
+   "name": "W. R. Berkley Corporation",
+   "code": "WRB",
+   "sector": "Financials",
+   "close": 76.67,
+   "prev_close": 76.83,
+   "chg": -0.2083,
+   "chg_str": "-0.21%"
+  },
+  {
+   "name": "PTC Inc.",
+   "code": "PTC",
+   "sector": "Information Technology",
+   "close": 196.14,
+   "prev_close": 196.55,
+   "chg": -0.2086,
+   "chg_str": "-0.21%"
+  },
+  {
+   "name": "Regions Financial Corporation",
+   "code": "RF",
+   "sector": "Financials",
+   "close": 28.64,
+   "prev_close": 28.7,
+   "chg": -0.2091,
+   "chg_str": "-0.21%"
+  },
+  {
+   "name": "Prudential Financial",
+   "code": "PRU",
+   "sector": "Financials",
+   "close": 123.04,
+   "prev_close": 123.3,
+   "chg": -0.2109,
+   "chg_str": "-0.21%"
+  },
+  {
+   "name": "CoStar Group",
+   "code": "CSGP",
+   "sector": "Real Estate",
+   "close": 30.265,
+   "prev_close": 30.33,
+   "chg": -0.2143,
+   "chg_str": "-0.21%"
+  },
+  {
+   "name": "IQVIA",
+   "code": "IQV",
+   "sector": "Health Care",
+   "close": 274.53,
+   "prev_close": 275.15,
+   "chg": -0.2253,
+   "chg_str": "-0.23%"
+  },
+  {
+   "name": "Arthur J. Gallagher & Co.",
+   "code": "AJG",
+   "sector": "Financials",
+   "close": 282.01,
+   "prev_close": 282.65,
+   "chg": -0.2264,
+   "chg_str": "-0.23%"
+  },
+  {
+   "name": "CMS Energy",
+   "code": "CMS",
+   "sector": "Utilities",
+   "close": 69.62,
+   "prev_close": 69.78,
+   "chg": -0.2293,
+   "chg_str": "-0.23%"
+  },
+  {
+   "name": "Kimco Realty",
+   "code": "KIM",
+   "sector": "Real Estate",
+   "close": 25.62,
+   "prev_close": 25.68,
+   "chg": -0.2336,
+   "chg_str": "-0.23%"
+  },
+  {
+   "name": "Ford Motor Company",
+   "code": "F",
+   "sector": "Consumer Discretionary",
+   "close": 12.25,
+   "prev_close": 12.28,
+   "chg": -0.2443,
+   "chg_str": "-0.24%"
+  },
+  {
+   "name": "Fair Isaac",
+   "code": "FICO",
+   "sector": "Information Technology",
+   "close": 728.85,
+   "prev_close": 730.66,
+   "chg": -0.2477,
+   "chg_str": "-0.25%"
+  },
+  {
+   "name": "Honeywell Technologies",
+   "code": "HON",
+   "sector": "Industrials",
+   "close": 227.64,
+   "prev_close": 228.22,
+   "chg": -0.2541,
+   "chg_str": "-0.25%"
+  },
+  {
+   "name": "Veeva Systems",
+   "code": "VEEV",
+   "sector": "Health Care",
+   "close": 304.77,
+   "prev_close": 305.55,
+   "chg": -0.2553,
+   "chg_str": "-0.26%"
+  },
+  {
+   "name": "McKesson",
+   "code": "MCK",
+   "sector": "Health Care",
+   "close": 1079.79,
+   "prev_close": 1082.59,
+   "chg": -0.2586,
+   "chg_str": "-0.26%"
+  },
+  {
+   "name": "3M",
+   "code": "MMM",
+   "sector": "Industrials",
+   "close": 188.88,
+   "prev_close": 189.37,
+   "chg": -0.2587,
+   "chg_str": "-0.26%"
+  },
+  {
+   "name": "Charles Schwab Corporation",
+   "code": "SCHW",
+   "sector": "Financials",
+   "close": 92.78,
+   "prev_close": 93.03,
+   "chg": -0.2687,
+   "chg_str": "-0.27%"
+  },
+  {
+   "name": "UDR, Inc.",
+   "code": "UDR",
+   "sector": "Real Estate",
+   "close": 36.56,
+   "prev_close": 36.66,
+   "chg": -0.2728,
+   "chg_str": "-0.27%"
+  },
+  {
+   "name": "Emerson Electric",
+   "code": "EMR",
+   "sector": "Industrials",
+   "close": 167.06,
+   "prev_close": 167.54,
+   "chg": -0.2865,
+   "chg_str": "-0.29%"
+  },
+  {
+   "name": "Baxter International",
+   "code": "BAX",
+   "sector": "Health Care",
+   "close": 26.34,
+   "prev_close": 26.42,
+   "chg": -0.3028,
+   "chg_str": "-0.30%"
+  },
+  {
+   "name": "Nasdaq, Inc.",
+   "code": "NDAQ",
+   "sector": "Financials",
+   "close": 109.68,
+   "prev_close": 110.02,
+   "chg": -0.309,
+   "chg_str": "-0.31%"
+  },
+  {
+   "name": "Crown Castle",
+   "code": "CCI",
+   "sector": "Real Estate",
+   "close": 89.06,
+   "prev_close": 89.35,
+   "chg": -0.3246,
+   "chg_str": "-0.32%"
+  },
+  {
+   "name": "NextEra Energy",
+   "code": "NEE",
+   "sector": "Utilities",
+   "close": 85.99,
+   "prev_close": 86.27,
+   "chg": -0.3246,
+   "chg_str": "-0.32%"
+  },
+  {
+   "name": "Travelers Companies (The)",
+   "code": "TRV",
+   "sector": "Financials",
+   "close": 399.46,
+   "prev_close": 400.78,
+   "chg": -0.3294,
+   "chg_str": "-0.33%"
+  },
+  {
+   "name": "Steris",
+   "code": "STE",
+   "sector": "Health Care",
+   "close": 256.27,
+   "prev_close": 257.12,
+   "chg": -0.3306,
+   "chg_str": "-0.33%"
+  },
+  {
+   "name": "Danaher Corporation",
+   "code": "DHR",
+   "sector": "Health Care",
+   "close": 235.31,
+   "prev_close": 236.11,
+   "chg": -0.3388,
+   "chg_str": "-0.34%"
+  },
+  {
+   "name": "TJX Companies",
+   "code": "TJX",
+   "sector": "Consumer Discretionary",
+   "close": 136.44,
+   "prev_close": 136.92,
+   "chg": -0.3506,
+   "chg_str": "-0.35%"
+  },
+  {
+   "name": "Ameren",
+   "code": "AEE",
+   "sector": "Utilities",
+   "close": 113.28,
+   "prev_close": 113.68,
+   "chg": -0.3519,
+   "chg_str": "-0.35%"
+  },
+  {
+   "name": "Henry Schein",
+   "code": "HSIC",
+   "sector": "Health Care",
+   "close": 88.42,
+   "prev_close": 88.74,
+   "chg": -0.3606,
+   "chg_str": "-0.36%"
+  },
+  {
+   "name": "Lennar",
+   "code": "LEN",
+   "sector": "Consumer Discretionary",
+   "close": 86.33,
+   "prev_close": 86.66,
+   "chg": -0.3808,
+   "chg_str": "-0.38%"
+  },
+  {
+   "name": "J.M. Smucker Company (The)",
+   "code": "SJM",
+   "sector": "Consumer Staples",
+   "close": 133.07,
+   "prev_close": 133.6,
+   "chg": -0.3967,
+   "chg_str": "-0.40%"
+  },
+  {
+   "name": "Copart",
+   "code": "CPRT",
+   "sector": "Industrials",
+   "close": 32.17,
+   "prev_close": 32.3,
+   "chg": -0.4025,
+   "chg_str": "-0.40%"
+  },
+  {
+   "name": "Aptiv",
+   "code": "APTV",
+   "sector": "Consumer Discretionary",
+   "close": 39.41,
+   "prev_close": 39.57,
+   "chg": -0.4043,
+   "chg_str": "-0.40%"
+  },
+  {
+   "name": "Blackstone Inc.",
+   "code": "BX",
+   "sector": "Financials",
+   "close": 122.01,
+   "prev_close": 122.53,
+   "chg": -0.4244,
+   "chg_str": "-0.42%"
+  },
+  {
+   "name": "Pentair",
+   "code": "PNR",
+   "sector": "Industrials",
+   "close": 69.33,
+   "prev_close": 69.63,
+   "chg": -0.4308,
+   "chg_str": "-0.43%"
+  },
+  {
+   "name": "Domino's",
+   "code": "DPZ",
+   "sector": "Consumer Discretionary",
+   "close": 328.6,
+   "prev_close": 330.06,
+   "chg": -0.4423,
+   "chg_str": "-0.44%"
+  },
+  {
+   "name": "Hartford (The)",
+   "code": "HIG",
+   "sector": "Financials",
+   "close": 137.18,
+   "prev_close": 137.8,
+   "chg": -0.4499,
+   "chg_str": "-0.45%"
+  },
+  {
+   "name": "Dominion Energy",
+   "code": "D",
+   "sector": "Utilities",
+   "close": 68.06,
+   "prev_close": 68.37,
+   "chg": -0.4534,
+   "chg_str": "-0.45%"
+  },
+  {
+   "name": "Avery Dennison",
+   "code": "AVY",
+   "sector": "Materials",
+   "close": 188.18,
+   "prev_close": 189.04,
+   "chg": -0.4549,
+   "chg_str": "-0.45%"
+  },
+  {
+   "name": "Edison International",
+   "code": "EIX",
+   "sector": "Utilities",
+   "close": 59.92,
+   "prev_close": 60.2,
+   "chg": -0.4651,
+   "chg_str": "-0.47%"
+  },
+  {
+   "name": "American Water Works",
+   "code": "AWK",
+   "sector": "Utilities",
+   "close": 149.66,
+   "prev_close": 150.36,
+   "chg": -0.4655,
+   "chg_str": "-0.47%"
+  },
+  {
+   "name": "Regency Centers",
+   "code": "REG",
+   "sector": "Real Estate",
+   "close": 76.18,
+   "prev_close": 76.54,
+   "chg": -0.4703,
+   "chg_str": "-0.47%"
+  },
+  {
+   "name": "Packaging Corporation of America",
+   "code": "PKG",
+   "sector": "Materials",
+   "close": 253.01,
+   "prev_close": 254.23,
+   "chg": -0.4799,
+   "chg_str": "-0.48%"
+  },
+  {
+   "name": "Public Service Enterprise Group",
+   "code": "PEG",
+   "sector": "Utilities",
+   "close": 74.29,
+   "prev_close": 74.68,
+   "chg": -0.5222,
+   "chg_str": "-0.52%"
+  },
+  {
+   "name": "Agilent Technologies",
+   "code": "A",
+   "sector": "Health Care",
+   "close": 176.95,
+   "prev_close": 177.88,
+   "chg": -0.5228,
+   "chg_str": "-0.52%"
+  },
+  {
+   "name": "Revvity",
+   "code": "RVTY",
+   "sector": "Health Care",
+   "close": 158.25,
+   "prev_close": 159.1,
+   "chg": -0.5343,
+   "chg_str": "-0.53%"
+  },
+  {
+   "name": "UnitedHealth Group",
+   "code": "UNH",
+   "sector": "Health Care",
+   "close": 402.94,
+   "prev_close": 405.12,
+   "chg": -0.5381,
+   "chg_str": "-0.54%"
+  },
+  {
+   "name": "Cigna",
+   "code": "CI",
+   "sector": "Health Care",
+   "close": 301.45,
+   "prev_close": 303.13,
+   "chg": -0.5542,
+   "chg_str": "-0.55%"
+  },
+  {
+   "name": "Mid-America Apartment Communities",
+   "code": "MAA",
+   "sector": "Real Estate",
+   "close": 118.19,
+   "prev_close": 118.86,
+   "chg": -0.5637,
+   "chg_str": "-0.56%"
+  },
+  {
+   "name": "Host Hotels & Resorts",
+   "code": "HST",
+   "sector": "Real Estate",
+   "close": 25.78,
+   "prev_close": 25.93,
+   "chg": -0.5785,
+   "chg_str": "-0.58%"
+  },
+  {
+   "name": "CenterPoint Energy",
+   "code": "CNP",
+   "sector": "Utilities",
+   "close": 41.0,
+   "prev_close": 41.24,
+   "chg": -0.582,
+   "chg_str": "-0.58%"
+  },
+  {
+   "name": "Raymond James Financial",
+   "code": "RJF",
+   "sector": "Financials",
+   "close": 167.13,
+   "prev_close": 168.11,
+   "chg": -0.5829,
+   "chg_str": "-0.58%"
+  },
+  {
+   "name": "Procter & Gamble",
+   "code": "PG",
+   "sector": "Consumer Staples",
+   "close": 167.67,
+   "prev_close": 168.66,
+   "chg": -0.587,
+   "chg_str": "-0.59%"
+  },
+  {
+   "name": "Merck & Co.",
+   "code": "MRK",
+   "sector": "Health Care",
+   "close": 147.18,
+   "prev_close": 148.05,
+   "chg": -0.5876,
+   "chg_str": "-0.59%"
+  },
+  {
+   "name": "Federal Realty Investment Trust",
+   "code": "FRT",
+   "sector": "Real Estate",
+   "close": 113.1,
+   "prev_close": 113.77,
+   "chg": -0.5889,
+   "chg_str": "-0.59%"
+  },
+  {
+   "name": "Vylor",
+   "code": "VYLR",
+   "sector": "Consumer Staples",
+   "close": 72.1,
+   "prev_close": 72.53,
+   "chg": -0.5929,
+   "chg_str": "-0.59%"
+  },
+  {
+   "name": "CRH plc",
+   "code": "CRH",
+   "sector": "Materials",
+   "close": 96.26,
+   "prev_close": 96.86,
+   "chg": -0.6194,
+   "chg_str": "-0.62%"
+  },
+  {
+   "name": "International Flavors & Fragrances",
+   "code": "IFF",
+   "sector": "Materials",
+   "close": 82.65,
+   "prev_close": 83.17,
+   "chg": -0.6252,
+   "chg_str": "-0.63%"
+  },
+  {
+   "name": "Essex Property Trust",
+   "code": "ESS",
+   "sector": "Real Estate",
+   "close": 274.0,
+   "prev_close": 275.75,
+   "chg": -0.6346,
+   "chg_str": "-0.63%"
+  },
+  {
+   "name": "Gilead Sciences",
+   "code": "GILD",
+   "sector": "Health Care",
+   "close": 169.73,
+   "prev_close": 170.87,
+   "chg": -0.6672,
+   "chg_str": "-0.67%"
+  },
+  {
+   "name": "eBay Inc.",
+   "code": "EBAY",
+   "sector": "Consumer Discretionary",
+   "close": 122.68,
+   "prev_close": 123.52,
+   "chg": -0.68,
+   "chg_str": "-0.68%"
+  },
+  {
+   "name": "Brown & Brown",
+   "code": "BRO",
+   "sector": "Financials",
+   "close": 71.39,
+   "prev_close": 71.89,
+   "chg": -0.6955,
+   "chg_str": "-0.70%"
+  },
+  {
+   "name": "Tyson Foods",
+   "code": "TSN",
+   "sector": "Consumer Staples",
+   "close": 59.87,
+   "prev_close": 60.29,
+   "chg": -0.6966,
+   "chg_str": "-0.70%"
+  },
+  {
+   "name": "Stanley Black & Decker",
+   "code": "SWK",
+   "sector": "Industrials",
+   "close": 115.62,
+   "prev_close": 116.44,
+   "chg": -0.7042,
+   "chg_str": "-0.70%"
+  },
+  {
+   "name": "Paychex",
+   "code": "PAYX",
+   "sector": "Industrials",
+   "close": 115.37,
+   "prev_close": 116.2,
+   "chg": -0.7143,
+   "chg_str": "-0.71%"
+  },
+  {
+   "name": "Cadence Design Systems",
+   "code": "CDNS",
+   "sector": "Information Technology",
+   "close": 329.26,
+   "prev_close": 331.64,
+   "chg": -0.7176,
+   "chg_str": "-0.72%"
+  },
+  {
+   "name": "SBA Communications",
+   "code": "SBAC",
+   "sector": "Real Estate",
+   "close": 190.03,
+   "prev_close": 191.43,
+   "chg": -0.7313,
+   "chg_str": "-0.73%"
+  },
+  {
+   "name": "Smurfit Westrock",
+   "code": "SW",
+   "sector": "Materials",
+   "close": 44.03,
+   "prev_close": 44.36,
+   "chg": -0.7439,
+   "chg_str": "-0.74%"
+  },
+  {
+   "name": "Hilton Worldwide",
+   "code": "HLT",
+   "sector": "Consumer Discretionary",
+   "close": 376.91,
+   "prev_close": 379.76,
+   "chg": -0.7505,
+   "chg_str": "-0.75%"
+  },
+  {
+   "name": "Genuine Parts Company",
+   "code": "GPC",
+   "sector": "Consumer Discretionary",
+   "close": 123.75,
+   "prev_close": 124.71,
+   "chg": -0.7698,
+   "chg_str": "-0.77%"
+  },
+  {
+   "name": "Martin Marietta Materials",
+   "code": "MLM",
+   "sector": "Materials",
+   "close": 524.13,
+   "prev_close": 528.21,
+   "chg": -0.7724,
+   "chg_str": "-0.77%"
+  },
+  {
+   "name": "Invitation Homes",
+   "code": "INVH",
+   "sector": "Real Estate",
+   "close": 26.88,
+   "prev_close": 27.09,
+   "chg": -0.7752,
+   "chg_str": "-0.78%"
+  },
+  {
+   "name": "KKR & Co.",
+   "code": "KKR",
+   "sector": "Financials",
+   "close": 100.05,
+   "prev_close": 100.85,
+   "chg": -0.7933,
+   "chg_str": "-0.79%"
+  },
+  {
+   "name": "Amphenol",
+   "code": "APH",
+   "sector": "Information Technology",
+   "close": 79.31,
+   "prev_close": 79.95,
+   "chg": -0.8005,
+   "chg_str": "-0.80%"
+  },
+  {
+   "name": "Camden Property Trust",
+   "code": "CPT",
+   "sector": "Real Estate",
+   "close": 99.09,
+   "prev_close": 99.89,
+   "chg": -0.8009,
+   "chg_str": "-0.80%"
+  },
+  {
+   "name": "Ulta Beauty",
+   "code": "ULTA",
+   "sector": "Consumer Discretionary",
+   "close": 659.08,
+   "prev_close": 664.41,
+   "chg": -0.8022,
+   "chg_str": "-0.80%"
+  },
+  {
+   "name": "Otis Worldwide",
+   "code": "OTIS",
+   "sector": "Industrials",
+   "close": 77.5,
+   "prev_close": 78.13,
+   "chg": -0.8063,
+   "chg_str": "-0.81%"
+  },
+  {
+   "name": "DuPont",
+   "code": "DD",
+   "sector": "Industrials",
+   "close": 155.61,
+   "prev_close": 156.88,
+   "chg": -0.8095,
+   "chg_str": "-0.81%"
+  },
+  {
+   "name": "Mosaic Company (The)",
+   "code": "MOS",
+   "sector": "Materials",
+   "close": 22.8,
+   "prev_close": 22.99,
+   "chg": -0.8264,
+   "chg_str": "-0.83%"
+  },
+  {
+   "name": "Invesco",
+   "code": "IVZ",
+   "sector": "Financials",
+   "close": 28.63,
+   "prev_close": 28.87,
+   "chg": -0.8313,
+   "chg_str": "-0.83%"
+  },
+  {
+   "name": "PulteGroup",
+   "code": "PHM",
+   "sector": "Consumer Discretionary",
+   "close": 129.5,
+   "prev_close": 130.6,
+   "chg": -0.8423,
+   "chg_str": "-0.84%"
+  },
+  {
+   "name": "Moderna",
+   "code": "MRNA",
+   "sector": "Health Care",
+   "close": 248.69,
+   "prev_close": 250.83,
+   "chg": -0.8532,
+   "chg_str": "-0.85%"
+  },
+  {
+   "name": "Cognizant",
+   "code": "CTSH",
+   "sector": "Information Technology",
+   "close": 64.43,
+   "prev_close": 65.0,
+   "chg": -0.8769,
+   "chg_str": "-0.88%"
+  },
+  {
+   "name": "Sysco",
+   "code": "SYY",
+   "sector": "Consumer Staples",
+   "close": 76.94,
+   "prev_close": 77.63,
+   "chg": -0.8888,
+   "chg_str": "-0.89%"
+  },
+  {
+   "name": "Charles River Laboratories",
+   "code": "CRL",
+   "sector": "Health Care",
+   "close": 342.69,
+   "prev_close": 345.8,
+   "chg": -0.8994,
+   "chg_str": "-0.90%"
+  },
+  {
+   "name": "Nike, Inc.",
+   "code": "NKE",
+   "sector": "Consumer Discretionary",
+   "close": 38.32,
+   "prev_close": 38.67,
+   "chg": -0.9051,
+   "chg_str": "-0.91%"
+  },
+  {
+   "name": "Ingersoll Rand",
+   "code": "IR",
+   "sector": "Industrials",
+   "close": 85.08,
+   "prev_close": 85.86,
+   "chg": -0.9085,
+   "chg_str": "-0.91%"
+  },
+  {
+   "name": "Illumina, Inc.",
+   "code": "ILMN",
+   "sector": "Health Care",
+   "close": 212.93,
+   "prev_close": 214.91,
+   "chg": -0.9213,
+   "chg_str": "-0.92%"
+  },
+  {
+   "name": "PPL Corporation",
+   "code": "PPL",
+   "sector": "Utilities",
+   "close": 35.38,
+   "prev_close": 35.72,
+   "chg": -0.9518,
+   "chg_str": "-0.95%"
+  },
+  {
+   "name": "Delta Air Lines",
+   "code": "DAL",
+   "sector": "Industrials",
+   "close": 91.32,
+   "prev_close": 92.2,
+   "chg": -0.9544,
+   "chg_str": "-0.95%"
+  },
+  {
+   "name": "Constellation Brands",
+   "code": "STZ",
+   "sector": "Consumer Staples",
+   "close": 144.12,
+   "prev_close": 145.51,
+   "chg": -0.9553,
+   "chg_str": "-0.96%"
+  },
+  {
+   "name": "Estée Lauder Companies (The)",
+   "code": "EL",
+   "sector": "Consumer Staples",
+   "close": 112.33,
+   "prev_close": 113.43,
+   "chg": -0.9698,
+   "chg_str": "-0.97%"
+  },
+  {
+   "name": "Waters Corporation",
+   "code": "WAT",
+   "sector": "Health Care",
+   "close": 470.9,
+   "prev_close": 475.52,
+   "chg": -0.9716,
+   "chg_str": "-0.97%"
+  },
+  {
+   "name": "PG&E Corporation",
+   "code": "PCG",
+   "sector": "Utilities",
+   "close": 13.1,
+   "prev_close": 13.23,
+   "chg": -0.9826,
+   "chg_str": "-0.98%"
+  },
+  {
+   "name": "Cooper Companies (The)",
+   "code": "COO",
+   "sector": "Health Care",
+   "close": 62.93,
+   "prev_close": 63.57,
+   "chg": -1.0068,
+   "chg_str": "-1.01%"
+  },
+  {
+   "name": "Textron",
+   "code": "TXT",
+   "sector": "Industrials",
+   "close": 85.94,
+   "prev_close": 86.82,
+   "chg": -1.0136,
+   "chg_str": "-1.01%"
+  },
+  {
+   "name": "Globe Life",
+   "code": "GL",
+   "sector": "Financials",
+   "close": 161.8,
+   "prev_close": 163.46,
+   "chg": -1.0155,
+   "chg_str": "-1.02%"
+  },
+  {
+   "name": "Vulcan Materials Company",
+   "code": "VMC",
+   "sector": "Materials",
+   "close": 284.37,
+   "prev_close": 287.31,
+   "chg": -1.0233,
+   "chg_str": "-1.02%"
+  },
+  {
+   "name": "Abbott Laboratories",
+   "code": "ABT",
+   "sector": "Health Care",
+   "close": 109.29,
+   "prev_close": 110.46,
+   "chg": -1.0592,
+   "chg_str": "-1.06%"
+  },
+  {
+   "name": "Ares Management",
+   "code": "ARES",
+   "sector": "Financials",
+   "close": 137.89,
+   "prev_close": 139.41,
+   "chg": -1.0903,
+   "chg_str": "-1.09%"
+  },
+  {
+   "name": "Principal Financial Group",
+   "code": "PFG",
+   "sector": "Financials",
+   "close": 114.69,
+   "prev_close": 115.99,
+   "chg": -1.1208,
+   "chg_str": "-1.12%"
+  },
+  {
+   "name": "General Mills",
+   "code": "GIS",
+   "sector": "Consumer Staples",
+   "close": 34.21,
+   "prev_close": 34.6,
+   "chg": -1.1272,
+   "chg_str": "-1.13%"
+  },
+  {
+   "name": "Hormel Foods",
+   "code": "HRL",
+   "sector": "Consumer Staples",
+   "close": 21.95,
+   "prev_close": 22.21,
+   "chg": -1.1706,
+   "chg_str": "-1.17%"
+  },
+  {
+   "name": "Newmont",
+   "code": "NEM",
+   "sector": "Materials",
+   "close": 118.47,
+   "prev_close": 119.96,
+   "chg": -1.2421,
+   "chg_str": "-1.24%"
+  },
+  {
+   "name": "Align Technology",
+   "code": "ALGN",
+   "sector": "Health Care",
+   "close": 172.08,
+   "prev_close": 174.26,
+   "chg": -1.251,
+   "chg_str": "-1.25%"
+  },
+  {
+   "name": "GE HealthCare",
+   "code": "GEHC",
+   "sector": "Health Care",
+   "close": 82.6,
+   "prev_close": 83.65,
+   "chg": -1.2552,
+   "chg_str": "-1.26%"
+  },
+  {
+   "name": "International Paper",
+   "code": "IP",
+   "sector": "Materials",
+   "close": 34.66,
+   "prev_close": 35.13,
+   "chg": -1.3379,
+   "chg_str": "-1.34%"
+  },
+  {
+   "name": "Global Payments",
+   "code": "GPN",
+   "sector": "Financials",
+   "close": 100.23,
+   "prev_close": 101.59,
+   "chg": -1.3387,
+   "chg_str": "-1.34%"
+  },
+  {
+   "name": "Royal Caribbean Group",
+   "code": "RCL",
+   "sector": "Consumer Discretionary",
+   "close": 335.18,
+   "prev_close": 339.85,
+   "chg": -1.3741,
+   "chg_str": "-1.37%"
+  },
+  {
+   "name": "Ralph Lauren Corporation",
+   "code": "RL",
+   "sector": "Consumer Discretionary",
+   "close": 394.05,
+   "prev_close": 399.61,
+   "chg": -1.3914,
+   "chg_str": "-1.39%"
+  },
+  {
+   "name": "Las Vegas Sands",
+   "code": "LVS",
+   "sector": "Consumer Discretionary",
+   "close": 40.23,
+   "prev_close": 40.82,
+   "chg": -1.4454,
+   "chg_str": "-1.45%"
+  },
+  {
+   "name": "Ball Corporation",
+   "code": "BALL",
+   "sector": "Materials",
+   "close": 65.81,
+   "prev_close": 66.79,
+   "chg": -1.4673,
+   "chg_str": "-1.47%"
+  },
+  {
+   "name": "D. R. Horton",
+   "code": "DHI",
+   "sector": "Consumer Discretionary",
+   "close": 147.48,
+   "prev_close": 149.7,
+   "chg": -1.483,
+   "chg_str": "-1.48%"
+  },
+  {
+   "name": "Deckers Brands",
+   "code": "DECK",
+   "sector": "Consumer Discretionary",
+   "close": 88.38,
+   "prev_close": 89.79,
+   "chg": -1.5703,
+   "chg_str": "-1.57%"
+  },
+  {
+   "name": "First Solar",
+   "code": "FSLR",
+   "sector": "Information Technology",
+   "close": 178.11,
+   "prev_close": 180.98,
+   "chg": -1.5858,
+   "chg_str": "-1.59%"
+  },
+  {
+   "name": "Solventum",
+   "code": "SOLV",
+   "sector": "Health Care",
+   "close": 88.62,
+   "prev_close": 90.08,
+   "chg": -1.6208,
+   "chg_str": "-1.62%"
+  },
+  {
+   "name": "Tapestry, Inc.",
+   "code": "TPR",
+   "sector": "Consumer Discretionary",
+   "close": 133.34,
+   "prev_close": 135.62,
+   "chg": -1.6812,
+   "chg_str": "-1.68%"
+  },
+  {
+   "name": "Stryker Corporation",
+   "code": "SYK",
+   "sector": "Health Care",
+   "close": 318.79,
+   "prev_close": 324.29,
+   "chg": -1.696,
+   "chg_str": "-1.70%"
+  },
+  {
+   "name": "Vivmark Residential",
+   "code": "VMRK",
+   "sector": "Real Estate",
+   "close": 64.63,
+   "prev_close": 65.75,
+   "chg": -1.7034,
+   "chg_str": "-1.70%"
+  },
+  {
+   "name": "Kimberly-Clark",
+   "code": "KMB",
+   "sector": "Consumer Staples",
+   "close": 108.86,
+   "prev_close": 110.76,
+   "chg": -1.7154,
+   "chg_str": "-1.72%"
+  },
+  {
+   "name": "Amazon",
+   "code": "AMZN",
+   "sector": "Consumer Discretionary",
+   "close": 266.17,
+   "prev_close": 270.87,
+   "chg": -1.7351,
+   "chg_str": "-1.74%"
+  },
+  {
+   "name": "Skydance",
+   "code": "SKYD",
+   "sector": "Communication Services",
+   "close": 7.9,
+   "prev_close": 8.04,
+   "chg": -1.7413,
+   "chg_str": "-1.74%"
+  },
+  {
+   "name": "Amcor",
+   "code": "AMCR",
+   "sector": "Materials",
+   "close": 44.39,
+   "prev_close": 45.19,
+   "chg": -1.7703,
+   "chg_str": "-1.77%"
+  },
+  {
+   "name": "Xylem Inc.",
+   "code": "XYL",
+   "sector": "Industrials",
+   "close": 95.11,
+   "prev_close": 96.84,
+   "chg": -1.7864,
+   "chg_str": "-1.79%"
+  },
+  {
+   "name": "United Airlines Holdings",
+   "code": "UAL",
+   "sector": "Industrials",
+   "close": 118.37,
+   "prev_close": 120.56,
+   "chg": -1.8165,
+   "chg_str": "-1.82%"
+  },
+  {
+   "name": "Accenture",
+   "code": "ACN",
+   "sector": "Information Technology",
+   "close": 253.66,
+   "prev_close": 258.51,
+   "chg": -1.8761,
+   "chg_str": "-1.88%"
+  },
+  {
+   "name": "EchoStar",
+   "code": "ECHO",
+   "sector": "Communication Services",
+   "close": 102.2,
+   "prev_close": 104.16,
+   "chg": -1.8817,
+   "chg_str": "-1.88%"
+  },
+  {
+   "name": "Meta Platforms",
+   "code": "META",
+   "sector": "Communication Services",
+   "close": 628.77,
+   "prev_close": 641.39,
+   "chg": -1.9676,
+   "chg_str": "-1.97%"
+  },
+  {
+   "name": "Tractor Supply",
+   "code": "TSCO",
+   "sector": "Consumer Discretionary",
+   "close": 36.74,
+   "prev_close": 37.5,
+   "chg": -2.0267,
+   "chg_str": "-2.03%"
+  },
+  {
+   "name": "Wynn Resorts",
+   "code": "WYNN",
+   "sector": "Consumer Discretionary",
+   "close": 85.38,
+   "prev_close": 87.3,
+   "chg": -2.1993,
+   "chg_str": "-2.20%"
+  },
+  {
+   "name": "Microsoft",
+   "code": "MSFT",
+   "sector": "Information Technology",
+   "close": 521.125,
+   "prev_close": 533.16,
+   "chg": -2.2573,
+   "chg_str": "-2.26%"
+  },
+  {
+   "name": "Brown–Forman",
+   "code": "BF.B",
+   "sector": "Consumer Staples",
+   "close": 30.1,
+   "prev_close": 30.82,
+   "chg": -2.3361,
+   "chg_str": "-2.34%"
+  },
+  {
+   "name": "NVR, Inc.",
+   "code": "NVR",
+   "sector": "Consumer Discretionary",
+   "close": 5895.3999,
+   "prev_close": 6036.4199,
+   "chg": -2.3362,
+   "chg_str": "-2.34%"
+  },
+  {
+   "name": "Leidos",
+   "code": "LDOS",
+   "sector": "Industrials",
+   "close": 133.89,
+   "prev_close": 137.24,
+   "chg": -2.441,
+   "chg_str": "-2.44%"
+  },
+  {
+   "name": "McDonald's",
+   "code": "MCD",
+   "sector": "Consumer Discretionary",
+   "close": 274.8,
+   "prev_close": 282.17,
+   "chg": -2.6119,
+   "chg_str": "-2.61%"
+  },
+  {
+   "name": "Lululemon Athletica",
+   "code": "LULU",
+   "sector": "Consumer Discretionary",
+   "close": 107.45,
+   "prev_close": 110.37,
+   "chg": -2.6457,
+   "chg_str": "-2.65%"
+  },
+  {
+   "name": "Airbnb",
+   "code": "ABNB",
+   "sector": "Consumer Discretionary",
+   "close": 181.13,
+   "prev_close": 186.9,
+   "chg": -3.0872,
+   "chg_str": "-3.09%"
+  }
+ ]
+}
