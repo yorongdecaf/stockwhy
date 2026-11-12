@@ -1,0 +1,16 @@
+{
+  "id": "kr_2026-11-12",
+  "cards": [
+    "card_01.jpg",
+    "card_02.jpg",
+    "card_03.jpg",
+    "card_04.jpg",
+    "card_05.jpg",
+    "card_06.jpg",
+    "card_07.jpg",
+    "card_08.jpg"
+  ],
+  "reel": "reel.mp4",
+  "reel_share_to_feed": false,
+  "publish": true
+}
