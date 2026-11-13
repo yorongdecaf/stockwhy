@@ -23,7 +23,10 @@ body{{font-family:{FONT};background:{PAPER};color:{INK};padding:84px 92px 0;disp
 .cbox span{{font-size:30px;font-weight:900;padding:12px 24px;border:3px solid;border-radius:14px}}
 .name{{font-size:96px;font-weight:900;letter-spacing:-3px;line-height:1.1;margin-top:64px}}
 .code{{font-size:32px;color:#9A9A9A;font-weight:700;margin-top:14px}}
-.pct{{font-size:150px;font-weight:900;letter-spacing:-5px;line-height:1;margin:34px 0 54px}}
+.pct{{font-size:150px;font-weight:900;letter-spacing:-5px;line-height:1;margin:34px 0 0}}
+.px{{font-size:36px;font-weight:700;color:#555;margin:22px 0 44px}}
+.px b{{font-weight:900;color:{INK}}}
+.r .pr{{margin-left:auto;margin-right:28px;font-weight:700;color:#8A8A8A;font-size:32px;align-self:center}}
 .lbl{{font-size:30px;font-weight:900;color:{GRAY};margin-bottom:14px}}
 .what{{font-size:40px;font-weight:700;line-height:1.45;padding-bottom:40px;border-bottom:3px solid {INK};margin-bottom:40px}}
 .why{{display:flex;gap:22px;font-size:42px;line-height:1.45;margin:18px 0;color:#2A2A2A}}
@@ -32,14 +35,34 @@ body{{font-family:{FONT};background:{PAPER};color:{INK};padding:84px 92px 0;disp
 .stitle{{font-size:72px;font-weight:900;letter-spacing:-2px;line-height:1.25;margin:36px 0 16px}}
 .grp{{font-size:30px;font-weight:900;margin:22px 0 4px}}
 .r{{display:flex;justify-content:space-between;font-size:40px;font-weight:700;padding:15px 0;border-bottom:2px solid #DDD8CC}}
-.r span:last-child{{font-weight:900}}
+.r span:last-child{{font-weight:900;min-width:200px;text-align:right}}
 .take{{margin-top:34px;background:{INK};color:#fff;border-radius:22px;padding:28px 36px;font-size:34px;font-weight:700;line-height:1.5}}
 .take em{{font-style:normal;color:{YELLOW}}}
+body.tight .name{{font-size:80px;margin-top:44px}} body.tight .pct{{font-size:118px;margin-top:22px}}
+body.tight .px{{margin:16px 0 30px}} body.tight .what{{padding-bottom:28px;margin-bottom:26px}}
+body.tight .why{{font-size:38px;margin:12px 0}}
 """
+
+# 글이 길어 하단 로고 줄과 겹치면 tight 모드로 다시 그림
+OVERFLOW_JS = """() => { const f = document.querySelector('.foot'); const w = [...document.querySelectorAll('.why')].pop();
+  return !!(f && w && w.getBoundingClientRect().bottom > f.getBoundingClientRect().top - 20); }"""
 
 def up_label(d): return d.get("up_label", "상승")   # 폭락장 등에서는 "선방"
 def up_mark(d): return "▲" if up_label(d) == "상승" else "●"
 def sign_color(chg): return DOWN if chg.strip().startswith("-") else UP
+
+def fmt_price(d, v):
+    """kr: 172,500원 / us: $585.30"""
+    return f"${v:,.2f}" if d["market"] == "us" else f"{v:,.0f}원"
+
+def price_line(d, s):
+    """종가 + 전일 대비 금액. 시세가 없으면 빈 문자열"""
+    if s.get("close") is None: return ""
+    t = f'종가 <b>{fmt_price(d, s["close"])}</b>'
+    if s.get("prev_close") is not None:
+        diff = s["close"] - s["prev_close"]
+        t += f'&nbsp;&nbsp;·&nbsp;&nbsp;전일 대비 {"▼" if diff < 0 else "▲"} {fmt_price(d, abs(diff))}'
+    return t
 
 def foot(left, right):
     return f'<div class="foot"><span>{left}</span><span>{right}</span></div>'
@@ -61,12 +84,13 @@ def stock(d, s, rank, up, page):
       <span class="date">{e(d['date'])}</span></div>
     <div class="name">{e(s['name'])}</div><div class="code">{e(s['code'])}</div>
     <div class="pct" style="color:{pc}"><span style="font-size:.55em;vertical-align:.32em;margin-right:14px">{'▼' if neg else '▲'}</span>{e(s['chg'].lstrip('+-'))}</div>
+    <div class="px">{price_line(d, s)}</div>
     <div class="lbl">어떤 회사?</div><div class="what">{e(s['what'])}</div>
     <div class="lbl">왜 <span class="hl" style="color:{INK}">{verb}</span></div>{whys}
     {foot(logo(24) + f'&nbsp;&nbsp;<span style="font-size:22px">{HANDLE}</span>', f'{page}/8')}"""
 
 def summary(d):
-    rows = lambda arr, c: "".join(f'<div class="r"><span>{e(s["name"])}</span><span style="color:{sign_color(s["chg"])}">{e(s["chg"])}</span></div>' for s in arr)
+    rows = lambda arr, c: "".join(f'<div class="r"><span>{e(s["name"])}</span>' + (f'<span class="pr">{fmt_price(d, s["close"])}</span>' if s.get("close") is not None else '') + f'<span style="color:{sign_color(s["chg"])}">{e(s["chg"])}</span></div>' for s in arr)
     return f"""<div class="top"><span class="chip" style="background:{INK}">한눈에 정리</span><span class="date">{e(d['date'])}</span></div>
     <div class="stitle">오늘의 {d['label']} <span class="hl">TOP 3</span></div>
     <div class="grp" style="color:{UP}">{up_mark(d)} {up_label(d)}</div>{rows(d['up'], UP)}
@@ -87,6 +111,10 @@ def render_cards(d, out):
         br = p.chromium.launch(); pg = br.new_page(viewport={"width": 1080, "height": 1350})
         for i, h in enumerate(pages(d), 1):
             pg.set_content(f"<html><head><meta charset='utf-8'><style>{CSS}</style></head><body>{h}</body></html>")
+            if pg.evaluate(OVERFLOW_JS):
+                pg.evaluate("() => document.body.classList.add('tight')")
+                if pg.evaluate(OVERFLOW_JS):
+                    print(f"⚠️ card_{i:02d}: 글이 길어 하단과 겹침 — 원고 문구를 줄이세요")
             pg.screenshot(path=str(out / f"card_{i:02d}.png"))
         br.close()
 

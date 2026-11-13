@@ -17,13 +17,29 @@ HASHTAGS = {
     "kr": "#국내주식 #국장 #주식 #코스피 #코스닥 #주가 #급등주 #급락주 #경제뉴스 #재테크 #주식공부 #스톡와이",
 }
 
+def attach_prices(d, pid):
+    """data/prices/<id>.json 에서 종가·전일종가를 코드로 찾아 붙임 (원고에 close가 있으면 그대로)"""
+    pf = ROOT / "data" / "prices" / f"{pid}.json"
+    if not pf.exists(): return
+    pr = json.loads(pf.read_text())
+    by = {str(x["code"]): x for x in pr.get("all", []) + pr.get("up_top3", []) + pr.get("down_top3", [])}
+    for s in d["up"] + d["down"]:
+        x = by.get(str(s["code"]))
+        if x and s.get("close") is None:
+            s["close"], s["prev_close"] = x.get("close"), x.get("prev_close")
+
+def px(d, s):
+    if s.get("close") is None: return ""
+    v = s["close"]
+    return f" ({'$' + format(v, ',.2f') if d['market'] == 'us' else format(v, ',.0f') + '원'})"
+
 def short_why(s):
     return s["why"][0].split(", ")[0]   # "1,150억" 같은 숫자 쉼표는 자르지 않음
 
 def caption(d):
     head = d["cover"]["title"].replace("\n", " ")
-    up = "\n".join(f"{i+1}. {s['name']} {s['chg']} : {short_why(s)}" for i, s in enumerate(d["up"]))
-    dn = "\n".join(f"{i+1}. {s['name']} {s['chg']} : {short_why(s)}" for i, s in enumerate(d["down"]))
+    up = "\n".join(f"{i+1}. {s['name']} {s['chg']}{px(d, s)} : {short_why(s)}" for i, s in enumerate(d["up"]))
+    dn = "\n".join(f"{i+1}. {s['name']} {s['chg']}{px(d, s)} : {short_why(s)}" for i, s in enumerate(d["down"]))
     names = " ".join("#" + s["name"].replace(" ", "") for s in d["up"] + d["down"])
     return (f"{head} 📈📉\n\n"
             f"{d['date']} · {d['cover']['sub']}\n\n"
@@ -38,8 +54,8 @@ def caption(d):
 def threads_text(d):
     """스레드는 본문 500자 제한 → 짧은 버전"""
     head = d["cover"]["title"].replace("\n", " ")
-    up = "\n".join(f"{'▼' if s['chg'].startswith('-') else '▲'} {s['name']} {s['chg']}" for s in d["up"])
-    dn = "\n".join(f"▼ {s['name']} {s['chg']}" for s in d["down"])
+    up = "\n".join(f"{'▼' if s['chg'].startswith('-') else '▲'} {s['name']} {s['chg']}{px(d, s)}" for s in d["up"])
+    dn = "\n".join(f"▼ {s['name']} {s['chg']}{px(d, s)}" for s in d["down"])
     t = (f"{head}\n\n{d['date']} · {d['cover']['sub']}\n\n{up}\n{dn}\n\n"
          f"💡 {d['takeaway']}\n\n오른 이유·내린 이유는 카드에서 👉\n"
          f"※ 정보 제공 목적, 투자 권유 아님")
@@ -50,6 +66,7 @@ def main(data_path):
     pid = pathlib.Path(data_path).stem                      # 예: us_2026-10-30
     out = ROOT / "posts" / pid
     work = ROOT / "build" / pid
+    attach_prices(d, pid)
     if out.exists(): shutil.rmtree(out)
     out.mkdir(parents=True); work.mkdir(parents=True, exist_ok=True)
 
