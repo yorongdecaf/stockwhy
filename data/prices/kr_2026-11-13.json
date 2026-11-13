@@ -3,7 +3,7 @@
  "date": "2026-11-13",
  "status": "ok",
  "source": "종목: 야후 .KS 일봉(KRX 정규장 종가) / 범위·지수: 네이버 증권",
- "fetched_at": "2026-11-13T16:45:06+09:00",
+ "fetched_at": "2026-11-13T17:11:35+09:00",
  "universe": "코스피 시가총액 상위 30 보통주 (ETF·우선주 제외, 수집 시점 시총 순)",
  "index": {
   "KOSPI": {
@@ -18,7 +18,7 @@
   }
  },
  "cover_sub": "코스피 -0.98% · 코스닥 +0.45%",
- "rising_count": 18,
+ "rising_count": 17,
  "up_label": "상승",
  "up_top3": [
   {
@@ -29,8 +29,8 @@
    "prev_close": 85000.0,
    "chg": 5.6471,
    "chg_str": "+5.65%",
-   "naver_chg": "+5.65%",
-   "mcap_eok": 421566.0
+   "naver_chg": "+5.53%",
+   "mcap_eok": 421097.0
   },
   {
    "rank": 27,
@@ -40,8 +40,8 @@
    "prev_close": 112600.0,
    "chg": 5.4174,
    "chg_str": "+5.42%",
-   "naver_chg": "+4.71%",
-   "mcap_eok": 197302.0
+   "naver_chg": "+4.80%",
+   "mcap_eok": 197470.0
   },
   {
    "rank": 7,
@@ -64,8 +64,19 @@
    "prev_close": 181800.0,
    "chg": -5.1155,
    "chg_str": "-5.12%",
-   "naver_chg": "-4.57%",
-   "mcap_eok": 263940.0
+   "naver_chg": "-4.46%",
+   "mcap_eok": 264244.0
+  },
+  {
+   "rank": 30,
+   "name": "고려아연",
+   "code": "010130",
+   "close": 866000.0,
+   "prev_close": 902000.0,
+   "chg": -3.9911,
+   "chg_str": "-3.99%",
+   "naver_chg": "-2.77%",
+   "mcap_eok": 183056.0
   },
   {
    "rank": 3,
@@ -75,19 +86,8 @@
    "prev_close": 791000.0,
    "chg": -3.6662,
    "chg_str": "-3.67%",
-   "naver_chg": "-3.54%",
-   "mcap_eok": 1006580.0
-  },
-  {
-   "rank": 6,
-   "name": "삼성전기",
-   "code": "009150",
-   "close": 855000.0,
-   "prev_close": 886000.0,
-   "chg": -3.4989,
-   "chg_str": "-3.50%",
-   "naver_chg": "-3.16%",
-   "mcap_eok": 640872.0
+   "naver_chg": "-3.41%",
+   "mcap_eok": 1007899.0
   }
  ],
  "missing": [],
@@ -100,8 +100,8 @@
    "prev_close": 85000.0,
    "chg": 5.6471,
    "chg_str": "+5.65%",
-   "naver_chg": "+5.65%",
-   "mcap_eok": 421566.0
+   "naver_chg": "+5.53%",
+   "mcap_eok": 421097.0
   },
   {
    "rank": 27,
@@ -111,8 +111,8 @@
    "prev_close": 112600.0,
    "chg": 5.4174,
    "chg_str": "+5.42%",
-   "naver_chg": "+4.71%",
-   "mcap_eok": 197302.0
+   "naver_chg": "+4.80%",
+   "mcap_eok": 197470.0
   },
   {
    "rank": 7,
@@ -133,8 +133,8 @@
    "prev_close": 20700.0,
    "chg": 3.6232,
    "chg_str": "+3.62%",
-   "naver_chg": "+3.38%",
-   "mcap_eok": 201853.0
+   "naver_chg": "+2.90%",
+   "mcap_eok": 200910.0
   },
   {
    "rank": 16,
@@ -159,17 +159,6 @@
    "mcap_eok": 239087.0
   },
   {
-   "rank": 30,
-   "name": "KT&G",
-   "code": "033780",
-   "close": 176000.0,
-   "prev_close": 171400.0,
-   "chg": 2.6838,
-   "chg_str": "+2.68%",
-   "naver_chg": "+2.92%",
-   "mcap_eok": 183122.0
-  },
-  {
    "rank": 10,
    "name": "셀트리온",
    "code": "068270",
@@ -177,8 +166,8 @@
    "prev_close": 209500.0,
    "chg": 2.148,
    "chg_str": "+2.15%",
-   "naver_chg": "+1.91%",
-   "mcap_eok": 495476.0
+   "naver_chg": "+1.67%",
+   "mcap_eok": 494315.0
   },
   {
    "rank": 29,
@@ -188,8 +177,8 @@
    "prev_close": 107400.0,
    "chg": 1.676,
    "chg_str": "+1.68%",
-   "naver_chg": "+1.58%",
-   "mcap_eok": 184437.0
+   "naver_chg": "+1.68%",
+   "mcap_eok": 184606.0
   },
   {
    "rank": 20,
@@ -210,8 +199,8 @@
    "prev_close": 266500.0,
    "chg": 1.1257,
    "chg_str": "+1.13%",
-   "naver_chg": "+1.13%",
-   "mcap_eok": 548342.0
+   "naver_chg": "+1.31%",
+   "mcap_eok": 549360.0
   },
   {
    "rank": 14,
@@ -232,8 +221,8 @@
    "prev_close": 473000.0,
    "chg": 1.0571,
    "chg_str": "+1.06%",
-   "naver_chg": "+1.27%",
-   "mcap_eok": 386005.0
+   "naver_chg": "+1.06%",
+   "mcap_eok": 385199.0
   },
   {
    "rank": 18,
@@ -243,8 +232,8 @@
    "prev_close": 352000.0,
    "chg": 0.9943,
    "chg_str": "+0.99%",
-   "naver_chg": "+1.42%",
-   "mcap_eok": 320659.0
+   "naver_chg": "+1.28%",
+   "mcap_eok": 320210.0
   },
   {
    "rank": 9,
@@ -254,8 +243,8 @@
    "prev_close": 250000.0,
    "chg": 0.8,
    "chg_str": "+0.80%",
-   "naver_chg": "+1.20%",
-   "mcap_eok": 506000.0
+   "naver_chg": "+0.80%",
+   "mcap_eok": 504000.0
   },
   {
    "rank": 15,
@@ -265,8 +254,8 @@
    "prev_close": 500000.0,
    "chg": 0.8,
    "chg_str": "+0.80%",
-   "naver_chg": "+1.00%",
-   "mcap_eok": 366139.0
+   "naver_chg": "+1.20%",
+   "mcap_eok": 366864.0
   },
   {
    "rank": 23,
@@ -276,8 +265,8 @@
    "prev_close": 525000.0,
    "chg": 0.7619,
    "chg_str": "+0.76%",
-   "naver_chg": "+0.57%",
-   "mcap_eok": 235739.0
+   "naver_chg": "+0.38%",
+   "mcap_eok": 235292.0
   },
   {
    "rank": 11,
@@ -287,8 +276,8 @@
    "prev_close": 284500.0,
    "chg": 0.1757,
    "chg_str": "+0.18%",
-   "naver_chg": "+0.53%",
-   "mcap_eok": 463799.0
+   "naver_chg": "+0.35%",
+   "mcap_eok": 462988.0
   },
   {
    "rank": 25,
@@ -298,8 +287,8 @@
    "prev_close": 275000.0,
    "chg": 0.0,
    "chg_str": "+0.00%",
-   "naver_chg": "+0.00%",
-   "mcap_eok": 217914.0
+   "naver_chg": "-0.18%",
+   "mcap_eok": 217518.0
   },
   {
    "rank": 19,
@@ -331,8 +320,8 @@
    "prev_close": 124500.0,
    "chg": -0.9639,
    "chg_str": "-0.96%",
-   "naver_chg": "-0.40%",
-   "mcap_eok": 186000.0
+   "naver_chg": "-0.56%",
+   "mcap_eok": 185700.0
   },
   {
    "rank": 24,
@@ -342,8 +331,8 @@
    "prev_close": 137200.0,
    "chg": -1.1662,
    "chg_str": "-1.17%",
-   "naver_chg": "-1.02%",
-   "mcap_eok": 221197.0
+   "naver_chg": "-1.24%",
+   "mcap_eok": 220709.0
   },
   {
    "rank": 4,
@@ -353,8 +342,8 @@
    "prev_close": 329500.0,
    "chg": -1.5175,
    "chg_str": "-1.52%",
-   "naver_chg": "-1.97%",
-   "mcap_eok": 755820.0
+   "naver_chg": "-1.67%",
+   "mcap_eok": 758160.0
   },
   {
    "rank": 17,
@@ -375,8 +364,8 @@
    "prev_close": 1449000.0,
    "chg": -2.6225,
    "chg_str": "-2.62%",
-   "naver_chg": "-2.62%",
-   "mcap_eok": 653165.0
+   "naver_chg": "-2.69%",
+   "mcap_eok": 652702.0
   },
   {
    "rank": 2,
@@ -386,8 +375,8 @@
    "prev_close": 1254000.0,
    "chg": -3.0303,
    "chg_str": "-3.03%",
-   "naver_chg": "-2.63%",
-   "mcap_eok": 8919312.0
+   "naver_chg": "-2.47%",
+   "mcap_eok": 8933922.0
   },
   {
    "rank": 6,
@@ -397,8 +386,8 @@
    "prev_close": 886000.0,
    "chg": -3.4989,
    "chg_str": "-3.50%",
-   "naver_chg": "-3.16%",
-   "mcap_eok": 640872.0
+   "naver_chg": "-3.27%",
+   "mcap_eok": 640125.0
   },
   {
    "rank": 3,
@@ -408,8 +397,19 @@
    "prev_close": 791000.0,
    "chg": -3.6662,
    "chg_str": "-3.67%",
-   "naver_chg": "-3.54%",
-   "mcap_eok": 1006580.0
+   "naver_chg": "-3.41%",
+   "mcap_eok": 1007899.0
+  },
+  {
+   "rank": 30,
+   "name": "고려아연",
+   "code": "010130",
+   "close": 866000.0,
+   "prev_close": 902000.0,
+   "chg": -3.9911,
+   "chg_str": "-3.99%",
+   "naver_chg": "-2.77%",
+   "mcap_eok": 183056.0
   },
   {
    "rank": 21,
@@ -419,8 +419,8 @@
    "prev_close": 181800.0,
    "chg": -5.1155,
    "chg_str": "-5.12%",
-   "naver_chg": "-4.57%",
-   "mcap_eok": 263940.0
+   "naver_chg": "-4.46%",
+   "mcap_eok": 264244.0
   }
  ]
 }
