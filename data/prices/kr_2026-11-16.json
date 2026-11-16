@@ -3,7 +3,7 @@
  "date": "2026-11-16",
  "status": "ok",
  "source": "종목: 야후 .KS 일봉(KRX 정규장 종가) / 범위·지수: 네이버 증권",
- "fetched_at": "2026-11-16T16:41:55+09:00",
+ "fetched_at": "2026-11-16T18:31:15+09:00",
  "universe": "코스피 시가총액 상위 30 보통주 (ETF·우선주 제외, 수집 시점 시총 순)",
  "index": {
   "KOSPI": {
@@ -29,8 +29,8 @@
    "prev_close": 21450.0,
    "chg": 3.2634,
    "chg_str": "+3.26%",
-   "naver_chg": "+2.56%",
-   "mcap_eok": 207512.0
+   "naver_chg": "+2.33%",
+   "mcap_eok": 207041.0
   },
   {
    "rank": 28,
@@ -40,8 +40,8 @@
    "prev_close": 176000.0,
    "chg": 2.7841,
    "chg_str": "+2.78%",
-   "naver_chg": "+2.73%",
-   "mcap_eok": 187689.0
+   "naver_chg": "+3.01%",
+   "mcap_eok": 188208.0
   },
   {
    "rank": 23,
@@ -51,8 +51,8 @@
    "prev_close": 529000.0,
    "chg": 2.4575,
    "chg_str": "+2.46%",
-   "naver_chg": "+1.89%",
-   "mcap_eok": 240650.0
+   "naver_chg": "+2.46%",
+   "mcap_eok": 241989.0
   }
  ],
  "down_top3": [
@@ -64,8 +64,8 @@
    "prev_close": 762000.0,
    "chg": -9.7113,
    "chg_str": "-9.71%",
-   "naver_chg": "-9.32%",
-   "mcap_eok": 911595.0
+   "naver_chg": "-9.71%",
+   "mcap_eok": 907637.0
   },
   {
    "rank": 6,
@@ -75,8 +75,8 @@
    "prev_close": 855000.0,
    "chg": -8.1871,
    "chg_str": "-8.19%",
-   "naver_chg": "-8.07%",
-   "mcap_eok": 587092.0
+   "naver_chg": "-8.54%",
+   "mcap_eok": 584105.0
   },
   {
    "rank": 2,
@@ -86,8 +86,8 @@
    "prev_close": 1216000.0,
    "chg": -7.8947,
    "chg_str": "-7.89%",
-   "naver_chg": "-7.32%",
-   "mcap_eok": 8232649.0
+   "naver_chg": "-7.40%",
+   "mcap_eok": 8225344.0
   }
  ],
  "missing": [],
@@ -100,8 +100,8 @@
    "prev_close": 21450.0,
    "chg": 3.2634,
    "chg_str": "+3.26%",
-   "naver_chg": "+2.56%",
-   "mcap_eok": 207512.0
+   "naver_chg": "+2.33%",
+   "mcap_eok": 207041.0
   },
   {
    "rank": 28,
@@ -111,8 +111,8 @@
    "prev_close": 176000.0,
    "chg": 2.7841,
    "chg_str": "+2.78%",
-   "naver_chg": "+2.73%",
-   "mcap_eok": 187689.0
+   "naver_chg": "+3.01%",
+   "mcap_eok": 188208.0
   },
   {
    "rank": 23,
@@ -122,8 +122,8 @@
    "prev_close": 529000.0,
    "chg": 2.4575,
    "chg_str": "+2.46%",
-   "naver_chg": "+1.89%",
-   "mcap_eok": 240650.0
+   "naver_chg": "+2.46%",
+   "mcap_eok": 241989.0
   },
   {
    "rank": 27,
@@ -133,8 +133,8 @@
    "prev_close": 118700.0,
    "chg": 2.2746,
    "chg_str": "+2.27%",
-   "naver_chg": "+1.52%",
-   "mcap_eok": 201653.0
+   "naver_chg": "+2.02%",
+   "mcap_eok": 202658.0
   },
   {
    "rank": 16,
@@ -144,8 +144,8 @@
    "prev_close": 124600.0,
    "chg": 1.7657,
    "chg_str": "+1.77%",
-   "naver_chg": "+1.04%",
-   "mcap_eok": 341151.0
+   "naver_chg": "+1.20%",
+   "mcap_eok": 341693.0
   },
   {
    "rank": 7,
@@ -155,8 +155,8 @@
    "prev_close": 159000.0,
    "chg": 1.6352,
    "chg_str": "+1.64%",
-   "naver_chg": "+0.88%",
-   "mcap_eok": 568919.0
+   "naver_chg": "+1.19%",
+   "mcap_eok": 570693.0
   },
   {
    "rank": 22,
@@ -166,8 +166,8 @@
    "prev_close": 32500.0,
    "chg": 1.5385,
    "chg_str": "+1.54%",
-   "naver_chg": "+1.54%",
-   "mcap_eok": 243140.0
+   "naver_chg": "+1.69%",
+   "mcap_eok": 243508.0
   },
   {
    "rank": 17,
@@ -188,8 +188,8 @@
    "prev_close": 89800.0,
    "chg": 1.0022,
    "chg_str": "+1.00%",
-   "naver_chg": "+0.56%",
-   "mcap_eok": 423914.0
+   "naver_chg": "+0.45%",
+   "mcap_eok": 423444.0
   },
   {
    "rank": 5,
@@ -210,8 +210,8 @@
    "prev_close": 252000.0,
    "chg": 0.5952,
    "chg_str": "+0.60%",
-   "naver_chg": "+0.20%",
-   "mcap_eok": 505000.0
+   "naver_chg": "+0.00%",
+   "mcap_eok": 504000.0
   },
   {
    "rank": 14,
@@ -221,8 +221,8 @@
    "prev_close": 94600.0,
    "chg": 0.4228,
    "chg_str": "+0.42%",
-   "naver_chg": "+0.11%",
-   "mcap_eok": 369721.0
+   "naver_chg": "+0.32%",
+   "mcap_eok": 370502.0
   },
   {
    "rank": 10,
@@ -232,8 +232,8 @@
    "prev_close": 214000.0,
    "chg": 0.2336,
    "chg_str": "+0.23%",
-   "naver_chg": "+0.00%",
-   "mcap_eok": 496636.0
+   "naver_chg": "-0.23%",
+   "mcap_eok": 495476.0
   },
   {
    "rank": 21,
@@ -243,8 +243,8 @@
    "prev_close": 172500.0,
    "chg": 0.2319,
    "chg_str": "+0.23%",
-   "naver_chg": "-0.12%",
-   "mcap_eok": 262114.0
+   "naver_chg": "+0.00%",
+   "mcap_eok": 262418.0
   },
   {
    "rank": 18,
@@ -254,8 +254,8 @@
    "prev_close": 355500.0,
    "chg": 0.1406,
    "chg_str": "+0.14%",
-   "naver_chg": "+0.14%",
-   "mcap_eok": 319761.0
+   "naver_chg": "+0.00%",
+   "mcap_eok": 319312.0
   },
   {
    "rank": 29,
@@ -276,8 +276,8 @@
    "prev_close": 271000.0,
    "chg": -0.369,
    "chg_str": "-0.37%",
-   "naver_chg": "-0.55%",
-   "mcap_eok": 282871.0
+   "naver_chg": "-0.18%",
+   "mcap_eok": 283920.0
   },
   {
    "rank": 8,
@@ -287,8 +287,8 @@
    "prev_close": 269500.0,
    "chg": -1.4842,
    "chg_str": "-1.48%",
-   "naver_chg": "-1.67%",
-   "mcap_eok": 539186.0
+   "naver_chg": "-1.86%",
+   "mcap_eok": 538169.0
   },
   {
    "rank": 4,
@@ -298,8 +298,8 @@
    "prev_close": 324500.0,
    "chg": -1.849,
    "chg_str": "-1.85%",
-   "naver_chg": "-2.16%",
-   "mcap_eok": 742950.0
+   "naver_chg": "-1.85%",
+   "mcap_eok": 745290.0
   },
   {
    "rank": 30,
@@ -309,8 +309,8 @@
    "prev_close": 109200.0,
    "chg": -2.1062,
    "chg_str": "-2.11%",
-   "naver_chg": "-2.47%",
-   "mcap_eok": 180041.0
+   "naver_chg": "-2.56%",
+   "mcap_eok": 179872.0
   },
   {
    "rank": 25,
@@ -320,8 +320,8 @@
    "prev_close": 275000.0,
    "chg": -2.3636,
    "chg_str": "-2.36%",
-   "naver_chg": "-2.91%",
-   "mcap_eok": 211575.0
+   "naver_chg": "-2.73%",
+   "mcap_eok": 211971.0
   },
   {
    "rank": 24,
@@ -342,8 +342,8 @@
    "prev_close": 285000.0,
    "chg": -2.9825,
    "chg_str": "-2.98%",
-   "naver_chg": "-2.98%",
-   "mcap_eok": 448393.0
+   "naver_chg": "-3.16%",
+   "mcap_eok": 447583.0
   },
   {
    "rank": 13,
@@ -353,8 +353,8 @@
    "prev_close": 478000.0,
    "chg": -3.2427,
    "chg_str": "-3.24%",
-   "naver_chg": "-2.51%",
-   "mcap_eok": 375529.0
+   "naver_chg": "-2.62%",
+   "mcap_eok": 375126.0
   },
   {
    "rank": 19,
@@ -364,8 +364,8 @@
    "prev_close": 46850.0,
    "chg": -4.1622,
    "chg_str": "-4.16%",
-   "naver_chg": "-4.38%",
-   "mcap_eok": 286971.0
+   "naver_chg": "-4.80%",
+   "mcap_eok": 285690.0
   },
   {
    "rank": 1,
@@ -375,8 +375,8 @@
    "prev_close": 206000.0,
    "chg": -4.466,
    "chg_str": "-4.47%",
-   "naver_chg": "-4.51%",
-   "mcap_eok": 11499630.0
+   "naver_chg": "-4.71%",
+   "mcap_eok": 11476245.0
   },
   {
    "rank": 15,
@@ -386,8 +386,8 @@
    "prev_close": 504000.0,
    "chg": -5.6548,
    "chg_str": "-5.65%",
-   "naver_chg": "-5.26%",
-   "mcap_eok": 346200.0
+   "naver_chg": "-4.76%",
+   "mcap_eok": 348013.0
   },
   {
    "rank": 2,
@@ -397,8 +397,8 @@
    "prev_close": 1216000.0,
    "chg": -7.8947,
    "chg_str": "-7.89%",
-   "naver_chg": "-7.32%",
-   "mcap_eok": 8232649.0
+   "naver_chg": "-7.40%",
+   "mcap_eok": 8225344.0
   },
   {
    "rank": 6,
@@ -408,8 +408,8 @@
    "prev_close": 855000.0,
    "chg": -8.1871,
    "chg_str": "-8.19%",
-   "naver_chg": "-8.07%",
-   "mcap_eok": 587092.0
+   "naver_chg": "-8.54%",
+   "mcap_eok": 584105.0
   },
   {
    "rank": 3,
@@ -419,8 +419,8 @@
    "prev_close": 762000.0,
    "chg": -9.7113,
    "chg_str": "-9.71%",
-   "naver_chg": "-9.32%",
-   "mcap_eok": 911595.0
+   "naver_chg": "-9.71%",
+   "mcap_eok": 907637.0
   }
  ]
 }
