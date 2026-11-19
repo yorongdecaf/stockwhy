@@ -2,6 +2,60 @@
  "date": "2026-11-19",
  "items": [
   {
+   "title": "칼라일 “AI 시대 PEF 경쟁력, AUM 아닌 데이터에” [GAII 2026 Live]",
+   "link": "https://www.mk.co.kr/news/stock/12213436",
+   "published": "2026-11-19T20:08+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "엔터·미디어·여행주, 한중 관계 해빙에 줄줄이 상한가",
+   "link": "https://www.mk.co.kr/news/stock/12213396",
+   "published": "2026-11-19T19:34+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "수능날이면 들썩인다는 교육주…올해는 입시주보다 학습지주가 더 올랐다",
+   "link": "https://www.mk.co.kr/news/stock/12213392",
+   "published": "2026-11-19T19:31+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[MK시그널] 파마리서치, 리쥬란 해외 수출 호조와 성장 모멘텀 부각 등에 주가 상승세... MK시그널 추천 후 상승률 7.19% 기록",
+   "link": "https://www.mk.co.kr/news/stock/12213372",
+   "published": "2026-11-19T19:27+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[MK 골든크로스 돌파종목 : 국일신동(060480) & 에스엠(041510)]",
+   "link": "https://www.mk.co.kr/news/stock/12213332",
+   "published": "2026-11-19T19:24+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[MK시그널] 아이큐비아 홀딩스 매도신호 포착, 수익률 38.7% 달성",
+   "link": "https://www.mk.co.kr/news/stock/12213322",
+   "published": "2026-11-19T19:11+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "[단독] 토종 AI비서 돌풍 피클…미국서 ‘AI안경 허위시연·펀딩’ 논란",
    "link": "https://www.mk.co.kr/news/stock/12213300",
    "published": "2026-11-19T18:40+09:00",
@@ -155,6 +209,798 @@
    "category": "kr"
   },
   {
+   "title": "남원 화장품기업 코빅스, 튀르키예에 8억원어치 수출",
+   "link": "https://www.yna.co.kr/view/AKR20261119078300055",
+   "published": "2026-11-19T11:34+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "전주 서울세종사업소장 임용 공정성 논란…경력 공백인데 최고점",
+   "link": "https://www.yna.co.kr/view/AKR20261119077400055",
+   "published": "2026-11-19T11:33+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[속보] 시진핑 \"中 선전에 아태공동체 연구센터 설립\"",
+   "link": "https://www.yna.co.kr/view/AKR20261119081100083",
+   "published": "2026-11-19T11:31+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "미중러 회담 당일 '푸틴 자존심' 크림대교 또 공격받아",
+   "link": "https://www.yna.co.kr/view/AKR20261119078400009",
+   "published": "2026-11-19T11:30+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "HLB그룹, 조직개편·임원 인사…미래전략부문·AX혁신팀 신설",
+   "link": "https://www.yna.co.kr/view/AKR20261119080300017",
+   "published": "2026-11-19T11:28+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "단돈 69만원에 트럼프와 만찬…밈코인 폭락에 100분의 1 토막",
+   "link": "https://www.yna.co.kr/view/AKR20261119070100075",
+   "published": "2026-11-19T11:28+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "경매·소송 뛰어든 세관, 체납액 110억원 징수…역대 최대",
+   "link": "https://www.yna.co.kr/view/AKR20261119074300002",
+   "published": "2026-11-19T11:27+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[단독]韓, 美 국채 폭락하던 9월에 중장기물 114억달러 샀다",
+   "link": "https://www.hankyung.com/article/202611196519i",
+   "published": "2026-11-19T11:26+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "세무사회 \"수습 실무교육서 AI 차단한 평가체계 도입\"",
+   "link": "https://www.yna.co.kr/view/AKR20261119074200002",
+   "published": "2026-11-19T11:25+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "모디 총리, 英 윌리엄 왕세자 부부와 회동…양국 협력 논의",
+   "link": "https://www.yna.co.kr/view/AKR20261119076900104",
+   "published": "2026-11-19T11:24+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "이달 ETF 시총변화…머니마켓액티브는 '쑥', 지수 추종은 '뚝'",
+   "link": "https://www.yna.co.kr/view/AKR20261119077200008",
+   "published": "2026-11-19T11:22+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"악몽 같은 상황\"…미중러 3자정상회담에 불안한 동맹국들",
+   "link": "https://www.yna.co.kr/view/AKR20261119077300009",
+   "published": "2026-11-19T11:22+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "현대건설, 협력사 차세대 경영인 역량 강화 돕는다",
+   "link": "https://www.yna.co.kr/view/AKR20261119075500003",
+   "published": "2026-11-19T11:21+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 창진원, '지역사회공헌 인정제'서 2년 연속 최고 등급 달성",
+   "link": "https://www.yna.co.kr/view/AKR20261119077900030",
+   "published": "2026-11-19T11:21+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[속보] 시진핑 \"아태지역 경제협정 체결 촉진 필요\"",
+   "link": "https://www.yna.co.kr/view/AKR20261119075400089",
+   "published": "2026-11-19T11:21+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "외국인 유학생 학업·취업·정주 연계 모색…'SCH 이민정책포럼'",
+   "link": "https://www.yna.co.kr/view/AKR20261119075800371",
+   "published": "2026-11-19T11:17+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[반려동물] 댕댕이 패딩 입혀보고 유산균 체험…돌아온 '펫 박람회'",
+   "link": "https://www.yna.co.kr/view/AKR20261119075000030",
+   "published": "2026-11-19T11:15+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "폴란드 헌재, 직무정지된 소장 면책특권 박탈…기소 가능",
+   "link": "https://www.yna.co.kr/view/AKR20261119067400009",
+   "published": "2026-11-19T11:15+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "합천군, 일본 미토요시 방문…자매결연 30주년 기념행사",
+   "link": "https://www.yna.co.kr/view/AKR20261119072200052",
+   "published": "2026-11-19T11:07+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"푸틴·다카이치 30분간 대화\"…7년만 러일 정상 대면(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261119000951109",
+   "published": "2026-11-19T11:06+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"\"바닥 어디냐\"…증권주, 업황 둔화·과징금 이중고에 '추락' [분석+]",
+   "link": "https://www.hankyung.com/article/2026111962616",
+   "published": "2026-11-19T11:02+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "앤트로픽 오늘밤 나스닥 입성…증시 짓누르던 수급불안 풀릴까",
+   "link": "https://www.yna.co.kr/view/AKR20261119069900008",
+   "published": "2026-11-19T11:01+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "최저주거기준·공공임대 정책에 국민 의견 듣는다",
+   "link": "https://www.yna.co.kr/view/AKR20261119028200003",
+   "published": "2026-11-19T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "민·관 협력으로 가로림만 갯벌 복원…스페인 인디텍스 후원",
+   "link": "https://www.yna.co.kr/view/AKR20261119037200051",
+   "published": "2026-11-19T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "농진청, 단백질 함량 높은 버섯 가공 음식 '머쉬볼' 선보여",
+   "link": "https://www.yna.co.kr/view/AKR20261119046900055",
+   "published": "2026-11-19T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "농식품부, 농촌여행 숏폼 공모전 대상에 '양평 수미마을' 영상",
+   "link": "https://www.yna.co.kr/view/AKR20261119058000030",
+   "published": "2026-11-19T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "해수부-UNEP, 2028년 부산 유엔해양총회 성공 개최 협력",
+   "link": "https://www.yna.co.kr/view/AKR20261119057000051",
+   "published": "2026-11-19T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"내년 심을 벼종자 신청하세요\"…국립종자원, 정부보급종 보급",
+   "link": "https://www.yna.co.kr/view/AKR20261119055100030",
+   "published": "2026-11-19T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "농식품부·코트라, 중국 우한서 스마트농업 수출 상담회 개최",
+   "link": "https://www.yna.co.kr/view/AKR20261119060800030",
+   "published": "2026-11-19T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "농식품부, 뉴욕서 K-푸드 수출 출정식…농산물 등 수출확대 협약",
+   "link": "https://www.yna.co.kr/view/AKR20261119064900030",
+   "published": "2026-11-19T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한화오션, 초대형 원유운반선 2척 3천642억원에 수주",
+   "link": "https://www.yna.co.kr/view/AKR20261119071600003",
+   "published": "2026-11-19T11:00+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[특징주] 이미 주가 반영?…'앤트로픽 지분' SKT, 6%대 하락",
+   "link": "https://www.yna.co.kr/view/AKR20261119070200008",
+   "published": "2026-11-19T10:57+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한국거래소 정은보 이사장, WFE 아태지역 이사 재선임",
+   "link": "https://www.yna.co.kr/view/AKR20261119069600008",
+   "published": "2026-11-19T10:54+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "웅진프리드라이프, 삼성생명과 건강케어 구독서비스 출시",
+   "link": "https://www.yna.co.kr/view/AKR20261119069400030",
+   "published": "2026-11-19T10:54+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "보험 광고 공식 깼다…제일기획 제작 삼성화재 '더핏' 광고, 조회수 1500만 돌파",
+   "link": "https://www.hankyung.com/article/202611196883i",
+   "published": "2026-11-19T10:54+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "日 중산층 지갑 닫자 마트 줄도산…이온 계열 100곳 폐점",
+   "link": "https://www.yna.co.kr/view/AKR20261119066200009",
+   "published": "2026-11-19T10:52+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "기보, 서울대와 기술창업기업 발굴·육성한다",
+   "link": "https://www.hankyung.com/article/202611196856i",
+   "published": "2026-11-19T10:48+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "북한, AI챗봇 '지혜의 샘' 공개…정치·사회 질문은 금지",
+   "link": "https://www.yna.co.kr/view/AKR20261119066400009",
+   "published": "2026-11-19T10:47+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"중국인들 한국 대거 몰려온다\"…여행·항공·카지노주 급등세",
+   "link": "https://www.hankyung.com/article/2026111968666",
+   "published": "2026-11-19T10:47+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'바이오 자족도시' 시흥 월곶역세권 개발 본격화…2031년 준공",
+   "link": "https://www.yna.co.kr/view/AKR20261119067300061",
+   "published": "2026-11-19T10:46+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 파리크라상, 강원도립대와 커피 전문인력 양성 MOU 체결",
+   "link": "https://www.yna.co.kr/view/AKR20261119066100030",
+   "published": "2026-11-19T10:46+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'中 한한령' 해빙 기대감에 엔터주 등 관련주 '들썩'",
+   "link": "https://www.yna.co.kr/view/AKR20261119064500008",
+   "published": "2026-11-19T10:46+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "기아, '노사 합동 사랑나누기' 기부 캠페인 실시",
+   "link": "https://www.hankyung.com/article/202611196532g",
+   "published": "2026-11-19T10:45+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[개장시황] 또 다시 5000선 내준 코스피… '한한령 완화'에 콘텐츠·여행주는 급등",
+   "link": "https://www.hankyung.com/article/202611196760i",
+   "published": "2026-11-19T10:42+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[특징주] 중국인 방한 수요 확대 기대…제주항공 장초반 17%대↑",
+   "link": "https://www.yna.co.kr/view/AKR20261119064300008",
+   "published": "2026-11-19T10:40+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[특징주] 삼전·닉스, 앤트로픽 상장 앞두고 장 초반 1~2%대 하락",
+   "link": "https://www.yna.co.kr/view/AKR20261119060100008",
+   "published": "2026-11-19T10:39+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "中매체 \"韓서 방사한 저어새, APEC선전서 포착…16년 한중 인연\"",
+   "link": "https://www.yna.co.kr/view/AKR20261119063900009",
+   "published": "2026-11-19T10:39+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "포스텍, 경북 기술창업기업 미국시장 진출 지원 '성과'",
+   "link": "https://www.yna.co.kr/view/AKR20261119064000053",
+   "published": "2026-11-19T10:38+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "아이티 대통령 암살 공모 美목사 유죄 평결…최대 종신형",
+   "link": "https://www.yna.co.kr/view/AKR20261119063600009",
+   "published": "2026-11-19T10:38+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "골든블루, '쿼츠' 몽골 첫 수출…일본 이어 아시아 시장 확대",
+   "link": "https://www.hankyung.com/article/202611196831i",
+   "published": "2026-11-19T10:38+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "코스피, 앤트로픽 상장 앞두고 1%대↓…상승출발후 하락전환(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261119063200008",
+   "published": "2026-11-19T10:37+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "방미 인도 야당 지도자 간디 \"인도, 경제위기 향하고 있다\" 직격",
+   "link": "https://www.yna.co.kr/view/AKR20261119061000009",
+   "published": "2026-11-19T10:32+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "앤트로픽 공모가 83달러…스페이스X 제치고 역대 최대 IPO(종합2보)",
+   "link": "https://www.yna.co.kr/view/AKR20261119010052091",
+   "published": "2026-11-19T10:31+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한중 관계 개선에…화장품株 상한가 속출",
+   "link": "https://www.hankyung.com/article/2026111967216",
+   "published": "2026-11-19T10:31+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+   "link": "https://www.yna.co.kr/view/AKR20261119055500011",
+   "published": "2026-11-19T10:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"최화정 효과 이 정도였어?\"…15분 만에 1000대 주문 '폭주'",
+   "link": "https://www.hankyung.com/article/202611196798g",
+   "published": "2026-11-19T10:30+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美항모 조지워싱턴 페르시아만 일대서 철수…중동에 2척 남아",
+   "link": "https://www.yna.co.kr/view/AKR20261119061200009",
+   "published": "2026-11-19T10:29+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[게시판] 농협은행, 퇴직연금 DB·IRP 비보장 수익률 적립금 상위사중 1위",
+   "link": "https://www.yna.co.kr/view/AKR20261119061300002",
+   "published": "2026-11-19T10:28+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'사람 살리는 금융' 캠페인에 핀테크 CEO 잇따라 동참",
+   "link": "https://www.yna.co.kr/view/AKR20261119061500017",
+   "published": "2026-11-19T10:28+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 한투증권 '독점 글로벌 리서치' 조회수 1천만회 돌파",
+   "link": "https://www.yna.co.kr/view/AKR20261119060700008",
+   "published": "2026-11-19T10:26+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "하나금융, 연세대 의대 총동문회에 맞춤형 금융 제공",
+   "link": "https://www.yna.co.kr/view/AKR20261119058600002",
+   "published": "2026-11-19T10:22+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美 긴축 우려에 코스피 보합권…한한령 해제 수혜주 큰 폭 상승",
+   "link": "https://www.hankyung.com/article/2026111967756",
+   "published": "2026-11-19T10:22+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "영국 해리 왕자 \"필요하면 군 재입대\"…러 위협 경고",
+   "link": "https://www.yna.co.kr/view/AKR20261119059200009",
+   "published": "2026-11-19T10:21+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "팔로알토, 보안 수요에 실적 호조…AI기업 인수도",
+   "link": "https://www.yna.co.kr/view/AKR20261119048800009",
+   "published": "2026-11-19T10:20+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "경남 지자체, 내년부터 축제 음식값·숙박요금 매주 공개",
+   "link": "https://www.yna.co.kr/view/AKR20261119058800052",
+   "published": "2026-11-19T10:19+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "파주시장, 지하철 3호선 연장 국무총리에 건의",
+   "link": "https://www.yna.co.kr/view/AKR20261119057900060",
+   "published": "2026-11-19T10:17+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "광주은행 '희망이 꽃피는 공부방' 200호점 결실",
+   "link": "https://www.yna.co.kr/view/AKR20261119056600054",
+   "published": "2026-11-19T10:17+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한중 FTA 2단계 협상 타결에 미디어·엔터주 '들썩'…스튜디오드래곤 '上'",
+   "link": "https://www.hankyung.com/article/2026111967406",
+   "published": "2026-11-19T10:15+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "동국제약, 화장품 수출 '날개'…연매출 1조 시대 연다",
+   "link": "https://www.hankyung.com/article/202611196653i",
+   "published": "2026-11-19T10:14+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[특징주] 정유주, 국제유가 하락에 장 초반 약세",
+   "link": "https://www.yna.co.kr/view/AKR20261119057500008",
+   "published": "2026-11-19T10:13+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성전자 \"AI 거품 우려 과도…네오클라우드, 전체 비중 8% 그쳐\"",
+   "link": "https://www.hankyung.com/article/202611196629i",
+   "published": "2026-11-19T10:13+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"외국엔 없는 이 물건\"…해리포터 덕후들 공차 매장으로",
+   "link": "https://www.hankyung.com/article/202611196622g",
+   "published": "2026-11-19T10:12+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "日언론 \"트럼프·다카이치, 오늘 미중러 회담 직후 전화 협의\"",
+   "link": "https://www.yna.co.kr/view/AKR20261119054400073",
+   "published": "2026-11-19T10:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "인니·중국, 스마트시티 건설 등 95조원 규모 전략적 협력 체결",
+   "link": "https://www.yna.co.kr/view/AKR20261119054500104",
+   "published": "2026-11-19T10:09+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "코스피, 상승 출발 후 보합권에서 등락",
+   "link": "https://www.yna.co.kr/view/AKR20261119055000008",
+   "published": "2026-11-19T10:07+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "KB증권, 모험자본투자플랫폼 통해 지역관광 20억원 출자",
+   "link": "https://www.yna.co.kr/view/AKR20261119053200008",
+   "published": "2026-11-19T10:06+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "강동구 굽은다리역앞에 26층 복합건축물…청년창업지원센터 설치",
+   "link": "https://www.yna.co.kr/view/AKR20261119054100004",
+   "published": "2026-11-19T10:06+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"새집 짓는 시대 저문다\"…中 부동산 시장에 벌어진 대반전 [차이나 워치]",
+   "link": "https://www.hankyung.com/article/202611172913i",
+   "published": "2026-11-19T10:06+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美 연쇄 전산마비는 'AI발 패치 대란'…해킹 아닌 업데이트 오류",
+   "link": "https://www.yna.co.kr/view/AKR20261119050700091",
+   "published": "2026-11-19T10:05+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "트럼프·시진핑은 포옹하는데…中 로봇 기술자 줄줄이 美 비자 퇴짜 [차이나 워치]",
+   "link": "https://www.hankyung.com/article/202611196635i",
+   "published": "2026-11-19T10:05+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "LF 바버, 잠실에 영국풍 크리스마스 팝업…겨울 패션 선보여",
+   "link": "https://www.yna.co.kr/view/AKR20261119043600030",
+   "published": "2026-11-19T10:04+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "코스피, 상승 출발 후 보합권서 등락",
+   "link": "https://www.hankyung.com/article/2026111966926",
+   "published": "2026-11-19T10:03+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[코스닥] 5.50p(0.83%) 오른 668.31(개장)",
+   "link": "https://www.yna.co.kr/view/AKR20261119053400008",
+   "published": "2026-11-19T10:01+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[코스피] 22.60p(0.45%) 오른 5,090.04(개장)",
+   "link": "https://www.yna.co.kr/view/AKR20261119053300008",
+   "published": "2026-11-19T10:01+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "금감원 금소처장 \"의심하고, 끊고, 확인해야 금융사기 막는다\"",
+   "link": "https://www.yna.co.kr/view/AKR20261119046200002",
+   "published": "2026-11-19T10:00+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "법 안 고치고 '이것'만 바꿔도…기후공시 기업에 '숨통'",
+   "link": "https://www.hankyung.com/article/202611171515i",
+   "published": "2026-11-19T10:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"1장에 2000만원이 넘네\"…더현대에 뜬 '백금 카드' 뭐길래",
+   "link": "https://www.hankyung.com/article/202611196412i",
+   "published": "2026-11-19T10:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 베리에이셔널, 시리즈B 투자 유치…기업가치 2조원",
+   "link": "https://www.yna.co.kr/view/AKR20261119050200002",
+   "published": "2026-11-19T09:59+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "키움증권, 대한변협 법률구조재단과 '자립준비청년 법률지원' MOU",
    "link": "https://www.yna.co.kr/view/AKR20261119051400008",
    "published": "2026-11-19T09:58+09:00",
@@ -245,6 +1091,15 @@
    "category": "world"
   },
   {
+   "title": "\"직원들에게 멍청하다고\"…'젠슨 황 왕국' 폭로 나왔다",
+   "link": "https://www.hankyung.com/article/202611196596i",
+   "published": "2026-11-19T09:48+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "APEC 기업인들 \"자유무역 수호·AI 협력확대\"…선전 제안문 발표",
    "link": "https://www.yna.co.kr/view/AKR20261119047400083",
    "published": "2026-11-19T09:47+09:00",
@@ -326,6 +1181,15 @@
    "category": "kr"
   },
   {
+   "title": "이수페타시스, 美 타임 선정 '지속가능 성장기업' 국내 8위",
+   "link": "https://www.hankyung.com/article/202611196555i",
+   "published": "2026-11-19T09:39+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "해외서 사온 위고비·마운자로 되팔면 처벌…식약처 집중 단속",
    "link": "https://www.yna.co.kr/view/AKR20261119027400017",
    "published": "2026-11-19T09:38+09:00",
@@ -349,6 +1213,15 @@
    "published": "2026-11-19T09:36+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"그때 투자했어야 했는데\"…손정의가 땅 치고 후회한 이유",
+   "link": "https://www.hankyung.com/article/2026111964257",
+   "published": "2026-11-19T09:36+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -389,6 +1262,15 @@
    "category": "kr"
   },
   {
+   "title": "“일본서 배운 금형 기술로 국산화 이끌어…이젠 AI가 살길”",
+   "link": "https://www.hankyung.com/article/202611185200i",
+   "published": "2026-11-19T09:33+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "[게시판] 우리은행 \"한국소비자보호지수 은행부문 우수기업 선정\"",
    "link": "https://www.yna.co.kr/view/AKR20261119039900002",
    "published": "2026-11-19T09:30+09:00",
@@ -407,11 +1289,29 @@
    "category": "kr"
   },
   {
+   "title": "삼표산업, 장학건설 고급 주택 현장에 특수 콘크리트 공급",
+   "link": "https://www.hankyung.com/article/202611196470i",
+   "published": "2026-11-19T09:27+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "당진 제철·철강 위기대응 특별분과위 발족…노사민정 23명 참여",
    "link": "https://www.yna.co.kr/view/AKR20261119039700063",
    "published": "2026-11-19T09:24+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "덮개만 벗기면 매대에 그대로…태림포장, '투피스 박스' 본격 공급",
+   "link": "https://www.hankyung.com/article/202611196445i",
+   "published": "2026-11-19T09:23+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -430,6 +1330,15 @@
    "published": "2026-11-19T09:20+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"싼맛에 사고 아니면 버리던\" 中알리·테무·쉬인, 환불 등 책임 커진다",
+   "link": "https://www.hankyung.com/article/202611196170g",
+   "published": "2026-11-19T09:19+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -2234,23 +3143,22 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-19T10:02+09:00",
+ "updated_at": "2026-11-19T11:45+09:00",
  "last_run": {
   "added": {
-   "fed_press": 20,
-   "fed_speech": 15,
+   "fed_press": 0,
+   "fed_speech": 0,
    "yna_economy": 40,
-   "yna_market": 28,
-   "yna_world": 32,
-   "hk_finance": 40,
-   "hk_economy": 40,
-   "mk_stock": 40,
-   "cnbc_economy": 30,
-   "cnbc_finance": 30,
-   "bok": 30
+   "yna_market": 10,
+   "yna_world": 18,
+   "hk_finance": 8,
+   "hk_economy": 19,
+   "mk_stock": 6,
+   "cnbc_economy": 0,
+   "cnbc_finance": 0,
+   "bok": 0
   },
   "errors": {
-   "bls": "HTTPError: HTTP Error 403: Forbidden",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
