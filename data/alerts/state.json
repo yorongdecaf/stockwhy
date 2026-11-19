@@ -1,7 +1,35 @@
 {
- "last_run_at": "2026-11-19T10:00+09:00",
- "alerted_links": [],
- "alerts": [],
- "skipped": [],
+ "last_run_at": "2026-11-19T11:13+09:00",
+ "alerted_links": [
+  "https://www.yna.co.kr/view/AKR20261119010051091"
+ ],
+ "alerts": [
+  {
+   "time": "2026-11-19T11:13+09:00",
+   "title": "앤트로픽 공모가 $83 확정, 역대 최대 IPO",
+   "files": [
+    "alerts/2026-11-19/0724_anthropic-ipo.jpg",
+    "alerts/2026-11-19/0724_anthropic-ipo.txt",
+    "alerts/2026-11-19/0724_anthropic-ipo.json"
+   ],
+   "sources": [
+    "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+    "https://finance.yahoo.com/markets/stocks/articles/anthropic-prices-ipo-83-per-222443646.html",
+    "https://www.fool.com/investing/2026/11/18/it-s-official-anthropic-prices-its-ipo-at-usd83-a-share-here-s-what-we-know-and-what-we-don-t/"
+   ]
+  }
+ ],
+ "skipped": [
+  {
+   "time": "2026-11-19T11:13+09:00",
+   "title": "월러 빅스텝 발언 / 10월 FOMC 회의록",
+   "reason": "이미 시안 카드(11/19)로 다룬 사건"
+  },
+  {
+   "time": "2026-11-19T11:13+09:00",
+   "title": "엔비디아 3분기 실적",
+   "reason": "11/18 발표·하루 지난 건, 삼성전기 카드(11/18)로 다룸"
+  }
+ ],
  "last_error": null
 }
