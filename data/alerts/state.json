@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-11-19T23:16+09:00",
+  "last_run_at": "2026-11-20T07:13+09:00",
   "alerted_links": [
     "https://www.yna.co.kr/view/AKR20261119010051091",
     "https://www.mk.co.kr/news/stock/12213396",
@@ -11,7 +11,14 @@
     "https://www.yna.co.kr/view/AKR20261119094200003",
     "https://www.yna.co.kr/view/AKR20261119109900003",
     "https://www.hankyung.com/article/2026111974217",
-    "https://www.yna.co.kr/view/AKR20261119064800003"
+    "https://www.yna.co.kr/view/AKR20261119064800003",
+    "https://www.yna.co.kr/view/AKR20261120010700072",
+    "https://www.yna.co.kr/view/AKR20261120010000091",
+    "https://www.hankyung.com/article/2026112087777",
+    "https://www.hankyung.com/article/202611208779i",
+    "https://www.yna.co.kr/view/AKR20261120002700091",
+    "https://www.yna.co.kr/view/AKR20261120003100091",
+    "https://www.yna.co.kr/view/AKR20261120003151091"
   ],
   "alerts": [
     {
@@ -55,6 +62,21 @@
         "https://biz.heraldcorp.com/article/10942813",
         "https://news.tf.co.kr/read/economy/2390985.htm",
         "https://www.segye.com/newsView/20261119511982"
+      ]
+    },
+    {
+      "time": "2026-11-20T07:13+09:00",
+      "title": "앤트로픽 상장 첫날 +17%(종가 $97.17), 뉴욕증시 2%대 급락·다우 5만선 아래",
+      "files": [
+        "alerts/2026-11-20/0600_anthropic-debut-selloff.jpg",
+        "alerts/2026-11-20/0600_anthropic-debut-selloff.txt",
+        "alerts/2026-11-20/0600_anthropic-debut-selloff.json"
+      ],
+      "sources": [
+        "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+        "https://www.yna.co.kr/view/AKR20261120010700072",
+        "https://www.hankyung.com/article/202611208779i",
+        "https://newspim.com/news/view/20261120000052"
       ]
     }
   ],
@@ -168,6 +190,16 @@
       "time": "2026-11-19T23:16+09:00",
       "title": "신규 수집 없음(news updated_at 21:58, 22시 실행에서 이미 검토)",
       "reason": "22시 실행 이후 새 기사 없음"
+    },
+    {
+      "time": "2026-11-20T07:13+09:00",
+      "title": "FT '삼성전자·TSMC, 중국에 일부 칩 출하 중단'(연합 인용)",
+      "reason": "FT 보도 인용 단계, 원문·회사 공식 확인 및 주요 언론 2곳 독자 확인 안 됨. 다음 실행에서 재확인"
+    },
+    {
+      "time": "2026-11-20T07:13+09:00",
+      "title": "10월 생산자물가 -0.1%·10월 외국인 26조 순매도·美 실업청구 20.3만·제퍼슨 연설·미중러 회담 해설·앤트로픽 후속 등",
+      "reason": "PPI·수급 통계는 주요 지표 기준 밖·소폭, 실업청구 안정세, 회담은 앞선 판단과 같은 사건, 나머지 해설·후속·행사성"
     }
   ],
   "last_error": null
