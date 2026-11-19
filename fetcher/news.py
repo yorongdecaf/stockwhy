@@ -18,7 +18,6 @@ UA = "Mozilla/5.0 (compatible; stockwhy-news/1.0; +https://github.com/yorongdeca
 FEEDS = [
     ("fed_press",    "미국 연준 보도자료",  "official", "us_policy", "https://www.federalreserve.gov/feeds/press_all.xml"),
     ("fed_speech",   "미국 연준 연설",      "official", "us_policy", "https://www.federalreserve.gov/feeds/speeches.xml"),
-    ("bls",          "미국 노동통계국",     "official", "us_macro",  "https://www.bls.gov/feed/bls_latest.rss"),
     ("yna_economy",  "연합뉴스 경제",       "press",    "kr",        "https://www.yna.co.kr/rss/economy.xml"),
     ("yna_market",   "연합뉴스 마켓+",      "press",    "kr",        "https://www.yna.co.kr/rss/market.xml"),
     ("yna_world",    "연합뉴스 국제",       "press",    "world",     "https://www.yna.co.kr/rss/international.xml"),
@@ -127,9 +126,14 @@ def main():
     seen = {x["link"] for x in data["items"]}
     errors, counts = {}, {}
 
+    cutoff = (now - timedelta(days=3)).isoformat(timespec="minutes")
+
     def add(fid, name, tier, cat, items):
         n = 0
         for x in items:
+            p = x.get("published", "")
+            if p and p[:4].isdigit() and p < cutoff[:len(p)]:
+                continue  # 3일 넘은 글은 건너뜀
             if x["link"] in seen:
                 continue
             seen.add(x["link"])

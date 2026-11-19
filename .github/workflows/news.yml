@@ -1,6 +1,6 @@
 name: Fetch news
 
-# 공식 원문(연준·BLS·한국은행·DART)과 주요 언론 RSS의 제목·링크를 모아
+# 공식 원문(연준·한국은행·DART)과 주요 언론 RSS의 제목·링크를 모아
 # data/news/<KST 날짜>.json 으로 커밋 (본문은 저장하지 않음). 게시는 하지 않음.
 on:
   schedule:
