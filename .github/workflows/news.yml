@@ -1,0 +1,46 @@
+name: Fetch news
+
+# 공식 원문(연준·BLS·한국은행·DART)과 주요 언론 RSS의 제목·링크를 모아
+# data/news/<KST 날짜>.json 으로 커밋 (본문은 저장하지 않음). 게시는 하지 않음.
+on:
+  schedule:
+    - cron: "20 22 * * 0-4"   # 07:20 KST 화~토 (미장 마감 뒤)
+    - cron: "0 3 * * 1-5"     # 12:00 KST 평일
+    - cron: "10 7 * * 1-5"    # 16:10 KST 평일 (국장 마감 뒤)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 뉴스 받기
+        env:
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+        run: python fetcher/news.py
+
+      - name: 커밋
+        run: |
+          git config user.name "stockwhy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news/
+          if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
+          git commit -m "뉴스 수집 [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 5; done
+          exit 1
