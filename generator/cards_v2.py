@@ -40,7 +40,54 @@ THEMES = {
                         "<style>.grain{position:absolute;inset:0;background-image:" + _GRAIN + ";mix-blend-mode:multiply;z-index:9;pointer-events:none}</style><div class=\"grain\"></div>"
                         "<div style=\"position:absolute;inset:20px;border:5px solid #3A2418;border-radius:26px;z-index:8;pointer-events:none\"></div>"),
                   strip="".join(f'<div style="height:12px;background:{c}"></div>' for c in ("#C8372D", "#E8702A", "#F2B33D", "#2B7A78"))),
+    # 스위스 모던: 흰 종이 + 검정 + 빨강, 직각, 굵은 막대
+    "swiss": dict(bg="#F4F3EF", surface="#FFFFFF", line="#111111", text="#111111", sub="#555555", mute="#888888",
+                  accent="#E30613", tag_fg="#FFFFFF", num="#E30613", up="#E30613", down="#1F4FD8",
+                  concl_bg="#111111", concl_fg="#FFFFFF", concl_label="#E30613", bar_rest="#D6D4CE",
+                  shadow="none", radius=0,
+                  deco=('<div style="position:absolute;right:-180px;top:330px;width:560px;height:560px;border-radius:50%;background:#E30613;opacity:.10;z-index:0"></div>'
+                        '<div style="position:absolute;left:0;top:0;bottom:0;width:18px;background:#111;z-index:3"></div>'),
+                  strip='<div style="height:10px;background:#111"></div>'),
+    # 오답노트: 줄 노트 + 빨간 펜 + 형광펜 결론
+    "notebook": dict(bg="#FDFBF3", surface="#FFFFFF", line="#9BB7D9", text="#22262E", sub="#5A6170", mute="#8A90A0",
+                  accent="#E23B3B", tag_fg="#FFFFFF", num="#E23B3B", up="#E23B3B", down="#2F5FD0",
+                  concl_bg="#FFF06A", concl_fg="#22262E", concl_label="#E23B3B", bar_rest="#E3E7EE",
+                  shadow="none", radius=4,
+                  deco=('<div style="position:absolute;inset:0;background:repeating-linear-gradient(180deg,transparent 0 51px,#CFDDEF 51px 53px);z-index:0"></div>'
+                        '<div style="position:absolute;left:52px;top:0;bottom:0;width:3px;background:#F2A0A0;z-index:0"></div>'
+                        '<div style="position:absolute;left:40px;top:222px;width:800px;height:230px;border:6px solid #E23B3B;border-radius:50%;transform:rotate(-3deg);opacity:.5;z-index:1"></div>'),
+                  strip=""),
+    # 네온: 남색 밤 + 형광 핑크·시안 발광
+    "neon": dict(bg="#0B0A1F", surface="#16143A", line="#2E2A66", text="#EFEAFF", sub="#A9A3D6", mute="#6F69A3",
+                  accent="#FF3FD8", tag_fg="#0B0A1F", num="#29E3FF", up="#FF4F7B", down="#29E3FF",
+                  concl_bg="#0B0A1F", concl_fg="#EFEAFF", concl_label="#29E3FF", bar_rest="#2E2A66",
+                  shadow="0 0 28px rgba(41,227,255,.55)", radius=22, concl_border="3px solid #29E3FF",
+                  deco=('<style>span{text-shadow:0 0 1px currentColor}</style>'
+                        '<div style="position:absolute;left:-200px;top:200px;width:700px;height:700px;border-radius:50%;background:radial-gradient(circle,rgba(255,63,216,.28),transparent 65%);z-index:0"></div>'
+                        '<div style="position:absolute;right:-240px;bottom:120px;width:760px;height:760px;border-radius:50%;background:radial-gradient(circle,rgba(41,227,255,.22),transparent 65%);z-index:0"></div>'
+                        '<div style="position:absolute;left:0;right:0;bottom:0;height:420px;background:repeating-linear-gradient(90deg,rgba(255,63,216,.18) 0 2px,transparent 2px 90px),repeating-linear-gradient(0deg,rgba(255,63,216,.18) 0 2px,transparent 2px 60px);'
+                        '-webkit-mask:linear-gradient(transparent,#000);z-index:0"></div>'),
+                  strip='<div style="height:4px;background:linear-gradient(90deg,#FF3FD8,#29E3FF);box-shadow:0 0 18px #FF3FD8"></div>'),
+    # 증권사 시세 전광판: 검정 LED 판 + 주황 도트 글씨
+    "ledboard": dict(bg="#070707", surface="#141414", line="#2A2A2A", text="#FFB43B", sub="#C98A2E", mute="#7A5A2A",
+                  accent="#FFE14D", tag_fg="#070707", num="#FFE14D", up="#FF3B3B", down="#33A8FF",
+                  concl_bg="#141414", concl_fg="#FFB43B", concl_label="#FFE14D", bar_rest="#2A2A2A",
+                  shadow="none", radius=6, concl_border="3px solid #FFB43B",
+                  font="'DejaVu Sans Mono','Noto Sans CJK KR',monospace",
+                  deco=('<div style="position:absolute;inset:0;background:radial-gradient(circle,rgba(0,0,0,.55) 1.3px,transparent 1.6px) 0 0/6px 6px;z-index:6;pointer-events:none"></div>'
+                        '<div style="position:absolute;inset:14px;border:10px solid #222;border-radius:14px;box-shadow:inset 0 0 0 3px #333;z-index:7;pointer-events:none"></div>'
+                        '<style>body>div:last-child span{font-size:17px;letter-spacing:-1px}</style>'),
+                  strip='<div style="height:6px;background:repeating-linear-gradient(90deg,#FFB43B 0 14px,transparent 14px 22px)"></div>'),
+    # 모바일 앱 카드: 밝은 회색 + 둥근 흰 카드 + 보라 포인트
+    "app": dict(bg="#ECEFF5", surface="#FFFFFF", line="#DCE1EA", text="#1B1D21", sub="#626B7A", mute="#98A0AE",
+                  accent="#6A4CFF", tag_fg="#FFFFFF", num="#6A4CFF", up="#F0384F", down="#2C7BE5",
+                  concl_bg="#F1EDFF", concl_fg="#1B1D21", concl_label="#6A4CFF", bar_rest="#DCE1EA",
+                  shadow="none", radius=28,
+                  deco=('<div style="position:absolute;left:40px;right:40px;top:142px;bottom:96px;background:#FFFFFF;border-radius:44px;'
+                        'box-shadow:0 18px 48px rgba(27,29,33,.08);z-index:0"></div>'),
+                  strip=""),
 }
+
 
 TAGS = {  # 템플릿별 꼬리표 (색으로 종류 구분)
     "number": ("오늘의 종목", "accent"), "quote": ("뉴스 해설", "accent"),
@@ -90,7 +137,7 @@ body>*{{position:relative;z-index:2}}
   background:{K['accent']};color:{K['tag_fg']};align-items:center;justify-content:center;font-size:28px">?</span></span></div>
 {f'<div style="margin:22px -{K["margin"]}px 0">{K["strip"]}</div>' if K['strip'] else ''}
 {body}
-{f'''<div style="margin-top:auto;background:{K['concl_bg']};color:{K['concl_fg']};border-radius:{K['radius']}px;padding:26px 32px;box-shadow:{K['shadow']}">
+{f'''<div style="margin-top:auto;background:{K['concl_bg']};color:{K['concl_fg']};border-radius:{K['radius']}px;padding:26px 32px;box-shadow:{K['shadow']};border:{K.get('concl_border','none')}">
  <div style="font-size:{K['meta']}px;font-weight:900;color:{K['concl_label']}">결론</div>
  <div style="margin-top:4px;font-size:{K['h2']-4}px;font-weight:900;line-height:1.3">{e(concl).replace("*","")}</div></div>''' if concl else '<div style="margin-top:auto"></div>'}
 <div style="margin-top:18px;display:flex;justify-content:space-between;gap:20px;font-size:{K['meta']-2}px;color:{K['mute']}">
