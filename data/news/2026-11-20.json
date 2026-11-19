@@ -2,11 +2,83 @@
  "date": "2026-11-20",
  "items": [
   {
+   "title": "“한국항공우주, 10년전과 완전히 달라진 체급…엔진 공급이 병목”",
+   "link": "https://www.mk.co.kr/news/stock/12214238",
+   "published": "2026-11-20T16:40+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "대형株 낙엽처럼 ‘우수수’ … PBR 저점서 스윙 기회 잡을 네 종목은",
    "link": "https://www.mk.co.kr/news/business/12213750",
    "published": "2026-11-20T14:00+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+   "link": "https://www.yna.co.kr/view/AKR20261120016500011",
+   "published": "2026-11-20T07:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "앤트로픽 상장에도 뉴욕증시 2%대 급락…다우 50,000선 붕괴(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261120010751072",
+   "published": "2026-11-20T07:18+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "앤트로픽 상장 첫날 97.17달러로 마감…공모가 대비 17% 상승",
+   "link": "https://www.yna.co.kr/view/AKR20261120014100091",
+   "published": "2026-11-20T07:07+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "앤트로픽 상장 직후 AI株 투매…나스닥 2.25%↓ [뉴욕증시 브리핑]",
+   "link": "https://www.hankyung.com/article/2026112088366",
+   "published": "2026-11-20T07:06+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "팬 커뮤니티까지 등장…李대통령 부부에 중국인들 관심 폭발 [차이나 워치]",
+   "link": "https://www.hankyung.com/article/202611198552i",
+   "published": "2026-11-20T07:05+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "인류 역사상 최대 IPO…앤트로픽에 투자하기 전 알아야할 모든 것",
+   "link": "https://www.hankyung.com/article/202611198658i",
+   "published": "2026-11-20T07:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"요즘 신혼부부 중국산 TV 많이 찾아요\"…삼성·LG '초비상' [테크로그]",
+   "link": "https://www.hankyung.com/article/202611196819g",
+   "published": "2026-11-20T07:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -27,6 +99,33 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "\"시진핑 덕에 웃었다\"…상한가 파티에 개미들 환호 [분석+]",
+   "link": "https://www.hankyung.com/article/2026111980736",
+   "published": "2026-11-20T06:30+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'어닝 쇼크' 씨어스, 지수 편입 힘입어 반등 이어갈까 [종목+]",
+   "link": "https://www.hankyung.com/article/2026111979036",
+   "published": "2026-11-20T06:30+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "하루 늦게 덮친 엔비디아 후폭풍…韓 네오클라우드 '급락' [종목+]",
+   "link": "https://www.hankyung.com/article/2026111979176",
+   "published": "2026-11-20T06:30+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "트럼프 \"김정은과 회담 성사 안됐지만…언젠가 만날 것\"(종합)",
@@ -2792,20 +2891,20 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-20T07:13+09:00",
+ "updated_at": "2026-11-20T07:44+09:00",
  "last_run": {
   "added": {
-   "fed_press": 1,
+   "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 2,
-   "yna_market": 7,
-   "yna_world": 35,
-   "hk_finance": 6,
-   "hk_economy": 6,
+   "yna_economy": 1,
+   "yna_market": 2,
+   "yna_world": 0,
+   "hk_finance": 5,
+   "hk_economy": 2,
    "mk_stock": 1,
-   "cnbc_economy": 1,
+   "cnbc_economy": 0,
    "cnbc_finance": 0,
-   "bok": 1
+   "bok": 0
   },
   "errors": {
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
