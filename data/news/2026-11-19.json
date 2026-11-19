@@ -2,6 +2,15 @@
  "date": "2026-11-19",
  "items": [
   {
+   "title": "AI발 인프라 투자 슈퍼사이클…韓 재생에너지 4천억달러 시장 열릴 것 [GAII 2026 Live]",
+   "link": "https://www.mk.co.kr/news/stock/12213531",
+   "published": "2026-11-19T22:47+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "부동산 전략, 금리가 모든 것 결정…‘고급자산’ 저가매수기회 왔다 [GAII 2026 Live]",
    "link": "https://www.mk.co.kr/news/stock/12213494",
    "published": "2026-11-19T21:22+09:00",
@@ -218,11 +227,92 @@
    "category": "kr"
   },
   {
+   "title": "일진전기, 싱가포르서 초고압 케이블 공급계약…1천125억원 규모",
+   "link": "https://www.yna.co.kr/view/AKR20261119099600003",
+   "published": "2026-11-19T13:49+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "먼저 와서 기다린 푸틴…트럼프 \"훌륭한 성과 많이 나올 것\"",
+   "link": "https://www.yna.co.kr/view/AKR20261119096500071",
+   "published": "2026-11-19T13:46+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "태국 법원, 강진에 무너진 빌딩 시공 中건설사 임원 실형 선고",
+   "link": "https://www.yna.co.kr/view/AKR20261119090000084",
+   "published": "2026-11-19T13:35+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "“10년간 11배 수익” … 39년 베테랑 펀드매니저의 성장株 투자법",
    "link": "https://www.mk.co.kr/news/stock/12212634",
    "published": "2026-11-19T13:30+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "중기중앙회, '대한민국 안심일터대상' 종합대상에 유일정밀 선정",
+   "link": "https://www.yna.co.kr/view/AKR20261119058100030",
+   "published": "2026-11-19T13:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "제주, 건설현장 기후보험 지급조건 개선 추진",
+   "link": "https://www.yna.co.kr/view/AKR20261119091600056",
+   "published": "2026-11-19T13:26+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"애 낳고 버텼지만 결국 퇴사\"…워킹맘 떠나는 진짜 이유",
+   "link": "https://www.hankyung.com/article/202611197174i",
+   "published": "2026-11-19T13:09+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "시진핑 \"아태 자유무역지대는 APEC의 공동 청사진\"",
+   "link": "https://www.yna.co.kr/view/AKR20261119088200089",
+   "published": "2026-11-19T13:02+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "트럼프 \"AI 잠재력 파괴할 국제 규제 반대…미중러 회담 역사적\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261119083551071",
+   "published": "2026-11-19T12:54+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "앤트로픽, 일본 IPO서 30억달러 조달…목표 하단",
+   "link": "https://www.yna.co.kr/view/AKR20261119086200009",
+   "published": "2026-11-19T12:52+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
    "tier": "press",
    "category": "kr"
   },
@@ -3440,20 +3530,20 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-19T12:49+09:00",
+ "updated_at": "2026-11-19T13:55+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 16,
+   "yna_economy": 2,
    "yna_market": 2,
-   "yna_world": 7,
-   "hk_finance": 3,
-   "hk_economy": 2,
-   "mk_stock": 2,
+   "yna_world": 4,
+   "hk_finance": 0,
+   "hk_economy": 1,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
-   "bok": 1
+   "bok": 0
   },
   "errors": {
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
