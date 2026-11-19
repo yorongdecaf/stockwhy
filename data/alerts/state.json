@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-11-19T16:13+09:00",
+  "last_run_at": "2026-11-19T17:13+09:00",
   "alerted_links": [
     "https://www.yna.co.kr/view/AKR20261119010051091",
     "https://www.mk.co.kr/news/stock/12213396",
@@ -133,6 +133,11 @@
       "time": "2026-11-19T16:13+09:00",
       "title": "매경 증권 신규 항목(GAII 2026·MK시그널·목표가 등)",
       "reason": "행사·칼럼·추천형. published +9시간 밀림 지속"
+    },
+    {
+      "time": "2026-11-19T17:13+09:00",
+      "title": "신규 수집 없음(news updated_at 15:59) · 매경 증권 행사·추천형 항목",
+      "reason": "16시 실행 이후 새 기사 없음, 남은 항목은 알림 기준 밖"
     }
   ],
   "last_error": null
