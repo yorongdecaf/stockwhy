@@ -1,7 +1,13 @@
 {
- "last_run_at": "2026-11-19T11:13+09:00",
+ "last_run_at": "2026-11-19T12:15+09:00",
  "alerted_links": [
-  "https://www.yna.co.kr/view/AKR20261119010051091"
+  "https://www.yna.co.kr/view/AKR20261119010051091",
+  "https://www.mk.co.kr/news/stock/12213396",
+  "https://www.mk.co.kr/news/stock/12213291",
+  "https://www.mk.co.kr/news/stock/12213253",
+  "https://www.ddaily.co.kr/page/view/2026111819455714632",
+  "https://www.fnnews.com/news/202611181658459544",
+  "https://www.ajunews.com/view/20261119100443319"
  ],
  "alerts": [
   {
@@ -17,6 +23,20 @@
     "https://finance.yahoo.com/markets/stocks/articles/anthropic-prices-ipo-83-per-222443646.html",
     "https://www.fool.com/investing/2026/11/18/it-s-official-anthropic-prices-its-ipo-at-usd83-a-share-here-s-what-we-know-and-what-we-don-t/"
    ]
+  },
+  {
+   "time": "2026-11-19T12:15+09:00",
+   "title": "한중 FTA 서비스·투자 협상 8년 8개월 만에 타결, 엔터주 급등",
+   "files": [
+    "alerts/2026-11-19/1215_korea-china-fta.jpg",
+    "alerts/2026-11-19/1215_korea-china-fta.txt",
+    "alerts/2026-11-19/1215_korea-china-fta.json"
+   ],
+   "sources": [
+    "https://www.ddaily.co.kr/page/view/2026111819455714632",
+    "https://www.fnnews.com/news/202611181658459544",
+    "https://www.ajunews.com/view/20261119100443319"
+   ]
   }
  ],
  "skipped": [
@@ -29,6 +49,11 @@
    "time": "2026-11-19T11:13+09:00",
    "title": "엔비디아 3분기 실적",
    "reason": "11/18 발표·하루 지난 건, 삼성전기 카드(11/18)로 다룸"
+  },
+  {
+   "time": "2026-11-19T12:15+09:00",
+   "title": "[단독] 韓, 9월 美 중장기 국채 114억달러 매입(한경)",
+   "reason": "단독·출처 1곳, 공식 원문 미확인"
   }
  ],
  "last_error": null
