@@ -2,6 +2,15 @@
  "date": "2026-11-20",
  "items": [
   {
+   "title": "美서 터진 또 하나의 ‘칩 불륜’ 스캔들 … 주가 작전세력의 음모론인가",
+   "link": "https://www.mk.co.kr/news/business/12214398",
+   "published": "2026-11-20T20:01+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "가격 빠진 SK하이닉스 담은 초고수들…삼성전자 우선주 사고 보통주 팔았다 [주식 초고수는 지금]",
    "link": "https://www.mk.co.kr/news/stock/12214379",
    "published": "2026-11-20T19:43+09:00",
@@ -146,6 +155,204 @@
    "category": "kr"
   },
   {
+   "title": "노동장관, 건설현장 불시 점검…한파쉼터 없고 추락방지 부실",
+   "link": "https://www.yna.co.kr/view/AKR20261120081800530",
+   "published": "2026-11-20T11:42+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "국고채 금리 일제히 하락…3년물 장중 연 3.669%",
+   "link": "https://www.yna.co.kr/view/AKR20261120082600008",
+   "published": "2026-11-20T11:40+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "젠슨황 옹호하던 트럼프, 엔비디아 주식 몇달간 '사팔사팔'",
+   "link": "https://www.yna.co.kr/view/AKR20261120078400009",
+   "published": "2026-11-20T11:40+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'돈 버는 AI'만 골라 담는다…AI 모델·플랫폼 ETF 다음달 상장",
+   "link": "https://www.hankyung.com/article/202611209732i",
+   "published": "2026-11-20T11:36+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美의회, 中항공우주굴기 경계…동맹 동원하는 기술통제 권고",
+   "link": "https://www.yna.co.kr/view/AKR20261120078100009",
+   "published": "2026-11-20T11:35+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "1광일 거리에서 날아온 전파…NASA, 보이저 1호 신호 수신",
+   "link": "https://www.yna.co.kr/view/AKR20261120079600075",
+   "published": "2026-11-20T11:31+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "원주 미용의료기기 기업 5곳, 홍콩서 165만 달러 수출 상담",
+   "link": "https://www.yna.co.kr/view/AKR20261120076200062",
+   "published": "2026-11-20T11:22+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "코스피, 4%대 급락에 5,000선 밑으로…삼전닉스, 5~6%↓",
+   "link": "https://www.yna.co.kr/view/AKR20261120075600008",
+   "published": "2026-11-20T11:22+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "中, '사실상 기준금리' 18개월째 동결…내수부진에도 금리 유지",
+   "link": "https://www.yna.co.kr/view/AKR20261120074600083",
+   "published": "2026-11-20T11:21+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[오전시황] 외국인·기관 1조원 넘게 팔았다…코스피 장중 4900선 하회",
+   "link": "https://www.hankyung.com/article/202611209694i",
+   "published": "2026-11-20T11:20+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "무안 국가산단 지정 연내 신청…앵커기업 확보가 '관건'",
+   "link": "https://www.yna.co.kr/view/AKR20261120071000054",
+   "published": "2026-11-20T11:13+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 교보증권, 창립 77주년 기념식·나눔 활동 진행",
+   "link": "https://www.yna.co.kr/view/AKR20261120075100008",
+   "published": "2026-11-20T11:13+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "유럽 스마트폰 시장 13년 만에 최악…삼성 점유율 1위",
+   "link": "https://www.yna.co.kr/view/AKR20261120073500017",
+   "published": "2026-11-20T11:11+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"미, 남미 영토분쟁 개입…베네수에 가이아나땅 이양 제안\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120069400009",
+   "published": "2026-11-20T11:04+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "개미들 계좌 1억개 넘었는데… \"주식 살 돈은 없어요\"",
+   "link": "https://www.hankyung.com/article/202611209606i",
+   "published": "2026-11-20T11:04+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[동포의 창] 동포청, 한상 네트워크 활용해 AI 스타트업 美 진출 지원",
+   "link": "https://www.yna.co.kr/view/AKR20261120069600371",
+   "published": "2026-11-20T11:02+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "아모레퍼시픽, 산업부 '2026 굿디자인 어워드'서 4건 수상",
+   "link": "https://www.yna.co.kr/view/AKR20261120070200030",
+   "published": "2026-11-20T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "노동부, 청주·전주서 '고용정책 팝업스토어'…청년에 직접 소개",
+   "link": "https://www.yna.co.kr/view/AKR20261120034400530",
+   "published": "2026-11-20T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "통상본부장, 우루과이와 메르코수르 무역협정 재개 논의",
+   "link": "https://www.yna.co.kr/view/AKR20261120031100003",
+   "published": "2026-11-20T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"하이닉스 인사팀이 왜 거기서 나와\"…'이색 팝업' 정체",
+   "link": "https://www.hankyung.com/article/202611209359i",
+   "published": "2026-11-20T11:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "日 10월 소비자물가 2.2% 상승…전기·가스 보조금 중단 여파",
+   "link": "https://www.yna.co.kr/view/AKR20261120069100073",
+   "published": "2026-11-20T10:57+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "초고수들, 美 기술주 약세 틈타 삼전닉스 쓸어담아…엔터주 차익실현 매도",
+   "link": "https://www.hankyung.com/article/202611209538i",
+   "published": "2026-11-20T10:57+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "광주-일본 시코쿠 세무사회, 30년간 우호 교류",
    "link": "https://www.yna.co.kr/view/AKR20261120068200054",
    "published": "2026-11-20T10:55+09:00",
@@ -162,6 +369,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "중국이 메모리 주문 확 줄였다…삼전닉스 '날벼락' 맞은 이유",
+   "link": "https://www.hankyung.com/article/202611209413i",
+   "published": "2026-11-20T10:53+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "\"韓기업, 트럼프 차남 관여 군용로봇 회사에 2천억원 투자 준비\"",
@@ -259,6 +475,24 @@
    "published": "2026-11-20T10:39+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"주총장 안 가도 의결권 행사\"…예탁원, 전자주총 플랫폼 'EVOP' 개설",
+   "link": "https://www.hankyung.com/article/202611209390i",
+   "published": "2026-11-20T10:39+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"최대 실적 주도\"…삼성전자 '반도체 3인방' 사장 승진",
+   "link": "https://www.hankyung.com/article/202611209158g",
+   "published": "2026-11-20T10:35+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -4430,17 +4664,17 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-20T10:59+09:00",
+ "updated_at": "2026-11-20T11:51+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 31,
-   "yna_market": 8,
-   "yna_world": 12,
-   "hk_finance": 13,
-   "hk_economy": 18,
-   "mk_stock": 4,
+   "yna_economy": 11,
+   "yna_market": 1,
+   "yna_world": 5,
+   "hk_finance": 6,
+   "hk_economy": 2,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
