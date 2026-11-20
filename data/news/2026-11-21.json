@@ -2,6 +2,267 @@
  "date": "2026-11-21",
  "items": [
   {
+   "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락",
+   "link": "https://www.mk.co.kr/news/stock/12215112",
+   "published": "2026-11-21T15:24+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
+   "link": "https://www.mk.co.kr/news/stock/12215101",
+   "published": "2026-11-21T15:09+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"AI 클로드, 수학 최대 난제 리만가설 증명\" 주장 나와",
+   "link": "https://www.yna.co.kr/view/AKR20261121011500009",
+   "published": "2026-11-21T07:04+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[금주핫템] 일리윤 '멀티베리어 페이셜'·템퍼 '어고 프로 스마트 베이스'",
+   "link": "https://www.yna.co.kr/view/AKR20261120109100030",
+   "published": "2026-11-21T07:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[신상잇슈] 동서식품 '겨울한정 카누캡슐'·팔도 '팔도비빔면 윈터에디션'",
+   "link": "https://www.yna.co.kr/view/AKR20261120116000030",
+   "published": "2026-11-21T07:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
+   "link": "https://www.yna.co.kr/view/AKR20261120164900003",
+   "published": "2026-11-21T07:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[마켓人] IT 접목해 주주운동 뒷받침하는 이상목 컨두잇 대표",
+   "link": "https://www.yna.co.kr/view/AKR20261120137900008",
+   "published": "2026-11-21T07:00+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프, 밴스·루비오 세워둔 채 비서실장에 \"대선출마 원하나\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121010600071",
+   "published": "2026-11-21T06:46+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[AI돋보기] 해킹에 커닝까지…AI의 역습에 한국 사회 비상",
+   "link": "https://www.yna.co.kr/view/AKR20261119149900017",
+   "published": "2026-11-21T06:33+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "앤트로픽, 상장 이틀째 8.5% 급락…장중 공모가까지 떨어지기도",
+   "link": "https://www.yna.co.kr/view/AKR20261121011100091",
+   "published": "2026-11-21T06:33+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프, 젠슨 황 복귀 촉구…\"두 번째 기회 주어져야\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121008800075",
+   "published": "2026-11-21T06:29+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"美증권위, 엔비디아 회계조사\"…싱가포르 매출기준 변경 주목",
+   "link": "https://www.yna.co.kr/view/AKR20261121008700072",
+   "published": "2026-11-21T06:18+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "Federal Reserve announces College Fed Challenge winners",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+   "published": "2026-11-21T06:15+09:00",
+   "source": "미국 연준 보도자료",
+   "source_id": "fed_press",
+   "tier": "official",
+   "category": "us_policy"
+  },
+  {
+   "title": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입",
+   "link": "https://www.yna.co.kr/view/AKR20261121009251072",
+   "published": "2026-11-21T06:11+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "엔비디아, 中간첩 연루 메가스피드 관련사에 칩 4만개 판매신청",
+   "link": "https://www.yna.co.kr/view/AKR20261121007800091",
+   "published": "2026-11-21T06:08+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[속보] 기술주 매도에 나스닥 5.3% 폭락…다우·S&P500도 조정 진입",
+   "link": "https://www.yna.co.kr/view/AKR20261121009200072",
+   "published": "2026-11-21T06:02+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "美 前당국자 \"남북연합 통일뒤 北에 일정기간 대통령 보장\" 돌출 주장",
+   "link": "https://www.yna.co.kr/view/AKR20261121007600071",
+   "published": "2026-11-21T06:02+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[부동산캘린더] 내주 서울 경희궁 에피트 등 전국서 6천295가구 분양",
+   "link": "https://www.yna.co.kr/view/AKR20261120124100003",
+   "published": "2026-11-21T06:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "주유소 기름값 27주째 하락…서울 휘발유 평균도 1천800원대로",
+   "link": "https://www.yna.co.kr/view/AKR20261120163100003",
+   "published": "2026-11-21T06:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[글로벌보건] ⑤ 원조에서 동반자로…K-보건의료, 중남미 자립 돕는다(끝)",
+   "link": "https://www.yna.co.kr/view/AKR20261120130200530",
+   "published": "2026-11-21T06:00+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"4인 가족 모임에 100만원\"…연말 앞두고 초고가 뷔페 '불티' [권용훈의 트렌드워치]",
+   "link": "https://www.hankyung.com/article/202611196552i",
+   "published": "2026-11-21T06:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"믿을 건 金뿐인 줄 알았는데\"…최후의 피난처마저 '흔들'",
+   "link": "https://www.hankyung.com/article/2026112007131",
+   "published": "2026-11-21T06:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프 \"이란, 합의 원하지만 내가 수용할 합의는 원하지 않아\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121007200071",
+   "published": "2026-11-21T05:16+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+   "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+   "published": "2026-11-21T04:59+09:00",
+   "source": "CNBC Finance",
+   "source_id": "cnbc_finance",
+   "tier": "press",
+   "category": "us"
+  },
+  {
+   "title": "기후총회, 화석연료 문구 놓고 막판 진통…시한 넘겨 주말 담판",
+   "link": "https://www.yna.co.kr/view/AKR20261121007000099",
+   "published": "2026-11-21T04:53+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "비건 前대북대표 \"전작권전환, 역량 아닌 일정에 기초해선 안돼\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121005300071",
+   "published": "2026-11-21T04:18+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "美 LA 도심 가까이서 규모 4.2 지진…\"진동 때문에 잠에서 깨\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121005400075",
+   "published": "2026-11-21T04:02+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "비트코인 4달만에 도로 6만달러 아래로…2022년 이후 최장 약세",
+   "link": "https://www.yna.co.kr/view/AKR20261121005500091",
+   "published": "2026-11-21T04:00+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프 \"美기업, 다른 나라에 데이터센터 지으면 엄청난 세금 부과\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121006000071",
+   "published": "2026-11-21T03:56+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "8월까지 103차례 사고팔더니…트럼프 계좌, 9월에도 엔비디아 더 샀다",
    "link": "https://www.mk.co.kr/news/stock/12214899",
    "published": "2026-11-21T03:15+09:00",
@@ -20,6 +281,15 @@
    "category": "kr"
   },
   {
+   "title": "우크라 비판한 미국에 \"어리석다\"…독일 국방장관 발언 사과",
+   "link": "https://www.yna.co.kr/view/AKR20261121004800082",
+   "published": "2026-11-21T02:44+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "“이런 블랙프라이데이 최악입니다”…비트코인·금까지 죄다 추락",
    "link": "https://www.mk.co.kr/news/stock/12214881",
    "published": "2026-11-21T02:43+09:00",
@@ -36,6 +306,15 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "베선트 \"미중 정상, AI 군사 결정에 인간 개입 합의\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121004500072",
+   "published": "2026-11-21T02:38+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "[포토] 앤트로픽 CEO는 웃고 있지만…",
@@ -63,6 +342,15 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "\"러 정보기관, 덴마크 범죄조직 포섭해 우크라 래퍼 암살 시도\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121004400098",
+   "published": "2026-11-21T02:33+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "\"내년에도 AI 회의론이 최대 위협\"",
@@ -101,6 +389,42 @@
    "category": "kr"
   },
   {
+   "title": "어설픈 부켈레 따라하기?…콜롬비아 대통령 '과시형 통치' 논란",
+   "link": "https://www.yna.co.kr/view/AKR20261121004200087",
+   "published": "2026-11-21T02:25+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "앤트로픽 상장은 '마지막 불꽃놀이'...FT의 경고 [월가 업&다운]",
+   "link": "https://www.hankyung.com/article/202611211036i",
+   "published": "2026-11-21T02:25+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"트럼프, 우크라 종전협상 내년 1월 초까지 타결 원해\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121004000085",
+   "published": "2026-11-21T02:20+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "Cook, The U.S. Economy in Global Context",
+   "link": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+   "published": "2026-11-21T02:15+09:00",
+   "source": "미국 연준 연설",
+   "source_id": "fed_speech",
+   "tier": "official",
+   "category": "us_policy"
+  },
+  {
    "title": "“나 없으면 회사 안 돌아가” 줄사표 쓴 7인…5년 만에 전부 30조원대 주식 부자",
    "link": "https://www.mk.co.kr/news/stock/12214753",
    "published": "2026-11-21T02:03+09:00",
@@ -108,6 +432,60 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "美11월 소비자심리 예상 부합…\"중간선거 후 경기전망 개선\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121002900072",
+   "published": "2026-11-21T01:56+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "폴란드 \"러 미사일 영공 넘어와 추락…의도적 도발\"(종합2보)",
+   "link": "https://www.yna.co.kr/view/AKR20261120171452082",
+   "published": "2026-11-21T01:45+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "이스라엘 총리 후보 아이젠코트 \"과반 연정 실패 땐 비상정부\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121002000079",
+   "published": "2026-11-21T01:31+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "美재무 \"'엔비디아 H200 中 판매 허용' 정책 변화 없어\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121001600071",
+   "published": "2026-11-21T01:23+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121001800079",
+   "published": "2026-11-21T01:17+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "러·유럽, 종전협상 신경전…프랑스 \"역할 있어야 모스크바 갈 것\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121001500085",
+   "published": "2026-11-21T01:14+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "‘검은 금요일’ 코스피·코스닥 나란히 5%대 급락…3거래일 만 ‘5천피’ 붕괴",
@@ -119,6 +497,33 @@
    "category": "kr"
   },
   {
+   "title": "이란 매체 \"게슘섬에서 폭발음·섬광…적 항공기 격추 가능성\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121001700079",
+   "published": "2026-11-21T01:02+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "브렉시트로 헤어진 EU·영국, 정상회담서 '관계 재설정' 시동(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261120177951098",
+   "published": "2026-11-21T00:51+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "부켈레, 엘살바도르 대선 후보 등록…3선 도전 공식화",
+   "link": "https://www.yna.co.kr/view/AKR20261121000700087",
+   "published": "2026-11-21T00:28+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
    "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
    "published": "2026-11-21T00:20+09:00",
@@ -126,6 +531,24 @@
    "source_id": "cnbc_finance",
    "tier": "press",
    "category": "us"
+  },
+  {
+   "title": "美무역대표 \"'상호관세 대체' 301조 조사 연말까지 마무리\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121000400071",
+   "published": "2026-11-21T00:20+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "앤트로픽 상장 이틀째 9% 급락 출발…AI 투자 불안 확산",
+   "link": "https://www.yna.co.kr/view/AKR20261121000600072",
+   "published": "2026-11-21T00:18+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "오전엔 순매도 1위였던 삼성전자…낙폭 커지자 오후엔 순매수 1위 [주식 초고수는 지금]",
@@ -2234,20 +2657,20 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T00:21+09:00",
+ "updated_at": "2026-11-21T07:13+09:00",
  "last_run": {
   "added": {
-   "fed_press": 3,
-   "fed_speech": 3,
-   "yna_economy": 40,
-   "yna_market": 22,
-   "yna_world": 39,
-   "hk_finance": 40,
-   "hk_economy": 40,
-   "mk_stock": 40,
-   "cnbc_economy": 6,
-   "cnbc_finance": 11,
-   "bok": 4
+   "fed_press": 1,
+   "fed_speech": 1,
+   "yna_economy": 6,
+   "yna_market": 5,
+   "yna_world": 28,
+   "hk_finance": 1,
+   "hk_economy": 2,
+   "mk_stock": 2,
+   "cnbc_economy": 0,
+   "cnbc_finance": 1,
+   "bok": 0
   },
   "errors": {
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
