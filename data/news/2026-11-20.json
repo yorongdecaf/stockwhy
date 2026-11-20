@@ -182,6 +182,15 @@
    "category": "kr"
   },
   {
+   "title": "러, 네덜란드에 \"우크라전 단순 방관자 더 이상 아냐\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120173400098",
+   "published": "2026-11-20T20:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "美서 터진 또 하나의 ‘칩 불륜’ 스캔들 … 주가 작전세력의 음모론인가",
    "link": "https://www.mk.co.kr/news/business/12214398",
    "published": "2026-11-20T20:01+09:00",
@@ -207,6 +216,15 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "폴란드 \"미확인 비행체 영공 침범…러시아 미사일 추정\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120171400082",
+   "published": "2026-11-20T19:25+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "美中, 상하이서 군사소통채널 가동…\"해상·공중 안보상황 교류\"",
@@ -241,6 +259,15 @@
    "published": "2026-11-20T19:04+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한국소비자중심기업協, 제20회 임원협의회 개최",
+   "link": "https://www.hankyung.com/article/202611200618i",
+   "published": "2026-11-20T18:54+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -6914,16 +6941,16 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-20T19:31+09:00",
+ "updated_at": "2026-11-20T20:50+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
+   "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 3,
-   "hk_finance": 4,
-   "hk_economy": 11,
+   "yna_world": 2,
+   "hk_finance": 0,
+   "hk_economy": 1,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
