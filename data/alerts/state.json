@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-11-20T09:13+09:00",
+  "last_run_at": "2026-11-20T10:13+09:00",
   "alerted_links": [
     "https://www.yna.co.kr/view/AKR20261119010051091",
     "https://www.mk.co.kr/news/stock/12213396",
@@ -18,7 +18,11 @@
     "https://www.hankyung.com/article/202611208779i",
     "https://www.yna.co.kr/view/AKR20261120002700091",
     "https://www.yna.co.kr/view/AKR20261120003100091",
-    "https://www.yna.co.kr/view/AKR20261120003151091"
+    "https://www.yna.co.kr/view/AKR20261120003151091",
+    "https://www.mk.co.kr/news/stock/12214337",
+    "https://www.yna.co.kr/view/AKR20261120046000008",
+    "https://www.yna.co.kr/view/AKR20261120039200008",
+    "https://www.yna.co.kr/view/AKR20261120041900008"
   ],
   "alerts": [
     {
@@ -77,6 +81,21 @@
         "https://www.yna.co.kr/view/AKR20261120010700072",
         "https://www.hankyung.com/article/202611208779i",
         "https://newspim.com/news/view/20261120000052"
+      ]
+    },
+    {
+      "time": "2026-11-20T10:13+09:00",
+      "title": "코스피 4.08% 급락 출발(시가 4,928.51), 5,000선 붕괴",
+      "files": [
+        "alerts/2026-11-20/0900_kospi-5000-break.jpg",
+        "alerts/2026-11-20/0900_kospi-5000-break.txt",
+        "alerts/2026-11-20/0900_kospi-5000-break.json"
+      ],
+      "sources": [
+        "https://m.sedaily.com/article/20116783",
+        "https://www.ajunews.com/view/20261120093431097",
+        "https://www.inews24.com/view/2028498",
+        "https://www.ebn.co.kr/news/articleView.html?idxno=1732421"
       ]
     }
   ],
@@ -210,6 +229,11 @@
       "time": "2026-11-20T09:13+09:00",
       "title": "인텔 18A 첫 외부 고객, 中문샷AI 엔비디아칩 계약 취소, 증권사 리포트(D램 40%·이차전지·삼성SDI 등), 앤트로픽 후속, IEA 호르무즈 등",
       "reason": "알림 기준 밖(빅테크 실적 아님·리포트 전망·해설) 또는 07시 알림과 같은 사건 후속. FT 삼성·TSMC 건은 신규 독자 확인 기사 없어 계속 보류"
+    },
+    {
+      "time": "2026-11-20T10:13+09:00",
+      "title": "굴스비 'AI로 경제 과열' 발언(연합 인용), 日 근원CPI, 삼성전자 사장단 유지, 외국인 45조 순매도·리포트·게시판 등",
+      "reason": "굴스비는 연합 원문 열람 차단·로이터 재게재만 확인돼 보류(금리 결정 아님), 日 물가는 기준 밖, 나머지 인사·리포트·행사성. FT 삼성·TSMC 건 신규 독자 확인 없음"
     }
   ],
   "last_error": null
