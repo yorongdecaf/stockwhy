@@ -173,11 +173,56 @@
    "category": "kr"
   },
   {
+   "title": "브렉시트로 갈라선 EU·영국, 정상회담서 관계 재설정 시동",
+   "link": "https://www.yna.co.kr/view/AKR20261120177900098",
+   "published": "2026-11-20T21:50+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "폴란드 \"러 미사일 영공 넘어와 추락…의도적 도발\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261120171451082",
+   "published": "2026-11-20T21:23+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
    "link": "https://www.mk.co.kr/news/stock/12214460",
    "published": "2026-11-20T20:59+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "나이지리아, '자살 시도' 형사처벌 대상서 제외 추진",
+   "link": "https://www.yna.co.kr/view/AKR20261120175800099",
+   "published": "2026-11-20T20:53+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "미얀마, '로힝야족 집단학살' ICJ 판결에 \"불공정·부당\" 반발",
+   "link": "https://www.yna.co.kr/view/AKR20261120173700084",
+   "published": "2026-11-20T20:51+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[부고] 이병상(삼성중공업 커뮤니케이션미디어그룹 프로)씨 별세",
+   "link": "https://www.hankyung.com/article/202611200873i",
+   "published": "2026-11-20T20:14+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -6941,14 +6986,13 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-20T20:50+09:00",
+ "updated_at": "2026-11-20T21:54+09:00",
  "last_run": {
   "added": {
-   "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 2,
+   "yna_world": 4,
    "hk_finance": 0,
    "hk_economy": 1,
    "mk_stock": 0,
@@ -6957,6 +7001,7 @@
    "bok": 0
   },
   "errors": {
+   "fed_press": "HTTPError: HTTP Error 404: Not Found",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
