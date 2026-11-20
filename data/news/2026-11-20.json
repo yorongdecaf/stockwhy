@@ -2,6 +2,15 @@
  "date": "2026-11-20",
  "items": [
   {
+   "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
+   "link": "https://www.mk.co.kr/news/stock/12214460",
+   "published": "2026-11-20T20:59+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "美서 터진 또 하나의 ‘칩 불륜’ 스캔들 … 주가 작전세력의 음모론인가",
    "link": "https://www.mk.co.kr/news/business/12214398",
    "published": "2026-11-20T20:01+09:00",
@@ -151,6 +160,195 @@
    "published": "2026-11-20T14:00+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "파키스탄군, 북서부 무장세력 은신처 습격…22명 사살",
+   "link": "https://www.yna.co.kr/view/AKR20261120086800084",
+   "published": "2026-11-20T12:23+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'APEC 방중' 머스크 \"나는 열렬한 중국 팬…상하이 공장 증산\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120086400089",
+   "published": "2026-11-20T12:15+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "트럼프, 아세안 순방서 170억불 수주·투자 보따리",
+   "link": "https://www.yna.co.kr/view/AKR20261120081700009",
+   "published": "2026-11-20T12:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[게시판] 미래에셋, '금융상품 지식 AI 검색' 서비스 개시",
+   "link": "https://www.yna.co.kr/view/AKR20261120085800008",
+   "published": "2026-11-20T12:09+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "검은 금요일 맞은 亞증시…韓·日·대만, 일제히 4∼6%대 급락",
+   "link": "https://www.yna.co.kr/view/AKR20261120085100008",
+   "published": "2026-11-20T12:08+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"폰 금지당한 학생들, 1년에 2주치 점수 향상\"…하버드대 연구",
+   "link": "https://www.yna.co.kr/view/AKR20261120067800009",
+   "published": "2026-11-20T12:08+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "공정위, 한화솔루션 등 현장조사…태양광 발전 패널 담합 의혹",
+   "link": "https://www.yna.co.kr/view/AKR20261120086200002",
+   "published": "2026-11-20T12:06+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"하객 100명 왔어도 식대 300명치 다 내세요\"…결혼식장 '분통'",
+   "link": "https://www.hankyung.com/article/2026112098117",
+   "published": "2026-11-20T12:06+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'AI 커닝' 비상, 경기도 중등 교사 임용시험에 전파탐지기 투입",
+   "link": "https://www.yna.co.kr/view/AKR20261120082400061",
+   "published": "2026-11-20T12:05+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "코스피, 4%대 급락…매도 사이드카 발동",
+   "link": "https://www.yna.co.kr/view/AKR20261120086300008",
+   "published": "2026-11-20T12:04+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "러 요구에도 아랑곳없는 다카이치…\"우크라지원·대러제재 지속\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120084400073",
+   "published": "2026-11-20T12:02+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"결혼식장 64%, 계약 이후 최소보증인원 낮출 수 없어\"",
+   "link": "https://www.yna.co.kr/view/AKR20261119130200030",
+   "published": "2026-11-20T12:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "올해 고추 재배면적 역대 최소에도 생산량은 3.1%↑…기상 양호",
+   "link": "https://www.yna.co.kr/view/AKR20261120044500002",
+   "published": "2026-11-20T12:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "산업장관, 경제6단체와 간담회…수출 질적성장 위한 협력 강조",
+   "link": "https://www.yna.co.kr/view/AKR20261120077100003",
+   "published": "2026-11-20T12:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "3분기 신규 주담대 평균 2억1천451만원…622만원 늘어",
+   "link": "https://www.yna.co.kr/view/AKR20261120079200002",
+   "published": "2026-11-20T12:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "2026년 3/4분기 차주별 가계부채(잠정)",
+   "link": "https://www.bok.or.kr/portal/bbs/B0000501/view.do?nttId=11066824&menuNo=201264",
+   "published": "2026-11-20T12:00+09:00",
+   "source": "한국은행 보도자료",
+   "source_id": "bok",
+   "tier": "official",
+   "category": "kr_policy"
+  },
+  {
+   "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
+   "link": "https://www.hankyung.com/article/2026112097937",
+   "published": "2026-11-20T11:57+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "백악관, 미중러 정상회담 공동성명 공개…\"국제정세 심층논의\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120074500009",
+   "published": "2026-11-20T11:56+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
+   "link": "https://www.yna.co.kr/view/AKR20261120085200008",
+   "published": "2026-11-20T11:55+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"피오나, 고마웠어\"…美 '스타 하마' 사망에 애도 물결",
+   "link": "https://www.yna.co.kr/view/AKR20261120079900009",
+   "published": "2026-11-20T11:52+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "국제 금값, 14개월만에 최저…달러는 19개월 최고 수준",
+   "link": "https://www.yna.co.kr/view/AKR20261120083400009",
+   "published": "2026-11-20T11:48+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -4664,20 +4862,20 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-20T11:51+09:00",
+ "updated_at": "2026-11-20T12:45+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 11,
-   "yna_market": 1,
-   "yna_world": 5,
-   "hk_finance": 6,
-   "hk_economy": 2,
+   "yna_market": 0,
+   "yna_world": 7,
+   "hk_finance": 1,
+   "hk_economy": 1,
    "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
-   "bok": 0
+   "bok": 1
   },
   "errors": {
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
