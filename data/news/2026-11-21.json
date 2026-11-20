@@ -20,6 +20,24 @@
    "category": "kr"
   },
   {
+   "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261121001651071",
+   "published": "2026-11-21T07:35+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261121009252072",
+   "published": "2026-11-21T07:22+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "\"AI 클로드, 수학 최대 난제 리만가설 증명\" 주장 나와",
    "link": "https://www.yna.co.kr/view/AKR20261121011500009",
    "published": "2026-11-21T07:04+09:00",
@@ -2657,19 +2675,19 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T07:13+09:00",
+ "updated_at": "2026-11-21T07:42+09:00",
  "last_run": {
   "added": {
-   "fed_press": 1,
-   "fed_speech": 1,
-   "yna_economy": 6,
-   "yna_market": 5,
-   "yna_world": 28,
-   "hk_finance": 1,
-   "hk_economy": 2,
-   "mk_stock": 2,
+   "fed_press": 0,
+   "fed_speech": 0,
+   "yna_economy": 0,
+   "yna_market": 1,
+   "yna_world": 1,
+   "hk_finance": 0,
+   "hk_economy": 0,
+   "mk_stock": 0,
    "cnbc_economy": 0,
-   "cnbc_finance": 1,
+   "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
