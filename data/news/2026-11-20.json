@@ -2,6 +2,24 @@
  "date": "2026-11-20",
  "items": [
   {
+   "title": "LSK아이로봇, 9회차 전환사채 8억원 조기상환",
+   "link": "https://www.mk.co.kr/news/stock/12214507",
+   "published": "2026-11-20T22:36+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "큐라클, 경구용 망막질환 신약 ‘CU06’ 美 2b상 IND 제출…저시력 환자 겨냥",
+   "link": "https://www.mk.co.kr/news/stock/12214501",
+   "published": "2026-11-20T22:30+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
    "link": "https://www.mk.co.kr/news/stock/12214460",
    "published": "2026-11-20T20:59+09:00",
@@ -160,6 +178,213 @@
    "published": "2026-11-20T14:00+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[바이오스냅] GC녹십자, 차세대 RNA·LNP 기술 발표",
+   "link": "https://www.yna.co.kr/view/AKR20261120040600017",
+   "published": "2026-11-20T13:46+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[인사] 해양수산부",
+   "link": "https://www.yna.co.kr/view/AKR20261120096300051",
+   "published": "2026-11-20T13:45+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[영상] 아이티, 美용병과 갱단 은신처 폭파…'부켈레 지지' 청년들 피살",
+   "link": "https://www.yna.co.kr/view/AKR20261120090300704",
+   "published": "2026-11-20T13:45+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "산업장관 \"수출 온기 확산하고 새로운 동력 발굴해야\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261120077151003",
+   "published": "2026-11-20T13:42+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "코스피 이어 코스닥도 매도 사이드카…삼전닉스 6%대 급락(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261120086351008",
+   "published": "2026-11-20T13:40+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[영상] 中, APEC서 '다카이치 홀대' 논란…日내부서도 \"고립\" 우려",
+   "link": "https://www.yna.co.kr/view/AKR20261120090200704",
+   "published": "2026-11-20T13:39+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "은평구, 25일 청년 주거 지원 '전월세 안심 아카데미'",
+   "link": "https://www.yna.co.kr/view/AKR20261120093500004",
+   "published": "2026-11-20T13:38+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 우리은행 발달장애 작가와 '원(WON) 아르떼 갤러리' 전시",
+   "link": "https://www.yna.co.kr/view/AKR20261120093300002",
+   "published": "2026-11-20T13:38+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "카르나AI아시아, AI 건강관리 기술로 산업보건 분야 공략",
+   "link": "https://www.yna.co.kr/view/AKR20261120083800017",
+   "published": "2026-11-20T13:35+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[영상] 반년 만에 또 쐈다…美 ICBM '미니트맨3' 야간 시험발사",
+   "link": "https://www.yna.co.kr/view/AKR20261120089600704",
+   "published": "2026-11-20T13:34+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "농식품부, 김치의 날 기념행사 개최…김장 체험·김치 홍보",
+   "link": "https://www.yna.co.kr/view/AKR20261120058800030",
+   "published": "2026-11-20T13:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[속보] 급락장에 코스피 이어 코스닥서도 매도 사이드카",
+   "link": "https://www.yna.co.kr/view/AKR20261120091800008",
+   "published": "2026-11-20T13:29+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "주병기 \"플랫폼사업자 시장력, 흉기될수도…후진적 법 개정해야\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120045600002",
+   "published": "2026-11-20T13:20+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "종묘 앞 세운4구역 재개발 당장 어렵다…보존 방안 심의 '부결'",
+   "link": "https://www.yna.co.kr/view/AKR20261120089100005",
+   "published": "2026-11-20T13:18+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"여친 쇼핑하는 동안 여기 계세요\"…'남친존' 뭐길래 [영상]",
+   "link": "https://www.hankyung.com/article/202611209454g",
+   "published": "2026-11-20T13:18+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "수출 1조 달러 달성 계기 경제 6단체 오찬 간담회",
+   "link": "https://www.hankyung.com/article/202611209868i",
+   "published": "2026-11-20T13:17+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "APEC 만찬식탁 오른 中리치와인 품절 대란…\"매출 900배 급증\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120088800083",
+   "published": "2026-11-20T13:15+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "쿠팡, 국내 계열사간 거래액 첫 5위…CJ는 매출 절반이 상표권 수입",
+   "link": "https://www.hankyung.com/article/202611209690g",
+   "published": "2026-11-20T13:14+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "온라인서 자신감 얻은 소상공인 60곳, 코엑스서 소비자 만난다",
+   "link": "https://www.yna.co.kr/view/AKR20261120083600030",
+   "published": "2026-11-20T13:10+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "중기중앙회, 부산서 청년 취업 지원 행사…AI로 강소기업 탐색",
+   "link": "https://www.yna.co.kr/view/AKR20261120032000030",
+   "published": "2026-11-20T13:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'스마트폰 기판 강자' 비에이치, 첨단 PCB 사업 확대…\"1100억 투자\"",
+   "link": "https://www.hankyung.com/article/202611209657i",
+   "published": "2026-11-20T13:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"전문가들, 미중러 합의 실효성에 의구심…핵군축 등 이견 여전\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120087000083",
+   "published": "2026-11-20T12:55+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[포토] 캘리포니아산 프리미엄 석류 맛보세요~",
+   "link": "https://www.hankyung.com/article/202611209840i",
+   "published": "2026-11-20T12:44+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -4862,20 +5087,20 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-20T12:45+09:00",
+ "updated_at": "2026-11-20T13:52+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 11,
-   "yna_market": 0,
-   "yna_world": 7,
-   "hk_finance": 1,
-   "hk_economy": 1,
-   "mk_stock": 1,
+   "yna_economy": 12,
+   "yna_market": 1,
+   "yna_world": 5,
+   "hk_finance": 0,
+   "hk_economy": 5,
+   "mk_stock": 2,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
-   "bok": 1
+   "bok": 0
   },
   "errors": {
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
