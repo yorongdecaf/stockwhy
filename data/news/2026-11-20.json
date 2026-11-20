@@ -155,6 +155,24 @@
    "category": "kr"
   },
   {
+   "title": "유럽 집값 10년 새 70% 급등…주택난에 각국 비상",
+   "link": "https://www.yna.co.kr/view/AKR20261120179300085",
+   "published": "2026-11-20T23:02+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "러 \"유럽대표 러 방문 조율 중…우크라 나토 준회원국도 안돼\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261120159751109",
+   "published": "2026-11-20T22:40+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "LSK아이로봇, 9회차 전환사채 8억원 조기상환",
    "link": "https://www.mk.co.kr/news/stock/12214507",
    "published": "2026-11-20T22:36+09:00",
@@ -173,6 +191,69 @@
    "category": "kr"
   },
   {
+   "title": "美 잇단 주요 인프라 장애에 백악관 국가사이버국장 해임",
+   "link": "https://www.yna.co.kr/view/AKR20261120178800071",
+   "published": "2026-11-20T22:30+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+   "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+   "published": "2026-11-20T22:29+09:00",
+   "source": "CNBC Finance",
+   "source_id": "cnbc_finance",
+   "tier": "press",
+   "category": "us"
+  },
+  {
+   "title": "Waller, Opening Remarks",
+   "link": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+   "published": "2026-11-20T22:25+09:00",
+   "source": "미국 연준 연설",
+   "source_id": "fed_speech",
+   "tier": "official",
+   "category": "us_policy"
+  },
+  {
+   "title": "후티 반군, 사우디 금융센터 등 '민간 시설'에 보복 예고",
+   "link": "https://www.yna.co.kr/view/AKR20261120178300079",
+   "published": "2026-11-20T22:03+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"월요일엔 또 무슨 악몽이\"…삼전닉스 개미들 멘탈도 '바닥' [분석+]",
+   "link": "https://www.hankyung.com/article/2026112004446",
+   "published": "2026-11-20T22:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"술에서 바다 맛이?\"…한국서 유독 잘 팔린다는 '이 술' [현장+]",
+   "link": "https://www.hankyung.com/article/202611209728g",
+   "published": "2026-11-20T22:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "푸틴, 미중러 회담 직후 키이우 교량 공격…\"역대 최대 규모\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261120124751009",
+   "published": "2026-11-20T21:53+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "브렉시트로 갈라선 EU·영국, 정상회담서 관계 재설정 시동",
    "link": "https://www.yna.co.kr/view/AKR20261120177900098",
    "published": "2026-11-20T21:50+09:00",
@@ -180,6 +261,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "\"재고 언제 풀리나\" 대기만 무려…난리 난 다이소 '5000원템'",
+   "link": "https://www.hankyung.com/article/2026112009177",
+   "published": "2026-11-20T21:35+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "폴란드 \"러 미사일 영공 넘어와 추락…의도적 도발\"(종합)",
@@ -6986,22 +7076,22 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-20T21:54+09:00",
+ "updated_at": "2026-11-20T23:10+09:00",
  "last_run": {
   "added": {
-   "fed_speech": 0,
+   "fed_press": 0,
+   "fed_speech": 1,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 4,
-   "hk_finance": 0,
-   "hk_economy": 1,
+   "yna_world": 5,
+   "hk_finance": 1,
+   "hk_economy": 2,
    "mk_stock": 0,
    "cnbc_economy": 0,
-   "cnbc_finance": 0,
+   "cnbc_finance": 1,
    "bok": 0
   },
   "errors": {
-   "fed_press": "HTTPError: HTTP Error 404: Not Found",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
