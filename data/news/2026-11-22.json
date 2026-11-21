@@ -2,6 +2,132 @@
  "date": "2026-11-22",
  "items": [
   {
+   "title": "FBI, 美 2020 대선 관련 조지아주 선관위 간부 대면 조사 착수",
+   "link": "https://www.yna.co.kr/view/AKR20261122006800009",
+   "published": "2026-11-22T08:27+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "학원 대신 로봇 공장으로…中 영재의 달라진 공부법 [차이나 워치]",
+   "link": "https://www.hankyung.com/article/202611169279i",
+   "published": "2026-11-22T08:21+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "광주도시공사, 도심융합특구 예비사업시행자 지정",
+   "link": "https://www.yna.co.kr/view/AKR20261120158600054",
+   "published": "2026-11-22T08:20+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "엄지성, 감각적 패스로 동점골 배달…2경기 만에 시즌 4호 도움",
+   "link": "https://www.yna.co.kr/view/AKR20261122008500007",
+   "published": "2026-11-22T08:13+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "툭하면 대형 인터넷 장애사건…\"AI 발전에 1∼2년 특히 위험\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122007900009",
+   "published": "2026-11-22T08:10+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[팩트체크] 지점에서 현금 취급 안한다고?…'현금 없는 은행' 현황은",
+   "link": "https://www.yna.co.kr/view/AKR20261118167300518",
+   "published": "2026-11-22T08:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "AI 불확실성 vs 美 블랙프라이데이 기대…코스피 변동성 장세 [주간전망]",
+   "link": "https://www.hankyung.com/article/2026112098626",
+   "published": "2026-11-22T08:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"10년만에 절호의 기회 왔다\"…한주만에 대박난 '이 ETF' 정체",
+   "link": "https://www.hankyung.com/article/202611221742i",
+   "published": "2026-11-22T08:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"이자 1000만원에 세금만 154만원\"…은퇴자들 한숨",
+   "link": "https://www.hankyung.com/article/202611209171i",
+   "published": "2026-11-22T08:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "강원 의료기기 11개사, 독일서 726만달러 수출계약 성과",
+   "link": "https://www.yna.co.kr/view/AKR20261122006500062",
+   "published": "2026-11-22T07:54+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "공모 배분 탓? 직원 매도허용 때문?…앤트로픽 급락에 월가 공방",
+   "link": "https://www.yna.co.kr/view/AKR20261122006300072",
+   "published": "2026-11-22T07:52+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "아르헨서 경기 앞둔 축구선수 낙뢰 맞아 사망",
+   "link": "https://www.yna.co.kr/view/AKR20261122002400009",
+   "published": "2026-11-22T07:48+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"일본 가서 샀으면 큰일 날 뻔\"…명품 30만원 싸게 산 비결 [박수림의 요즘 여기]",
+   "link": "https://www.hankyung.com/article/202611197600g",
+   "published": "2026-11-22T07:30+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"30대가 무슨 돈으로 12억을…\" 고가주택 보유자 70% 급증",
+   "link": "https://www.hankyung.com/article/2026112217677",
+   "published": "2026-11-22T07:26+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "iH, '이주비 대출이자 대납에 95억 과세' 취소소송 승소",
    "link": "https://www.yna.co.kr/view/AKR20261120089300065",
    "published": "2026-11-22T07:17+09:00",
@@ -2234,22 +2360,22 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T07:35+09:00",
+ "updated_at": "2026-11-22T08:33+09:00",
  "last_run": {
   "added": {
+   "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
+   "yna_economy": 3,
    "yna_market": 0,
-   "yna_world": 1,
-   "hk_finance": 0,
-   "hk_economy": 1,
+   "yna_world": 5,
+   "hk_finance": 2,
+   "hk_economy": 4,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
-   "fed_press": "HTTPError: HTTP Error 404: Not Found",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
