@@ -2,6 +2,15 @@
  "date": "2026-11-21",
  "items": [
   {
+   "title": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
+   "link": "https://www.mk.co.kr/news/stock/12215178",
+   "published": "2026-11-21T18:24+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락",
    "link": "https://www.mk.co.kr/news/stock/12215112",
    "published": "2026-11-21T15:24+09:00",
@@ -18,6 +27,123 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "\"앤트로픽 공동창업자, 트럼프 '아동 투자계좌'에 기부 예정\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121022200091",
+   "published": "2026-11-21T09:42+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "춘천바이오산업진흥원, '칩 위의 실험실' 산업화 생산기반 확충",
+   "link": "https://www.yna.co.kr/view/AKR20261120113700062",
+   "published": "2026-11-21T09:35+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "페루 중부서 규모 6.7 지진 발생…수도 리마에서도 대피 소동",
+   "link": "https://www.yna.co.kr/view/AKR20261121022800530",
+   "published": "2026-11-21T09:35+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "이재용·전영현의 원픽…'삼성 순혈 반도체맨' 황상준 사장 [강경주의 테크X]",
+   "link": "https://www.hankyung.com/article/2026112004536",
+   "published": "2026-11-21T09:30+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[동정] 이혁 주일대사, 오키나와 지사 등 면담",
+   "link": "https://www.yna.co.kr/view/AKR20261121021900073",
+   "published": "2026-11-21T09:17+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[민선9기 서울] 서준오 노원구청장 \"베드타운 벗고 기업집중 경제도시로\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120135700004",
+   "published": "2026-11-21T09:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"반도체 호황에도 파급 미미…10억원당 취업유발 2.4명\"",
+   "link": "https://www.yna.co.kr/view/AKR20261120167400002",
+   "published": "2026-11-21T09:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[IPO챗] 내주 엠비디 코스닥 입성…4개사 수요예측",
+   "link": "https://www.yna.co.kr/view/AKR20261120071600008",
+   "published": "2026-11-21T09:00+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "세계의 날씨(11월21일)",
+   "link": "https://www.yna.co.kr/view/AKR20261121021300009",
+   "published": "2026-11-21T09:00+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "마오타이 안 팔리자 위스키에 꽂힌 中…칭다오맥주까지 가세한 '위스키 전쟁'",
+   "link": "https://www.hankyung.com/article/202610080252i",
+   "published": "2026-11-21T09:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "앤트로픽 상장 열풍, 코인 시장으로…공모주도 토큰으로 산다",
+   "link": "https://www.hankyung.com/article/202611209908i",
+   "published": "2026-11-21T09:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "웃돈 주고 샀는데 가짜?…애플·BMW 의심에 기업들 '초비상' [김리안의 에네르기파WAR]",
+   "link": "https://www.hankyung.com/article/202611209672i",
+   "published": "2026-11-21T09:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美텍사스서 고통스러운 사형 논란…비명 속 1시간 걸쳐 진행",
+   "link": "https://www.yna.co.kr/view/AKR20261121019800075",
+   "published": "2026-11-21T08:41+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "이란 외무 \"美와 외교적 종전 해법 여전히 원해\"",
@@ -2810,17 +2936,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T08:43+09:00",
+ "updated_at": "2026-11-21T09:50+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
+   "yna_economy": 3,
    "yna_market": 1,
-   "yna_world": 8,
-   "hk_finance": 1,
+   "yna_world": 5,
+   "hk_finance": 0,
    "hk_economy": 4,
-   "mk_stock": 0,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
