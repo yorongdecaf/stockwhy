@@ -2,6 +2,15 @@
  "date": "2026-11-21",
  "items": [
   {
+   "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나",
+   "link": "https://www.mk.co.kr/news/stock/12215211",
+   "published": "2026-11-21T20:41+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
    "link": "https://www.mk.co.kr/news/stock/12215178",
    "published": "2026-11-21T18:24+09:00",
@@ -25,6 +34,51 @@
    "published": "2026-11-21T15:09+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"거짓말에 폭언까지\"…젠슨황 사임후 드러난 '제왕적 경영' 그늘",
+   "link": "https://www.yna.co.kr/view/AKR20261121030400091",
+   "published": "2026-11-21T11:48+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "한국에 친근감 느끼는 일본인, 62%로 역대 최고…중국엔 냉랭",
+   "link": "https://www.yna.co.kr/view/AKR20261121029800073",
+   "published": "2026-11-21T11:41+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[부고] 이창봉(삼성증권 이사)씨 장모상",
+   "link": "https://www.yna.co.kr/view/AKR20261121029200008",
+   "published": "2026-11-21T11:13+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "멜라니아 새 다큐 공개…\"트럼프 주변에 '예스맨' 너무 많아\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121028300075",
+   "published": "2026-11-21T11:07+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "나스닥 5% 폭락…시험대 오른 국내 증시, 반등 열쇠는 [다음주 주요 변수 미리보기]",
+   "link": "https://www.hankyung.com/article/202611200923i",
+   "published": "2026-11-21T11:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -3008,17 +3062,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T11:02+09:00",
+ "updated_at": "2026-11-21T12:14+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 3,
+   "yna_economy": 1,
    "yna_market": 0,
-   "yna_world": 4,
-   "hk_finance": 0,
-   "hk_economy": 1,
-   "mk_stock": 0,
+   "yna_world": 3,
+   "hk_finance": 1,
+   "hk_economy": 0,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
