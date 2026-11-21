@@ -29,6 +29,78 @@
    "category": "kr"
   },
   {
+   "title": "美-캐나다 갈등 심화…\"헤그세스 美국방, 양국 국방관계 제한 지시\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121027400009",
+   "published": "2026-11-21T10:44+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"美 국가안보국 핵심 내부통신망 사흘 넘게 '먹통'\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121026600009",
+   "published": "2026-11-21T10:35+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+   "link": "https://www.yna.co.kr/view/AKR20261121024500011",
+   "published": "2026-11-21T10:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "佛 유명작가 우엘벡, 배우 드파르디외와 함께 집단성폭행 혐의 피소",
+   "link": "https://www.yna.co.kr/view/AKR20261121024200009",
+   "published": "2026-11-21T10:30+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "日, 핵추진잠수함 도입검토 본격화…'핵반입금지 예외'도 명문화",
+   "link": "https://www.yna.co.kr/view/AKR20261121025800073",
+   "published": "2026-11-21T10:21+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "노동장관, 'AI 커닝' 사태 속 첫 국가자격시험 현장 점검",
+   "link": "https://www.yna.co.kr/view/AKR20261121023800530",
+   "published": "2026-11-21T10:12+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[바이오사이언스] 바이오의약품 임상 승인 203건…분기마다 증가",
+   "link": "https://www.yna.co.kr/view/AKR20261120156900017",
+   "published": "2026-11-21T10:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"설악산 호텔 손님 절반이 외국인\"…한국 여행 지도가 바뀐다 [권용훈의 트렌드워치]",
+   "link": "https://www.hankyung.com/article/202611209535i",
+   "published": "2026-11-21T10:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "\"앤트로픽 공동창업자, 트럼프 '아동 투자계좌'에 기부 예정\"",
    "link": "https://www.yna.co.kr/view/AKR20261121022200091",
    "published": "2026-11-21T09:42+09:00",
@@ -2936,17 +3008,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T09:50+09:00",
+ "updated_at": "2026-11-21T11:02+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 3,
-   "yna_market": 1,
-   "yna_world": 5,
+   "yna_market": 0,
+   "yna_world": 4,
    "hk_finance": 0,
-   "hk_economy": 4,
-   "mk_stock": 1,
+   "hk_economy": 1,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
