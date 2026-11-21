@@ -56,6 +56,33 @@
    "category": "kr"
   },
   {
+   "title": "카지노에 외국인 몰려오는데 … 혼자 웃은 파라다이스 [류은혁의 유통기한]",
+   "link": "https://www.hankyung.com/article/202611200512i",
+   "published": "2026-11-21T20:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "골드만삭스 \"공포 지수 9점 육박…다음 주 추가 투매 나올수도\"",
+   "link": "https://www.hankyung.com/article/202611211574i",
+   "published": "2026-11-21T19:41+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "AI 버블 붕괴 신호탄인가, 숨 고르기인가…유동성 한계 부딪힌 미국 증시",
+   "link": "https://www.hankyung.com/article/202611211559i",
+   "published": "2026-11-21T19:32+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "스위스 '무기수출 완화' 국민투표…중립성 원칙 또 시험대",
    "link": "https://www.yna.co.kr/view/AKR20261121046700082",
    "published": "2026-11-21T19:06+09:00",
@@ -3386,17 +3413,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T19:40+09:00",
+ "updated_at": "2026-11-21T20:38+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 4,
-   "hk_finance": 0,
-   "hk_economy": 0,
-   "mk_stock": 2,
+   "yna_world": 0,
+   "hk_finance": 2,
+   "hk_economy": 1,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
