@@ -2,6 +2,24 @@
  "date": "2026-11-21",
  "items": [
   {
+   "title": "“앤트로픽 상장했는데 내 주식도 오를까”…수혜주 살펴보니",
+   "link": "https://www.mk.co.kr/news/stock/12215326",
+   "published": "2026-11-22T04:12+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "주식만 떨어진 게 아니네…美 AI투자 지연 우려에 고점서 12% 넘게 빠진 ‘이것’",
+   "link": "https://www.mk.co.kr/news/stock/12215325",
+   "published": "2026-11-22T04:12+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "‘갤럭시 S펜’ 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
    "link": "https://www.mk.co.kr/news/stock/12215301",
    "published": "2026-11-22T02:42+09:00",
@@ -36,6 +54,42 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "스위스 '무기수출 완화' 국민투표…중립성 원칙 또 시험대",
+   "link": "https://www.yna.co.kr/view/AKR20261121046700082",
+   "published": "2026-11-21T19:06+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121046400099",
+   "published": "2026-11-21T19:00+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "인도네시아 딜리 동북동쪽 바다서 규모 6.8 지진 발생",
+   "link": "https://www.yna.co.kr/view/AKR20261121046900530",
+   "published": "2026-11-21T18:58+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "구글, 인도네시아 친정부 유튜브 채널 대량 삭제…당국 반발",
+   "link": "https://www.yna.co.kr/view/AKR20261121045700084",
+   "published": "2026-11-21T18:37+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
@@ -3332,17 +3386,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T18:40+09:00",
+ "updated_at": "2026-11-21T19:40+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 0,
-   "hk_finance": 1,
-   "hk_economy": 1,
-   "mk_stock": 0,
+   "yna_world": 4,
+   "hk_finance": 0,
+   "hk_economy": 0,
+   "mk_stock": 2,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
