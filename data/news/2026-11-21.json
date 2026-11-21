@@ -47,11 +47,29 @@
    "category": "kr"
   },
   {
+   "title": "\"짜장·짬뽕보다 맛있나\"…백종원 홍콩반점 제친 '뜻밖의 브랜드' [권용훈의 트렌드워치]",
+   "link": "https://www.hankyung.com/article/202611200868i",
+   "published": "2026-11-21T18:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
    "link": "https://www.yna.co.kr/view/AKR20261121044000083",
    "published": "2026-11-21T17:36+09:00",
    "source": "연합뉴스 마켓+",
    "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'최악 폭락' 엔비디아 3800조 증발…\"지금 저점\" vs \"더 하락\" [분석+]",
+   "link": "https://www.hankyung.com/article/2026112114747",
+   "published": "2026-11-21T17:28+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -3314,17 +3332,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T17:42+09:00",
+ "updated_at": "2026-11-21T18:40+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
-   "yna_market": 1,
-   "yna_world": 1,
-   "hk_finance": 0,
+   "yna_market": 0,
+   "yna_world": 0,
+   "hk_finance": 1,
    "hk_economy": 1,
-   "mk_stock": 2,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
