@@ -38,6 +38,15 @@
    "category": "kr"
   },
   {
+   "title": "'땅콩버터 간식' 집착하는 美항모 장병들…\"격추보다 깜빡할까 걱정\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121038600009",
+   "published": "2026-11-21T15:12+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
    "link": "https://www.mk.co.kr/news/stock/12215101",
    "published": "2026-11-21T15:09+09:00",
@@ -47,11 +56,65 @@
    "category": "kr"
   },
   {
+   "title": "세계의 날씨(11월21일)",
+   "link": "https://www.yna.co.kr/view/AKR20261121037300009",
+   "published": "2026-11-21T15:01+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "How China is using summits to expand its global influence",
+   "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+   "published": "2026-11-21T15:00+09:00",
+   "source": "CNBC Finance",
+   "source_id": "cnbc_finance",
+   "tier": "press",
+   "category": "us"
+  },
+  {
+   "title": "\"삼전닉스 아직 안끝났다\"…무디스가 찍은 AI 반도체의 미래",
+   "link": "https://www.hankyung.com/article/2026112113727",
+   "published": "2026-11-21T14:30+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프는 서두르지 않겠다는데…이란 추가공격 압박 커져(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261121034600009",
+   "published": "2026-11-21T14:28+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"트럼프, 우크라 종전협상 내년 1월 초까지 타결 원해\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261121004051085",
+   "published": "2026-11-21T14:26+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "K-베이커리 페스티벌 사흘간 37만명 찾아…\"내년엔 세계 축제로\"",
    "link": "https://www.yna.co.kr/view/AKR20261121035200030",
    "published": "2026-11-21T14:10+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"꽁치값 30% 뛰었는데 더 팔렸다\"…겨울 별미 과메기의 반전 [프라이스&]",
+   "link": "https://www.hankyung.com/article/202611200765i",
+   "published": "2026-11-21T14:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -3152,22 +3215,22 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T14:25+09:00",
+ "updated_at": "2026-11-21T15:23+09:00",
  "last_run": {
   "added": {
+   "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
+   "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 0,
-   "hk_finance": 0,
+   "yna_world": 4,
+   "hk_finance": 1,
    "hk_economy": 1,
-   "mk_stock": 1,
+   "mk_stock": 0,
    "cnbc_economy": 0,
-   "cnbc_finance": 0,
+   "cnbc_finance": 1,
    "bok": 0
   },
   "errors": {
-   "fed_press": "HTTPError: HTTP Error 404: Not Found",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
