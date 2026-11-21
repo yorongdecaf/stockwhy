@@ -2,6 +2,24 @@
  "date": "2026-11-22",
  "items": [
   {
+   "title": "iH, '이주비 대출이자 대납에 95억 과세' 취소소송 승소",
+   "link": "https://www.yna.co.kr/view/AKR20261120089300065",
+   "published": "2026-11-22T07:17+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[특파원시선] 더 거세진 트럼프식 외교…더 복잡해진 韓 외교 셈법",
+   "link": "https://www.yna.co.kr/view/AKR20261121004300071",
+   "published": "2026-11-22T07:07+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "트럼프, SNS에 얄타회담·미중러 정상회담 사진 나란히 게시",
    "link": "https://www.yna.co.kr/view/AKR20261122004700071",
    "published": "2026-11-22T07:04+09:00",
@@ -16,6 +34,15 @@
    "published": "2026-11-22T07:00+09:00",
    "source": "연합뉴스 마켓+",
    "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "불확실성의 시대…이사회는 무엇을 해야 하는가? [강진구의 회사법 뜨락]",
+   "link": "https://www.hankyung.com/article/202611209139i",
+   "published": "2026-11-22T07:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -2207,22 +2234,22 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T07:13+09:00",
+ "updated_at": "2026-11-22T07:35+09:00",
  "last_run": {
   "added": {
-   "fed_press": 3,
-   "fed_speech": 3,
-   "yna_economy": 40,
-   "yna_market": 28,
-   "yna_world": 38,
-   "hk_finance": 40,
-   "hk_economy": 40,
-   "mk_stock": 40,
-   "cnbc_economy": 4,
-   "cnbc_finance": 6,
-   "bok": 3
+   "fed_speech": 0,
+   "yna_economy": 1,
+   "yna_market": 0,
+   "yna_world": 1,
+   "hk_finance": 0,
+   "hk_economy": 1,
+   "mk_stock": 0,
+   "cnbc_economy": 0,
+   "cnbc_finance": 0,
+   "bok": 0
   },
   "errors": {
+   "fed_press": "HTTPError: HTTP Error 404: Not Found",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
