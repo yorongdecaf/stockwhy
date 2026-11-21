@@ -29,6 +29,42 @@
    "category": "kr"
   },
   {
+   "title": "갤럭시 S펜 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
+   "link": "https://www.yna.co.kr/view/AKR20261121040900073",
+   "published": "2026-11-21T16:13+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "유엔 '킬러로봇' 규제 국제규범 마련 착수…미·러는 소극적",
+   "link": "https://www.yna.co.kr/view/AKR20261121040500009",
+   "published": "2026-11-21T16:07+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "최태원 \"AI시대 한일 기업·대학 함께하는 플랫폼 만들자\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121039900073",
+   "published": "2026-11-21T16:05+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"트럼프보다 시진핑 최고\"…8년 묵은 한한령 해제에 관련주 폭발",
+   "link": "https://www.hankyung.com/article/2026112114097",
+   "published": "2026-11-21T15:26+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락",
    "link": "https://www.mk.co.kr/news/stock/12215112",
    "published": "2026-11-21T15:24+09:00",
@@ -72,6 +108,24 @@
    "source_id": "cnbc_finance",
    "tier": "press",
    "category": "us"
+  },
+  {
+   "title": "주가 급등하면 뭐하나…中 훈풍에 웃는 'K엔터' 서늘한 경고 [이수의 ETF줌인]",
+   "link": "https://www.hankyung.com/article/2026112003516",
+   "published": "2026-11-21T15:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"SK하닉 통째로 산다\"…AI 노린 손정의 '1350조 계획' 폭로",
+   "link": "https://www.hankyung.com/article/2026112113827",
+   "published": "2026-11-21T14:58+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "\"삼전닉스 아직 안끝났다\"…무디스가 찍은 AI 반도체의 미래",
@@ -3215,19 +3269,19 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T15:23+09:00",
+ "updated_at": "2026-11-21T16:41+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 4,
-   "hk_finance": 1,
+   "yna_world": 3,
+   "hk_finance": 2,
    "hk_economy": 1,
    "mk_stock": 0,
    "cnbc_economy": 0,
-   "cnbc_finance": 1,
+   "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
