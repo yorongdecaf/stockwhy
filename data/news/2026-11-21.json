@@ -38,11 +38,65 @@
    "category": "kr"
   },
   {
+   "title": "EU, 빅테크 디지털세 공식 제안…트럼프와 충돌 불가피",
+   "link": "https://www.yna.co.kr/view/AKR20261121052100082",
+   "published": "2026-11-21T22:33+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "한한령 해빙 기대·日 엔터사 인수 추진…하이브 22% ‘쑥’ [이주의 Bull 기둥]",
    "link": "https://www.mk.co.kr/news/stock/12215238",
    "published": "2026-11-21T22:26+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "긴장 고조되는 발트해…\"러 화물선 드론에 피격\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121051900099",
+   "published": "2026-11-21T22:22+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "Tech outages are fueling a new doomsday economy",
+   "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+   "published": "2026-11-21T22:00+09:00",
+   "source": "CNBC Economy",
+   "source_id": "cnbc_economy",
+   "tier": "press",
+   "category": "us"
+  },
+  {
+   "title": "\"사상 최대 IPO가 쏘아 올린 유동성 발작\"…앤트로픽 쇼크와 AI 거품론의 진실",
+   "link": "https://www.hankyung.com/article/202611211620i",
+   "published": "2026-11-21T21:22+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "지지선 붕괴된 엔비디아…\"100달러 밑으로 갈수도\"",
+   "link": "https://www.hankyung.com/article/202611211619i",
+   "published": "2026-11-21T21:18+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'역대급'으로 커진 공포…\"AI 투자 축소, 반도체 주문 취소 이어질 수도\"",
+   "link": "https://www.hankyung.com/article/202611211616i",
+   "published": "2026-11-21T21:07+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -3449,18 +3503,18 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T21:42+09:00",
+ "updated_at": "2026-11-21T22:50+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 1,
+   "yna_world": 2,
    "hk_finance": 3,
    "hk_economy": 0,
    "mk_stock": 0,
-   "cnbc_economy": 0,
+   "cnbc_economy": 1,
    "cnbc_finance": 0,
    "bok": 0
   },
