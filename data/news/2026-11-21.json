@@ -38,6 +38,15 @@
    "category": "kr"
   },
   {
+   "title": "EU·인도네시아 무역협정 체결…관세 90％ 이상 철폐",
+   "link": "https://www.yna.co.kr/view/AKR20261121052500082",
+   "published": "2026-11-21T23:21+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "EU, 빅테크 디지털세 공식 제안…트럼프와 충돌 불가피",
    "link": "https://www.yna.co.kr/view/AKR20261121052100082",
    "published": "2026-11-21T22:33+09:00",
@@ -3503,18 +3512,18 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T22:50+09:00",
+ "updated_at": "2026-11-21T23:42+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 2,
-   "hk_finance": 3,
+   "yna_world": 1,
+   "hk_finance": 0,
    "hk_economy": 0,
    "mk_stock": 0,
-   "cnbc_economy": 1,
+   "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
