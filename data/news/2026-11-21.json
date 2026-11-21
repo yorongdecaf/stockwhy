@@ -2,6 +2,24 @@
  "date": "2026-11-21",
  "items": [
   {
+   "title": "‘갤럭시 S펜’ 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
+   "link": "https://www.mk.co.kr/news/stock/12215301",
+   "published": "2026-11-22T02:42+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "‘카카오 vs TPG’ 분쟁 첫 분기점…메가박스중앙은 회생안 마련 ‘총력’ [M&A복덕방]",
+   "link": "https://www.mk.co.kr/news/stock/12215299",
+   "published": "2026-11-22T02:41+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "한한령 해빙 기대·日 엔터사 인수 추진…하이브 22% ‘쑥’ [이주의 Bull 기둥]",
    "link": "https://www.mk.co.kr/news/stock/12215238",
    "published": "2026-11-21T22:26+09:00",
@@ -25,6 +43,33 @@
    "published": "2026-11-21T18:24+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121044000083",
+   "published": "2026-11-21T17:36+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "미 FBI 범죄정보망에 외부인 침입…\"농무부도 해킹당해\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261121041400009",
+   "published": "2026-11-21T16:40+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "또 '한일 경제 동맹' 강조한 최태원…\"韓日 AI 플랫폼 만들자\"",
+   "link": "https://www.hankyung.com/article/2026112114457",
+   "published": "2026-11-21T16:26+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -3269,17 +3314,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T16:41+09:00",
+ "updated_at": "2026-11-21T17:42+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
-   "yna_market": 0,
-   "yna_world": 3,
-   "hk_finance": 2,
+   "yna_market": 1,
+   "yna_world": 1,
+   "hk_finance": 0,
    "hk_economy": 1,
-   "mk_stock": 0,
+   "mk_stock": 2,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
