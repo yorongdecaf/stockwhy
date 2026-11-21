@@ -38,6 +38,69 @@
    "category": "kr"
   },
   {
+   "title": "FBI 범죄정보망도 해킹 의혹…美 수사당국 조사 착수",
+   "link": "https://www.yna.co.kr/view/AKR20261121033500009",
+   "published": "2026-11-21T13:20+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"中지방정부들, 내수부진 속 탄력적 주 4.5일제…국내여행 장려\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121032900083",
+   "published": "2026-11-21T13:18+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "베트남, 마약밀매 등 6개 범죄 최고형 '사형→종신형' 낮춰",
+   "link": "https://www.yna.co.kr/view/AKR20261121032700084",
+   "published": "2026-11-21T13:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "BNK금융 임직원, 부울경서 해양생태계 보전 '사회공헌의 날'",
+   "link": "https://www.yna.co.kr/view/AKR20261121033200051",
+   "published": "2026-11-21T13:01+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"소프트뱅크 손정의, 한때 SK하이닉스 1조달러 인수안 검토\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121033000009",
+   "published": "2026-11-21T12:52+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "젠슨 황 사임 뒤 잇단 폭로…이사회엔 거짓 해명, 직원들엔 폭언",
+   "link": "https://www.hankyung.com/article/2026112113257",
+   "published": "2026-11-21T12:19+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "반토막 났는데 \"주가 더 빠진다\"…하이닉스 결국 터졌다 [종목+]",
+   "link": "https://www.hankyung.com/article/2026112113316",
+   "published": "2026-11-21T12:08+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "\"거짓말에 폭언까지\"…젠슨황 사임후 드러난 '제왕적 경영' 그늘",
    "link": "https://www.yna.co.kr/view/AKR20261121030400091",
    "published": "2026-11-21T11:48+09:00",
@@ -3062,17 +3125,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T12:14+09:00",
+ "updated_at": "2026-11-21T13:23+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 1,
    "yna_market": 0,
-   "yna_world": 3,
+   "yna_world": 4,
    "hk_finance": 1,
-   "hk_economy": 0,
-   "mk_stock": 1,
+   "hk_economy": 1,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
