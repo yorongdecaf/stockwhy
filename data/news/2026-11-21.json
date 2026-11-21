@@ -2,6 +2,15 @@
  "date": "2026-11-21",
  "items": [
   {
+   "title": "한한령 해빙 기대·日 엔터사 인수 추진…하이브 22% ‘쑥’ [이주의 Bull 기둥]",
+   "link": "https://www.mk.co.kr/news/stock/12215238",
+   "published": "2026-11-21T22:26+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나",
    "link": "https://www.mk.co.kr/news/stock/12215211",
    "published": "2026-11-21T20:41+09:00",
@@ -38,6 +47,15 @@
    "category": "kr"
   },
   {
+   "title": "K-베이커리 페스티벌 사흘간 37만명 찾아…\"내년엔 세계 축제로\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121035200030",
+   "published": "2026-11-21T14:10+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "FBI 범죄정보망도 해킹 의혹…美 수사당국 조사 착수",
    "link": "https://www.yna.co.kr/view/AKR20261121033500009",
    "published": "2026-11-21T13:20+09:00",
@@ -70,6 +88,15 @@
    "published": "2026-11-21T13:01+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"20억 스타보다 5000만원 인플루언서\"…모델이 달라진다 [김소연의 얼굴전략]",
+   "link": "https://www.hankyung.com/article/202611200053g",
+   "published": "2026-11-21T13:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -3125,22 +3152,22 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-21T13:23+09:00",
+ "updated_at": "2026-11-21T14:25+09:00",
  "last_run": {
   "added": {
-   "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 1,
    "yna_market": 0,
-   "yna_world": 4,
-   "hk_finance": 1,
+   "yna_world": 0,
+   "hk_finance": 0,
    "hk_economy": 1,
-   "mk_stock": 0,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
+   "fed_press": "HTTPError: HTTP Error 404: Not Found",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
