@@ -2,6 +2,24 @@
  "date": "2026-11-23",
  "items": [
   {
+   "title": "AI로 생산성 오르는데 왜 장바구니 물가는 안떨어질까",
+   "link": "https://www.mk.co.kr/news/business/12215797",
+   "published": "2026-11-23T17:26+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "유안타증권 “유나이티드제약, 영업익 77% 급감에도 주주환원 기대”",
+   "link": "https://www.mk.co.kr/news/stock/12215796",
+   "published": "2026-11-23T17:24+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“종근당, 주력 품목 빠지면 연 1800억 매출 공백 우려”…목표가↓",
    "link": "https://www.mk.co.kr/news/stock/12215779",
    "published": "2026-11-23T16:34+09:00",
@@ -56,11 +74,200 @@
    "category": "kr"
   },
   {
+   "title": "한화증권 \"한국전력 연간 실적 추정치 지속 하향…목표가↓\"",
+   "link": "https://www.yna.co.kr/view/AKR20261123022400008",
+   "published": "2026-11-23T08:27+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한투증권 \"증안펀드 준비 착수, 시장의 심리 안정 효과 기대\"",
+   "link": "https://www.yna.co.kr/view/AKR20261123020200008",
+   "published": "2026-11-23T08:23+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "차기 은행연합회장에 박종복 전 SC제일은행장 내정",
+   "link": "https://www.yna.co.kr/view/AKR20261123021800002",
+   "published": "2026-11-23T08:22+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "우크라 전선 넓히나…리비아서 러 군함 등 연달아 피격",
+   "link": "https://www.yna.co.kr/view/AKR20261123019600009",
+   "published": "2026-11-23T08:22+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[속보] 은행연합회장 후보에 박종복 전 SC제일은행장 단독 추천",
+   "link": "https://www.yna.co.kr/view/AKR20261123020800002",
+   "published": "2026-11-23T08:18+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[마켓뷰] 'AI투매'에 급락 도미노…'검은월요일' 우려 커진 증시",
+   "link": "https://www.yna.co.kr/view/AKR20261123018900008",
+   "published": "2026-11-23T08:15+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "주식부터 비트코인·금·구리까지 급락…증권가가 꼽은 이유는",
+   "link": "https://www.hankyung.com/article/2026112328756",
+   "published": "2026-11-23T08:08+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'디자인-부산2026' 5만6천명 방문…221만달러 계약 체결",
+   "link": "https://www.yna.co.kr/view/AKR20261123016000051",
+   "published": "2026-11-23T08:06+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"코스피 4300 아래로 밀릴 수 있다\"…AI 수익성 시험대",
+   "link": "https://www.hankyung.com/article/2026112329446",
+   "published": "2026-11-23T08:06+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[밤 사이 해외뉴스] \"한 주 만에 4조 달러 증발\"…앤트로픽마저 무너진 나스닥, AI 랠리 끝났나?",
+   "link": "https://www.hankyung.com/article/202611232904i",
+   "published": "2026-11-23T08:03+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "AI의 저작물 학습, 어디까지 허용…26일 표준계약서 공청회",
+   "link": "https://www.yna.co.kr/view/AKR20261123015300005",
+   "published": "2026-11-23T08:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "지구촌 누빈 시민사회 무상원조 성과 한눈에…KCOC, 24일 포럼",
+   "link": "https://www.yna.co.kr/view/AKR20261122035000371",
+   "published": "2026-11-23T08:00+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"종근당, 연매출 1800억 공백 전망…목표가↓\"-유안타",
+   "link": "https://www.hankyung.com/article/2026112329236",
+   "published": "2026-11-23T08:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"한국선 30만원, 일본선 6만원\"…마운자로 가격의 비밀 [프라이스&]",
+   "link": "https://www.hankyung.com/article/202611222203i",
+   "published": "2026-11-23T08:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프-美민주, 의료보험 개혁 협력 탐색전…트럼프케어 제안도(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261123002151071",
+   "published": "2026-11-23T07:57+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "AI공포 걷어낼 수 있을까…오늘 韓·中 증시에 전세계 주목 [오늘 아침 당신이 알아야 할 7가지]",
+   "link": "https://www.hankyung.com/article/202611232854i",
+   "published": "2026-11-23T07:39+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"아마존, AI칩 스타트업 10조원 인수 임박\"",
+   "link": "https://www.yna.co.kr/view/AKR20261123012400009",
+   "published": "2026-11-23T07:32+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+   "link": "https://www.yna.co.kr/view/AKR20261123009600011",
+   "published": "2026-11-23T07:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "무섭게 떨어졌는데 또 샀다…개미들 퇴직연금 베팅한 곳",
+   "link": "https://www.hankyung.com/article/2026112328607",
+   "published": "2026-11-23T07:28+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"내년 1월 긴축 우려 완화돼야 증시 반등…코스피 PBR 0.8배 저점\"",
+   "link": "https://www.hankyung.com/article/2026112328496",
+   "published": "2026-11-23T07:27+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "트럼프, 美 주가하락에 야당 탓…\"反성장·보복정책에 기인\"",
    "link": "https://www.yna.co.kr/view/AKR20261123010300071",
    "published": "2026-11-23T07:23+09:00",
    "source": "연합뉴스 마켓+",
    "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "급등장에 CB 발행규모 9.9조 '역대 최대'…급락에 상환 부담 우려",
+   "link": "https://www.hankyung.com/article/2026112328507",
+   "published": "2026-11-23T07:20+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -88,6 +295,15 @@
    "published": "2026-11-23T07:00+09:00",
    "source": "한국경제 증권",
    "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[단독] K뷰티 유통업체 언락드브랜드, 320억 규모 시리즈B 투자 유치",
+   "link": "https://www.hankyung.com/article/202611222686i",
+   "published": "2026-11-23T07:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -2657,17 +2873,17 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-23T07:39+09:00",
+ "updated_at": "2026-11-23T08:37+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 0,
-   "yna_market": 1,
-   "yna_world": 1,
-   "hk_finance": 0,
-   "hk_economy": 0,
-   "mk_stock": 4,
+   "yna_economy": 7,
+   "yna_market": 2,
+   "yna_world": 3,
+   "hk_finance": 7,
+   "hk_economy": 3,
+   "mk_stock": 2,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
