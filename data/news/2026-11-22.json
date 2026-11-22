@@ -2,6 +2,15 @@
  "date": "2026-11-22",
  "items": [
   {
+   "title": "“중국 경제 비관하면 허망할 것” 큰소리쳤는데…AI 주식서 2289조 증발?",
+   "link": "https://www.mk.co.kr/news/world/12215746",
+   "published": "2026-11-23T05:52+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "정부, 증안펀드 즉시가동 준비 돌입",
    "link": "https://www.mk.co.kr/news/stock/12215738",
    "published": "2026-11-23T04:44+09:00",
@@ -128,11 +137,92 @@
    "category": "kr"
   },
   {
+   "title": "메이 전 英총리, EU 재가입 검토에 \"경악 금치 못해\" 반발",
+   "link": "https://www.yna.co.kr/view/AKR20261122050300009",
+   "published": "2026-11-22T20:57+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[속보] 유엔기후총회, 화석연료 이견에 결렬…합의문 채택 불발",
+   "link": "https://www.yna.co.kr/view/AKR20261122050400109",
+   "published": "2026-11-22T20:53+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'검은 월요일' 공포 덮치자…18년 만에 '증안펀드' 투입 준비",
+   "link": "https://www.hankyung.com/article/202611222641i",
+   "published": "2026-11-22T20:44+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한전도 뚫렸다…152만명 개인정보 유출",
+   "link": "https://www.hankyung.com/article/2026112225971",
+   "published": "2026-11-22T20:23+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "도로 위 진동·소음 지웠다…르노 플래그십 '필랑트'",
+   "link": "https://www.hankyung.com/article/202611222632i",
+   "published": "2026-11-22T20:15+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "정점식 “정부, 블랙먼데이 가능성 대비 긴급조치 준비해야”",
    "link": "https://www.mk.co.kr/news/politics/12215448",
    "published": "2026-11-22T20:14+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美 국방부, 캐나다군과 비공식·사교 접촉 제한 지시",
+   "link": "https://www.yna.co.kr/view/AKR20261122049100009",
+   "published": "2026-11-22T20:12+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"中 '기술주 지수' 시총, 6월말 이후 2천300조원 증발\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261122040651089",
+   "published": "2026-11-22T20:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "반도체 빼면 기업이익 전망치 '후퇴'…77개 종목 목표가 줄하향 [한경우의 돈 되는 데이터]",
+   "link": "https://www.hankyung.com/article/2026112002456",
+   "published": "2026-11-22T20:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'검은 월요일' 공포 덮치자…18년 만에 '증안펀드' 투입 준비",
+   "link": "https://www.hankyung.com/article/2026112226011",
+   "published": "2026-11-22T19:40+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -3692,22 +3782,22 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T20:11+09:00",
+ "updated_at": "2026-11-22T21:09+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 1,
-   "mk_stock": 3,
+   "yna_world": 4,
+   "hk_finance": 2,
+   "hk_economy": 3,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
-   "hk_finance": "HTTPError: HTTP Error 403: Forbidden",
-   "hk_economy": "HTTPError: HTTP Error 403: Forbidden",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
