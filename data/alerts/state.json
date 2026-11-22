@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-11-22T19:13+09:00",
+  "last_run_at": "2026-11-22T20:13+09:00",
   "alerted_links": [
     "https://www.yna.co.kr/view/AKR20261119010051091",
     "https://www.mk.co.kr/news/stock/12213396",
@@ -30,7 +30,10 @@
     "https://www.yna.co.kr/view/AKR20261121000600072",
     "https://www.mk.co.kr/news/stock/12215112",
     "https://www.mk.co.kr/news/stock/12214855",
-    "https://www.mk.co.kr/news/stock/12214868"
+    "https://www.mk.co.kr/news/stock/12214868",
+    "https://www.mk.co.kr/news/stock/12215738",
+    "https://www.mk.co.kr/news/stock/12215737",
+    "https://www.mk.co.kr/news/stock/12215684"
   ],
   "alerts": [
     {
@@ -119,6 +122,20 @@
         "https://www.yna.co.kr/view/AKR20261121009251072",
         "https://www.tradingkey.com/analysis/stocks/us-stocks/262316111-nasdaq-falls-ai-stock-selloff-nvidia-sec-probe-tradingkey",
         "https://www.dt.co.kr/article/12096377"
+      ]
+    },
+    {
+      "time": "2026-11-22T20:13+09:00",
+      "title": "F4 긴급회의: 증안펀드 즉시 가동 준비, 자사주 매수한도 3개월 완화, 불법 공매도 3개월 특별감시",
+      "files": [
+        "alerts/2026-11-22/1822_f4-stabilization-fund.jpg",
+        "alerts/2026-11-22/1822_f4-stabilization-fund.txt",
+        "alerts/2026-11-22/1822_f4-stabilization-fund.json"
+      ],
+      "sources": [
+        "https://www.seoul.co.kr/news/economy/2026/11/22/20261122500096",
+        "https://www.etoday.co.kr/news/view/2651358",
+        "https://news1.kr/economy/trend/6362116"
       ]
     }
   ],
@@ -472,6 +489,11 @@
       "time": "2026-11-22T19:13+09:00",
       "title": "18:13 이후 수집분(18:13 수집): 美증시 투매에 코스피 '검은 월요일' 우려·대만 공매도 제한/증안펀드 거론(매경), '블랙 크리스마스' 공포·테크노달러·환율 전망·美 물가지수 앞둔 월가(한경), 인텔 인수·배당주·로봇주 기획, 中 기술주 시총 증발·국제·생활 기사",
       "reason": "11/21 나스닥 폭락 알림 후속 해설·전망, 증안펀드는 거론 단계로 정책 발표 아님, 나머지 기획·국제·생활 기사. 금리·주요 지표 발표·시총 상위30 실적/공시·시장 급변 해당 없음(주말 휴장). 알림 기준 밖"
+    },
+    {
+      "time": "2026-11-22T20:13+09:00",
+      "title": "19:13 이후 수집분: 서학개미 엔비디아 손실·로봇주·배당주·저PBR 기획(매경), MBK 와콤 인수(기존 판단), 정점식 발언 후속, 인니 산불(연합 국제), 토스 캐나다 법인(연합)",
+      "reason": "기획·기존 판단 후속·국제·개별 기업 기사. 알림 기준 밖"
     }
   ],
   "last_error": null
