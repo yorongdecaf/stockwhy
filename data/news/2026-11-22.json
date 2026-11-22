@@ -2,6 +2,15 @@
  "date": "2026-11-22",
  "items": [
   {
+   "title": "정점식 “정부, 블랙먼데이 가능성 대비 긴급조치 준비해야”",
+   "link": "https://www.mk.co.kr/news/politics/12215448",
+   "published": "2026-11-22T20:14+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“8000억 담았는데 하룻밤 14% 폭락?”…떨어지는 칼날 잡은 서학개미",
    "link": "https://www.mk.co.kr/news/economy/12215436",
    "published": "2026-11-22T19:39+09:00",
@@ -16,6 +25,159 @@
    "published": "2026-11-22T19:18+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "AI 투매 충격 딛고 반등할까…美 물가·中 기업이익에 쏠린 눈",
+   "link": "https://www.hankyung.com/article/202611222087i",
+   "published": "2026-11-22T11:33+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "춘천시, 중기부 창업도시 공모 도전…4년간 국비 600억원 규모",
+   "link": "https://www.yna.co.kr/view/AKR20261120132900062",
+   "published": "2026-11-22T11:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성물산 홈닉, 한양건설 아파트에 도입…입주민 주거서비스",
+   "link": "https://www.yna.co.kr/view/AKR20261122020300003",
+   "published": "2026-11-22T11:23+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"다카이치, 개별 의원 직접 챙기며 '당내 통치'…당 장악력 확대\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122019700073",
+   "published": "2026-11-22T11:22+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "서울시 청년 외식업 창업교육매장 3년 생존율 82%…평균比 34%↑",
+   "link": "https://www.yna.co.kr/view/AKR20261122012900004",
+   "published": "2026-11-22T11:15+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "인왕산 자락 서울 옥인동 공영주차장 등 주택기반시설 확충",
+   "link": "https://www.yna.co.kr/view/AKR20261122014300004",
+   "published": "2026-11-22T11:15+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "폭락장서 160억원어치 담았다...부자·초고수 함께 고른 '이 종목'",
+   "link": "https://www.hankyung.com/article/202611222036i",
+   "published": "2026-11-22T11:15+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "노동장관 \"정년연장, 27일 與 특위서 결론 안 나면 정부안 발표\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122019000530",
+   "published": "2026-11-22T11:05+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "민관 합작투자로 동유럽에 물류 거점 잇따라 확보",
+   "link": "https://www.yna.co.kr/view/AKR20261120124300051",
+   "published": "2026-11-22T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "양돈농장도 민간 거점소독시설 지정…CCTV 설치시 인력기준 완화",
+   "link": "https://www.yna.co.kr/view/AKR20261120143300030",
+   "published": "2026-11-22T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "해수부, 내달 4일까지 김장철 수산물 원산지 표시 특별점검",
+   "link": "https://www.yna.co.kr/view/AKR20261120134300030",
+   "published": "2026-11-22T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "현대연 \"남북 4대 교류사업으로 관계 개선 대비해야\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121047300002",
+   "published": "2026-11-22T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "대학생 45% \"취업 작년보다 어렵다\"…5명 중 1명만 서류합격",
+   "link": "https://www.yna.co.kr/view/AKR20261122018700003",
+   "published": "2026-11-22T11:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'김밥 한 줄에 2000원꼴'…고물가에 장사 대박 난 곳 [박상경의 영수증 리뷰]",
+   "link": "https://www.hankyung.com/article/202611208963g",
+   "published": "2026-11-22T11:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"탈모약 먹는다고 알려야 하나요?\"…AI 믿고 보험 가입했다간",
+   "link": "https://www.hankyung.com/article/202611200050i",
+   "published": "2026-11-22T11:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "中상하이서 일본인 간 다툼에 1명 사망·1명 구금",
+   "link": "https://www.yna.co.kr/view/AKR20261122018600083",
+   "published": "2026-11-22T10:53+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"삼전닉스, 전고점 다시 뚫기 어려울 것\"…헤지펀드 고수의 '쓴 조언'",
+   "link": "https://www.hankyung.com/article/202611198555i",
+   "published": "2026-11-22T10:47+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -2621,17 +2783,17 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T10:59+09:00",
+ "updated_at": "2026-11-22T11:51+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 3,
+   "yna_economy": 10,
    "yna_market": 0,
-   "yna_world": 3,
-   "hk_finance": 0,
+   "yna_world": 2,
+   "hk_finance": 2,
    "hk_economy": 3,
-   "mk_stock": 2,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
