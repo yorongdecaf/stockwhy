@@ -2,6 +2,24 @@
  "date": "2026-11-22",
  "items": [
   {
+   "title": "정부, 증안펀드 즉시가동 준비 돌입",
+   "link": "https://www.mk.co.kr/news/stock/12215738",
+   "published": "2026-11-23T04:44+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"증시 방어 총력전\"… 불법 공매도 3개월간 특별감시",
+   "link": "https://www.mk.co.kr/news/stock/12215737",
+   "published": "2026-11-23T04:44+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“이미 속이 시커먼데 또 검은 월요일?”…주말 美증시 투매에 ‘벌벌’",
    "link": "https://www.mk.co.kr/news/stock/12215714",
    "published": "2026-11-23T02:48+09:00",
@@ -92,6 +110,15 @@
    "category": "kr"
   },
   {
+   "title": "[표] 이번주 머니 캘린더",
+   "link": "https://www.mk.co.kr/news/stock/12215574",
+   "published": "2026-11-23T01:30+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "MBK파트너스, ‘삼성S펜’ 기술 日 와콤 인수 추진",
    "link": "https://www.mk.co.kr/news/stock/12215508",
    "published": "2026-11-23T00:09+09:00",
@@ -117,6 +144,15 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "인도네시아 산불 사태 피해규모 최대 41조원 추산",
+   "link": "https://www.yna.co.kr/view/AKR20261122046400084",
+   "published": "2026-11-22T19:22+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "코스피 ‘곡소리’ 날 때 혼자 ‘잇몸미소’…삼성전자 등에 업은 로봇株, 계속 뛸까?",
@@ -3656,22 +3692,22 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T19:15+09:00",
+ "updated_at": "2026-11-22T20:11+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 2,
+   "yna_economy": 0,
    "yna_market": 0,
    "yna_world": 1,
-   "hk_finance": 5,
-   "hk_economy": 19,
-   "mk_stock": 0,
+   "mk_stock": 3,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
+   "hk_finance": "HTTPError: HTTP Error 403: Forbidden",
+   "hk_economy": "HTTPError: HTTP Error 403: Forbidden",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
