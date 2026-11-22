@@ -137,6 +137,15 @@
    "category": "kr"
   },
   {
+   "title": "트럼프, 우크라 나토식 안전 보장 지지하나…기대감 커진 유럽",
+   "link": "https://www.yna.co.kr/view/AKR20261122051600085",
+   "published": "2026-11-22T23:03+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "日전범기업에 폭탄 무장단체 조직원, 사형수로 옥중 사망",
    "link": "https://www.yna.co.kr/view/AKR20261122051300073",
    "published": "2026-11-22T22:16+09:00",
@@ -180,6 +189,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "중국 AI 잘나가더니…\"2300조 사라졌다\" 날벼락 맞은 까닭",
+   "link": "https://www.hankyung.com/article/2026112226427",
+   "published": "2026-11-22T21:41+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "'화석연료' 놓고 갈라진 유엔기후총회…합의문 채택 실패",
@@ -3845,16 +3863,16 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T22:28+09:00",
+ "updated_at": "2026-11-22T23:22+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
+   "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 6,
+   "yna_world": 1,
    "hk_finance": 0,
-   "hk_economy": 0,
+   "hk_economy": 1,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
