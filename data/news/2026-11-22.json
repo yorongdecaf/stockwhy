@@ -2,6 +2,15 @@
  "date": "2026-11-22",
  "items": [
   {
+   "title": "낙엽처럼 떨어진 저PBR 대형株 … 실적·배당 믿고 저가매수 해볼까",
+   "link": "https://www.mk.co.kr/news/stock/12215571",
+   "published": "2026-11-23T01:30+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "MBK파트너스, ‘삼성S펜’ 기술 日 와콤 인수 추진",
    "link": "https://www.mk.co.kr/news/stock/12215508",
    "published": "2026-11-23T00:09+09:00",
@@ -38,6 +47,69 @@
    "category": "kr"
   },
   {
+   "title": "폭발음 들으며 호르무즈서 수영한 환경운동가…\"회복에 수십년\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122036700009",
+   "published": "2026-11-22T16:51+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "美 의회 최초 트랜스젠더 의원 민주당 최고지도부 선출",
+   "link": "https://www.yna.co.kr/view/AKR20261122036300009",
+   "published": "2026-11-22T16:38+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'서울중수청 1호 강제수사' 명륜당 회장 추가 압수수색영장 기각",
+   "link": "https://www.yna.co.kr/view/AKR20261122036400004",
+   "published": "2026-11-22T16:29+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"삼전닉스 말고는요?\"…내년 포트폴리오에 담을 종목은 [투자톡]",
+   "link": "https://www.hankyung.com/article/2026112000066",
+   "published": "2026-11-22T16:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "징그럽다며 버리더니…서양인들 줄서서 먹는 이 부위",
+   "link": "https://www.hankyung.com/article/2026112222987",
+   "published": "2026-11-22T15:58+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "미국 연말 항공대란 오나…예산협상 교착에 셧다운 우려",
+   "link": "https://www.yna.co.kr/view/AKR20261122034000009",
+   "published": "2026-11-22T15:55+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "류재철 LG전자 사장 \"협력사와 제조혁신으로 미래 기회 만들자\"",
+   "link": "https://www.hankyung.com/article/202611222299i",
+   "published": "2026-11-22T15:36+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "美의 中통신사 제재 강화에…中 \"정상 간 공감대 위배\"",
    "link": "https://www.yna.co.kr/view/AKR20261122032200089",
    "published": "2026-11-22T15:26+09:00",
@@ -45,6 +117,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "\"K할매 패션인데\"…카리나도 입더니 외국인까지 푹 빠졌다",
+   "link": "https://www.hankyung.com/article/2026112222777",
+   "published": "2026-11-22T15:24+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "국힘, 2030 공략 고삐…張 \"청년약탈 李정권 맞서 정책전쟁\"",
@@ -3116,16 +3197,16 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T15:55+09:00",
+ "updated_at": "2026-11-22T17:06+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 2,
+   "yna_economy": 1,
    "yna_market": 0,
-   "yna_world": 5,
-   "hk_finance": 1,
-   "hk_economy": 3,
+   "yna_world": 3,
+   "hk_finance": 0,
+   "hk_economy": 4,
    "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
