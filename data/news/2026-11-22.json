@@ -137,6 +137,69 @@
    "category": "kr"
   },
   {
+   "title": "日전범기업에 폭탄 무장단체 조직원, 사형수로 옥중 사망",
+   "link": "https://www.yna.co.kr/view/AKR20261122051300073",
+   "published": "2026-11-22T22:16+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "바레인 \"이란, 민간시설 공습해 2명 부상…범죄적 공격\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122051100079",
+   "published": "2026-11-22T21:58+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"中기술주 지수 시총, 6월말 이후 2천300조 증발\"…증시안정조치(종합2보)",
+   "link": "https://www.yna.co.kr/view/AKR20261122040652089",
+   "published": "2026-11-22T21:56+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261122044351002",
+   "published": "2026-11-22T21:51+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"엔비디아 칩 中밀수망에 앨리스 황·캄보디아 범죄조직 얽혀\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122050900085",
+   "published": "2026-11-22T21:45+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'화석연료' 놓고 갈라진 유엔기후총회…합의문 채택 실패",
+   "link": "https://www.yna.co.kr/view/AKR20261122050451109",
+   "published": "2026-11-22T21:37+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "팝스타 마일리 사이러스, 드러머 연인과 비공개 결혼식",
+   "link": "https://www.yna.co.kr/view/AKR20261122050800009",
+   "published": "2026-11-22T21:22+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "메이 전 英총리, EU 재가입 검토에 \"경악 금치 못해\" 반발",
    "link": "https://www.yna.co.kr/view/AKR20261122050300009",
    "published": "2026-11-22T20:57+09:00",
@@ -3782,17 +3845,17 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T21:09+09:00",
+ "updated_at": "2026-11-22T22:28+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 0,
+   "yna_economy": 1,
    "yna_market": 0,
-   "yna_world": 4,
-   "hk_finance": 2,
-   "hk_economy": 3,
-   "mk_stock": 1,
+   "yna_world": 6,
+   "hk_finance": 0,
+   "hk_economy": 0,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
