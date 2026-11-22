@@ -2,6 +2,168 @@
  "date": "2026-11-22",
  "items": [
   {
+   "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"…G20 계기 가능성",
+   "link": "https://www.yna.co.kr/view/AKR20261122012700009",
+   "published": "2026-11-22T09:35+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "엄지성, 감각적 패스로 동점골 배달…2경기 만에 시즌 4호 도움(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261122008551007",
+   "published": "2026-11-22T09:19+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "세액공제 한도만 채우면 끝? IRP, 운용이 더 중요",
+   "link": "https://www.hankyung.com/article/202611198373i",
+   "published": "2026-11-22T09:19+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "가입 즉시 받을까, 매달 받을까…정기예금 이자도 입맛대로",
+   "link": "https://www.hankyung.com/article/202611209530i",
+   "published": "2026-11-22T09:17+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "GS리테일 \"베트남서 중소 협력사 26억원 규모 수출상담 성과\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122012000030",
+   "published": "2026-11-22T09:07+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "코트디부아르 여학생 삶 바꾼 이동식 직업훈련소…교육사업 결실",
+   "link": "https://www.yna.co.kr/view/AKR20261121050000371",
+   "published": "2026-11-22T09:05+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"호황이어도 한푼이 아쉽네\"…대기업 절반 이상 기부금 삭감",
+   "link": "https://www.hankyung.com/article/2026112218757",
+   "published": "2026-11-22T09:04+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "경기도, 지역상생발전기금 4천억 미편성…시도 배분 차질 우려",
+   "link": "https://www.yna.co.kr/view/AKR20261120136900061",
+   "published": "2026-11-22T09:01+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "세계의 날씨(11월22일)",
+   "link": "https://www.yna.co.kr/view/AKR20261122011900009",
+   "published": "2026-11-22T09:01+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "아파트 옆동 실거래가로 증여세 부과…법원 \"문제 없어\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121025900004",
+   "published": "2026-11-22T09:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "韓日여성기자포럼, 도쿄서 첫개최…\"언론계 성불평등 해법 찾자\"",
+   "link": "https://www.yna.co.kr/view/AKR20261121050900073",
+   "published": "2026-11-22T09:00+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "반도체 소재 승부수 던진 미쓰이화학…주가 회복할수 있을까",
+   "link": "https://www.hankyung.com/article/202611211239i",
+   "published": "2026-11-22T09:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "노후자금 몰빵했는데 어쩌나…25% 추락한 ETF 정체 [김연지의 연금빌드업]",
+   "link": "https://www.hankyung.com/article/2026112099766",
+   "published": "2026-11-22T09:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "뿌링클도 제친 옛날 맛?…3주 만에 30만개 팔린 치킨 [권용훈의 트렌드워치]",
+   "link": "https://www.hankyung.com/article/202611211284i",
+   "published": "2026-11-22T08:59+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "CU, 프리미엄 쌀 '수향미' 적용 간편식 130만개 판매",
+   "link": "https://www.yna.co.kr/view/AKR20261122009300030",
+   "published": "2026-11-22T08:52+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "미국 또 홍역 사망…'백신 불신' 케네디 뒤늦게 \"백신 권고\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122011100009",
+   "published": "2026-11-22T08:50+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "경남신용보증재단 이사장 후보 재공모 끝 선정…인사청문 예정",
+   "link": "https://www.yna.co.kr/view/AKR20261122010400052",
+   "published": "2026-11-22T08:37+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 하나금융, 취약계층 어르신 1천명에 안전용품·보행기",
+   "link": "https://www.yna.co.kr/view/AKR20261121027700002",
+   "published": "2026-11-22T08:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "FBI, 美 2020 대선 관련 조지아주 선관위 간부 대면 조사 착수",
    "link": "https://www.yna.co.kr/view/AKR20261122006800009",
    "published": "2026-11-22T08:27+09:00",
@@ -2360,16 +2522,16 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T08:33+09:00",
+ "updated_at": "2026-11-22T09:43+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 3,
+   "yna_economy": 6,
    "yna_market": 0,
-   "yna_world": 5,
-   "hk_finance": 2,
-   "hk_economy": 4,
+   "yna_world": 6,
+   "hk_finance": 1,
+   "hk_economy": 5,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
