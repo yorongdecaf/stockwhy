@@ -2,6 +2,105 @@
  "date": "2026-11-22",
  "items": [
   {
+   "title": "“8000억 담았는데 하룻밤 14% 폭락?”…떨어지는 칼날 잡은 서학개미",
+   "link": "https://www.mk.co.kr/news/economy/12215436",
+   "published": "2026-11-22T19:39+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "코스피 ‘곡소리’ 날 때 혼자 ‘잇몸미소’…삼성전자 등에 업은 로봇株, 계속 뛸까?",
+   "link": "https://www.mk.co.kr/news/business/12215429",
+   "published": "2026-11-22T19:18+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "정점식 \"정부, 블랙먼데이 가능성 대비 긴급조치 준비해야\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122016800001",
+   "published": "2026-11-22T10:38+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+   "link": "https://www.yna.co.kr/view/AKR20261122017400011",
+   "published": "2026-11-22T10:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"다섯 중 하나는 혼자 산다\"…1인 가구 집주인 최고치",
+   "link": "https://www.hankyung.com/article/2026112219997",
+   "published": "2026-11-22T10:30+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "덩치는 코끼리, 속도는 슈퍼카…'괴물 SUV'의 등장 [신차털기]",
+   "link": "https://www.hankyung.com/article/202611209276g",
+   "published": "2026-11-22T10:30+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "러트닉 미 상무, '엔비디아 스캔들 연루 위기' 넘어 건재 과시",
+   "link": "https://www.yna.co.kr/view/AKR20261122016400009",
+   "published": "2026-11-22T10:22+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "청주서 주말부부 하지만…내 집 마련은 무조건 '이곳'으로",
+   "link": "https://www.hankyung.com/article/202611198160i",
+   "published": "2026-11-22T10:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "대구시, 내년부터 미취업 청년 시험 응시료 연 최대 12만원 지원",
+   "link": "https://www.yna.co.kr/view/AKR20261122015400053",
+   "published": "2026-11-22T09:53+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프 대통령, '약물 홈런왕' 본즈 명예의 전당행 지지 검토",
+   "link": "https://www.yna.co.kr/view/AKR20261122014800007",
+   "published": "2026-11-22T09:50+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "이민진 \"수능부정 잡으러 재난문자…韓공정성 열망 흥미로워\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122013900072",
+   "published": "2026-11-22T09:46+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"…G20 계기 가능성",
    "link": "https://www.yna.co.kr/view/AKR20261122012700009",
    "published": "2026-11-22T09:35+09:00",
@@ -2522,17 +2621,17 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T09:43+09:00",
+ "updated_at": "2026-11-22T10:59+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 6,
+   "yna_economy": 3,
    "yna_market": 0,
-   "yna_world": 6,
-   "hk_finance": 1,
-   "hk_economy": 5,
-   "mk_stock": 0,
+   "yna_world": 3,
+   "hk_finance": 0,
+   "hk_economy": 3,
+   "mk_stock": 2,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
