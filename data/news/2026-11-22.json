@@ -29,6 +29,33 @@
    "category": "kr"
   },
   {
+   "title": "노동장관 \"정년연장, 27일 與특위 합의 안 되면 정부 나설 것\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261122019051530",
+   "published": "2026-11-22T14:39+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "서울 핀테크 기업 10곳, 싱가포르서 투자유치 활동",
+   "link": "https://www.yna.co.kr/view/AKR20261122028300004",
+   "published": "2026-11-22T14:33+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "방일객 최대지만…\"지자체 70%는 방문객·소비액 평균 이하\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122027400073",
+   "published": "2026-11-22T14:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "\"앨리스 황은 '얼굴노릇'만…엔비디아칩 中밀수 주도자는 50대 중국인\"",
    "link": "https://www.yna.co.kr/view/AKR20261122025700009",
    "published": "2026-11-22T13:34+09:00",
@@ -2981,22 +3008,22 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T13:50+09:00",
+ "updated_at": "2026-11-22T14:49+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
+   "yna_economy": 2,
    "yna_market": 0,
-   "yna_world": 4,
-   "hk_finance": 1,
-   "hk_economy": 0,
+   "yna_world": 1,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
+   "hk_finance": "HTTPError: HTTP Error 403: Forbidden",
+   "hk_economy": "HTTPError: HTTP Error 403: Forbidden",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
