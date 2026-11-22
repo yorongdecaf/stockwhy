@@ -29,6 +29,60 @@
    "category": "kr"
   },
   {
+   "title": "\"앨리스 황은 '얼굴노릇'만…엔비디아칩 中밀수 주도자는 50대 중국인\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122025700009",
+   "published": "2026-11-22T13:34+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[영상] '무기 운송 의심' 러 화물선 발트해서 피격…\"우크라 가능성\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122025900704",
+   "published": "2026-11-22T13:29+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "테슬라 돌풍에 對중국 자동차 무역적자 6조원 역대 최대(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261122024500003",
+   "published": "2026-11-22T13:01+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"中에 AI 반도체 못 판다고? 다른 곳 이미 줄 섰다\" [노정동의 어쩌다 투자자]",
+   "link": "https://www.hankyung.com/article/2026112000726",
+   "published": "2026-11-22T13:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "인도서 '가짜 술' 마시고 최소 11명 사망…\"메탄올 중독 증상\"",
+   "link": "https://www.yna.co.kr/view/AKR20261122024100084",
+   "published": "2026-11-22T12:59+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "日자민 간사장, '정치자금 논란' 문부과학상 교체 가능성 시사",
+   "link": "https://www.yna.co.kr/view/AKR20261122023600073",
+   "published": "2026-11-22T12:45+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "\"트럼프, 김정은에 만나자 제안했지만 北 '조건' 내걸어 무산\"",
    "link": "https://www.yna.co.kr/view/AKR20261122023100009",
    "published": "2026-11-22T12:33+09:00",
@@ -2927,16 +2981,16 @@
    "category": "kr_policy"
   }
  ],
- "updated_at": "2026-11-22T12:46+09:00",
+ "updated_at": "2026-11-22T13:50+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 11,
+   "yna_economy": 1,
    "yna_market": 0,
-   "yna_world": 2,
-   "hk_finance": 0,
-   "hk_economy": 3,
+   "yna_world": 4,
+   "hk_finance": 1,
+   "hk_economy": 0,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
