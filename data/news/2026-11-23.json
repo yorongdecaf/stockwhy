@@ -2,6 +2,24 @@
  "date": "2026-11-23",
  "items": [
   {
+   "title": "닷컴버블 반토막 증시, 회복에 5년 6개월 걸려…개미들 ‘시간과의 싸움’",
+   "link": "https://www.mk.co.kr/news/stock/12216561",
+   "published": "2026-11-24T06:50+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "증안펀드 대폭 증액, 공매도 금지 주장도 등장…대만, 20조 투입했지만 효과 ‘글쎄’",
+   "link": "https://www.mk.co.kr/news/stock/12216558",
+   "published": "2026-11-24T06:37+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“설마 4천피 붕괴까지 가겠습니까”…여의도 센터장들이 꼽은 저점은?",
    "link": "https://www.mk.co.kr/news/stock/12216457",
    "published": "2026-11-24T03:56+09:00",
@@ -191,6 +209,15 @@
    "category": "kr"
   },
   {
+   "title": "Arm 르네 하스, 2033년까지 계약연장…손정의가 붙잡았다",
+   "link": "https://www.hankyung.com/article/202611235310i",
+   "published": "2026-11-23T22:28+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“연말 증시, 당신의 예상은?”…한양증권 ‘하이 시그널’ 이벤트",
    "link": "https://www.mk.co.kr/news/stock/12216033",
    "published": "2026-11-23T22:25+09:00",
@@ -200,11 +227,29 @@
    "category": "kr"
   },
   {
+   "title": "\"기다려온 기회\"…美증시 폭락에 모건스탠리가 외쳤다",
+   "link": "https://www.hankyung.com/article/202611235289i",
+   "published": "2026-11-23T21:48+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "\"5000원에 팔더니 2만원 됐다\"…다이소 갈 때 마다 '품절' 뭐길래",
    "link": "https://www.hankyung.com/article/202611234601g",
    "published": "2026-11-23T21:00+09:00",
    "source": "한국경제 경제",
    "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"4만원대서 2000원대로 추락\"…레버리지 ETF 물린 개미 '피눈물' [종목+]",
+   "link": "https://www.hankyung.com/article/2026112348676",
+   "published": "2026-11-23T21:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -7274,7 +7319,7 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-23T21:28+09:00",
+ "updated_at": "2026-11-23T22:54+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
@@ -7282,14 +7327,14 @@
    "yna_economy": 0,
    "yna_market": 0,
    "hk_finance": 1,
-   "hk_economy": 3,
-   "mk_stock": 0,
+   "hk_economy": 2,
+   "mk_stock": 2,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
-   "yna_world": "ParseError: not well-formed (invalid token): line 98, column 80",
+   "yna_world": "ParseError: not well-formed (invalid token): line 128, column 80",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
