@@ -263,11 +263,29 @@
    "category": "kr"
   },
   {
+   "title": "글로벌IB, 삼전닉스 목표가 잇달아 하향…2028년 업황 둔화 우려",
+   "link": "https://www.yna.co.kr/view/AKR20261123166100008",
+   "published": "2026-11-23T19:32+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“어? 100만원 넣었는데 20만원 됐네”…곱버스, ETF 낙폭 순위 ‘싹쓸이’",
    "link": "https://www.mk.co.kr/news/stock/12215878",
    "published": "2026-11-23T19:26+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "中, 무역흑자 적어보이기 전략…금값 하락에 281조원 사재기",
+   "link": "https://www.hankyung.com/article/202611235200i",
+   "published": "2026-11-23T19:22+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -7220,22 +7238,22 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-23T19:05+09:00",
+ "updated_at": "2026-11-23T20:26+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 4,
-   "yna_market": 0,
-   "hk_finance": 9,
-   "hk_economy": 20,
-   "mk_stock": 3,
+   "yna_economy": 0,
+   "yna_market": 1,
+   "hk_finance": 0,
+   "hk_economy": 1,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
-   "yna_world": "ParseError: not well-formed (invalid token): line 43, column 80",
+   "yna_world": "ParseError: not well-formed (invalid token): line 88, column 80",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
