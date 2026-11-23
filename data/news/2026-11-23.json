@@ -2,6 +2,42 @@
  "date": "2026-11-23",
  "items": [
   {
+   "title": "SG 박창호 회장, ‘제12회 중견기업인의 날’ 산업포장 수상",
+   "link": "https://www.mk.co.kr/news/stock/12216047",
+   "published": "2026-11-23T22:42+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "에브리봇, ‘머큐어 서울 마곡’서 서비스로봇 실증…호텔 B2B 영역 확대",
+   "link": "https://www.mk.co.kr/news/stock/12216042",
+   "published": "2026-11-23T22:37+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“1년 만기 연 5.9%”…메리츠증권 ‘모음’ 신규 고객 잡는다",
+   "link": "https://www.mk.co.kr/news/stock/12216038",
+   "published": "2026-11-23T22:33+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“연말 증시, 당신의 예상은?”…한양증권 ‘하이 시그널’ 이벤트",
+   "link": "https://www.mk.co.kr/news/stock/12216033",
+   "published": "2026-11-23T22:25+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "[속보] 코스피 5%대 급락…매도 사이드카 발동",
    "link": "https://www.mk.co.kr/news/stock/12215988",
    "published": "2026-11-23T20:44+09:00",
@@ -236,6 +272,123 @@
    "category": "kr"
   },
   {
+   "title": "서산시 \"5개 공동묘지 부지를 시민 편익 공간으로\"",
+   "link": "https://www.yna.co.kr/view/AKR20261123094400063",
+   "published": "2026-11-23T13:33+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "GS건설, 1.8조원 규모 목동12단지 재건축 시공사 선정",
+   "link": "https://www.yna.co.kr/view/AKR20261123093300003",
+   "published": "2026-11-23T13:25+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "HD한국조선해양, LPG 운반선 2척 3천84억원에 수주",
+   "link": "https://www.yna.co.kr/view/AKR20261123092800003",
+   "published": "2026-11-23T13:22+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "협력사 납품대금 374억 올린 풍산까지…중기부, 상생 우수기업 9곳 선정",
+   "link": "https://www.hankyung.com/article/202611234095i",
+   "published": "2026-11-23T13:22+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "아이엘, 中 로봇핸드 유니콘과 독점 공급계약…휴머노이드 부품사업 진출",
+   "link": "https://www.hankyung.com/article/202611234083i",
+   "published": "2026-11-23T13:19+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "월가 불만 산 '별난' 앤트로픽 IPO…그 뿌리는 아모데이 남매",
+   "link": "https://www.yna.co.kr/view/AKR20261123091600009",
+   "published": "2026-11-23T13:14+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "럭스코 \"임시주총서 IBKS제24호스팩과 합병 안건 가결\"",
+   "link": "https://www.hankyung.com/article/2026112340546",
+   "published": "2026-11-23T12:48+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "머스크, 데이터센터 차질에 우려…\"AI기업 내년에 자금난\"",
+   "link": "https://www.yna.co.kr/view/AKR20261123087100075",
+   "published": "2026-11-23T12:46+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"전체 일정 차질 없다\"…팀코리아, 체코 원전 적기 준공 다짐",
+   "link": "https://www.hankyung.com/article/2026112340377",
+   "published": "2026-11-23T12:33+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "오세훈 서울시장, 주한일본대사 면담…\"日지방정부와 협력 강화\"",
+   "link": "https://www.yna.co.kr/view/AKR20261123089500004",
+   "published": "2026-11-23T12:31+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "미얀마 \"아세안 정상회의 참석 배제 조치는 불공평\"…공개 비판",
+   "link": "https://www.yna.co.kr/view/AKR20261123086300104",
+   "published": "2026-11-23T12:31+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "서학 초고수들, 32% 폭락한 반도체 레버리지 ETF 상품 긁어모은 이유는",
+   "link": "https://www.hankyung.com/article/202611233991i",
+   "published": "2026-11-23T12:31+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "코스피 급락에 국고채 가격 상승세…3년물 연 3.621%",
+   "link": "https://www.hankyung.com/article/2026112340367",
+   "published": "2026-11-23T12:31+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "\"中 핵추진잠수함 급증·美개입 축소…日도 보유 여부 판단해야\"",
    "link": "https://www.yna.co.kr/view/AKR20261123088500073",
    "published": "2026-11-23T12:16+09:00",
@@ -252,6 +405,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "전기차 국내생산세액공제 포함될까…경제부총리 \"종합 판단\"",
+   "link": "https://www.hankyung.com/article/2026112339637",
+   "published": "2026-11-23T12:07+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "30년 기후협상체제 시험대…COP31 합의 실패에 커지는 무용론",
@@ -299,6 +461,15 @@
    "category": "world"
   },
   {
+   "title": "경제부총리 \"산술적으론 올해 성장률 4% 범위 안에 있다고 생각\"",
+   "link": "https://www.hankyung.com/article/2026112339607",
+   "published": "2026-11-23T12:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "국고채 금리, 위험회피 속 하락세…3년물 장중 연 3.621%",
    "link": "https://www.yna.co.kr/view/AKR20261123085000008",
    "published": "2026-11-23T11:56+09:00",
@@ -340,6 +511,15 @@
    "published": "2026-11-23T11:48+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "경제부총리 \"증안펀드 포함 비상계획 있다…상황 검토해 투입 판단\"",
+   "link": "https://www.hankyung.com/article/2026112339537",
+   "published": "2026-11-23T11:47+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -511,6 +691,15 @@
    "published": "2026-11-23T11:25+09:00",
    "source": "한국경제 증권",
    "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "스마트폰 사업부에 메일 보낸 노태문…\"MX는 저력있는 조직, 한 차원 높은 미래 열어가자\"",
+   "link": "https://www.hankyung.com/article/202611233798i",
+   "published": "2026-11-23T11:24+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -4961,17 +5150,17 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-23T12:25+09:00",
+ "updated_at": "2026-11-23T13:42+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 22,
+   "yna_economy": 3,
    "yna_market": 2,
-   "yna_world": 14,
-   "hk_finance": 10,
-   "hk_economy": 4,
-   "mk_stock": 2,
+   "yna_world": 2,
+   "hk_finance": 3,
+   "hk_economy": 7,
+   "mk_stock": 4,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
