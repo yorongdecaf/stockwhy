@@ -173,11 +173,38 @@
    "category": "kr"
   },
   {
+   "title": "뉴욕증시, 젠슨 황 엔비디아 CEO 재임명에 상승 출발",
+   "link": "https://www.yna.co.kr/view/AKR20261123176000009",
+   "published": "2026-11-23T23:45+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "15% 폭락한 삼성SDS 담고, 삼전·닉스 팔고 [주식 초고수는 지금]",
    "link": "https://www.mk.co.kr/news/stock/12216092",
    "published": "2026-11-23T23:31+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[속보] 젠슨 황 \"가족의 사랑·지지 감사…업무 복귀 고대\"",
+   "link": "https://www.hankyung.com/article/2026112353457",
+   "published": "2026-11-23T23:25+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[속보] 젠슨 황 CEO 즉시 복귀…엔비디아 주가 30% 폭등",
+   "link": "https://www.hankyung.com/article/202611235336i",
+   "published": "2026-11-23T23:22+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -223,6 +250,15 @@
    "published": "2026-11-23T22:25+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"2년 치 연봉 날렸다\" 개미 비명에…전문가 '뜻밖의 조언' [분석+]",
+   "link": "https://www.hankyung.com/article/2026112346406",
+   "published": "2026-11-23T22:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -7319,22 +7355,22 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-23T22:54+09:00",
+ "updated_at": "2026-11-23T23:55+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
-   "yna_market": 0,
+   "yna_market": 1,
    "hk_finance": 1,
    "hk_economy": 2,
-   "mk_stock": 2,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
-   "yna_world": "ParseError: not well-formed (invalid token): line 128, column 80",
+   "yna_world": "ParseError: not well-formed (invalid token): line 228, column 80",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
