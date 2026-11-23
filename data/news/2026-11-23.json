@@ -2,6 +2,33 @@
  "date": "2026-11-23",
  "items": [
   {
+   "title": "“설마 4천피 붕괴까지 가겠습니까”…여의도 센터장들이 꼽은 저점은?",
+   "link": "https://www.mk.co.kr/news/stock/12216457",
+   "published": "2026-11-24T03:56+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "결국 고꾸라진 코스피…“바닥이 어디?”보다 중요한 질문은 [김학균의 이코노믹 인사이트]",
+   "link": "https://www.mk.co.kr/news/stock/12216450",
+   "published": "2026-11-24T03:33+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "역대급 143조 모은 앤트로픽, 나도 살 수 있었을까…IPO 참여 방법 총정리 [주린이ABC]",
+   "link": "https://www.mk.co.kr/news/stock/12216447",
+   "published": "2026-11-24T03:30+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "코스피 반토막…외환위기 이후 네번째",
    "link": "https://www.mk.co.kr/news/stock/12216430",
    "published": "2026-11-24T02:53+09:00",
@@ -281,6 +308,24 @@
    "category": "kr"
   },
   {
+   "title": "미래에셋증권, 'IB 총괄' 사업부 폐지…도입 1년만",
+   "link": "https://www.yna.co.kr/view/AKR20261123163400008",
+   "published": "2026-11-23T19:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "LH, 공공주택 4천232가구 공모 연기…연내 선정 차질 우려",
+   "link": "https://www.yna.co.kr/view/AKR20261123157200003",
+   "published": "2026-11-23T18:59+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "화장품주, 중국 큰손 유입 기대감에 강세…뷰티스킨, 21%대 급등",
    "link": "https://www.mk.co.kr/news/stock/12215857",
    "published": "2026-11-23T18:51+09:00",
@@ -308,11 +353,74 @@
    "category": "kr"
   },
   {
+   "title": "인스피언 \"라온시큐리티 주식 30억원어치 취득…지분율 100%\"",
+   "link": "https://www.yna.co.kr/view/AKR20261123162100008",
+   "published": "2026-11-23T18:40+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "이민자가 일자리에 미치는 영향…경제학의 결론은?",
+   "link": "https://www.hankyung.com/article/2026112348951",
+   "published": "2026-11-23T18:40+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "유주원 \"학벌도 인맥도 없지만 기술력 하나로 美 시장 뚫었죠\"",
+   "link": "https://www.hankyung.com/article/2026112351121",
+   "published": "2026-11-23T18:20+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "[MK 골든크로스 돌파종목 : 에이플러스에셋(244920) & 마녀공장(439090)]",
    "link": "https://www.mk.co.kr/news/stock/12215831",
    "published": "2026-11-23T18:17+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "두산, 다문화 가정 등에 장학금 5억 원 지원",
+   "link": "https://www.hankyung.com/article/2026112351101",
+   "published": "2026-11-23T18:17+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "농협銀, 농어촌 학교에 학습공간 개선",
+   "link": "https://www.hankyung.com/article/2026112351051",
+   "published": "2026-11-23T18:16+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "신한銀, 소아암 환아 응원 달리기 개최",
+   "link": "https://www.hankyung.com/article/2026112351041",
+   "published": "2026-11-23T18:15+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "신협중앙회, 국가유산청과 전국 사찰 등에 난연복 후원",
+   "link": "https://www.hankyung.com/article/2026112350991",
+   "published": "2026-11-23T18:11+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -326,11 +434,209 @@
    "category": "kr"
   },
   {
+   "title": "반도체 고점론 공방 확산…삼전닉스 \"빅테크 장기계약 변동없다\"",
+   "link": "https://www.hankyung.com/article/2026112350891",
+   "published": "2026-11-23T18:04+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“코스피 바닥? 지하실 있습니다”…4200까지 꽉 잡으라는데 [오늘 나온 보고서]",
    "link": "https://www.mk.co.kr/news/stock/12215816",
    "published": "2026-11-23T18:02+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "포스코퓨처엠 \"차세대 음극재, 매달 수백건 테스트\"",
+   "link": "https://www.hankyung.com/article/2026112350921",
+   "published": "2026-11-23T18:01+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "롯데타워 2년만에 담보 해제…'그룹의 심장' 되찾은 신동빈",
+   "link": "https://www.hankyung.com/article/2026112350901",
+   "published": "2026-11-23T18:01+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+   "link": "https://www.yna.co.kr/view/AKR20261123150300011",
+   "published": "2026-11-23T18:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"주식도 금도 믿을 게 없다\"…전 세계 투자자들 '패닉'",
+   "link": "https://www.hankyung.com/article/2026112350751",
+   "published": "2026-11-23T17:59+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "이 와중에 과자가 효자라고?…폭락장 비껴간 '뜻밖의 종목'",
+   "link": "https://www.hankyung.com/article/2026112350641",
+   "published": "2026-11-23T17:59+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성물산 건설부문장에 최영재 사장",
+   "link": "https://www.hankyung.com/article/2026112350911",
+   "published": "2026-11-23T17:57+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "HBM 시장 더 커진다면서…삼전닉스 목표가 내린 골드만",
+   "link": "https://www.hankyung.com/article/2026112350571",
+   "published": "2026-11-23T17:56+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "LS전선, 뉴욕 전력망에 7천억 케이블 공급",
+   "link": "https://www.hankyung.com/article/2026112350931",
+   "published": "2026-11-23T17:56+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"박영옥, 조광피혁 주주제안은 주주가치 제고 목적 아니다\"",
+   "link": "https://www.hankyung.com/article/2026112350631",
+   "published": "2026-11-23T17:55+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "HMM, 美 넥스트파워와 '그린세일링 서비스' 계약",
+   "link": "https://www.hankyung.com/article/2026112350941",
+   "published": "2026-11-23T17:55+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美 Fed, 내달 금리 동결 가능성 '솔솔'",
+   "link": "https://www.hankyung.com/article/2026112350621",
+   "published": "2026-11-23T17:54+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한경머니×글라이드 AI 연금진단 클래스 개설",
+   "link": "https://www.hankyung.com/article/2026112350611",
+   "published": "2026-11-23T17:53+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"中 시장 다시 열린다\"…화장품주 '반색'",
+   "link": "https://www.hankyung.com/article/2026112350581",
+   "published": "2026-11-23T17:52+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "이재근 \"KB, 국내 1등서 글로벌 리딩 플랫폼으로\"",
+   "link": "https://www.hankyung.com/article/2026112350061",
+   "published": "2026-11-23T17:48+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "카카오AI·카카오X 분할상장 계획도 '안갯속'",
+   "link": "https://www.hankyung.com/article/2026112349881",
+   "published": "2026-11-23T17:48+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "중복상장 규제 후폭풍…1.5兆 국제소송 당한 카카오",
+   "link": "https://www.hankyung.com/article/2026112350741",
+   "published": "2026-11-23T17:48+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "박종복 前 SC제일은행장, 차기 은행연합회장에 내정",
+   "link": "https://www.hankyung.com/article/2026112350071",
+   "published": "2026-11-23T17:46+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"호텔까지 갈 차 잡아줘\"…예약부터 결제까지 AI가 척척",
+   "link": "https://www.hankyung.com/article/2026112350051",
+   "published": "2026-11-23T17:45+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "신한銀, 게임형 금융서비스 '키워요' 출시",
+   "link": "https://www.hankyung.com/article/2026112350101",
+   "published": "2026-11-23T17:44+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[포토] 비씨카드, 자금세탁방지 표창",
+   "link": "https://www.hankyung.com/article/2026112350091",
+   "published": "2026-11-23T17:44+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "지자체 재정난 호소에…내년 한시적으로 지원",
+   "link": "https://www.hankyung.com/article/2026112349831",
+   "published": "2026-11-23T17:43+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -470,6 +776,15 @@
    "category": "kr"
   },
   {
+   "title": "SK하닉 200조 대박 날 뻔했는데…한국 '초비상' 걸렸다",
+   "link": "https://www.hankyung.com/article/2026112349871",
+   "published": "2026-11-23T17:29+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "모호한 가이드라인에 여론 눈치보는 대기업",
    "link": "https://www.hankyung.com/article/2026112349861",
    "published": "2026-11-23T17:28+09:00",
@@ -522,6 +837,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "\"분산 투자할 곳이 없다\"…1년 만에 '에브리씽 랠리'에서 '에브리씽 크래시'",
+   "link": "https://www.hankyung.com/article/202611233526i",
+   "published": "2026-11-23T17:23+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "브리즈바이오·인스페이스, 코스닥 상장예심 신청",
@@ -6896,22 +7220,22 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-23T17:55+09:00",
+ "updated_at": "2026-11-23T19:05+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 18,
-   "yna_market": 5,
-   "yna_world": 15,
-   "hk_finance": 13,
-   "hk_economy": 25,
-   "mk_stock": 8,
+   "yna_economy": 4,
+   "yna_market": 0,
+   "hk_finance": 9,
+   "hk_economy": 20,
+   "mk_stock": 3,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
+   "yna_world": "ParseError: not well-formed (invalid token): line 43, column 80",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
