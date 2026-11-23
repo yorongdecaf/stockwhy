@@ -2,6 +2,42 @@
  "date": "2026-11-24",
  "items": [
   {
+   "title": "하나증권 “KT, 주가 지나치게 저평가…4만5000원선 매수 추천”",
+   "link": "https://www.mk.co.kr/news/stock/12216749",
+   "published": "2026-11-24T17:29+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“앤트로픽 지분 가치 반영 안 돼”…하나증권, SK텔레콤 목표가 14만원 유지",
+   "link": "https://www.mk.co.kr/news/stock/12216744",
+   "published": "2026-11-24T17:17+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "젠슨 황 돌아오자 엔비디아 31% 폭등…‘반토막’ 코스피도 살아날까",
+   "link": "https://www.mk.co.kr/news/stock/12216740",
+   "published": "2026-11-24T17:15+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "젠슨황 엔비디아 CEO 복귀... 향후 3대 관전포인트",
+   "link": "https://www.mk.co.kr/news/business/12216731",
+   "published": "2026-11-24T16:52+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "스페이스X땐 불나방이었는데…앤트로픽엔 소심해진 국내 ETF들",
    "link": "https://www.mk.co.kr/news/stock/12216728",
    "published": "2026-11-24T16:42+09:00",
@@ -47,6 +83,375 @@
    "category": "kr"
   },
   {
+   "title": "\"삼전닉스, 최악의 시나리오 상당 부분 반영…주가 회복 전망\"",
+   "link": "https://www.hankyung.com/article/2026112456936",
+   "published": "2026-11-24T08:42+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "유진증권 \"내년 유가 상승에도 정유사 수익성 악화 우려\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124027900008",
+   "published": "2026-11-24T08:39+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한투증권 \"주가 하락에 외인 매도 둔화…환율 상승 압력 완화\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124027700008",
+   "published": "2026-11-24T08:38+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "키움증권 \"이차전지, 내년부터 실적회복…업종 투자의견 상향\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124029600008",
+   "published": "2026-11-24T08:37+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "NH증권 \"현대글로비스, 자동차운반선 공급 부족 장기화 수혜\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124029100008",
+   "published": "2026-11-24T08:35+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"젠슨황 복귀로 AI산업 일단 안도…5가지 변수 더 살펴야\"",
+   "link": "https://www.hankyung.com/article/2026112457506",
+   "published": "2026-11-24T08:35+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "교보증권 \"금호건설 수익성 이어 외형 성장도 기대…목표가↑＂",
+   "link": "https://www.yna.co.kr/view/AKR20261124028500008",
+   "published": "2026-11-24T08:34+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "하나證 \"'美 AIDC 타국 건설 세금' 언급에 건설주 급락, 과도\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124027300008",
+   "published": "2026-11-24T08:33+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[오늘의 증권가 콜] 목표주가 2배 뛴 금호건설 vs. 25% 깎인 현대차",
+   "link": "https://www.hankyung.com/article/202611245703i",
+   "published": "2026-11-24T08:31+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "KB증권 \"성장-방어주 밸류 9년만 역전…기술주 반등여력 부각\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124027200008",
+   "published": "2026-11-24T08:29+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "젠슨 황 복귀에 급등한 AI 반도체주…여전히 남은 리스크들",
+   "link": "https://www.hankyung.com/article/202611245697i",
+   "published": "2026-11-24T08:28+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[마켓라이브]11월 24일 증시",
+   "link": "https://www.hankyung.com/article/202611245664i",
+   "published": "2026-11-24T08:28+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"SK이노베이션, 국제유가 급락에 투심 악화…목표가↓\"-iM",
+   "link": "https://www.hankyung.com/article/2026112457406",
+   "published": "2026-11-24T08:28+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"쇼핑 대신 북한 보러\"…중국인 제치고 일본인 몰린 스타벅스 [전선의 손익계산서]",
+   "link": "https://www.hankyung.com/article/202611234860H",
+   "published": "2026-11-24T08:20+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "왕의 귀환, 엔비디아 31%↑… \"하루 이틀 더 봐야\" [김현석의 월스트리트나우]",
+   "link": "https://www.hankyung.com/article/202611245515i",
+   "published": "2026-11-24T08:19+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "젠슨황 깜짝 복귀에 삼전닉스 HBM 불확실성·피크아웃 우려↓",
+   "link": "https://www.yna.co.kr/view/AKR20261124025800003",
+   "published": "2026-11-24T08:17+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프 지휘·밴스 투입…은밀히 진행된 '젠슨황 구하기' 작전(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124005551071",
+   "published": "2026-11-24T08:17+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "코발트 가격 하락에 민주콩고 수출 봉쇄…글로벌 공급망 긴장",
+   "link": "https://www.hankyung.com/article/202611245671i",
+   "published": "2026-11-24T08:15+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프, 흉악범 사형구형 지시…\"급진좌파는 괴물에 동정심\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124020400071",
+   "published": "2026-11-24T08:14+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "부산 해양·금융위크…북극항로 등 글로벌 공급망 논의",
+   "link": "https://www.yna.co.kr/view/AKR20261124021300051",
+   "published": "2026-11-24T08:09+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[마켓뷰] '젠슨황 복귀'에 美증시 급등…코스피도 반등하나",
+   "link": "https://www.yna.co.kr/view/AKR20261124022100008",
+   "published": "2026-11-24T08:09+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[글로컬] '트럼프의 도박' 젠슨황 복귀 개입 전례는 있다지만",
+   "link": "https://www.yna.co.kr/view/AKR20261124009300546",
+   "published": "2026-11-24T08:08+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[율곡로] 운전의 종말?",
+   "link": "https://www.yna.co.kr/view/AKR20261123147100546",
+   "published": "2026-11-24T08:05+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"엔비디아 이사회, 경영진 상의없이 젠슨황 복귀 결정\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124022600009",
+   "published": "2026-11-24T08:05+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "원유는 넘치는데 경유는 부족…이란 전쟁의 엇갈린 회복",
+   "link": "https://www.hankyung.com/article/202611245604i",
+   "published": "2026-11-24T08:05+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "부산시·금감원·경찰, 불법 사금융 근절 공동 대응 협력",
+   "link": "https://www.yna.co.kr/view/AKR20261124021200051",
+   "published": "2026-11-24T08:03+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"중국 큰손들 드디어 돌아오나\"…폭락장에도 줄줄이 급등 [종목+]",
+   "link": "https://www.hankyung.com/article/2026112455426",
+   "published": "2026-11-24T08:01+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[다문화 3.0] 알바생에서 사장으로…스리랑카 출신 차민다의 한국 15년",
+   "link": "https://www.yna.co.kr/view/AKR20261123110000371",
+   "published": "2026-11-24T08:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"잠이나 푹 잘래요\"…호텔 업계가 '숙면'에 공들이는 이유 [권용훈의 트렌드워치]",
+   "link": "https://www.hankyung.com/article/202611235316i",
+   "published": "2026-11-24T08:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "MLB 메츠, 1루수 골드슈미트 영입…사흘간 7천400억원 투자",
+   "link": "https://www.yna.co.kr/view/AKR20261124022200007",
+   "published": "2026-11-24T07:59+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"젠슨 황 복귀로 AI 투심 회복 전망…韓 반도체 과매도\"-대신",
+   "link": "https://www.hankyung.com/article/2026112455966",
+   "published": "2026-11-24T07:58+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'젠슨황 귀환'에 나스닥 6.5%↑…19개월만에 최대 상승(종합2보)",
+   "link": "https://www.yna.co.kr/view/AKR20261124009452072",
+   "published": "2026-11-24T07:57+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "벤처인의 날…부산시, 신기술혁신상 등 유공자 시상",
+   "link": "https://www.yna.co.kr/view/AKR20261124021000051",
+   "published": "2026-11-24T07:55+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美법무부, 북한 바이낸스 해킹 자금 1조5천억원 몰수 소송",
+   "link": "https://www.yna.co.kr/view/AKR20261124020900504",
+   "published": "2026-11-24T07:55+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"SK텔레콤, 주가 7만원 매수는 엄청난 기회…호재 많다\"-하나",
+   "link": "https://www.hankyung.com/article/2026112456026",
+   "published": "2026-11-24T07:53+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"젠슨 황 복귀, AI 투자 우려 완화…글로벌 증시 '안도'\"-iM",
+   "link": "https://www.hankyung.com/article/2026112455916",
+   "published": "2026-11-24T07:47+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "홈플러스, 26일부터 온라인 배송 중단…\"상품 수급 차질\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124019600030",
+   "published": "2026-11-24T07:46+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "코스피 급반등 가능성… 바닥인지 확인하려면 [오늘 아침 당신이 알아야 할 7가지]",
+   "link": "https://www.hankyung.com/article/202611245560i",
+   "published": "2026-11-24T07:45+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"삼전닉스 반토막 났는데\"…증권가서 '반전 보고서' 나온 이유 [분석+]",
+   "link": "https://www.hankyung.com/article/2026112455796",
+   "published": "2026-11-24T07:38+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"한전KPS, 원전 정비 매출 회복 구간…목표가↓\"-대신",
+   "link": "https://www.hankyung.com/article/2026112455756",
+   "published": "2026-11-24T07:38+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"삼성E&A, 그룹사 투자에 수주 탄탄…목표가↑\"-대신",
+   "link": "https://www.hankyung.com/article/2026112455706",
+   "published": "2026-11-24T07:31+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "\"美 관세 달라지기 어려워…한국, 대미투자 편익 알려야\"",
    "link": "https://www.yna.co.kr/view/AKR20261123157700003",
    "published": "2026-11-24T07:30+09:00",
@@ -61,6 +466,24 @@
    "published": "2026-11-24T07:30+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "반도체 ETF 팔고 지수형 산다면…\"'○○○' 유의해야\" 증권가 조언이",
+   "link": "https://www.hankyung.com/article/202611234788i",
+   "published": "2026-11-24T07:30+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한 달간 24% 급등한 CJ ENM…TV광고 회복·中시장 개방 기대",
+   "link": "https://www.hankyung.com/article/202611235364i",
+   "published": "2026-11-24T07:30+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -81,6 +504,15 @@
    "source_id": "yna_economy",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "트럼프 정부, 젠슨황 복귀 당일 中첩자 의혹 내연녀 회사 제재(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124006551071",
+   "published": "2026-11-24T07:14+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "\"HL홀딩스, 자회사 부진에 적자전환 쇼크…목표가↓\"-하나",
@@ -119,6 +551,15 @@
    "category": "kr"
   },
   {
+   "title": "'젠슨황 귀환'에 나스닥 6.5%↑…1년7개월만에 최대 상승(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124009451072",
+   "published": "2026-11-24T06:51+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "닷컴버블 반토막 증시, 회복에 5년 6개월 걸려…개미들 ‘시간과의 싸움’",
    "link": "https://www.mk.co.kr/news/stock/12216561",
    "published": "2026-11-24T06:50+09:00",
@@ -153,6 +594,24 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "아이티 파병에 국내 치안은 구멍?…엘살바도르서 총격 사망",
+   "link": "https://www.yna.co.kr/view/AKR20261124010800087",
+   "published": "2026-11-24T06:37+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "트럼프, 유독성 軍폭발물 폭파 중단 명령…\"민주당 주지사 책임\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124010100071",
+   "published": "2026-11-24T06:31+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "또 녹아내린 삼전닉스…증권가가 바닥 확신 못하는 이유 [분석+]",
@@ -191,6 +650,33 @@
    "category": "kr"
   },
   {
+   "title": "젠슨황 \"두번째엔 더 나은 CEO 될 것\"…직원들 박수치며 환호",
+   "link": "https://www.yna.co.kr/view/AKR20261124009600075",
+   "published": "2026-11-24T06:23+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[속보] 美상무부, 中간첩 의혹 젠슨황 불륜상대 회사 제재",
+   "link": "https://www.yna.co.kr/view/AKR20261124010700071",
+   "published": "2026-11-24T06:20+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "젠슨황 복귀에 나스닥 6%대 급등 마감…엔비디아 31.5% 폭등",
+   "link": "https://www.yna.co.kr/view/AKR20261124009400072",
+   "published": "2026-11-24T06:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "내년부터 주택조합도 공사비 검증 의무…조합원 5분의 1 요구 시",
    "link": "https://www.yna.co.kr/view/AKR20261123124600003",
    "published": "2026-11-24T06:07+09:00",
@@ -216,6 +702,15 @@
    "source_id": "yna_market",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "[속보] 뉴욕증시, 나스닥 6%대 급등 마감…엔비디아 31.5%↑",
+   "link": "https://www.yna.co.kr/view/AKR20261124009000072",
+   "published": "2026-11-24T06:04+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "한중 FTA 후속타결에 K-뷰티·여행업 '화색'…중국 재공략 시동",
@@ -317,6 +812,105 @@
    "category": "kr_policy"
   },
   {
+   "title": "국제유가 3%대 급락…중동 원유 공급 증가에 3개월만에 최저",
+   "link": "https://www.yna.co.kr/view/AKR20261124008300072",
+   "published": "2026-11-24T05:59+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"이사회 전원사퇴감\"…트럼프 입김에 젠슨황 거취 번복 도마",
+   "link": "https://www.yna.co.kr/view/AKR20261124007000072",
+   "published": "2026-11-24T05:48+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "리비아 정부, 우크라의 러 선박 공격 규탄…공식 해명 요구",
+   "link": "https://www.yna.co.kr/view/AKR20261124006600079",
+   "published": "2026-11-24T05:32+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"美, '中간첩 의혹' 젠슨황 불륜상대 회사 곧 수출통제 명단에\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124006500071",
+   "published": "2026-11-24T05:25+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"트럼프, 은밀히 젠슨 황 CEO 복귀 작전…밴스에 주말 특명\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124005500071",
+   "published": "2026-11-24T05:20+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "美시카고 공항 착륙 일시중단…추수감사절 항공대란 불안 증폭",
+   "link": "https://www.yna.co.kr/view/AKR20261124005900071",
+   "published": "2026-11-24T05:14+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "젠슨 황 CEO 복귀에 실리콘밸리·월가 환호…\"GPU 예수 부활\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124005700075",
+   "published": "2026-11-24T05:06+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "잡스·올트먼처럼 돌아온 젠슨황…쫓겨난 창업자 또 귀환",
+   "link": "https://www.yna.co.kr/view/AKR20261124005200087",
+   "published": "2026-11-24T04:59+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "세계 최대 코발트 생산국 민주콩고, 또 수출 중단…공급과잉 대응",
+   "link": "https://www.yna.co.kr/view/AKR20261124005400099",
+   "published": "2026-11-24T04:48+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "독일 총리 \"2008년 우크라 나토 가입 막은 건 실수\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124002351082",
+   "published": "2026-11-24T04:13+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "젠슨황 복귀에 나스닥 장중 7%대 급등…엔비디아 30%대↑(종합2보)",
+   "link": "https://www.yna.co.kr/view/AKR20261123176152072",
+   "published": "2026-11-24T04:09+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "월가, 엔비디아 목표가 최대 270달러…황 복귀 효과 [젠슨 황 CEO 복귀]",
    "link": "https://www.hankyung.com/article/202611245431i",
    "published": "2026-11-24T04:08+09:00",
@@ -333,6 +927,33 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "트럼프 \"젠슨황 복귀 안보위험 아냐…내가 이사회 설득해 성사\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261123174552071",
+   "published": "2026-11-24T03:56+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "美정치권, 젠슨황 복귀에 \"안보 팔아넘겨…불법행위 조사\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124001751071",
+   "published": "2026-11-24T03:44+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "몰락했다가 깜짝 복귀한 AI제국 황제…청문회 등 가시밭길 예고",
+   "link": "https://www.yna.co.kr/view/AKR20261124004500075",
+   "published": "2026-11-24T03:39+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "결국 고꾸라진 코스피…“바닥이 어디?”보다 중요한 질문은 [김학균의 이코노믹 인사이트]",
@@ -353,6 +974,15 @@
    "category": "kr"
   },
   {
+   "title": "엔비디아 CEO 후보로 거론됐던 하스, 2033년까지 Arm CEO로",
+   "link": "https://www.yna.co.kr/view/AKR20261124004400085",
+   "published": "2026-11-24T03:09+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
    "published": "2026-11-24T03:00+09:00",
@@ -360,6 +990,24 @@
    "source_id": "cnbc_finance",
    "tier": "press",
    "category": "us"
+  },
+  {
+   "title": "[게시판] 한국-코트디부아르 수교 65주년 기념 학술포럼",
+   "link": "https://www.yna.co.kr/view/AKR20261124004200099",
+   "published": "2026-11-24T02:59+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "EU, 러시아 선수·스포츠팀 유럽 대회 출전 금지 추진",
+   "link": "https://www.yna.co.kr/view/AKR20261124004100098",
+   "published": "2026-11-24T02:56+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "코스피 반토막…외환위기 이후 네번째",
@@ -434,6 +1082,15 @@
    "category": "kr"
   },
   {
+   "title": "美민주, 대선후보 경선토론 12차례 개최…내년 6월부터 시작",
+   "link": "https://www.yna.co.kr/view/AKR20261124003900071",
+   "published": "2026-11-24T02:39+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "[단독] 블랙록이 20% 투자한 리커런트에너지, 韓 태양광 개발사업 매각 추진",
    "link": "https://www.mk.co.kr/news/stock/12216332",
    "published": "2026-11-24T02:31+09:00",
@@ -441,6 +1098,33 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "대선 5개월 앞두고…마크롱, 재정 위기에 '황금률' 꺼내들어",
+   "link": "https://www.yna.co.kr/view/AKR20261124003200085",
+   "published": "2026-11-24T02:25+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "트럼프, 젠슨황에 '안보 면죄부'…AI패권·스캔들 불똥 의식했나",
+   "link": "https://www.yna.co.kr/view/AKR20261124002700071",
+   "published": "2026-11-24T02:21+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "이번엔 독일·덴마크 학교 1천여곳 폭파 협박(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261123169751082",
+   "published": "2026-11-24T02:14+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "젠슨 황 복귀에 美의회 반발…엔비디아 中수출 조사 압박 [젠슨 황 CEO 복귀]",
@@ -1847,22 +2531,22 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-24T07:48+09:00",
+ "updated_at": "2026-11-24T08:45+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 3,
-   "yna_market": 1,
-   "hk_finance": 6,
-   "hk_economy": 1,
-   "mk_stock": 3,
+   "yna_economy": 12,
+   "yna_market": 4,
+   "yna_world": 35,
+   "hk_finance": 17,
+   "hk_economy": 4,
+   "mk_stock": 4,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
-   "yna_world": "ParseError: not well-formed (invalid token): line 732, column 80",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
