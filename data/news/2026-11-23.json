@@ -200,6 +200,24 @@
    "category": "kr"
   },
   {
+   "title": "\"5000원에 팔더니 2만원 됐다\"…다이소 갈 때 마다 '품절' 뭐길래",
+   "link": "https://www.hankyung.com/article/202611234601g",
+   "published": "2026-11-23T21:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "사이버보안 공룡 탄생…크라우드스트라이크,지스케일러 인수",
+   "link": "https://www.hankyung.com/article/202611235261i",
+   "published": "2026-11-23T20:59+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "[속보] 코스피 5%대 급락…매도 사이드카 발동",
    "link": "https://www.mk.co.kr/news/stock/12215988",
    "published": "2026-11-23T20:44+09:00",
@@ -232,6 +250,24 @@
    "published": "2026-11-23T20:02+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "사흘 만에 1300명 '대박'…성수동에 뜬 中 가전의 정체 [현장+]",
+   "link": "https://www.hankyung.com/article/202611234615g",
+   "published": "2026-11-23T20:01+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"최악의 경우 코스피 3000대까지 밀린다\"…전문가의 경고 [분석+]",
+   "link": "https://www.hankyung.com/article/2026112346726",
+   "published": "2026-11-23T20:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -7238,22 +7274,22 @@
    "category": "us_policy"
   }
  ],
- "updated_at": "2026-11-23T20:26+09:00",
+ "updated_at": "2026-11-23T21:28+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
-   "yna_market": 1,
-   "hk_finance": 0,
-   "hk_economy": 1,
+   "yna_market": 0,
+   "hk_finance": 1,
+   "hk_economy": 3,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
-   "yna_world": "ParseError: not well-formed (invalid token): line 88, column 80",
+   "yna_world": "ParseError: not well-formed (invalid token): line 98, column 80",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
