@@ -272,6 +272,69 @@
    "category": "kr"
   },
   {
+   "title": "\"美USTR, 이르면 이번주 '과잉생산 관세' 조사 결과 발표\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124182851071",
+   "published": "2026-11-24T22:43+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "이라크, 쿠르드 유전·국경통제권 회수…갈등 재점화 조짐(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124176451079",
+   "published": "2026-11-24T22:33+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "사우디 수도 최고층 빌딩, 일주일만에 또 피격…\"경보도 안울려\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124182700079",
+   "published": "2026-11-24T22:22+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[속보] \"美USTR, 이르면 이번주 '과잉생산 관세' 조사결과 발표\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124182800071",
+   "published": "2026-11-24T22:20+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "이스라엘, 가자지구 공습해 하마스 고위 보안관리 사살",
+   "link": "https://www.yna.co.kr/view/AKR20261124181300079",
+   "published": "2026-11-24T22:00+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"400만닉스는 커녕 100만닉스도 위태\"…폭락 맞춘 BNK의 경고 [종목+]",
+   "link": "https://www.hankyung.com/article/2026112475896",
+   "published": "2026-11-24T22:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "드론 수백만대 필요한 美국방부…GM과 포드에 손내민 이유",
+   "link": "https://www.hankyung.com/article/202611248012i",
+   "published": "2026-11-24T21:47+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "\"中 경제 심장 상하이 당서기도 조사받아\"…부패 연루 가능성",
    "link": "https://www.yna.co.kr/view/AKR20261124180900089",
    "published": "2026-11-24T21:43+09:00",
@@ -7355,7 +7418,7 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-24T21:59+09:00",
+ "updated_at": "2026-11-24T23:22+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
@@ -7363,8 +7426,8 @@
    "yna_economy": 0,
    "yna_market": 0,
    "yna_world": 5,
-   "hk_finance": 0,
-   "hk_economy": 2,
+   "hk_finance": 2,
+   "hk_economy": 0,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
