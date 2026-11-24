@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-11-24T09:13+09:00",
+  "last_run_at": "2026-11-24T10:13+09:00",
   "alerted_links": [
     "https://www.yna.co.kr/view/AKR20261119010051091",
     "https://www.mk.co.kr/news/stock/12213396",
@@ -47,7 +47,24 @@
     "https://www.hankyung.com/article/202611235352i",
     "https://www.yna.co.kr/view/AKR20261123176000009",
     "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-    "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+    "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+    "https://www.yna.co.kr/view/AKR20261124037651008",
+    "https://www.yna.co.kr/view/AKR20261124037600008",
+    "https://www.yna.co.kr/view/AKR20261124038100008",
+    "https://www.yna.co.kr/view/AKR20261124037100008",
+    "https://www.yna.co.kr/view/AKR20261124036100008",
+    "https://www.yna.co.kr/view/AKR20261124046000008",
+    "https://www.yna.co.kr/view/AKR20261124036700008",
+    "https://www.yna.co.kr/view/AKR20261124045800008",
+    "https://www.yna.co.kr/view/AKR20261124036000008",
+    "https://www.yna.co.kr/view/AKR20261124035900008",
+    "https://www.hankyung.com/article/2026112458726",
+    "https://www.hankyung.com/article/2026112458656",
+    "https://www.hankyung.com/article/202611245819i",
+    "https://www.hankyung.com/article/2026112459656",
+    "https://www.mk.co.kr/news/stock/12216778",
+    "https://www.mk.co.kr/news/stock/12216774",
+    "https://www.mk.co.kr/news/stock/12216794"
   ],
   "alerts": [
     {
@@ -207,6 +224,21 @@
         "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
         "https://www.bloomberg.com/news/articles/2026-11-23/fed-s-williams-says-officials-must-act-over-time-on-inflation",
         "https://www.aol.com/articles/fed-lower-inflation-williams-says-210546000.html"
+      ]
+    },
+    {
+      "time": "2026-11-24T10:13+09:00",
+      "title": "코스피 4,880.16(+3.64%) 출발·장중 5천선 회복, 09:06 매수 사이드카(코스닥도), 삼전닉스 7~8%대 급등",
+      "files": [
+        "alerts/2026-11-24/1013_kospi-buy-sidecar.jpg",
+        "alerts/2026-11-24/1013_kospi-buy-sidecar.txt",
+        "alerts/2026-11-24/1013_kospi-buy-sidecar.json"
+      ],
+      "sources": [
+        "https://www.seoul.co.kr/news/economy/securities/2026/11/24/20261124500025",
+        "https://www.news1.kr/finance/market-exr/6363736",
+        "https://www.yna.co.kr/view/AKR20261124038100008",
+        "https://www.hankyung.com/article/2026112458656"
       ]
     }
   ],
@@ -682,6 +714,12 @@
       "time": "2026-11-24T09:13+09:00",
       "title": "07:48 이후 수집분(08:45 수집): 증권사 리포트(삼전닉스 회복 전망·이차전지·정유·건설·현대글로비스·SK이노 목표가), 젠슨 황 복귀 후속 해설·국제기사, 코발트 민주콩고 수출봉쇄, 마켓뷰·마켓라이브 등",
       "reason": "이미 알린 엔비디아 사건 후속, 증권사 전망·리포트, 해설·기획 기사. 알림 기준에 맞는 신규 건 없음"
+    },
+    {
+      "time": "2026-11-24T10:13+09:00",
+      "title": "08:45 이후 수집분(09:51 수집): 윌리엄스 '연속 금리인상 배제 안해'(연합), 제일기획 주주환원율 60%, 젠슨황 복귀 후속 해설, 엠비디 상장, 증권사 목표가 등",
+      "reason": "윌리엄스 발언은 07:30 알림과 같은 사건 후속, 제일기획은 코스피 상위30 밖, 나머지 해설·리포트·생활 기사",
+      "link": null
     }
   ],
   "last_error": null
