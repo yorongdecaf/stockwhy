@@ -2,6 +2,51 @@
  "date": "2026-11-24",
  "items": [
   {
+   "title": "금감원·거래소, 불법 공매도 합동 TF 가동…의심거래 즉시 조사",
+   "link": "https://www.mk.co.kr/news/stock/12217093",
+   "published": "2026-11-24T23:52+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "‘롤러코스피’에 버팀목 될까…오늘부터 자사주 하루 주문 한도 완화",
+   "link": "https://www.mk.co.kr/news/stock/12217089",
+   "published": "2026-11-24T23:49+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“만원으로 美 대표지수 3종에 투자”…미래에셋, ‘4·4·2 ETF’ 내놓는다",
+   "link": "https://www.mk.co.kr/news/stock/12217049",
+   "published": "2026-11-24T23:13+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "신한투자증권, 롯데쇼핑과 주주우대 서비스 확대",
+   "link": "https://www.mk.co.kr/news/stock/12217044",
+   "published": "2026-11-24T23:02+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "꺼지지 않는 ‘AI 버블론’…글로벌 투자 구루들 “위기 속에 기회 있다” [기자24시]",
+   "link": "https://www.mk.co.kr/news/stock/12217030",
+   "published": "2026-11-24T22:48+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“젠슨황도 왔는데 내 삼전닉스 언제 돌아와요”…그래도 기회 있다는데 [오늘 나온 보고서]",
    "link": "https://www.mk.co.kr/news/stock/12216965",
    "published": "2026-11-24T20:16+09:00",
@@ -218,6 +263,294 @@
    "category": "kr"
   },
   {
+   "title": "[게시판] 신한금융, 2026 대한민국 지속가능성보고서상 11번째 수상",
+   "link": "https://www.yna.co.kr/view/AKR20261124125000002",
+   "published": "2026-11-24T14:44+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성 준감위원장 \"주주환원 이해상충 논란 신중히 다뤄보겠다\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124122300003",
+   "published": "2026-11-24T14:41+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[IPO챗] 엔키화이트햇 \"AI 기반 오펜시브 보안플랫폼 글로벌 도약\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124120900008",
+   "published": "2026-11-24T14:32+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+   "link": "https://www.yna.co.kr/view/AKR20261124115700011",
+   "published": "2026-11-24T14:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "中, 내일 파키스탄인 탄 유인우주선 발사…톈궁 첫 외국인 방문",
+   "link": "https://www.yna.co.kr/view/AKR20261124118100083",
+   "published": "2026-11-24T14:30+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "원주시, 착한가격업소 4곳 추가 지정…12월 3일까지 모집",
+   "link": "https://www.yna.co.kr/view/AKR20261124120200062",
+   "published": "2026-11-24T14:29+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 금투협, 공군 제11전투비행단 장병 대상 금융투자교육",
+   "link": "https://www.yna.co.kr/view/AKR20261124118600008",
+   "published": "2026-11-24T14:28+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "휴렛팩커드 \"메모리 공급난 2028년 하반기까지 계속\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124120300009",
+   "published": "2026-11-24T14:28+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[부고] 김춘오(교보증권 재경부장)씨 모친상",
+   "link": "https://www.yna.co.kr/view/AKR20261124119700008",
+   "published": "2026-11-24T14:27+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "무려 200조 육박…젠슨황 부부 가족자산 관리법 베일 벗었다",
+   "link": "https://www.yna.co.kr/view/AKR20261124106400009",
+   "published": "2026-11-24T14:25+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "노동부 창원지청, 한파 대비 옥외사업장 20여곳 점검",
+   "link": "https://www.yna.co.kr/view/AKR20261124118200052",
+   "published": "2026-11-24T14:24+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "양주시, 내년 노인 일자리·사회활동 지원사업 참여자 모집",
+   "link": "https://www.yna.co.kr/view/AKR20261124116900060",
+   "published": "2026-11-24T14:16+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "불법 공매도 3개월 집중감시…금감원·거래소 합동 TF 가동",
+   "link": "https://www.yna.co.kr/view/AKR20261124114700002",
+   "published": "2026-11-24T14:14+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "차명훈 코인원 대표, 재판 증인 불출석…과태료 500만원",
+   "link": "https://www.yna.co.kr/view/AKR20261124113600002",
+   "published": "2026-11-24T14:11+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "부산은행, 25일 '부산 중진공 정책자금 전용통장' 출시",
+   "link": "https://www.yna.co.kr/view/AKR20261124112900051",
+   "published": "2026-11-24T14:04+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "골드만삭스 \"한국, 내년 3.2% 성장 전망…기준금리 상단 3.5%\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124112800008",
+   "published": "2026-11-24T14:04+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "원주시·혁신도시 공공기관 노조, 전국 첫 노정협의회 추진",
+   "link": "https://www.yna.co.kr/view/AKR20261124113900062",
+   "published": "2026-11-24T14:03+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "증권가, 젠슨황 복귀에 \"AI 불안 완화…변수 여전·회복엔 시간\"",
+   "link": "https://www.yna.co.kr/view/AKR20261124092400008",
+   "published": "2026-11-24T14:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'널뛰기 장세'에 올해만 사이드카 101번 발동…2002년 이후 최대",
+   "link": "https://www.yna.co.kr/view/AKR20261124096600008",
+   "published": "2026-11-24T14:00+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "울산 중등교사 임용시험장에 금속·전파탐지기 배치",
+   "link": "https://www.yna.co.kr/view/AKR20261124110800057",
+   "published": "2026-11-24T13:57+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성바이오, 임원 승진 인사…30대 여성 임원 발탁(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124087551017",
+   "published": "2026-11-24T13:57+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "박지현, 美국제에미상 첫 여자연기상 불발…'하이퍼나이프'도 고배",
+   "link": "https://www.yna.co.kr/view/AKR20261124097600075",
+   "published": "2026-11-24T13:50+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "KB미소금융재단, 청년 배달라이더 전용 대출…최저 연 2.5%",
+   "link": "https://www.yna.co.kr/view/AKR20261124109900002",
+   "published": "2026-11-24T13:49+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성전자, 9년만에 최소 131명 승진…반도체서만 70명 발탁(종합2보)",
+   "link": "https://www.yna.co.kr/view/AKR20261124044652003",
+   "published": "2026-11-24T13:48+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] Sh수협은행, 통합 AI 플랫폼 '아이로' 구축",
+   "link": "https://www.yna.co.kr/view/AKR20261124105400002",
+   "published": "2026-11-24T13:48+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "부산공무원노조, '9급 시험은 고졸' 인재개발원장 인사조치 요구",
+   "link": "https://www.yna.co.kr/view/AKR20261124106800051",
+   "published": "2026-11-24T13:42+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "엑셀세라퓨틱스, 40억원 유상증자…㈜나모홀딩스 등에 3자 배정",
+   "link": "https://www.yna.co.kr/view/AKR20261124102500008",
+   "published": "2026-11-24T13:33+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한국투자신탁운용 전주사무소 개소…국민연금과 협업 강화",
+   "link": "https://www.yna.co.kr/view/AKR20261124073400055",
+   "published": "2026-11-24T13:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "농협은행, 40세 이상 명예퇴직 받는다…최대 40개월치 임금",
+   "link": "https://www.yna.co.kr/view/AKR20261124103800002",
+   "published": "2026-11-24T13:29+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"스마트폰 안 팔린다\" 곡소리에도…삼성의 '반전 성적표'",
+   "link": "https://www.hankyung.com/article/202611245772g",
+   "published": "2026-11-24T13:28+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“효율성의 시대, 사모시장에선 네트워크가 어느 때보다 중요”···브라운 어드바이저리",
+   "link": "https://www.hankyung.com/article/202611246598i",
+   "published": "2026-11-24T13:25+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "올해 남은 한달… 주식 투자자들에게 중요한 것은 '이것'",
+   "link": "https://www.hankyung.com/article/202611234417i",
+   "published": "2026-11-24T13:23+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "국세청장 후보자 \"자녀 학업 문제 정리되면 이문동 집 입주\"",
    "link": "https://www.yna.co.kr/view/AKR20261124101400002",
    "published": "2026-11-24T13:18+09:00",
@@ -261,6 +594,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "\"사장님, 닭볶음탕 추가요\"…치킨집 메뉴판 확 바뀐 이유 [권용훈의 트렌드워치]",
+   "link": "https://www.hankyung.com/article/202611233350i",
+   "published": "2026-11-24T13:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "韓 '텍스트힙' 열풍, 日에 전파…韓서적 출간 활발·굿즈도 제작",
@@ -4574,17 +4916,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-24T13:32+09:00",
+ "updated_at": "2026-11-24T14:53+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 4,
-   "yna_market": 1,
-   "yna_world": 3,
-   "hk_finance": 3,
+   "yna_economy": 22,
+   "yna_market": 5,
+   "yna_world": 2,
+   "hk_finance": 2,
    "hk_economy": 2,
-   "mk_stock": 0,
+   "mk_stock": 5,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
