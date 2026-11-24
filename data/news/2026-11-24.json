@@ -2,6 +2,15 @@
  "date": "2026-11-24",
  "items": [
   {
+   "title": "“기업들, 탄소가격 따른 영업이익 변화까지 보여줘야”",
+   "link": "https://www.mk.co.kr/news/stock/12217452",
+   "published": "2026-11-25T03:57+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "내년 회계사 최소선발인원 1100명…3년 연속 감축",
    "link": "https://www.mk.co.kr/news/stock/12217444",
    "published": "2026-11-25T03:28+09:00",
@@ -299,6 +308,15 @@
    "category": "kr"
   },
   {
+   "title": "中, 시진핑 방미 앞두고 갈륨 등 대미 수출통제 유예 2개월 연장",
+   "link": "https://www.yna.co.kr/view/AKR20261124174900089",
+   "published": "2026-11-24T19:31+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "“하이닉스 2028년 이익 급감” … 반도체 저승사자의 섬뜩한 예측",
    "link": "https://www.mk.co.kr/news/stock/12216895",
    "published": "2026-11-24T19:22+09:00",
@@ -308,11 +326,29 @@
    "category": "kr"
   },
   {
+   "title": "하나저축은행도 뚫렸다…고객 552명 개인정보 유출",
+   "link": "https://www.yna.co.kr/view/AKR20261124174000002",
+   "published": "2026-11-24T19:19+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "불륜·간첩도 이겨낸 젠슨황, 한국에 ‘121번째 사이드카’ 선물했다",
    "link": "https://www.mk.co.kr/news/stock/12216891",
    "published": "2026-11-24T19:17+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "내달부터 EU행 한국산 하이브리드차 무관세 6만7천924대로 제한(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124170651098",
+   "published": "2026-11-24T19:08+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -335,6 +371,33 @@
    "category": "kr"
   },
   {
+   "title": "예멘서 버스·트럭 공습에 26명 사망…후티·정부군 책임 공방",
+   "link": "https://www.yna.co.kr/view/AKR20261124172400079",
+   "published": "2026-11-24T19:02+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "호르무즈서 유조선 2척 기뢰 충돌…UAE 인근에선 화물선 피격",
+   "link": "https://www.yna.co.kr/view/AKR20261124170500079",
+   "published": "2026-11-24T18:52+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"악마 환영을 봤다\"…故 프란치스코 교황 일기 공개",
+   "link": "https://www.yna.co.kr/view/AKR20261124169200109",
+   "published": "2026-11-24T18:50+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "[MK시그널] 에스피지, 로봇용 정밀 감속기 생산 기술력 부각에 주가 상승세... MK시그널 추천 후 상승률 23.27% 기록",
    "link": "https://www.mk.co.kr/news/stock/12216802",
    "published": "2026-11-24T18:44+09:00",
@@ -342,6 +405,33 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "다카이치, 美제재 봉착 ICC 지지 강조…분담금 조기 납부로 지원",
+   "link": "https://www.yna.co.kr/view/AKR20261124171000073",
+   "published": "2026-11-24T18:44+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "준감위 \"삼성전자 주주환원 결정, 준법 위반·이해상충 아냐\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124122351003",
+   "published": "2026-11-24T18:43+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "젠슨 황 CEO 복귀에 실리콘밸리·월가 환호…\"GPU 예수 부활\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261124005751075",
+   "published": "2026-11-24T18:43+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "[MK 골든크로스 돌파종목 : 벨로크(424760) & 광무(029480)]",
@@ -389,6 +479,24 @@
    "category": "world"
   },
   {
+   "title": "[포토] 코스피 지수 5000탈환",
+   "link": "https://www.hankyung.com/article/202611247854i",
+   "published": "2026-11-24T18:23+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성, '역대급 호황' 반도체서만 임원 70명 발탁",
+   "link": "https://www.hankyung.com/article/2026112477241",
+   "published": "2026-11-24T18:19+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "젠슨 황 귀환에 AI 랠리 재점화했는데 ... 앤트로픽은 홀로 부진한 이유",
    "link": "https://www.mk.co.kr/news/stock/12216782",
    "published": "2026-11-24T18:18+09:00",
@@ -398,11 +506,92 @@
    "category": "kr"
   },
   {
+   "title": "[단독] 현대차그룹, 26일 인사…주요 CEO 유임 속 쇄신",
+   "link": "https://www.hankyung.com/article/2026112477201",
+   "published": "2026-11-24T18:17+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美 셰일가스전 품은 포스코인터 \"북미 생산거점 확보\"",
+   "link": "https://www.hankyung.com/article/2026112477221",
+   "published": "2026-11-24T18:17+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"석유 최고가격제 장기화땐 부작용…출구 전략 필요\"",
+   "link": "https://www.hankyung.com/article/2026112477231",
+   "published": "2026-11-24T18:15+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "EU, 하이브리드카 수입 쿼터 내달 1일 시행",
+   "link": "https://www.hankyung.com/article/2026112477251",
+   "published": "2026-11-24T18:15+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[단독] '빈 살만 금고지기' 사우디 국부펀드 총재 방한",
+   "link": "https://www.hankyung.com/article/2026112477181",
+   "published": "2026-11-24T18:14+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "中 공세에 얼어붙은 산단…\"설비 15대 중 1대만 가동\"",
+   "link": "https://www.hankyung.com/article/2026112476991",
+   "published": "2026-11-24T18:11+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "늙어가는 韓 고용시장…제조업 비중 사상 최저",
+   "link": "https://www.hankyung.com/article/2026112477001",
+   "published": "2026-11-24T18:10+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "우후죽순 늘어난 지방산단, 노는 땅 합치면 '축구장 3만개'",
+   "link": "https://www.hankyung.com/article/2026112477021",
+   "published": "2026-11-24T18:10+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "[속보] 코스피 장초반 5∼6% 급등…매수 사이드카 발동",
    "link": "https://www.mk.co.kr/news/stock/12216778",
    "published": "2026-11-24T18:09+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"잠재성장률 3% 불가능하지 않다…서비스업이 돌파구\"",
+   "link": "https://www.hankyung.com/article/2026112476811",
+   "published": "2026-11-24T18:09+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -421,6 +610,15 @@
    "published": "2026-11-24T18:07+09:00",
    "source": "한국경제 경제",
    "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"운 좋으면 따고 나쁘면 잃는 도박판\"…올해 사이드카 101회 [분석+]",
+   "link": "https://www.hankyung.com/article/2026112477987",
+   "published": "2026-11-24T18:07+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -7040,17 +7238,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-24T18:43+09:00",
+ "updated_at": "2026-11-24T19:50+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 6,
+   "yna_economy": 3,
    "yna_market": 0,
-   "yna_world": 5,
-   "hk_finance": 11,
-   "hk_economy": 25,
-   "mk_stock": 8,
+   "yna_world": 6,
+   "hk_finance": 2,
+   "hk_economy": 10,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
