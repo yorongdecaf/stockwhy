@@ -2,6 +2,15 @@
  "date": "2026-11-25",
  "items": [
   {
+   "title": "“삼성전자 반값됐는데 망했나요?”…존 리가 개미들에게 던진 질문은",
+   "link": "https://www.mk.co.kr/news/business/12218696",
+   "published": "2026-11-26T06:31+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "이틀에 한 번 꼴로 사이드카 울렸다…널뛰는 코스피에 개미들 ‘공황’",
    "link": "https://www.mk.co.kr/news/stock/12218652",
    "published": "2026-11-26T05:09+09:00",
@@ -227,6 +236,69 @@
    "category": "kr"
   },
   {
+   "title": "Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas",
+   "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
+   "published": "2026-11-25T21:25+09:00",
+   "source": "미국 연준 연설",
+   "source_id": "fed_speech",
+   "tier": "official",
+   "category": "us_policy"
+  },
+  {
+   "title": "독일 14살도 극우 가담…난민시설 테러 모의 혐의 체포",
+   "link": "https://www.yna.co.kr/view/AKR20261125181000082",
+   "published": "2026-11-25T21:24+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "한화오션 \"태국 해군 호위함 우선협상대상자 지위 상실\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125179800003",
+   "published": "2026-11-25T21:15+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "서울시·국토부, 정비사업 규제완화 놓고 '장외 공방'(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261125122851003",
+   "published": "2026-11-25T21:02+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"가운 믿고 바릅니다\"…외국인 몰리는 뜻밖의 'K뷰티 성지'",
+   "link": "https://www.hankyung.com/article/202611250203g",
+   "published": "2026-11-25T21:01+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "네타냐후 부패혐의 벗나…이스라엘 법원, 핵심사건 공소취하 권고",
+   "link": "https://www.yna.co.kr/view/AKR20261125178800079",
+   "published": "2026-11-25T20:48+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"日안보문서 전문가회의 제언 초안서 '비핵 3원칙 재검토 의견'\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125177700073",
+   "published": "2026-11-25T20:35+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "증시는 급락하는데 보안株는 ‘불기둥’…해킹 공포에 나홀로 급등",
    "link": "https://www.mk.co.kr/news/stock/12217941",
    "published": "2026-11-25T20:34+09:00",
@@ -234,6 +306,33 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "한화오션, 6800억 태국 호위함 수주 무산…우선협상대상자 지위 상실",
+   "link": "https://www.hankyung.com/article/202611250461i",
+   "published": "2026-11-25T20:34+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "대한항공 \"한진칼 지배구조 흔들림 없어…통합 LCC 본사 서울·부산 중 결정\"",
+   "link": "https://www.hankyung.com/article/202611250361i",
+   "published": "2026-11-25T20:32+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'강물 오염' 태국, 中에 미얀마 광산 6개월 가동중단 협조요청",
+   "link": "https://www.yna.co.kr/view/AKR20261125177500084",
+   "published": "2026-11-25T20:27+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "AI쇼크 현실로…“신입 회계사 채용 수요 매년 최대 8.5% 감소”",
@@ -7859,17 +7958,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-25T20:26+09:00",
+ "updated_at": "2026-11-25T21:31+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
-   "fed_speech": 0,
-   "yna_economy": 3,
-   "yna_market": 2,
-   "yna_world": 3,
+   "fed_speech": 1,
+   "yna_economy": 1,
+   "yna_market": 1,
+   "yna_world": 4,
    "hk_finance": 0,
-   "hk_economy": 7,
-   "mk_stock": 5,
+   "hk_economy": 3,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
