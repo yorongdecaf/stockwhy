@@ -1,5 +1,5 @@
 {
- "last_run_at": "2026-11-25T18:13+09:00",
+ "last_run_at": "2026-11-25T19:13+09:00",
  "alerted_links": [
   "https://www.yna.co.kr/view/AKR20261119010051091",
   "https://www.mk.co.kr/news/stock/12213396",
@@ -92,7 +92,10 @@
   "https://www.hankyung.com/article/202611259565i",
   "https://www.hankyung.com/article/2026112584786",
   "https://www.mk.co.kr/news/stock/12217139",
-  "https://www.yna.co.kr/view/AKR20261124137500008"
+  "https://www.yna.co.kr/view/AKR20261124137500008",
+  "https://www.yna.co.kr/view/AKR20261125166100003",
+  "https://www.fnnews.com/news/202611251748582259",
+  "https://view.asiae.co.kr/article/2026112518354693979"
  ],
  "alerts": [
   {
@@ -329,14 +332,23 @@
     "https://seoul.co.kr/news/economy/securities/2026/11/25/20261125500206",
     "https://www.kado.net/news/articleView.html?idxno=2087273"
    ]
+  },
+  {
+   "time": "2026-11-25T19:13+09:00",
+   "title": "삼성전기 보유 자사주 전량(보통주 200만주·우선주 5만3,430주) 소각 결의, 24일 종가 기준 약 1조7,319억원(장부가 1,467억원의 약 12배), 12월 2일 소각",
+   "files": [
+    "alerts/2026-11-25/1913_semco-buyback-burn.jpg",
+    "alerts/2026-11-25/1913_semco-buyback-burn.txt",
+    "alerts/2026-11-25/1913_semco-buyback-burn.json"
+   ],
+   "sources": [
+    "https://www.fnnews.com/news/202611251748582259",
+    "https://view.asiae.co.kr/article/2026112518354693979",
+    "https://www.yna.co.kr/view/AKR20261125166100003"
+   ]
   }
  ],
  "skipped": [
-  {
-   "time": "2026-11-19T22:16+09:00",
-   "title": "미중러 회담 해설·푸틴 얄타 발언·네타냐후 대이란 입장 보도·태국 강제노동 관세 인하·매경 GAII/한한령 후속·SKT 앤트로픽 평가이익 등",
-   "reason": "정상회담 앞선 판단과 같은 사건, 대이란 건은 보도 단계(행동·정책 없음), 나머지 해설·행사·후속·시총 상위 30 밖. 알림 기준 밖"
-  },
   {
    "time": "2026-11-19T23:16+09:00",
    "title": "신규 수집 없음(news updated_at 21:58, 22시 실행에서 이미 검토)",
@@ -858,6 +870,12 @@
    "title": "16:14 이후 수집분(17:45 수집): 박현주 '증안펀드 100조로' 제안(매경), 사이드카 올해 102회·예탁자금 89조 감소(급락 후속), 앤트로픽 공모가 하회, 애크먼 '연준 인상 시 침체' 발언, 금통위 D-1 국고채 금리 하락, 닛케이 2.78% 급락, 다올증권 매각 추진, 中 美관세 반발, SK에코플랜트 지분 확대 등",
    "reason": "민간 인사 제안·급락 후속·해설·해외 증시·전망·코스피 상위30 밖 기업 기사로 알림 기준 밖. 신규 알림 없음",
    "link": null
+  },
+  {
+   "time": "2026-11-25T19:13+09:00",
+   "title": "18:13 이후 수집분(19:01 수집): 한화오션 태국 호위함 우선협상자 지위 상실, 출생아 증가율 역대 최고, 한국투자저축은행 개인정보 유출, 다올증권 급등, 두산 급락, 보안주 급등, 코인법 해설, MK시그널·초고수 등",
+   "reason": "코스피 상위30 밖 기업·주요 지표 기준 밖 통계·후속·해설·비시장 기사로 알림 기준 밖",
+   "link": "https://www.hankyung.com/article/2026112504376"
   }
  ],
  "last_error": null
