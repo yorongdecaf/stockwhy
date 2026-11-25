@@ -1,5 +1,5 @@
 {
- "last_run_at": "2026-11-25T23:25+09:00",
+ "last_run_at": "2026-11-26T07:13+09:00",
  "alerted_links": [
   "https://www.yna.co.kr/view/AKR20261119010051091",
   "https://www.mk.co.kr/news/stock/12213396",
@@ -98,7 +98,14 @@
   "https://view.asiae.co.kr/article/2026112518354693979",
   "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
   "https://www.newspim.com/news/view/20261125001312",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250203"
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250203",
+  "https://www.yna.co.kr/view/AKR20261126001100072",
+  "https://www.yna.co.kr/view/AKR20261125188100009",
+  "https://www.yna.co.kr/view/AKR20261125185751071",
+  "https://www.yna.co.kr/view/AKR20261125185700071",
+  "https://www.hankyung.com/article/202611250639i",
+  "https://www.hankyung.com/article/2026112506641",
+  "https://www.hankyung.com/article/202611250671i"
  ],
  "alerts": [
   {
@@ -363,14 +370,37 @@
     "https://www.newspim.com/news/view/20261125001312",
     "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250203"
    ]
+  },
+  {
+   "time": "2026-11-26T07:13+09:00",
+   "title": "나스닥 장중 -4.6% → -0.62% 마감(23,585.80), S&P500 -0.25%, 엔비디아 장중 -9%대 → -3.91%, AI 투자 우려·PCE·관세",
+   "files": [
+    "alerts/2026-11-26/0600_nasdaq-rollercoaster.jpg",
+    "alerts/2026-11-26/0600_nasdaq-rollercoaster.txt",
+    "alerts/2026-11-26/0600_nasdaq-rollercoaster.json"
+   ],
+   "sources": [
+    "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
+    "https://www.kmib.co.kr/article/20261126500040",
+    "https://www.yna.co.kr/view/AKR20261126001100072"
+   ]
+  },
+  {
+   "time": "2026-11-26T07:13+09:00",
+   "title": "USTR 301조 과잉생산 관세안 14개 경제주체, 한국·일본·EU·대만 15% 상한 유지, 중국 20%, 한국 불충분 시 최대 25%, 1월 공청회",
+   "files": [
+    "alerts/2026-11-26/0700_ustr-overcapacity-tariff.jpg",
+    "alerts/2026-11-26/0700_ustr-overcapacity-tariff.txt",
+    "alerts/2026-11-26/0700_ustr-overcapacity-tariff.json"
+   ],
+   "sources": [
+    "https://www.khan.co.kr/en/article/202611252257007/",
+    "https://en.sedaily.com/world/2026/11/26/us-sets-15-percent-tariff-on-korea-warns-of-25-percent-if",
+    "https://www.internationaltradeinsights.com/2026/11/ustr-announces-proposed-section-301-excess-capacity-tariffs-on-fourteen-economies/"
+   ]
   }
  ],
  "skipped": [
-  {
-   "time": "2026-11-20T09:13+09:00",
-   "title": "인텔 18A 첫 외부 고객, 中문샷AI 엔비디아칩 계약 취소, 증권사 리포트(D램 40%·이차전지·삼성SDI 등), 앤트로픽 후속, IEA 호르무즈 등",
-   "reason": "알림 기준 밖(빅테크 실적 아님·리포트 전망·해설) 또는 07시 알림과 같은 사건 후속. FT 삼성·TSMC 건은 신규 독자 확인 기사 없어 계속 보류"
-  },
   {
    "time": "2026-11-20T10:13+09:00",
    "title": "굴스비 'AI로 경제 과열' 발언(연합 인용), 日 근원CPI, 삼성전자 사장단 유지, 외국인 45조 순매도·리포트·게시판 등",
@@ -896,6 +926,12 @@
    "time": "2026-11-25T23:25+09:00",
    "title": "21:31 이후 저장소 수집분 없음. news.yml 수동 재수집 요청이 이번 실행 환경 권한에서 거부되어 웹 검색으로 22:30 발표 지표 확인",
    "reason": "재수집 불가(권한 거부) — 기존 수집분은 지난 회차 검토 완료",
+   "link": null
+  },
+  {
+   "time": "2026-11-26T07:13+09:00",
+   "title": "23:25 이후 수집분(00:30 수집, 이후 재수집 없음): PCE 후속, 매경 증권 해설(증안펀드·사이드카·하이닉스 전망·앤트로픽·존 리), H&L어드밴스드 조달, SK에코플랜트 지분 확대, 국제 비시장 기사",
+   "reason": "후속·해설·상위30 밖·비시장 기사. news.yml 재수집 요청은 권한 거부로 실패 → 웹 검색으로 美 마감 확인. 다우 등락은 매체 간 엇갈려(ABC -0.3% vs 국민일보 +0.33%) 카드에서 제외",
    "link": null
   }
  ],
