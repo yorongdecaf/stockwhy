@@ -2,6 +2,42 @@
  "date": "2026-11-25",
  "items": [
   {
+   "title": "이틀에 한 번 꼴로 사이드카 울렸다…널뛰는 코스피에 개미들 ‘공황’",
+   "link": "https://www.mk.co.kr/news/stock/12218652",
+   "published": "2026-11-26T05:09+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“하이닉스 2028년 이익 급감”…반도체 저승사자의 섬뜩한 예측[머니닥터 시장진단]",
+   "link": "https://www.mk.co.kr/news/stock/12218640",
+   "published": "2026-11-26T05:06+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "‘젠슨 황 귀환’에도 AI 랠리에서 소외…앤트로픽은 홀로 부진한 이유[이슈 플러스]",
+   "link": "https://www.mk.co.kr/news/stock/12218621",
+   "published": "2026-11-26T04:56+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성전기, 1조7000억원 자사주 전량 소각",
+   "link": "https://www.mk.co.kr/news/stock/12218546",
+   "published": "2026-11-26T04:13+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "코웨이, 글로벌 펀드매니저 유망종목으로 ‘픽’",
    "link": "https://www.mk.co.kr/news/stock/12218503",
    "published": "2026-11-26T02:59+09:00",
@@ -40,6 +76,15 @@
   {
    "title": "\"現10조 증안펀드 100조로 키우자\"",
    "link": "https://www.mk.co.kr/news/stock/12218454",
+   "published": "2026-11-26T02:38+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[포토] 코스피 10개월만에 4600대",
+   "link": "https://www.mk.co.kr/news/stock/12218452",
    "published": "2026-11-26T02:38+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
@@ -200,6 +245,69 @@
    "category": "kr"
   },
   {
+   "title": "EU, 美·中에 맞설 500억 유로 '소버린 기술펀드' 추진(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261125125351009",
+   "published": "2026-11-25T20:15+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "빗썸, 해킹 피해 추가 확인…보름 동안 해킹 사실 몰랐다",
+   "link": "https://www.yna.co.kr/view/AKR20261125176100002",
+   "published": "2026-11-25T19:50+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한국투자저축은행 8.6만명 개인정보 유출",
+   "link": "https://www.hankyung.com/article/2026112505211",
+   "published": "2026-11-25T19:47+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "교황, 기후합의 무산 우려…하이브리드 전쟁도 비판",
+   "link": "https://www.yna.co.kr/view/AKR20261125175300109",
+   "published": "2026-11-25T19:46+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"여기 짬뽕 순두부 주세요\"…전기차 충전하러 갔다가 '깜짝' [현장+]",
+   "link": "https://www.hankyung.com/article/202611259359H",
+   "published": "2026-11-25T19:30+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美정보당국 \"앨리스황, 젠슨과 만남 중 中에 정보넘겨\" 의회보고(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261125136151009",
+   "published": "2026-11-25T19:25+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "AI發 부채폭탄 공포…코어위브 부도보험료 13%, 소프트뱅크 5% 돌파",
+   "link": "https://www.hankyung.com/article/202611250492i",
+   "published": "2026-11-25T19:21+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "금리·AI 수익성 우려에 관세까지 … 여의도 족집게 “반등 시그널 이때 나온다”",
    "link": "https://www.mk.co.kr/news/stock/12217833",
    "published": "2026-11-25T19:20+09:00",
@@ -218,11 +326,47 @@
    "category": "kr"
   },
   {
+   "title": "\"이란, 호르무즈 안전통항 대가로 암호화폐 '위장 보험료' 징수\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125171400079",
+   "published": "2026-11-25T19:13+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "LH \"5년간 공적주택 50만호 착공\"…李대통령 \"초과 달성하라\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125168600001",
+   "published": "2026-11-25T19:11+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "다올투자증권, 인수합병 시장 등판 소식에 22%대 급등",
    "link": "https://www.mk.co.kr/news/stock/12217809",
    "published": "2026-11-25T19:08+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한경협 류진 연임 가능성 시사…\"현장 고생하는데 놀 순 없어\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125170600003",
+   "published": "2026-11-25T19:06+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼일·안진·한영 회계사 3명 제재…감사 정보 외부 누설",
+   "link": "https://www.yna.co.kr/view/AKR20261125171000002",
+   "published": "2026-11-25T19:06+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -241,6 +385,15 @@
    "published": "2026-11-25T19:01+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'남자들도 신는다고?'…사흘 만에 80억 잭팟 터진 '장원영 신발' [장서우의 하입:hype]",
+   "link": "https://www.hankyung.com/article/202611250273i",
+   "published": "2026-11-25T19:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -281,6 +434,15 @@
    "category": "world"
   },
   {
+   "title": "[단독] 수천원 내고 200만원?…9배 폭증한 '이 보험' 뭐길래",
+   "link": "https://www.hankyung.com/article/2026112502461",
+   "published": "2026-11-25T18:48+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "\"버섯구름 지나 비행\"…영국, 핵실험 참여 군인 건강 영향 조사",
    "link": "https://www.yna.co.kr/view/AKR20261125168700085",
    "published": "2026-11-25T18:46+09:00",
@@ -304,6 +466,15 @@
    "published": "2026-11-25T18:33+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "등록만 하고 활동 보고는 '깜깜'…창업기획자 42곳 무더기 퇴출",
+   "link": "https://www.hankyung.com/article/202611250462i",
+   "published": "2026-11-25T18:33+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -405,6 +576,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "김정관 “중국 R&D에 가장 밀리는 건 시간…주 52시간도 못 풀면 미래 없다”",
+   "link": "https://www.hankyung.com/article/202611250417i",
+   "published": "2026-11-25T18:10+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "공론화에 발목잡힌 국가 전력…'하남 변전소' 주민투표로",
@@ -7679,17 +7859,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-25T19:01+09:00",
+ "updated_at": "2026-11-25T20:26+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 11,
-   "yna_market": 1,
-   "yna_world": 7,
-   "hk_finance": 8,
-   "hk_economy": 34,
-   "mk_stock": 2,
+   "yna_economy": 3,
+   "yna_market": 2,
+   "yna_world": 3,
+   "hk_finance": 0,
+   "hk_economy": 7,
+   "mk_stock": 5,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
