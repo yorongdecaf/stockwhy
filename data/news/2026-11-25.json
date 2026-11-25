@@ -2,6 +2,15 @@
  "date": "2026-11-25",
  "items": [
   {
+   "title": "“AI ETF 들어간 동료들, 말을 잃었습니다”…와중에 인기있는 상품은",
+   "link": "https://www.mk.co.kr/news/stock/12218698",
+   "published": "2026-11-26T06:32+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“삼성전자 반값됐는데 망했나요?”…존 리가 개미들에게 던진 질문은",
    "link": "https://www.mk.co.kr/news/business/12218696",
    "published": "2026-11-26T06:31+09:00",
@@ -209,6 +218,15 @@
    "category": "kr"
   },
   {
+   "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+   "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+   "published": "2026-11-25T23:11+09:00",
+   "source": "CNBC Economy",
+   "source_id": "cnbc_economy",
+   "tier": "press",
+   "category": "us"
+  },
+  {
    "title": "비씨월드제약, KPC ESG 진단 종합 ‘A등급’…사회 부문 노동·안전보건 ‘A+’",
    "link": "https://www.mk.co.kr/news/stock/12218034",
    "published": "2026-11-25T23:09+09:00",
@@ -216,6 +234,15 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "北외교차관 \"北中 우의 견고…中외교부와 교류·협력 강화\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125186500083",
+   "published": "2026-11-25T23:08+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "한미사이언스 주주 DXVX, 대표이사·감사위원장 배임 혐의 고소",
@@ -227,6 +254,33 @@
    "category": "kr"
   },
   {
+   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "published": "2026-11-25T23:01+09:00",
+   "source": "CNBC Economy",
+   "source_id": "cnbc_economy",
+   "tier": "press",
+   "category": "us"
+  },
+  {
+   "title": "美 3분기 성장률 잠정치 4.3%…속보치보다 0.9%p 상향",
+   "link": "https://www.yna.co.kr/view/AKR20261125186200072",
+   "published": "2026-11-25T22:51+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "미 10월 PCE 물가 전년대비 3.8%↑…예상치 부합",
+   "link": "https://www.yna.co.kr/view/AKR20261125185800072",
+   "published": "2026-11-25T22:50+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "뉴온, ‘목련꽃봉오리추출물’ 담은 잇몸 건기식 ‘잇몸탄탄’ 출시",
    "link": "https://www.mk.co.kr/news/stock/12218008",
    "published": "2026-11-25T22:49+09:00",
@@ -234,6 +288,150 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "美USTR, 14개 경제주체에 과잉생산 관세…\"韓 15% 상한 유지\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125185700071",
+   "published": "2026-11-25T22:47+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "한국 OECD 가입 30주년…사과나무 심었다",
+   "link": "https://www.yna.co.kr/view/AKR20261125183400085",
+   "published": "2026-11-25T22:45+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "러 \"연료시장 상황 긴박…휘발유 수출 금지 연장 검토\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125184300109",
+   "published": "2026-11-25T22:42+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "中·네덜란드, 반도체업체 갈등 속 베이징서 외교장관회담",
+   "link": "https://www.yna.co.kr/view/AKR20261125184400083",
+   "published": "2026-11-25T22:35+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[속보] 美 10월 PCE 물가 전년 대비 3.8%↑…예상치 부합",
+   "link": "https://www.yna.co.kr/view/AKR20261125185200072",
+   "published": "2026-11-25T22:34+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "네타냐후 부패 혐의 벗나…법원, 핵심 사건 공소 취하 권고(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261125178851079",
+   "published": "2026-11-25T22:27+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[속보] 美 USTR \"한국, 일본, EU 등 관세 15% 상한 유지\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125184200071",
+   "published": "2026-11-25T22:21+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[속보] 美, 한국 등 14개 경제주체에 '과잉생산 관세' 예고",
+   "link": "https://www.yna.co.kr/view/AKR20261125183900071",
+   "published": "2026-11-25T22:19+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"日 방위력정비계획 기본 방향에 '신형 대함 미사일 도입' 명기\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125183600073",
+   "published": "2026-11-25T22:18+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"영국 45세 미만 성인 성관계 횟수, 1990년의 반토막\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125183300085",
+   "published": "2026-11-25T22:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "10조원대 증안펀드 확대되나…산은, 금융사 추가 출자 타진",
+   "link": "https://www.yna.co.kr/view/AKR20261125183800002",
+   "published": "2026-11-25T22:10+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"20만전자는 꿈의 숫자인가요?\"…젠슨 황 랠리 하루 만에 끝 [분석+]",
+   "link": "https://www.hankyung.com/article/2026112598476",
+   "published": "2026-11-25T22:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "임금 1.9억 체불하고 24년간 미국 도피…국내 입국 한달만 구속",
+   "link": "https://www.yna.co.kr/view/AKR20261125182700530",
+   "published": "2026-11-25T21:49+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "2030년까지 수도권에 아파트 발주 182조원…50만호 착공(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261125168651001",
+   "published": "2026-11-25T21:33+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"日, 내달 홋카이도에 '반격능력' 장사정 미사일 발사장치 반입\"",
+   "link": "https://www.yna.co.kr/view/AKR20261125181400073",
+   "published": "2026-11-25T21:30+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "published": "2026-11-25T21:26+09:00",
+   "source": "CNBC Finance",
+   "source_id": "cnbc_finance",
+   "tier": "press",
+   "category": "us"
   },
   {
    "title": "Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas",
@@ -252,6 +450,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "美, 中 AI칩 우회로 차단…동남아 데이터센터 '고객 쟁탈전'",
+   "link": "https://www.hankyung.com/article/202611250573i",
+   "published": "2026-11-25T21:20+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "한화오션 \"태국 해군 호위함 우선협상대상자 지위 상실\"",
@@ -1039,6 +1246,15 @@
   {
    "title": "中企 83%, 정년 연장 대신 '퇴직 후 재고용' 택했다",
    "link": "https://www.hankyung.com/article/2026112502951",
+   "published": "2026-11-25T17:37+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"5년 더 버티자\" 고연봉 직장인 돌변하자…기업 '초비상'",
+   "link": "https://www.hankyung.com/article/2026112502941",
    "published": "2026-11-25T17:37+09:00",
    "source": "한국경제 경제",
    "source_id": "hk_economy",
@@ -7958,19 +8174,19 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-25T21:31+09:00",
+ "updated_at": "2026-11-25T23:14+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
-   "fed_speech": 1,
-   "yna_economy": 1,
-   "yna_market": 1,
-   "yna_world": 4,
-   "hk_finance": 0,
-   "hk_economy": 3,
+   "fed_speech": 0,
+   "yna_economy": 3,
+   "yna_market": 0,
+   "yna_world": 14,
+   "hk_finance": 1,
+   "hk_economy": 2,
    "mk_stock": 1,
-   "cnbc_economy": 0,
-   "cnbc_finance": 0,
+   "cnbc_economy": 2,
+   "cnbc_finance": 1,
    "bok": 0
   },
   "errors": {
