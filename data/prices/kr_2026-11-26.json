@@ -1,0 +1,426 @@
+{
+ "market": "kr",
+ "date": "2026-11-26",
+ "status": "ok",
+ "source": "종목: 야후 .KS 일봉(KRX 정규장 종가) / 범위·지수: 네이버 증권",
+ "fetched_at": "2026-11-26T17:24:39+09:00",
+ "universe": "코스피 시가총액 상위 30 보통주 (ETF·우선주 제외, 수집 시점 시총 순)",
+ "index": {
+  "KOSPI": {
+   "close": 4711.21,
+   "chg": 0.29,
+   "chg_str": "+0.29%"
+  },
+  "KOSDAQ": {
+   "close": 655.71,
+   "chg": 0.78,
+   "chg_str": "+0.78%"
+  }
+ },
+ "cover_sub": "코스피 +0.29% · 코스닥 +0.78%",
+ "rising_count": 10,
+ "up_label": "상승",
+ "up_top3": [
+  {
+   "rank": 6,
+   "name": "삼성전기",
+   "code": "009150",
+   "close": 784000.0,
+   "prev_close": 755000.0,
+   "chg": 3.8411,
+   "chg_str": "+3.84%",
+   "naver_chg": "+3.84%",
+   "mcap_eok": 585599.0
+  },
+  {
+   "rank": 3,
+   "name": "SK스퀘어",
+   "code": "402340",
+   "close": 652000.0,
+   "prev_close": 635000.0,
+   "chg": 2.6772,
+   "chg_str": "+2.68%",
+   "naver_chg": "+2.05%",
+   "mcap_eok": 854868.0
+  },
+  {
+   "rank": 2,
+   "name": "SK하이닉스",
+   "code": "000660",
+   "close": 1053000.0,
+   "prev_close": 1030000.0,
+   "chg": 2.233,
+   "chg_str": "+2.23%",
+   "naver_chg": "+2.43%",
+   "mcap_eok": 7456730.0
+  }
+ ],
+ "down_top3": [
+  {
+   "rank": 18,
+   "name": "현대모비스",
+   "code": "012330",
+   "close": 329500.0,
+   "prev_close": 349500.0,
+   "chg": -5.7225,
+   "chg_str": "-5.72%",
+   "naver_chg": "-5.29%",
+   "mcap_eok": 297306.0
+  },
+  {
+   "rank": 7,
+   "name": "현대차",
+   "code": "005380",
+   "close": 259000.0,
+   "prev_close": 269500.0,
+   "chg": -3.8961,
+   "chg_str": "-3.90%",
+   "naver_chg": "-3.71%",
+   "mcap_eok": 527996.0
+  },
+  {
+   "rank": 13,
+   "name": "기아",
+   "code": "000270",
+   "close": 93700.0,
+   "prev_close": 96000.0,
+   "chg": -2.3958,
+   "chg_str": "-2.40%",
+   "naver_chg": "-1.87%",
+   "mcap_eok": 367769.0
+  }
+ ],
+ "missing": [],
+ "all": [
+  {
+   "rank": 6,
+   "name": "삼성전기",
+   "code": "009150",
+   "close": 784000.0,
+   "prev_close": 755000.0,
+   "chg": 3.8411,
+   "chg_str": "+3.84%",
+   "naver_chg": "+3.84%",
+   "mcap_eok": 585599.0
+  },
+  {
+   "rank": 3,
+   "name": "SK스퀘어",
+   "code": "402340",
+   "close": 652000.0,
+   "prev_close": 635000.0,
+   "chg": 2.6772,
+   "chg_str": "+2.68%",
+   "naver_chg": "+2.05%",
+   "mcap_eok": 854868.0
+  },
+  {
+   "rank": 2,
+   "name": "SK하이닉스",
+   "code": "000660",
+   "close": 1053000.0,
+   "prev_close": 1030000.0,
+   "chg": 2.233,
+   "chg_str": "+2.23%",
+   "naver_chg": "+2.43%",
+   "mcap_eok": 7456730.0
+  },
+  {
+   "rank": 10,
+   "name": "삼성생명",
+   "code": "032830",
+   "close": 224000.0,
+   "prev_close": 220000.0,
+   "chg": 1.8182,
+   "chg_str": "+1.82%",
+   "naver_chg": "+1.36%",
+   "mcap_eok": 446000.0
+  },
+  {
+   "rank": 19,
+   "name": "두산에너빌리티",
+   "code": "034020",
+   "close": 40500.0,
+   "prev_close": 40000.0,
+   "chg": 1.25,
+   "chg_str": "+1.25%",
+   "naver_chg": "+1.25%",
+   "mcap_eok": 259427.0
+  },
+  {
+   "rank": 30,
+   "name": "한국전력",
+   "code": "015760",
+   "close": 25550.0,
+   "prev_close": 25250.0,
+   "chg": 1.1881,
+   "chg_str": "+1.19%",
+   "naver_chg": "+1.19%",
+   "mcap_eok": 164022.0
+  },
+  {
+   "rank": 11,
+   "name": "삼성물산",
+   "code": "028260",
+   "close": 245500.0,
+   "prev_close": 243500.0,
+   "chg": 0.8214,
+   "chg_str": "+0.82%",
+   "naver_chg": "+0.82%",
+   "mcap_eok": 398121.0
+  },
+  {
+   "rank": 21,
+   "name": "NAVER",
+   "code": "035420",
+   "close": 160200.0,
+   "prev_close": 159000.0,
+   "chg": 0.7547,
+   "chg_str": "+0.75%",
+   "naver_chg": "+0.69%",
+   "mcap_eok": 243555.0
+  },
+  {
+   "rank": 1,
+   "name": "삼성전자",
+   "code": "005930",
+   "close": 171300.0,
+   "prev_close": 170700.0,
+   "chg": 0.3515,
+   "chg_str": "+0.35%",
+   "naver_chg": "+0.53%",
+   "mcap_eok": 10032214.0
+  },
+  {
+   "rank": 17,
+   "name": "SK",
+   "code": "034730",
+   "close": 430000.0,
+   "prev_close": 428500.0,
+   "chg": 0.3501,
+   "chg_str": "+0.35%",
+   "naver_chg": "+0.23%",
+   "mcap_eok": 311399.0
+  },
+  {
+   "rank": 14,
+   "name": "삼성SDI",
+   "code": "006400",
+   "close": 418000.0,
+   "prev_close": 418000.0,
+   "chg": 0.0,
+   "chg_str": "+0.00%",
+   "naver_chg": "+0.84%",
+   "mcap_eok": 339668.0
+  },
+  {
+   "rank": 25,
+   "name": "HMM",
+   "code": "011200",
+   "close": 22150.0,
+   "prev_close": 22150.0,
+   "chg": 0.0,
+   "chg_str": "+0.00%",
+   "naver_chg": "+0.23%",
+   "mcap_eok": 209399.0
+  },
+  {
+   "rank": 23,
+   "name": "삼성화재",
+   "code": "000810",
+   "close": 513000.0,
+   "prev_close": 514000.0,
+   "chg": -0.1946,
+   "chg_str": "-0.19%",
+   "naver_chg": "-0.39%",
+   "mcap_eok": 228595.0
+  },
+  {
+   "rank": 12,
+   "name": "신한지주",
+   "code": "055550",
+   "close": 84700.0,
+   "prev_close": 85100.0,
+   "chg": -0.47,
+   "chg_str": "-0.47%",
+   "naver_chg": "-0.24%",
+   "mcap_eok": 393012.0
+  },
+  {
+   "rank": 22,
+   "name": "우리금융지주",
+   "code": "316140",
+   "close": 31200.0,
+   "prev_close": 31400.0,
+   "chg": -0.6369,
+   "chg_str": "-0.64%",
+   "naver_chg": "-0.64%",
+   "mcap_eok": 229860.0
+  },
+  {
+   "rank": 9,
+   "name": "셀트리온",
+   "code": "068270",
+   "close": 215500.0,
+   "prev_close": 217000.0,
+   "chg": -0.6912,
+   "chg_str": "-0.69%",
+   "naver_chg": "-0.46%",
+   "mcap_eok": 501399.0
+  },
+  {
+   "rank": 29,
+   "name": "LS ELECTRIC",
+   "code": "010120",
+   "close": 113400.0,
+   "prev_close": 114300.0,
+   "chg": -0.7874,
+   "chg_str": "-0.79%",
+   "naver_chg": "-1.22%",
+   "mcap_eok": 169350.0
+  },
+  {
+   "rank": 26,
+   "name": "메리츠금융지주",
+   "code": "138040",
+   "close": 122800.0,
+   "prev_close": 123800.0,
+   "chg": -0.8078,
+   "chg_str": "-0.81%",
+   "naver_chg": "-0.81%",
+   "mcap_eok": 205502.0
+  },
+  {
+   "rank": 15,
+   "name": "한화에어로스페이스",
+   "code": "012450",
+   "close": 627000.0,
+   "prev_close": 633000.0,
+   "chg": -0.9479,
+   "chg_str": "-0.95%",
+   "naver_chg": "-0.79%",
+   "mcap_eok": 323818.0
+  },
+  {
+   "rank": 27,
+   "name": "POSCO홀딩스",
+   "code": "005490",
+   "close": 248500.0,
+   "prev_close": 251500.0,
+   "chg": -1.1928,
+   "chg_str": "-1.19%",
+   "naver_chg": "-0.80%",
+   "mcap_eok": 197708.0
+  },
+  {
+   "rank": 24,
+   "name": "LG전자",
+   "code": "066570",
+   "close": 135200.0,
+   "prev_close": 137000.0,
+   "chg": -1.3139,
+   "chg_str": "-1.31%",
+   "naver_chg": "-1.17%",
+   "mcap_eok": 220546.0
+  },
+  {
+   "rank": 16,
+   "name": "하나금융지주",
+   "code": "086790",
+   "close": 119200.0,
+   "prev_close": 120900.0,
+   "chg": -1.4061,
+   "chg_str": "-1.41%",
+   "naver_chg": "-1.16%",
+   "mcap_eok": 321556.0
+  },
+  {
+   "rank": 8,
+   "name": "KB금융",
+   "code": "105560",
+   "close": 145300.0,
+   "prev_close": 148100.0,
+   "chg": -1.8906,
+   "chg_str": "-1.89%",
+   "naver_chg": "-1.76%",
+   "mcap_eok": 516071.0
+  },
+  {
+   "rank": 5,
+   "name": "삼성바이오로직스",
+   "code": "207940",
+   "close": 1337000.0,
+   "prev_close": 1363000.0,
+   "chg": -1.9076,
+   "chg_str": "-1.91%",
+   "naver_chg": "-1.61%",
+   "mcap_eok": 620762.0
+  },
+  {
+   "rank": 28,
+   "name": "KT&G",
+   "code": "033780",
+   "close": 179500.0,
+   "prev_close": 183200.0,
+   "chg": -2.0197,
+   "chg_str": "-2.02%",
+   "naver_chg": "-1.86%",
+   "mcap_eok": 186651.0
+  },
+  {
+   "rank": 20,
+   "name": "HD현대중공업",
+   "code": "329180",
+   "close": 238500.0,
+   "prev_close": 243500.0,
+   "chg": -2.0534,
+   "chg_str": "-2.05%",
+   "naver_chg": "-1.64%",
+   "mcap_eok": 251382.0
+  },
+  {
+   "rank": 4,
+   "name": "LG에너지솔루션",
+   "code": "373220",
+   "close": 302000.0,
+   "prev_close": 308500.0,
+   "chg": -2.107,
+   "chg_str": "-2.11%",
+   "naver_chg": "-1.78%",
+   "mcap_eok": 709020.0
+  },
+  {
+   "rank": 13,
+   "name": "기아",
+   "code": "000270",
+   "close": 93700.0,
+   "prev_close": 96000.0,
+   "chg": -2.3958,
+   "chg_str": "-2.40%",
+   "naver_chg": "-1.87%",
+   "mcap_eok": 367769.0
+  },
+  {
+   "rank": 7,
+   "name": "현대차",
+   "code": "005380",
+   "close": 259000.0,
+   "prev_close": 269500.0,
+   "chg": -3.8961,
+   "chg_str": "-3.90%",
+   "naver_chg": "-3.71%",
+   "mcap_eok": 527996.0
+  },
+  {
+   "rank": 18,
+   "name": "현대모비스",
+   "code": "012330",
+   "close": 329500.0,
+   "prev_close": 349500.0,
+   "chg": -5.7225,
+   "chg_str": "-5.72%",
+   "naver_chg": "-5.29%",
+   "mcap_eok": 297306.0
+  }
+ ]
+}
