@@ -20,6 +20,69 @@
    "category": "kr"
   },
   {
+   "title": "멕시코에 등장한 '옥수역'…한국문화원 'K코믹스' 전시",
+   "link": "https://www.yna.co.kr/view/AKR20261127013600087",
+   "published": "2026-11-27T07:41+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'디즈니 전설' 밥 아이거도 사내불륜 의혹…\"여직원 임신중절\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127013200075",
+   "published": "2026-11-27T07:38+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청",
+   "link": "https://www.yna.co.kr/view/AKR20261126157100003",
+   "published": "2026-11-27T07:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+   "link": "https://www.yna.co.kr/view/AKR20261127009900011",
+   "published": "2026-11-27T07:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美 우회차단에 직격탄…\"中 AI 능력 45%가 원격접속·밀수\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127010800009",
+   "published": "2026-11-27T07:28+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美의회, '中 자동차 규제법' 내달 처리 추진…미중 긴장 커지나",
+   "link": "https://www.yna.co.kr/view/AKR20261127010700071",
+   "published": "2026-11-27T07:21+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'구원자' 엘살바도르군, 아이티에 내년 10월까지 주둔",
+   "link": "https://www.yna.co.kr/view/AKR20261127009600087",
+   "published": "2026-11-27T07:13+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "[글로컬] 멀어지는 북미회담…'페이스 메이커' 기회 올까",
    "link": "https://www.yna.co.kr/view/AKR20261126185400546",
    "published": "2026-11-27T07:07+09:00",
@@ -27,6 +90,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "서울 강서구, 내년 어르신 일자리 참여자 6천163명 모집",
+   "link": "https://www.yna.co.kr/view/AKR20261127010000004",
+   "published": "2026-11-27T07:07+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "금리 올렸는데 은행주 왜 파래요…한발 먼저 가는 주식 ‘선반영’ 해석",
@@ -43,6 +115,69 @@
    "published": "2026-11-27T07:00+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "블프에 한중FTA 호재까지…변동성 장세 속 화장품주 강세",
+   "link": "https://www.hankyung.com/article/202611262959i",
+   "published": "2026-11-27T07:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"KTX 입석 안 탈래\"…서울~세종 통근버스 5년 만에 재시동 [김익환의 부처 핸즈업]",
+   "link": "https://www.hankyung.com/article/202611262349i",
+   "published": "2026-11-27T07:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "SK하닉 주주환원도 '역대급'…엔비디아보다 '45조' 더 쏜다",
+   "link": "https://www.hankyung.com/article/202611262967g",
+   "published": "2026-11-27T07:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "엔비디아칩 쓸어담은 美 회사…소유주 정체 드러나자 '깜짝'",
+   "link": "https://www.hankyung.com/article/2026112735537",
+   "published": "2026-11-27T06:46+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "머스크 '100만' 외치자 주가 들썩…한국 개미들 난리 난 이유 [종목+]",
+   "link": "https://www.hankyung.com/article/2026112629226",
+   "published": "2026-11-27T06:30+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"잘나가는 종목만 모았다더니\"…개미들 울린 ETF의 함정 [분석+]",
+   "link": "https://www.hankyung.com/article/2026112627236",
+   "published": "2026-11-27T06:30+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"돈 잘 버는 회사라 믿었는데\"…1500억 베팅에 개미들 '술렁' [종목+]",
+   "link": "https://www.hankyung.com/article/2026112626556",
+   "published": "2026-11-27T06:30+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -2252,20 +2387,20 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-27T07:13+09:00",
+ "updated_at": "2026-11-27T07:52+09:00",
  "last_run": {
   "added": {
-   "fed_press": 3,
-   "fed_speech": 1,
-   "yna_economy": 40,
-   "yna_market": 27,
-   "yna_world": 38,
-   "hk_finance": 40,
-   "hk_economy": 40,
-   "mk_stock": 40,
-   "cnbc_economy": 8,
-   "cnbc_finance": 11,
-   "bok": 2
+   "fed_press": 0,
+   "fed_speech": 0,
+   "yna_economy": 3,
+   "yna_market": 1,
+   "yna_world": 4,
+   "hk_finance": 5,
+   "hk_economy": 2,
+   "mk_stock": 0,
+   "cnbc_economy": 0,
+   "cnbc_finance": 0,
+   "bok": 0
   },
   "errors": {
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
