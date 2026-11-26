@@ -200,6 +200,15 @@
    "category": "kr"
   },
   {
+   "title": "\"10월 호르무즈 인근 선박 공격 30건 넘어…전쟁 발발 후 최다\"",
+   "link": "https://www.yna.co.kr/view/AKR20261126195200099",
+   "published": "2026-11-26T23:20+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "KB증권, 시각장애인 금융서비스 문턱 낮춘다…고객 목소리 직접 청취",
    "link": "https://www.mk.co.kr/news/stock/12219293",
    "published": "2026-11-26T23:14+09:00",
@@ -207,6 +216,15 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "문턱 높인 영국…이주민 순유입 코로나 때 빼고 29년만에 최소",
+   "link": "https://www.yna.co.kr/view/AKR20261126194100085",
+   "published": "2026-11-26T23:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "“출렁이는 증시, 연말 절세 어떻게?”…우리투자증권, 30일 투자 웨비나 개최",
@@ -218,11 +236,47 @@
    "category": "kr"
   },
   {
+   "title": "FIFA도 해킹 피해…'월드컵 민영화' 자료는 멀쩡",
+   "link": "https://www.yna.co.kr/view/AKR20261126194200082",
+   "published": "2026-11-26T22:50+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "우크라 정보당국 \"북한, 러 군사지원 일시 중단\" 주장",
+   "link": "https://www.yna.co.kr/view/AKR20261126194000109",
+   "published": "2026-11-26T22:46+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "티로보틱스, CES 2027서 제조현장용 휴머노이드 ‘TR-WORKS’ 첫선",
    "link": "https://www.mk.co.kr/news/stock/12219247",
    "published": "2026-11-26T22:22+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "Semiconductor chips are the new oil. Here's why",
+   "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "published": "2026-11-26T22:19+09:00",
+   "source": "CNBC Finance",
+   "source_id": "cnbc_finance",
+   "tier": "press",
+   "category": "us"
+  },
+  {
+   "title": "'이 시나리오면 2028년 먹구름'…한국은행이 보낸 경고 [분석+]",
+   "link": "https://www.hankyung.com/article/2026112625776",
+   "published": "2026-11-26T22:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -261,6 +315,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "\"머스크마저 이런 제안을\"…삼성전자 몸값 치솟자 벌어진 일",
+   "link": "https://www.hankyung.com/article/2026112634217",
+   "published": "2026-11-26T21:21+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"(종합)",
@@ -8354,7 +8417,7 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-26T22:08+09:00",
+ "updated_at": "2026-11-26T23:37+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
@@ -8363,10 +8426,10 @@
    "yna_market": 0,
    "yna_world": 4,
    "hk_finance": 0,
-   "hk_economy": 0,
-   "mk_stock": 2,
+   "hk_economy": 2,
+   "mk_stock": 0,
    "cnbc_economy": 0,
-   "cnbc_finance": 0,
+   "cnbc_finance": 1,
    "bok": 0
   },
   "errors": {
