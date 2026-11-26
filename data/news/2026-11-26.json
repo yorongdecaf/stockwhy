@@ -2,6 +2,15 @@
  "date": "2026-11-26",
  "items": [
   {
+   "title": "제 역할 전혀 못하는 ETF…AI·반도체만 담고 투자자는 단타 친다",
+   "link": "https://www.mk.co.kr/news/stock/12219765",
+   "published": "2026-11-27T04:35+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "금리·AI 수익성 우려에 관세까지…여의도 족집게 “반등 시그널 이때 나온다” [머니닥터 시장진단]",
    "link": "https://www.mk.co.kr/news/stock/12219730",
    "published": "2026-11-27T03:00+09:00",
@@ -236,6 +245,15 @@
    "category": "kr"
   },
   {
+   "title": "KS인더스트리, 50억원 유상증자…프라임라이트투자조합1호에 제3자배정",
+   "link": "https://www.yna.co.kr/view/AKR20261126185200008",
+   "published": "2026-11-26T19:49+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "한은 금리 인상은 선반영…금융지주 주가 일제히 하락",
    "link": "https://www.mk.co.kr/news/stock/12219126",
    "published": "2026-11-26T19:46+09:00",
@@ -245,6 +263,15 @@
    "category": "kr"
   },
   {
+   "title": "한강 '작별하지 않는다', 연극으로 이탈리아 무대에",
+   "link": "https://www.yna.co.kr/view/AKR20261126188900109",
+   "published": "2026-11-26T19:33+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "반도체 반등하자 삼전닉스 던졌다…초고수, 유가에 6% 빠진 대한항공 담았다[주식 초고수는 지금]",
    "link": "https://www.mk.co.kr/news/stock/12219102",
    "published": "2026-11-26T19:29+09:00",
@@ -252,6 +279,24 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "영국, 예비군 10만명에 \"소집 대비하라\"…냉전 후 처음",
+   "link": "https://www.yna.co.kr/view/AKR20261126188400085",
+   "published": "2026-11-26T19:23+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\"",
+   "link": "https://www.yna.co.kr/view/AKR20261126188000009",
+   "published": "2026-11-26T19:20+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "에브리봇, ‘머큐어 서울 마곡’에 AI 청소로봇 도입 추진…호텔 B2B 공략",
@@ -270,6 +315,15 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "태국 방콕 정유공장 폭발·화재…7명 부상·주민 대피",
+   "link": "https://www.yna.co.kr/view/AKR20261126187400084",
+   "published": "2026-11-26T19:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "“롤러코스피에 돈 마련 어려워”…서울 주택 매수자금 절반 ‘증여·상속’",
@@ -317,11 +371,92 @@
    "category": "world"
   },
   {
+   "title": "\"화웨이, 차세대 HBM 기술 공개 눈앞\"",
+   "link": "https://www.hankyung.com/article/2026112631791",
+   "published": "2026-11-26T18:45+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "무뇨스·송호성 유임…모비스 사장에 백철승",
+   "link": "https://www.hankyung.com/article/2026112630911",
+   "published": "2026-11-26T18:43+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "통합 LCC '부산'에 둥지…\"김해공항 제2허브 도약 시동\" [종합]",
+   "link": "https://www.hankyung.com/article/202611262531g",
+   "published": "2026-11-26T18:41+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "초대형 LCC '통합 진에어'…부산 본사 시대 연다",
+   "link": "https://www.hankyung.com/article/2026112630901",
+   "published": "2026-11-26T18:41+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성전자, 대대적 조직 개편…\"메모리 개발체제 일원화\"",
+   "link": "https://www.hankyung.com/article/2026112630891",
+   "published": "2026-11-26T18:40+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "HS효성, 안성훈·성낙양 사장 승진",
+   "link": "https://www.hankyung.com/article/2026112630881",
+   "published": "2026-11-26T18:40+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "두산, 셋방살이 끝내고 을지로에 신사옥",
+   "link": "https://www.hankyung.com/article/2026112630851",
+   "published": "2026-11-26T18:39+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼천리그룹, 길형도·서광영 사장 승진",
+   "link": "https://www.hankyung.com/article/2026112630871",
+   "published": "2026-11-26T18:39+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "대신PE, 진우엔지니어링 500억 EB 인수…국민성장펀드 첫 투자",
    "link": "https://www.mk.co.kr/news/stock/12219007",
    "published": "2026-11-26T18:38+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[포토] 수출 1조달러 달성 기념 우표 발행",
+   "link": "https://www.hankyung.com/article/2026112630821",
+   "published": "2026-11-26T18:38+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -371,6 +506,33 @@
    "category": "world"
   },
   {
+   "title": "[단독] \"지금이 호황의 시작?\"…美서 220조 뭉칫돈 몰리는 곳",
+   "link": "https://www.hankyung.com/article/2026112630781",
+   "published": "2026-11-26T18:26+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美 전력난, 트럼프 리쇼어링 정책이 촉발",
+   "link": "https://www.hankyung.com/article/2026112630801",
+   "published": "2026-11-26T18:24+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "발전소부터 케이블까지…물 만난 K전력기기",
+   "link": "https://www.hankyung.com/article/2026112630811",
+   "published": "2026-11-26T18:23+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "러 정유시설 이달만 최소 15곳 피격…에너지 불안 장기화",
    "link": "https://www.yna.co.kr/view/AKR20261126180800109",
    "published": "2026-11-26T18:21+09:00",
@@ -378,6 +540,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "[단독] 지분 정리 필요한 5대 코인거래소…K국부펀드 등판론 '급부상'",
+   "link": "https://www.hankyung.com/article/2026112631661",
+   "published": "2026-11-26T18:20+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "[단독] 지분 이어 자기자본 규제까지…코인원·디지털엑스 인가 '촉각'",
@@ -8084,16 +8255,16 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-26T18:59+09:00",
+ "updated_at": "2026-11-26T19:58+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 8,
-   "yna_market": 3,
-   "yna_world": 7,
-   "hk_finance": 5,
-   "hk_economy": 31,
+   "yna_economy": 1,
+   "yna_market": 0,
+   "yna_world": 4,
+   "hk_finance": 0,
+   "hk_economy": 13,
    "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
