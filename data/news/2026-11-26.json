@@ -2,6 +2,24 @@
  "date": "2026-11-26",
  "items": [
   {
+   "title": "금리 올렸는데 은행주 왜 파래요…한발 먼저 가는 주식 ‘선반영’ 해석",
+   "link": "https://www.mk.co.kr/news/stock/12219785",
+   "published": "2026-11-27T07:06+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“AI 거품”이라더니 13일만에 말 바꿨다…상승에 베팅 건 ‘빅쇼트’ 주인공",
+   "link": "https://www.mk.co.kr/news/stock/12219779",
+   "published": "2026-11-27T06:24+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "제 역할 전혀 못하는 ETF…AI·반도체만 담고 투자자는 단타 친다",
    "link": "https://www.mk.co.kr/news/stock/12219765",
    "published": "2026-11-27T04:35+09:00",
@@ -209,6 +227,24 @@
    "category": "kr"
   },
   {
+   "title": "中대사, 北평안북도 인민위원장 면담…접경지역 교류 강화 논의",
+   "link": "https://www.yna.co.kr/view/AKR20261126193900083",
+   "published": "2026-11-26T21:50+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "민주콩고 에볼라 확진 1만2천명 넘어…보름 만에 1천명 또 증가",
+   "link": "https://www.yna.co.kr/view/AKR20261126193500099",
+   "published": "2026-11-26T21:42+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "퇴직연금 디폴트옵션, 어디가 제일 잘하나…미래에셋證, 업계 1위",
    "link": "https://www.mk.co.kr/news/stock/12219232",
    "published": "2026-11-26T21:34+09:00",
@@ -216,6 +252,24 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "EU 정상들, 우크라 지원안·7년 장기예산 놓고 격론 돌입",
+   "link": "https://www.yna.co.kr/view/AKR20261126193300098",
+   "published": "2026-11-26T21:28+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261126111551084",
+   "published": "2026-11-26T20:55+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "웨이비스, 한화시스템서 천마 핵심 모듈 후속 수주…누적 105억 원 돌파",
@@ -8300,17 +8354,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-26T20:56+09:00",
+ "updated_at": "2026-11-26T22:08+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 3,
-   "hk_finance": 1,
-   "hk_economy": 1,
-   "mk_stock": 0,
+   "yna_world": 4,
+   "hk_finance": 0,
+   "hk_economy": 0,
+   "mk_stock": 2,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
