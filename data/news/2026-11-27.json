@@ -119,6 +119,51 @@
    "category": "kr"
   },
   {
+   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "published": "2026-11-27T21:47+09:00",
+   "source": "CNBC Finance",
+   "source_id": "cnbc_finance",
+   "tier": "press",
+   "category": "us"
+  },
+  {
+   "title": "'1천178억원 뇌물죄'…中광시자치구 전 주석 사형 집행유예",
+   "link": "https://www.yna.co.kr/view/AKR20261127166600089",
+   "published": "2026-11-27T21:14+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "한국 오면 통째로 퍼먹는다…1469만뷰 터진 '이 케이크' 정체",
+   "link": "https://www.hankyung.com/article/202611275054g",
+   "published": "2026-11-27T21:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "탈냉전기 美대러정책 설계…스트로브 탤벗 前 국무 부장관 별세",
+   "link": "https://www.yna.co.kr/view/AKR20261127165900009",
+   "published": "2026-11-27T20:54+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "정부, '연속 야간근로 3일 이하 제한' 추진…초심야 별도 관리",
+   "link": "https://www.yna.co.kr/view/AKR20261127166100530",
+   "published": "2026-11-27T20:47+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "AI가 만들어 낸 ‘속도의 역전’…北핵보다 北해킹이 무서운 이유 [기자24시]",
    "link": "https://www.mk.co.kr/news/stock/12220044",
    "published": "2026-11-27T20:26+09:00",
@@ -6320,19 +6365,19 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-27T20:49+09:00",
+ "updated_at": "2026-11-27T21:59+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 0,
-   "yna_market": 1,
-   "yna_world": 1,
-   "hk_finance": 1,
+   "yna_economy": 1,
+   "yna_market": 0,
+   "yna_world": 2,
+   "hk_finance": 0,
    "hk_economy": 1,
    "mk_stock": 0,
    "cnbc_economy": 0,
-   "cnbc_finance": 0,
+   "cnbc_finance": 1,
    "bok": 0
   },
   "errors": {
