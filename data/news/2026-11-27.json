@@ -2,6 +2,15 @@
  "date": "2026-11-27",
  "items": [
   {
+   "title": "AI가 만들어 낸 ‘속도의 역전’…北핵보다 北해킹이 무서운 이유 [기자24시]",
+   "link": "https://www.mk.co.kr/news/stock/12220044",
+   "published": "2026-11-27T20:26+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "더시에나는 왜 골프존카운티를 인수하려 하나",
    "link": "https://www.mk.co.kr/news/stock/12220033",
    "published": "2026-11-27T20:19+09:00",
@@ -128,8 +137,233 @@
    "category": "kr"
   },
   {
+   "title": "日銀, 3개월만에 다시 금리 올리나…심의위원 \"가능성 충분\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127079800073",
+   "published": "2026-11-27T12:25+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "與정년연장특위 노사합의 불발…10개월만 회동에도 접점 못찾아(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261127069251001",
+   "published": "2026-11-27T12:18+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "한국창업학회·중기중앙회, AI 시대 중기·벤처 성장 전략 모색",
+   "link": "https://www.yna.co.kr/view/AKR20261127074200030",
+   "published": "2026-11-27T12:01+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"OTT 공유 계정 단속에 이용 중단 속출…소비자 상담 급증\"",
+   "link": "https://www.yna.co.kr/view/AKR20261126142100030",
+   "published": "2026-11-27T12:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "3분기 카드 해외사용액 66억달러 역대 최대…여행 지출 증가",
+   "link": "https://www.yna.co.kr/view/AKR20261127064200002",
+   "published": "2026-11-27T12:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "소비자연맹 \"배달 매장 68.9% 이중가격…포장에도 배달가 적용\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127072000030",
+   "published": "2026-11-27T11:58+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "中 1∼10월 공업이익 16% 증가…AI 관련 산업이 견인",
+   "link": "https://www.yna.co.kr/view/AKR20261127078200083",
+   "published": "2026-11-27T11:56+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 상상인증권 주원 대표이사, '사람 살리는 금융' 캠페인 동참",
+   "link": "https://www.yna.co.kr/view/AKR20261127075500008",
+   "published": "2026-11-27T11:49+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[영상] 극초음속미사일 쏘던 전투기 때렸다…우크라 \"러 공군기지 공격\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127077300704",
+   "published": "2026-11-27T11:46+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "국고채 금리 혼조세…3년물 장중 연 3.645%",
+   "link": "https://www.yna.co.kr/view/AKR20261127077500008",
+   "published": "2026-11-27T11:42+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "런정페이 화웨이 창업자 \"미국 제재 덕에 자립\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127077100009",
+   "published": "2026-11-27T11:41+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[영상] 영국軍, 전략 예비군 10만명에 \"소집 대비하라\"…\"냉전 후 처음\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127074600704",
+   "published": "2026-11-27T11:37+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'우주산업 육성' 뉴스페이스 펀드, 목표치 2천억원 돌파",
+   "link": "https://www.yna.co.kr/view/AKR20261127054400017",
+   "published": "2026-11-27T11:33+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "산업장관 \"노동특례, 첨단 연구개발 인력 한정…오해 없어야\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127076100003",
+   "published": "2026-11-27T11:32+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "日, 작년 학내 괴롭힘 79만건 역대 최다…온라인 괴롭힘도 3만건",
+   "link": "https://www.yna.co.kr/view/AKR20261127074400073",
+   "published": "2026-11-27T11:31+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[게시판] 현대건설, '스마트건설 챌린지' 3개 분야 혁신상",
+   "link": "https://www.yna.co.kr/view/AKR20261127075400003",
+   "published": "2026-11-27T11:29+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "벤처기업협회 회원사 2만개 돌파…기업 교류·맞춤형 지원 확대",
+   "link": "https://www.yna.co.kr/view/AKR20261127075300030",
+   "published": "2026-11-27T11:29+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[오전시황] 증안펀드 기대에 코스닥 5%대 급등...코스피도 4800선 회복",
+   "link": "https://www.hankyung.com/article/202611274438i",
+   "published": "2026-11-27T11:28+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "中 막히자 \"미국 고객에 팔자\"…AI 초유의 사태 벌어진 곳 [이슈+]",
+   "link": "https://www.hankyung.com/article/202611274333g",
+   "published": "2026-11-27T11:28+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] KCGI자산운용, 아시아 투자자 대상 한국 자본시장 세미나 개최",
+   "link": "https://www.yna.co.kr/view/AKR20261127073300008",
+   "published": "2026-11-27T11:23+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"북한 해커, 바이낸스 탈취한 암호화폐 온라인서 본격 세탁\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127072600009",
+   "published": "2026-11-27T11:20+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"24종 쏟아붓는다\"…현대차, 중국 시장 뒤집을 콘셉트카 공개",
+   "link": "https://www.hankyung.com/article/202611273967g",
+   "published": "2026-11-27T11:20+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "무신사 영업익 전년비 67% 증가…\"오프라인 확대, 뷰티 강화 효과\"",
+   "link": "https://www.hankyung.com/article/202611273840g",
+   "published": "2026-11-27T11:19+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "與 정년연장특위, 10개월 만에 노사 협의…\"올해 안에 정리해야\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127069200001",
+   "published": "2026-11-27T11:16+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "서울 구로구 고척동 모아주택 3곳에 627세대 공급…2028년 착공",
    "link": "https://www.yna.co.kr/view/AKR20261127047800004",
+   "published": "2026-11-27T11:15+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[게시판] 한국씨티은행·한국YWCA, '제24회 한국여성지도자상' 시상식",
+   "link": "https://www.yna.co.kr/view/AKR20261127071300002",
    "published": "2026-11-27T11:15+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
@@ -173,6 +407,15 @@
    "category": "kr"
   },
   {
+   "title": "개미 다 죽겠다는데…정부는 \"준비·대기·긴급·소집·임박·논의\" [분석+]",
+   "link": "https://www.hankyung.com/article/2026112743736",
+   "published": "2026-11-27T11:08+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "인도, 넷플릭스에 '앙숙' 파키스탄 드라마 자국내 방영금지 요청",
    "link": "https://www.yna.co.kr/view/AKR20261127068200104",
    "published": "2026-11-27T11:06+09:00",
@@ -200,6 +443,15 @@
    "category": "us"
   },
   {
+   "title": "'한은 금리 인상 사이클 사실상 끝'…해외 증권사 '반전' 전망",
+   "link": "https://www.hankyung.com/article/2026112743387",
+   "published": "2026-11-27T11:04+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "[인사] DB손해보험",
    "link": "https://www.yna.co.kr/view/AKR20261127067600002",
    "published": "2026-11-27T11:02+09:00",
@@ -214,6 +466,15 @@
    "published": "2026-11-27T11:02+09:00",
    "source": "한국경제 경제",
    "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "하루 만에 SK하이닉스 매수한 초고수들…바이오·로봇 '팔자'",
+   "link": "https://www.hankyung.com/article/202611274339i",
+   "published": "2026-11-27T11:02+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -272,6 +533,15 @@
    "category": "kr"
   },
   {
+   "title": "SK증권, 차기 각자 대표이사 후보에 박삼규·최창훈 추천",
+   "link": "https://www.hankyung.com/article/2026112743146",
+   "published": "2026-11-27T10:46+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "산업장관, 베트남 당 고위 인사와 원전·공급망 협력 논의",
    "link": "https://www.yna.co.kr/view/AKR20261127041800003",
    "published": "2026-11-27T10:45+09:00",
@@ -306,6 +576,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "10조원 풀지도 않았는데…외국인 돌변에 코스닥 5%대 급등",
+   "link": "https://www.hankyung.com/article/2026112743026",
+   "published": "2026-11-27T10:39+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "中 짝퉁 고발 운동가 제주에?…중국대사 신병확보 요청",
@@ -3926,18 +4205,18 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-27T11:20+09:00",
+ "updated_at": "2026-11-27T12:30+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 29,
-   "yna_market": 6,
-   "yna_world": 16,
-   "hk_finance": 3,
-   "hk_economy": 9,
-   "mk_stock": 6,
-   "cnbc_economy": 1,
+   "yna_economy": 13,
+   "yna_market": 4,
+   "yna_world": 4,
+   "hk_finance": 5,
+   "hk_economy": 4,
+   "mk_stock": 1,
+   "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
