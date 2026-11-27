@@ -128,6 +128,24 @@
    "category": "kr"
   },
   {
+   "title": "SK하이닉스, 자사주 일일 매수 주문량 2배로…주주가치 제고",
+   "link": "https://www.yna.co.kr/view/AKR20261127165200003",
+   "published": "2026-11-27T20:26+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "러시아, 항공유 수출 금지 4개월 연장…내년 3월까지",
+   "link": "https://www.yna.co.kr/view/AKR20261127165300099",
+   "published": "2026-11-27T20:25+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "더시에나는 왜 골프존카운티를 인수하려 하나",
    "link": "https://www.mk.co.kr/news/stock/12220033",
    "published": "2026-11-27T20:19+09:00",
@@ -142,6 +160,15 @@
    "published": "2026-11-27T20:12+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"금리 인상에 지갑 닫힐라\"…연말 대목 앞두고 꺾인 백화점주 [종목+]",
+   "link": "https://www.hankyung.com/article/2026112750406",
+   "published": "2026-11-27T20:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
    "tier": "press",
    "category": "kr"
   },
@@ -187,6 +214,15 @@
    "published": "2026-11-27T19:22+09:00",
    "source": "연합뉴스 경제",
    "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "공장을 로봇 학습장으로…3D 데이터 용량 98% 줄인 그리네타",
+   "link": "https://www.hankyung.com/article/202611275169i",
+   "published": "2026-11-27T19:19+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -6284,16 +6320,16 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-27T19:53+09:00",
+ "updated_at": "2026-11-27T20:49+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 3,
-   "yna_market": 0,
-   "yna_world": 2,
-   "hk_finance": 5,
-   "hk_economy": 4,
+   "yna_economy": 0,
+   "yna_market": 1,
+   "yna_world": 1,
+   "hk_finance": 1,
+   "hk_economy": 1,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
