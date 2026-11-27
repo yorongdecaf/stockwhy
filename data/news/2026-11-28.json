@@ -29,6 +29,78 @@
    "category": "kr"
   },
   {
+   "title": "美 '블프' 온라인 소비 역대 최대 전망…고물가에 할인상품 몰려",
+   "link": "https://www.yna.co.kr/view/AKR20261128013500072",
+   "published": "2026-11-28T07:41+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "트럼프 \"러·우크라 정상의 상호 증오가 종전 최대 걸림돌\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128013200009",
+   "published": "2026-11-28T07:32+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[우분투칼럼] 뉴스는 넘치는데, 감시자는 사라진다",
+   "link": "https://www.yna.co.kr/view/AKR20261126131000898",
+   "published": "2026-11-28T07:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "폴란드, '원격차단 위험' 논란에도 팔란티어와 군용 AI 계약",
+   "link": "https://www.yna.co.kr/view/AKR20261128012000009",
+   "published": "2026-11-28T07:25+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "증안펀드 기대로 8% 뛴 코스닥…현 시점 투자전략 짜보니",
+   "link": "https://www.hankyung.com/article/202611275027i",
+   "published": "2026-11-28T07:20+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "대작영화 맞붙는 '듄스데이'…빌뇌브 감독 \"영화의 신에게 기도\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128011300075",
+   "published": "2026-11-28T07:19+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"트럼프, 민주당이 제동걸기 전 '워싱턴 개조공사' 몰아치기\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128010900071",
+   "published": "2026-11-28T07:13+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "AI 투자 우려 속 기술주 반등…나스닥 2.3% 상승 [뉴욕증시]",
+   "link": "https://www.hankyung.com/article/2026112857597",
+   "published": "2026-11-28T07:11+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "[이집트 미라전] 개관 1주년 이집트 대박물관…사막 위 5천년 문명",
    "link": "https://www.yna.co.kr/view/AKR20261126181900079",
    "published": "2026-11-28T07:00+09:00",
@@ -72,6 +144,33 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "V자 반등 장담 못 하는 하락장…커버드콜 ETF 고를 때 따져야 할 3가지",
+   "link": "https://www.hankyung.com/article/202611274748i",
+   "published": "2026-11-28T07:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "우주항공·바이오·로봇 ETF '고공행진'…개미는 지수 반등 베팅",
+   "link": "https://www.hankyung.com/article/202611274926i",
+   "published": "2026-11-28T07:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"2000만원 안 넘으면 괜찮다더니\"…건보료 고지서에 '화들짝' [고정삼의 절세GPT]",
+   "link": "https://www.hankyung.com/article/2026112754596",
+   "published": "2026-11-28T07:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "코스타리카, 팔레스타인 보고관 입국 불허…유엔 \"깊은 우려\"",
@@ -2567,17 +2666,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T07:13+09:00",
+ "updated_at": "2026-11-28T07:52+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 7,
-   "yna_market": 2,
-   "yna_world": 27,
-   "hk_finance": 0,
-   "hk_economy": 3,
-   "mk_stock": 3,
+   "yna_economy": 1,
+   "yna_market": 1,
+   "yna_world": 4,
+   "hk_finance": 4,
+   "hk_economy": 1,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
