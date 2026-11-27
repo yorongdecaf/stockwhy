@@ -29,6 +29,87 @@
    "category": "kr"
   },
   {
+   "title": "美블랙프라이데이 대목에도…AI 쇼핑 에이전트는 아직 '찬바람'",
+   "link": "https://www.yna.co.kr/view/AKR20261128018700091",
+   "published": "2026-11-28T08:41+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "하마스 소식통 \"이스라엘, 지도자 아들 살해 시도했으나 실패\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128018300009",
+   "published": "2026-11-28T08:33+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[다음주 경제] 증안펀드 가동 윤곽…한은 잠재성장률 추정치도",
+   "link": "https://www.yna.co.kr/view/AKR20261128017000002",
+   "published": "2026-11-28T08:24+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "美증시 에너지업종 올들어 37% 상승…AI에 가려진 주도주",
+   "link": "https://www.yna.co.kr/view/AKR20261128018000009",
+   "published": "2026-11-28T08:20+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "촉매 없었던 반등, 기술주 할인 쇼핑?…진짜 승부는 다음 주 [김현석의 월스트리트나우]",
+   "link": "https://www.hankyung.com/article/202611285802i",
+   "published": "2026-11-28T08:19+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[시간들] '공대 가라' 대신 '공대 나오면…' 약속을",
+   "link": "https://www.yna.co.kr/view/AKR20261127106400546",
+   "published": "2026-11-28T08:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[머니플로우] 하락장에 \"빚투 겁난다\" 신용 잔고 13개월만에 최저",
+   "link": "https://www.yna.co.kr/view/AKR20261127126400008",
+   "published": "2026-11-28T08:00+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[아프리카인물열전](48) 영어 아닌 모국어 택한 '문학 전사'…응구기 와 티옹오",
+   "link": "https://www.yna.co.kr/view/AKR20261006203100079",
+   "published": "2026-11-28T08:00+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"삼성전자 4만원까지 떨어질 수도\"…전문가 '경고'",
+   "link": "https://www.hankyung.com/article/2026112857987",
+   "published": "2026-11-28T07:49+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "美 '블프' 온라인 소비 역대 최대 전망…고물가에 할인상품 몰려",
    "link": "https://www.yna.co.kr/view/AKR20261128013500072",
    "published": "2026-11-28T07:41+09:00",
@@ -2666,16 +2747,16 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T07:52+09:00",
+ "updated_at": "2026-11-28T08:48+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
-   "yna_market": 1,
-   "yna_world": 4,
-   "hk_finance": 4,
-   "hk_economy": 1,
+   "yna_economy": 2,
+   "yna_market": 2,
+   "yna_world": 3,
+   "hk_finance": 2,
+   "hk_economy": 0,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
