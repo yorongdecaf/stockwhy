@@ -137,6 +137,96 @@
    "category": "kr"
   },
   {
+   "title": "대만 법원, '중국 포섭돼 스파이활동' 퇴역 군인에 징역 6년",
+   "link": "https://www.yna.co.kr/view/AKR20261127082500009",
+   "published": "2026-11-27T13:29+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "쉬는 시간에 사투리 썼다고 학생 징계…中학교 황당한 교칙",
+   "link": "https://www.yna.co.kr/view/AKR20261127081500083",
+   "published": "2026-11-27T13:13+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "송미령 농식품장관 \"청년농 협업 경영 모델 지원\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127063200030",
+   "published": "2026-11-27T13:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "농진청장 \"K-라이스벨트 사업 후 아프리카 농가 생산 두배 증가\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127079400030",
+   "published": "2026-11-27T13:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"겨울엔 비싸서 못 먹었는데\"…'금딸기'의 뜻밖의 반전 [박상경의 영수증 리뷰]",
+   "link": "https://www.hankyung.com/article/202611273608g",
+   "published": "2026-11-27T13:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "대만 여야, 지방선거 전날 막판 총력전…수도권에 화력 집중",
+   "link": "https://www.yna.co.kr/view/AKR20261127076200009",
+   "published": "2026-11-27T12:53+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "대만 내일 지방선거…'친미·반중' 라이칭더 정권 중간평가 무대",
+   "link": "https://www.yna.co.kr/view/AKR20261127080400083",
+   "published": "2026-11-27T12:53+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "中, 임신부 혈액 3만8천건 밀반출 적발…범죄조직 37명 검거",
+   "link": "https://www.yna.co.kr/view/AKR20261127080100083",
+   "published": "2026-11-27T12:48+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"아들인지 딸인지 궁금했는데\"…中이 국가안보 거론한 이유 [차이나 워치]",
+   "link": "https://www.hankyung.com/article/202611274534i",
+   "published": "2026-11-27T12:42+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥 일제히 급등",
+   "link": "https://www.yna.co.kr/view/AKR20261127078300008",
+   "published": "2026-11-27T12:39+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "日銀, 3개월만에 다시 금리 올리나…심의위원 \"가능성 충분\"",
    "link": "https://www.yna.co.kr/view/AKR20261127079800073",
    "published": "2026-11-27T12:25+09:00",
@@ -4205,17 +4295,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-27T12:30+09:00",
+ "updated_at": "2026-11-27T13:38+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 13,
-   "yna_market": 4,
-   "yna_world": 4,
-   "hk_finance": 5,
-   "hk_economy": 4,
-   "mk_stock": 1,
+   "yna_economy": 3,
+   "yna_market": 0,
+   "yna_world": 5,
+   "hk_finance": 0,
+   "hk_economy": 2,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
