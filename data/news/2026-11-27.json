@@ -110,6 +110,15 @@
    "category": "kr"
   },
   {
+   "title": "노르웨이 저비용항공사, 파산 신청…이란전쟁에 날개 꺾여",
+   "link": "https://www.yna.co.kr/view/AKR20261127169900098",
+   "published": "2026-11-27T23:13+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "“100만원부터 가입 가능”…신한투자증권, 연 5% 발행어음 출시",
    "link": "https://www.mk.co.kr/news/stock/12220086",
    "published": "2026-11-27T22:49+09:00",
@@ -117,6 +126,33 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "中당국, 장중 '증시부양' 메시지…주요지수 2년만에 최고상승률(종합2보)",
+   "link": "https://www.yna.co.kr/view/AKR20261127111852089",
+   "published": "2026-11-27T22:41+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"10조로 되겠냐고요\"…개미들이 진짜 원하는 건 따로 있다 [분석+]",
+   "link": "https://www.hankyung.com/article/2026112749456",
+   "published": "2026-11-27T22:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'프렉시트' 주장했던 르펜, EU 통합 최대 위기 맞나",
+   "link": "https://www.yna.co.kr/view/AKR20261127167900085",
+   "published": "2026-11-27T21:56+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
@@ -6365,19 +6401,19 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-27T21:59+09:00",
+ "updated_at": "2026-11-27T23:21+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
+   "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 2,
-   "hk_finance": 0,
-   "hk_economy": 1,
+   "yna_world": 3,
+   "hk_finance": 1,
+   "hk_economy": 0,
    "mk_stock": 0,
    "cnbc_economy": 0,
-   "cnbc_finance": 1,
+   "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
