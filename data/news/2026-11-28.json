@@ -2,6 +2,222 @@
  "date": "2026-11-28",
  "items": [
   {
+   "title": "한국서 5% 뛴 SK하이닉스, 미국선 7%대 급등…나스닥도 2.31%↑",
+   "link": "https://www.mk.co.kr/news/stock/12220603",
+   "published": "2026-11-28T15:58+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "주식시장 새내기인데 첫날 몸값이 6.6조원…개미가 만나는 美 기업 달라졌다",
+   "link": "https://www.mk.co.kr/news/stock/12220593",
+   "published": "2026-11-28T15:28+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“오래 기다렸죠?” 돌아온 외국인…삼전닉스 내다팔더니 ‘이것’ 샀다",
+   "link": "https://www.mk.co.kr/news/stock/12220584",
+   "published": "2026-11-28T15:19+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[이집트 미라전] 개관 1주년 이집트 대박물관…사막 위 5천년 문명",
+   "link": "https://www.yna.co.kr/view/AKR20261126181900079",
+   "published": "2026-11-28T07:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[금주핫템] K2 'G900 트리니티 퀸'·브랜든 '세이프 데이즈 숄더백'",
+   "link": "https://www.yna.co.kr/view/AKR20261127113800030",
+   "published": "2026-11-28T07:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[신상잇슈] 농심 '불오징어집'·매일유업 '따옴 유기농 아기상어'",
+   "link": "https://www.yna.co.kr/view/AKR20261127104500030",
+   "published": "2026-11-28T07:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"땅값 10배 뛴다\"며 200억 사기…기획부동산 회장 1심 징역 12년",
+   "link": "https://www.yna.co.kr/view/AKR20261127166700004",
+   "published": "2026-11-28T07:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[특파원 시선] 언제까지 사도섬에서 '반쪽 추도식'을 치러야 할까",
+   "link": "https://www.yna.co.kr/view/AKR20261127158000073",
+   "published": "2026-11-28T07:00+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "코스타리카, 팔레스타인 보고관 입국 불허…유엔 \"깊은 우려\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128009800087",
+   "published": "2026-11-28T06:54+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "샌디스크 16%↑…메모리주, '이익절벽' 우려 속 주간 반등",
+   "link": "https://www.yna.co.kr/view/AKR20261128008900009",
+   "published": "2026-11-28T06:42+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "국제유가, 중동발 공급 차질 우려에도 하락…브렌트유 1.2%↓",
+   "link": "https://www.yna.co.kr/view/AKR20261128007900072",
+   "published": "2026-11-28T06:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "2018년 말보다 더 나쁘다?...안심하기 힘든 월가의 낙관[월가 백브리핑]",
+   "link": "https://www.hankyung.com/article/202611285731i",
+   "published": "2026-11-28T06:02+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[부동산캘린더] 내주 남양주 3기 신도시 등 4천215가구 분양",
+   "link": "https://www.yna.co.kr/view/AKR20261127116200003",
+   "published": "2026-11-28T06:01+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "오픈AI, 애플 상대 기밀탈취 반소…\"호텔 캘리포니아 같은 회사\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128007300091",
+   "published": "2026-11-28T06:01+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "주유소 기름값 28주째 하락…서울 2주 연속 평균 1천800원대",
+   "link": "https://www.yna.co.kr/view/AKR20261127166200003",
+   "published": "2026-11-28T06:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"한 알에 커피 한잔 값인데\"…편의점서 인기 폭발한 과일 [프라이스&]",
+   "link": "https://www.hankyung.com/article/202611275556i",
+   "published": "2026-11-28T06:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'좌파 대부' 룰라, 은행가 재무장관 카드에 브라질 증시 급등",
+   "link": "https://www.yna.co.kr/view/AKR20261128006900087",
+   "published": "2026-11-28T05:49+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'美대사 추방하라' 캐나다 국민청원, 의회에 제출…29만명 서명",
+   "link": "https://www.yna.co.kr/view/AKR20261128006100072",
+   "published": "2026-11-28T05:16+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "선거 참패에도 관세 휘두르는 트럼프…여당서도 불만 고개",
+   "link": "https://www.yna.co.kr/view/AKR20261128006000071",
+   "published": "2026-11-28T05:06+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "주가 오를때만 \"내 덕\"…美언론들, 약발 다한 '트럼프풋' 지적",
+   "link": "https://www.yna.co.kr/view/AKR20261128005800071",
+   "published": "2026-11-28T04:43+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "바닷물에 잠긴 美서부…기차 멈추고 부두 붕괴, 항만 최고 수위",
+   "link": "https://www.yna.co.kr/view/AKR20261128005700075",
+   "published": "2026-11-28T04:39+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "젠슨 황 '디올 재킷' 복귀에 패션계 \"470만원짜리 겸손 연출\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128005200091",
+   "published": "2026-11-28T04:29+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261128004851072",
+   "published": "2026-11-28T03:59+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "독일 내년 국방비 사상 최대 160조원…예산안 확정(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261128002351082",
+   "published": "2026-11-28T03:23+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "‘트리플 할인’일 때 담아서 키워볼까…1년 만에 48% 오른 ETF [이번주 찜할 ETF]",
    "link": "https://www.mk.co.kr/news/stock/12220445",
    "published": "2026-11-28T03:17+09:00",
@@ -9,6 +225,60 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑",
+   "link": "https://www.yna.co.kr/view/AKR20261128004800072",
+   "published": "2026-11-28T03:12+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'치르콘' 탑재 첫 러 핵잠 취역…푸틴, 직접 현장 참관",
+   "link": "https://www.yna.co.kr/view/AKR20261128004300099",
+   "published": "2026-11-28T03:11+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "美보험사 올스테이트 닷새째 전산 장애…연휴 고객 불편 가중",
+   "link": "https://www.yna.co.kr/view/AKR20261128004100072",
+   "published": "2026-11-28T02:56+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "우파 스웨덴 총리, 총선 지고도 연임하나…'킹메이커' 지지 확보",
+   "link": "https://www.yna.co.kr/view/AKR20261128004000098",
+   "published": "2026-11-28T02:53+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "美DEA 멕시코 부패공무원 제보 채널 개설에 멕시코 \"내정간섭\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128003900087",
+   "published": "2026-11-28T02:50+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "미군 중부사령부 \"이란 해상봉쇄 돌파 시도 상선 무력화\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128003800079",
+   "published": "2026-11-28T02:46+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "[속보] 국민연금 9월말 기준수익률 연초대비 13%",
@@ -47,6 +317,15 @@
    "category": "kr"
   },
   {
+   "title": "이란 혁명수비대, 美 해상봉쇄 돌파 결의…\"공중·해상서 행동\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128003300079",
+   "published": "2026-11-28T02:16+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "비트코인 현물 ETF, 출시 이후 최대 월간 순유출…XRP만 나 홀로 순유입 전환[엠블록레터]",
    "link": "https://www.mk.co.kr/news/stock/12220356",
    "published": "2026-11-28T02:15+09:00",
@@ -65,6 +344,33 @@
    "category": "kr"
   },
   {
+   "title": "이스라엘 총리 후보 아이젠코트 \"남은 8일 이내 연정 구성할 것\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128003100079",
+   "published": "2026-11-28T01:57+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "조지아, 튀르키예 축구팬 구금…양국 외교갈등으로 번져",
+   "link": "https://www.yna.co.kr/view/AKR20261128002800099",
+   "published": "2026-11-28T01:52+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "트럼프, 나토 사무총장 회담 뒤 멋대로 첨언한 공동성명 발표",
+   "link": "https://www.yna.co.kr/view/AKR20261128002600071",
+   "published": "2026-11-28T01:49+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "뿔난 카카오엔터 연예인 주주들…“카카오 분할 막아달라”",
    "link": "https://www.mk.co.kr/news/stock/12220295",
    "published": "2026-11-28T01:46+09:00",
@@ -72,6 +378,60 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "'젠슨황 불륜 상대' 연계 中시설서 엔비디아 최첨단 칩 발견",
+   "link": "https://www.yna.co.kr/view/AKR20261128002400072",
+   "published": "2026-11-28T01:44+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "치안 안정되자 경제 살아났다…엘살바도르 30년만에 주변국 추월",
+   "link": "https://www.yna.co.kr/view/AKR20261128001600087",
+   "published": "2026-11-28T01:32+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "AI 셀오프 끝?...\"안심하긴 일러\"[박신영의 개장전 요것만]",
+   "link": "https://www.hankyung.com/article/202611285700i",
+   "published": "2026-11-28T01:30+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "트럼프 \"이란전, 언제든 원할때 끝내…분명히 곡괭이산 타격\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128002200071",
+   "published": "2026-11-28T01:29+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "트럼프 각료들, 신변위협에 軍기지 거주…'시민과 단절' 고립생활",
+   "link": "https://www.yna.co.kr/view/AKR20261127171000071",
+   "published": "2026-11-28T01:23+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "독일 내년 국방비 사상 최대 160조원…예산안 확정",
+   "link": "https://www.yna.co.kr/view/AKR20261128002300082",
+   "published": "2026-11-28T01:23+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "증시 ‘들었다 놨다’ 외국인 “하루 만에 1조 넘게 샀다”…코스피 4900선 회복",
@@ -83,11 +443,29 @@
    "category": "kr"
   },
   {
+   "title": "'방공레이더 지휘통제' 美공군 핵심 시스템까지 해킹에 뚫렸다",
+   "link": "https://www.yna.co.kr/view/AKR20261128000600071",
+   "published": "2026-11-28T00:49+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "5% 뛴 SK하이닉스 담고 4.7% 오른 삼성전자 던졌다…초고수, 삼전닉스 정반대 매매[주식 초고수는 지금]",
    "link": "https://www.mk.co.kr/news/stock/12220218",
    "published": "2026-11-28T00:42+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'AI 시대' 미래준비 최고 도시는 샌프란시스코…서울 8위로 상승",
+   "link": "https://www.yna.co.kr/view/AKR20261127169800371",
+   "published": "2026-11-28T00:26+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -2189,20 +2567,20 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T00:26+09:00",
+ "updated_at": "2026-11-28T07:13+09:00",
  "last_run": {
   "added": {
-   "fed_press": 3,
-   "fed_speech": 1,
-   "yna_economy": 40,
-   "yna_market": 24,
-   "yna_world": 35,
-   "hk_finance": 40,
-   "hk_economy": 40,
-   "mk_stock": 40,
-   "cnbc_economy": 8,
-   "cnbc_finance": 10,
-   "bok": 2
+   "fed_press": 0,
+   "fed_speech": 0,
+   "yna_economy": 7,
+   "yna_market": 2,
+   "yna_world": 27,
+   "hk_finance": 0,
+   "hk_economy": 3,
+   "mk_stock": 3,
+   "cnbc_economy": 0,
+   "cnbc_finance": 0,
+   "bok": 0
   },
   "errors": {
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
