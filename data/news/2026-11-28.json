@@ -47,6 +47,24 @@
    "category": "kr"
   },
   {
+   "title": "'안전자산' 금의 배신…금리 인상 공포에 고점 대비 33% 급락",
+   "link": "https://www.hankyung.com/article/202611262188i",
+   "published": "2026-11-28T13:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "루카셴코, 푸틴에 이례적 반론…\"그 논리면 러시아는 몽골땅?\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128029100009",
+   "published": "2026-11-28T12:29+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "GS, 동해 AI 데이터센터 첫삽…허태수 \"AI산업 미래 명소될 것\"",
    "link": "https://www.yna.co.kr/view/AKR20261127140100003",
    "published": "2026-11-28T12:05+09:00",
@@ -63,6 +81,15 @@
    "source_id": "yna_world",
    "tier": "press",
    "category": "world"
+  },
+  {
+   "title": "코스피 5000선 뚫을까…증안펀드·젠슨 황에 쏠린 눈[다음주 주요변수 미리보기]",
+   "link": "https://www.hankyung.com/article/202611275312i",
+   "published": "2026-11-28T12:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "日방위성, 새 조직 만들어 AI 활용 확대…데이터 일원화해 관리",
@@ -3071,16 +3098,16 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T12:23+09:00",
+ "updated_at": "2026-11-28T13:28+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 3,
+   "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 4,
-   "hk_finance": 0,
-   "hk_economy": 2,
+   "yna_world": 1,
+   "hk_finance": 1,
+   "hk_economy": 1,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
