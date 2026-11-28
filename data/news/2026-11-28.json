@@ -2,6 +2,15 @@
  "date": "2026-11-28",
  "items": [
   {
+   "title": "“스미마셍, 엔화가 없는데요”…일본 라멘집서 원화코인 쓸 날 올까",
+   "link": "https://www.mk.co.kr/news/economy/12220665",
+   "published": "2026-11-28T19:31+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "주가 급락에 자사주 매입 속도 내는 SK하이닉스…하루 매수 주문 70만주로",
    "link": "https://www.mk.co.kr/news/business/12220647",
    "published": "2026-11-28T18:33+09:00",
@@ -38,6 +47,87 @@
    "category": "kr"
   },
   {
+   "title": "절망에 빠진 이들 노린 캐나다 '독극물 판매상'…25년 구형",
+   "link": "https://www.yna.co.kr/view/AKR20261128024900009",
+   "published": "2026-11-28T10:48+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "'라이칭더 중간평가' 대만 지방선거 시작…격전지 타이베이 주목",
+   "link": "https://www.yna.co.kr/view/AKR20261128025000083",
+   "published": "2026-11-28T10:40+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[마이더스] 연말정산, 환급 아닌 점검의 시간",
+   "link": "https://www.yna.co.kr/view/AKR20261127066700980",
+   "published": "2026-11-28T10:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+   "link": "https://www.yna.co.kr/view/AKR20261128024500011",
+   "published": "2026-11-28T10:30+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[마켓노트] 강세장은 비관 속에서 태어난다",
+   "link": "https://www.yna.co.kr/view/AKR20261127065700980",
+   "published": "2026-11-28T10:30+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "학교서 AI 써도 될까…구글·美교육당국, AI 기능 두고 갈등",
+   "link": "https://www.yna.co.kr/view/AKR20261128023900075",
+   "published": "2026-11-28T10:21+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "파키스탄·튀르키예, 후티 반군 공격 맞서 사우디 지원 강화",
+   "link": "https://www.yna.co.kr/view/AKR20261128023600104",
+   "published": "2026-11-28T10:07+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "전남광주시, 제2순환도로 재정지원금 290억원 환수 추진",
+   "link": "https://www.yna.co.kr/view/AKR20261127148900054",
+   "published": "2026-11-28T10:04+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "MLB 디트로이트, 김하성과 1년 계약 공식 발표(종합)",
+   "link": "https://www.yna.co.kr/view/AKR20261128020751007",
+   "published": "2026-11-28T10:00+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "우간다서 mRNA 에볼라 백신 임상 착수…아프리카 최초",
    "link": "https://www.yna.co.kr/view/AKR20261128021400009",
    "published": "2026-11-28T09:41+09:00",
@@ -52,6 +142,33 @@
    "published": "2026-11-28T09:39+09:00",
    "source": "연합뉴스 마켓+",
    "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"코딩은 클로드, 일상 업무는 딥시크\"…美 기업들의 반전 [차이나 워치]",
+   "link": "https://www.hankyung.com/article/202611263467i",
+   "published": "2026-11-28T09:34+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "삼성·SK 성과급 잔치할 때 中·日 칼 갈았다…HBM 턱밑 추격 [강경주의 테크X]",
+   "link": "https://www.hankyung.com/article/2026112750696",
+   "published": "2026-11-28T09:30+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "이자 2000만원 넘으면 세금 폭탄? 오해인 경우 많다",
+   "link": "https://www.hankyung.com/article/202611285862i",
+   "published": "2026-11-28T09:30+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -2873,22 +2990,22 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T09:54+09:00",
+ "updated_at": "2026-11-28T11:12+09:00",
  "last_run": {
   "added": {
-   "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
-   "yna_market": 5,
-   "yna_world": 4,
-   "hk_finance": 1,
-   "hk_economy": 2,
+   "yna_economy": 3,
+   "yna_market": 1,
+   "yna_world": 5,
+   "hk_finance": 0,
+   "hk_economy": 3,
    "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
+   "fed_press": "HTTPError: HTTP Error 404: Not Found",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
