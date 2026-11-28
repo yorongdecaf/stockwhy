@@ -2,6 +2,15 @@
  "date": "2026-11-28",
  "items": [
   {
+   "title": "“참으면서 진행했는데 갑자기”…생방 중 눈물 쏟은 주식전문가, 왜?",
+   "link": "https://www.mk.co.kr/news/stock/12220717",
+   "published": "2026-11-29T01:21+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“스미마셍, 엔화가 없는데요”…일본 라멘집서 원화코인 쓸 날 올까",
    "link": "https://www.mk.co.kr/news/economy/12220665",
    "published": "2026-11-28T19:31+09:00",
@@ -20,6 +29,15 @@
    "category": "kr"
   },
   {
+   "title": "北북창 공군기지 노후 전투기 포착…3년만에 운영재개 정황",
+   "link": "https://www.yna.co.kr/view/AKR20261128038600009",
+   "published": "2026-11-28T16:16+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "한국서 5% 뛴 SK하이닉스, 미국선 7%대 급등…나스닥도 2.31%↑",
    "link": "https://www.mk.co.kr/news/stock/12220603",
    "published": "2026-11-28T15:58+09:00",
@@ -27,6 +45,15 @@
    "source_id": "mk_stock",
    "tier": "press",
    "category": "kr"
+  },
+  {
+   "title": "\"英기지에 美전투기 노린 드론 출몰…이란 연루 의심\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128037100009",
+   "published": "2026-11-28T15:33+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
   },
   {
    "title": "주식시장 새내기인데 첫날 몸값이 6.6조원…개미가 만나는 美 기업 달라졌다",
@@ -72,6 +99,33 @@
    "source_id": "cnbc_economy",
    "tier": "press",
    "category": "us"
+  },
+  {
+   "title": "연기금이 727억 사들였다…AI 냉각·로봇으로 날아오른 이곳",
+   "link": "https://www.hankyung.com/article/202611274928i",
+   "published": "2026-11-28T15:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "앤트로픽 공모가마저 깨졌는데…국내 운용사들은 '베팅' [이수의 ETF줌인]",
+   "link": "https://www.hankyung.com/article/2026112752156",
+   "published": "2026-11-28T15:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"은퇴 후 어디서 살까\"…세계 실버타운에서 찾는 노후의 답",
+   "link": "https://www.hankyung.com/article/202611262546i",
+   "published": "2026-11-28T15:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
   },
   {
    "title": "비만약에 세금 2800억 쓰려다 '제동'…도마 위에 오른 지자체 [이슈+]",
@@ -3161,7 +3215,7 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T15:30+09:00",
+ "updated_at": "2026-11-28T17:10+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
@@ -3169,10 +3223,10 @@
    "yna_economy": 0,
    "yna_market": 0,
    "yna_world": 2,
-   "hk_finance": 1,
-   "hk_economy": 0,
-   "mk_stock": 0,
-   "cnbc_economy": 1,
+   "hk_finance": 2,
+   "hk_economy": 1,
+   "mk_stock": 1,
+   "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
