@@ -47,6 +47,15 @@
    "category": "kr"
   },
   {
+   "title": "추수감사절 기적…뉴욕 강풍탓 발묶인 거리악단에 5억원 성금",
+   "link": "https://www.yna.co.kr/view/AKR20261128051700009",
+   "published": "2026-11-28T21:08+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
    "title": "대만 지방선거 개표 중반 박빙…野국민당, 민진당에 근소 우세",
    "link": "https://www.yna.co.kr/view/AKR20261128050900083",
    "published": "2026-11-28T20:37+09:00",
@@ -3386,15 +3395,15 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T21:13+09:00",
+ "updated_at": "2026-11-28T22:32+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 2,
-   "hk_finance": 1,
+   "yna_world": 1,
+   "hk_finance": 0,
    "hk_economy": 0,
    "mk_stock": 0,
    "cnbc_economy": 0,
