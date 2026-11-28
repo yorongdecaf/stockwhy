@@ -2,6 +2,15 @@
  "date": "2026-11-28",
  "items": [
   {
+   "title": "주가 급락에 자사주 매입 속도 내는 SK하이닉스…하루 매수 주문 70만주로",
+   "link": "https://www.mk.co.kr/news/business/12220647",
+   "published": "2026-11-28T18:33+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "한국서 5% 뛴 SK하이닉스, 미국선 7%대 급등…나스닥도 2.31%↑",
    "link": "https://www.mk.co.kr/news/stock/12220603",
    "published": "2026-11-28T15:58+09:00",
@@ -25,6 +34,123 @@
    "published": "2026-11-28T15:19+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "우간다서 mRNA 에볼라 백신 임상 착수…아프리카 최초",
+   "link": "https://www.yna.co.kr/view/AKR20261128021400009",
+   "published": "2026-11-28T09:41+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "美 10년물 국채금리 8거래일 연속 하락 뒤 반등",
+   "link": "https://www.yna.co.kr/view/AKR20261128022400009",
+   "published": "2026-11-28T09:39+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'팔레스타인 인간방패' 공영방송 폭로에 이스라엘 '발칵'",
+   "link": "https://www.yna.co.kr/view/AKR20261128021200009",
+   "published": "2026-11-28T09:29+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "MLB 디트로이트, 김하성과 1년 계약 공식 발표",
+   "link": "https://www.yna.co.kr/view/AKR20261128020700007",
+   "published": "2026-11-28T09:25+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"미국, 베네수엘라·이라크에 OPEC 탈퇴 압박\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128020300009",
+   "published": "2026-11-28T09:19+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"AI가 다 빨아들인다\"…데이터센터 탓 美방산업까지 생산차질",
+   "link": "https://www.yna.co.kr/view/AKR20261128020200009",
+   "published": "2026-11-28T09:09+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "세계의 날씨(11월28일)",
+   "link": "https://www.yna.co.kr/view/AKR20261128019900009",
+   "published": "2026-11-28T09:03+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "농협 하나로마트서 제주산 노지감귤 소비촉진 할인행사",
+   "link": "https://www.yna.co.kr/view/AKR20261127118000056",
+   "published": "2026-11-28T09:00+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "[IPO챗] 연말 IPO 한파 속 내주 8개사 수요예측 예정",
+   "link": "https://www.yna.co.kr/view/AKR20261127122000008",
+   "published": "2026-11-28T09:00+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "\"주식 더 담고 현금 줄여라\"… 자산배분 키워드는 '한국·미국·인프라'[2027년 대전망]",
+   "link": "https://www.hankyung.com/article/202611273951i",
+   "published": "2026-11-28T09:00+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "거래소 지분 '34% 예외'는 누가?...업비트·빗썸 셈법 복잡[디지털자산법 대해부③]",
+   "link": "https://www.hankyung.com/article/202611274076i",
+   "published": "2026-11-28T09:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "'SF 영화 같네'…공장 대신 놀이공원으로 간 로봇들",
+   "link": "https://www.hankyung.com/article/202610103510i",
+   "published": "2026-11-28T09:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "S&P, 프랑스 신용등급전망 '부정적'…재정적자·정치혼란 경고",
+   "link": "https://www.yna.co.kr/view/AKR20261128019300009",
+   "published": "2026-11-28T08:59+09:00",
+   "source": "연합뉴스 마켓+",
+   "source_id": "yna_market",
    "tier": "press",
    "category": "kr"
   },
@@ -2747,17 +2873,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T08:48+09:00",
+ "updated_at": "2026-11-28T09:54+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 2,
-   "yna_market": 2,
-   "yna_world": 3,
-   "hk_finance": 2,
-   "hk_economy": 0,
-   "mk_stock": 0,
+   "yna_economy": 1,
+   "yna_market": 5,
+   "yna_world": 4,
+   "hk_finance": 1,
+   "hk_economy": 2,
+   "mk_stock": 1,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
