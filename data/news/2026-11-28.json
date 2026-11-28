@@ -47,6 +47,33 @@
    "category": "kr"
   },
   {
+   "title": "비만약에 세금 2800억 쓰려다 '제동'…도마 위에 오른 지자체 [이슈+]",
+   "link": "https://www.hankyung.com/article/202611274184H",
+   "published": "2026-11-28T14:18+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "日자민당 \"고령자 기준 '65세→70·75세' 상향 검토\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128033500073",
+   "published": "2026-11-28T14:17+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "GS, '메가프로젝트' 동해 AI 데이터센터 착공…15조원 투자",
+   "link": "https://www.hankyung.com/article/202611285956i",
+   "published": "2026-11-28T13:34+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "'안전자산' 금의 배신…금리 인상 공포에 고점 대비 33% 급락",
    "link": "https://www.hankyung.com/article/202611262188i",
    "published": "2026-11-28T13:00+09:00",
@@ -3098,22 +3125,22 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T13:28+09:00",
+ "updated_at": "2026-11-28T14:29+09:00",
  "last_run": {
   "added": {
-   "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
    "yna_world": 1,
-   "hk_finance": 1,
-   "hk_economy": 1,
+   "hk_finance": 0,
+   "hk_economy": 2,
    "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
+   "fed_press": "HTTPError: HTTP Error 404: Not Found",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
