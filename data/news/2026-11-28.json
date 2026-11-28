@@ -2,6 +2,24 @@
  "date": "2026-11-28",
  "items": [
   {
+   "title": "중앙그룹 두 번째 대형 매각 시험대…SK호라이즌 거래 종결도 관심 [M&A복덕방]",
+   "link": "https://www.mk.co.kr/news/stock/12220763",
+   "published": "2026-11-29T04:58+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "“복리의 마법으로 손실 방어”…AI로 노후자금 굴리는 시대 [여의도란도란]",
+   "link": "https://www.mk.co.kr/news/stock/12220762",
+   "published": "2026-11-29T04:58+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "증시 급락 속 30% ‘껑충’…코스닥 2위 오른 레인보우로보틱스 [이주의 Bull기둥]",
    "link": "https://www.mk.co.kr/news/stock/12220750",
    "published": "2026-11-29T03:51+09:00",
@@ -3341,17 +3359,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T19:18+09:00",
+ "updated_at": "2026-11-28T20:15+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 1,
+   "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 3,
-   "hk_finance": 2,
+   "yna_world": 0,
+   "hk_finance": 0,
    "hk_economy": 0,
-   "mk_stock": 1,
+   "mk_stock": 2,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
