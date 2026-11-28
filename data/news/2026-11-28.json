@@ -47,6 +47,33 @@
    "category": "kr"
   },
   {
+   "title": "대만 지방선거 개표 중반 박빙…野국민당, 민진당에 근소 우세",
+   "link": "https://www.yna.co.kr/view/AKR20261128050900083",
+   "published": "2026-11-28T20:37+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "트럼프 \"강력한 이라크\" 지지…친이란 무장세력 우회 압박",
+   "link": "https://www.yna.co.kr/view/AKR20261128050600009",
+   "published": "2026-11-28T20:33+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "건물 다 지었는데 \"공사 멈춰라\" 명령…날벼락 맞은 구글",
+   "link": "https://www.hankyung.com/article/2026112862197",
+   "published": "2026-11-28T19:43+09:00",
+   "source": "한국경제 증권",
+   "source_id": "hk_finance",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“스미마셍, 엔화가 없는데요”…일본 라멘집서 원화코인 쓸 날 올까",
    "link": "https://www.mk.co.kr/news/economy/12220665",
    "published": "2026-11-28T19:31+09:00",
@@ -3359,17 +3386,17 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T20:15+09:00",
+ "updated_at": "2026-11-28T21:13+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 0,
-   "hk_finance": 0,
+   "yna_world": 2,
+   "hk_finance": 1,
    "hk_economy": 0,
-   "mk_stock": 2,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
