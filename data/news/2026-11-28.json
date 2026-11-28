@@ -47,6 +47,87 @@
    "category": "kr"
   },
   {
+   "title": "GS, 동해 AI 데이터센터 첫삽…허태수 \"AI산업 미래 명소될 것\"",
+   "link": "https://www.yna.co.kr/view/AKR20261127140100003",
+   "published": "2026-11-28T12:05+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "캐나다 대법원, 퀘벡주 공직자 히잡착용 금지법 효력 인정",
+   "link": "https://www.yna.co.kr/view/AKR20261128028000009",
+   "published": "2026-11-28T12:05+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "日방위성, 새 조직 만들어 AI 활용 확대…데이터 일원화해 관리",
+   "link": "https://www.yna.co.kr/view/AKR20261128029000073",
+   "published": "2026-11-28T11:49+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "인도, '하원의원 증원·여성할당제 조기 실시' 개헌안 재추진",
+   "link": "https://www.yna.co.kr/view/AKR20261128028100104",
+   "published": "2026-11-28T11:42+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "지난해 日 '정치자금 파티' 수입 다시 급증…전년보다 37% 증가",
+   "link": "https://www.yna.co.kr/view/AKR20261128026300073",
+   "published": "2026-11-28T11:19+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "[부고] 임문택(IBK연금보험 사장)씨 모친상",
+   "link": "https://www.yna.co.kr/view/AKR20261128027400002",
+   "published": "2026-11-28T11:17+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "춘천시 골목상권 살리기 총력…야시장에 7만9천명 발길",
+   "link": "https://www.yna.co.kr/view/AKR20261127141500062",
+   "published": "2026-11-28T11:10+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "이자 2000만원 넘으면 세금 폭탄? 오해인 경우 많다",
+   "link": "https://www.hankyung.com/article/202611285951i",
+   "published": "2026-11-28T11:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "수능 끝나자 3만명 넘게 '우르르'…수험생 푹 빠진 외식 메뉴 [권용훈의 트렌드워치]",
+   "link": "https://www.hankyung.com/article/202611275090i",
+   "published": "2026-11-28T11:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "절망에 빠진 이들 노린 캐나다 '독극물 판매상'…25년 구형",
    "link": "https://www.yna.co.kr/view/AKR20261128024900009",
    "published": "2026-11-28T10:48+09:00",
@@ -2990,22 +3071,22 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T11:12+09:00",
+ "updated_at": "2026-11-28T12:23+09:00",
  "last_run": {
   "added": {
+   "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 3,
-   "yna_market": 1,
-   "yna_world": 5,
+   "yna_market": 0,
+   "yna_world": 4,
    "hk_finance": 0,
-   "hk_economy": 3,
-   "mk_stock": 1,
+   "hk_economy": 2,
+   "mk_stock": 0,
    "cnbc_economy": 0,
    "cnbc_finance": 0,
    "bok": 0
   },
   "errors": {
-   "fed_press": "HTTPError: HTTP Error 404: Not Found",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
