@@ -2,6 +2,15 @@
  "date": "2026-11-28",
  "items": [
   {
+   "title": "“외국인만 224조원 판 코스피, 반토막인데 오르긴 할까요”…당국, 증안펀드 승부수",
+   "link": "https://www.mk.co.kr/news/stock/12220735",
+   "published": "2026-11-29T02:39+09:00",
+   "source": "매일경제 증권",
+   "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "“참으면서 진행했는데 갑자기”…생방 중 눈물 쏟은 주식전문가, 왜?",
    "link": "https://www.mk.co.kr/news/stock/12220717",
    "published": "2026-11-29T01:21+09:00",
@@ -25,6 +34,60 @@
    "published": "2026-11-28T18:33+09:00",
    "source": "매일경제 증권",
    "source_id": "mk_stock",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "상파울루 국제관계국장 \"기술, 고립 아닌 연결·성장 위한 도구\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128043800371",
+   "published": "2026-11-28T18:08+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "韓총리, 삼전·하이닉스에 \"채용 많이 해달라\"…청년간담회도",
+   "link": "https://www.yna.co.kr/view/AKR20261128043500001",
+   "published": "2026-11-28T17:37+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "분당 재건축 선도지구 8곳 \"재초환 조속 폐지\" 공동성명",
+   "link": "https://www.yna.co.kr/view/AKR20261128042900003",
+   "published": "2026-11-28T17:34+09:00",
+   "source": "연합뉴스 경제",
+   "source_id": "yna_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
+   "title": "우크라에 또 당할라…리비아 가던 러시아 軍수송선 급선회",
+   "link": "https://www.yna.co.kr/view/AKR20261128041900009",
+   "published": "2026-11-28T17:27+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "필리핀 부통령 \"탄핵 심판 동안 사임 안 해…유권자 배신행위\"",
+   "link": "https://www.yna.co.kr/view/AKR20261128041700104",
+   "published": "2026-11-28T17:16+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "\"요즘 중국 여행 뜬다는데\"…양양서 상하이 직항길 열린다",
+   "link": "https://www.hankyung.com/article/202611274274g",
+   "published": "2026-11-28T17:00+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
    "tier": "press",
    "category": "kr"
   },
@@ -3215,15 +3278,15 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T17:10+09:00",
+ "updated_at": "2026-11-28T18:17+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
-   "yna_economy": 0,
+   "yna_economy": 3,
    "yna_market": 0,
    "yna_world": 2,
-   "hk_finance": 2,
+   "hk_finance": 0,
    "hk_economy": 1,
    "mk_stock": 1,
    "cnbc_economy": 0,
