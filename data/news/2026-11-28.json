@@ -47,6 +47,33 @@
    "category": "kr"
   },
   {
+   "title": "\"우리가 승리\", \"과반 의석 가능\"…스페인 여야, 마지막 호소",
+   "link": "https://www.yna.co.kr/view/AKR20261128053600098",
+   "published": "2026-11-28T23:28+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "러시아 극동 캄차카반도서 규모 6.7 지진",
+   "link": "https://www.yna.co.kr/view/AKR20261128053300530",
+   "published": "2026-11-28T22:35+09:00",
+   "source": "연합뉴스 국제",
+   "source_id": "yna_world",
+   "tier": "press",
+   "category": "world"
+  },
+  {
+   "title": "개미 10명 중 7명 손실 봤는데…고개 드는 '코스피 바닥론'",
+   "link": "https://www.hankyung.com/article/2026112862667",
+   "published": "2026-11-28T21:51+09:00",
+   "source": "한국경제 경제",
+   "source_id": "hk_economy",
+   "tier": "press",
+   "category": "kr"
+  },
+  {
    "title": "추수감사절 기적…뉴욕 강풍탓 발묶인 거리악단에 5억원 성금",
    "link": "https://www.yna.co.kr/view/AKR20261128051700009",
    "published": "2026-11-28T21:08+09:00",
@@ -3395,22 +3422,22 @@
    "category": "us"
   }
  ],
- "updated_at": "2026-11-28T22:32+09:00",
+ "updated_at": "2026-11-28T23:39+09:00",
  "last_run": {
   "added": {
    "fed_press": 0,
    "fed_speech": 0,
    "yna_economy": 0,
    "yna_market": 0,
-   "yna_world": 1,
+   "yna_world": 2,
    "hk_finance": 0,
-   "hk_economy": 0,
+   "hk_economy": 1,
    "mk_stock": 0,
    "cnbc_economy": 0,
-   "cnbc_finance": 0,
-   "bok": 0
+   "cnbc_finance": 0
   },
   "errors": {
+   "bok": "TimeoutError: The read operation timed out",
    "dart": "DART_API_KEY 없음 (GitHub Secrets에 등록하면 수집)"
   }
  }
